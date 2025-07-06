@@ -1,0 +1,26 @@
+You're asking for a thorough rundown of all the elements that the Python script is designed to extract from your chat messages. I can certainly provide that.
+
+Based on the parsing logic in the "Python Script for Conversation Parsing and Weekly File Generation (Hardcoded File Path)" Canvas, the script identifies and extracts the following elements from each chat message:
+
+* **`message_id`**: A unique, sequentially generated identifier for each message (e.g., `msg_0001`).
+* **`conversation_id`**: The title of the conversation, extracted from the very first line of the log (e.g., "Meredith Lamb (+14169386001)").
+* **`sender`**: The name or identifier of the person who sent the message (e.g., "You", "Meredith Lamb (+14169386001)", "Scott Hicks (+14165572392)").
+* **`type`**: The category of the message, indicating its nature (e.g., "outgoing", "incoming", "title-transition-notification", "call-history", "deleted").
+* **`sent_timestamp`**: The precise date and time the message was sent, converted to ISO 8601 format for consistency (e.g., "2025-04-13T20:48:54-04:00").
+* **`content`**: The main text body of the message. For edited messages, this field holds the content of the *most recent* version.
+* **`is_edited`**: A boolean flag (`True` or `False`) indicating whether the message has multiple versions due to edits.
+* **`version_history`**: An array of objects for messages that have been edited. Each object within this array contains:
+    * `version_number`: The specific version number (e.g., 1, 2, 3).
+    * `version_timestamp`: The timestamp when that particular version was sent.
+    * `version_content`: The full text content of that specific version.
+* **`quoted_message`**: An object containing the raw text of any message that was quoted within the current message. This is a simplified extraction; it captures the content of lines starting with `>`.
+* **`reactions`**: An array of objects for any reactions applied to the message. Each object contains:
+    * `reactor`: The name of the person who reacted.
+    * `reaction_type`: The emoji or text representing the reaction (e.g., "❤️").
+* **`attachments`**: An array of objects for any files attached to the message. Each object contains:
+    * `file_name`: The name of the attached file.
+    * `mime_type`: The MIME type of the file (e.g., "image/png", "image/jpeg").
+    * `size_bytes`: The size of the file in bytes.
+* **`status`**: Indicates the current status of the message (e.g., "active" for regular messages, "deleted" for messages explicitly marked as such).
+
+The script processes these elements to create structured JSON objects and Markdown files, organizing them into a chronological weekly folder structure for easier RAG ingestion.
