@@ -1,0 +1,36 @@
+modules = ["python-3.11"]
+
+[nix]
+channel = "stable-24_05"
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Conversation Parser"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "conversation_parser_run"
+
+[[workflows.workflow]]
+name = "Conversation Parser"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python main.py \"attached_assets/Meredith Lamb (+14169386001)_1751821634456.txt\""
+
+[[workflows.workflow]]
+name = "conversation_parser_run"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python main.py \"attached_assets/Meredith Lamb (+14169386001)_1751821634456.txt\""
