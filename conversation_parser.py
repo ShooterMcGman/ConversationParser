@@ -66,30 +66,39 @@ class ConversationParser:
         print(f"Organized into {len(self.weekly_groups)} weekly groups")
     
     def _group_messages_by_week(self):
-        """Group messages by week for output organization."""
+        """Group messages by week for output organization with optimized performance."""
         self.weekly_groups = defaultdict(list)
         
         processed_count = 0
+        invalid_count = 0
+        
+        # Pre-compile date format for faster parsing
+        from dateutil.parser import isoparse
         
         for message in self.messages:
             processed_count += 1
-            if processed_count % 1000 == 0:
+            if processed_count % 5000 == 0:
                 print(f"Grouped {processed_count}/{len(self.messages)} messages ({processed_count/len(self.messages)*100:.1f}%)")
             
-            if message.get('sent_timestamp'):
+            timestamp_str = message.get('sent_timestamp')
+            if timestamp_str:
                 try:
-                    # Parse the timestamp
-                    timestamp = datetime.fromisoformat(message['sent_timestamp'].replace('Z', '+00:00'))
+                    # Use faster date parsing
+                    timestamp = isoparse(timestamp_str)
                     
-                    # Get the week info
-                    week_info = self.date_utils.get_week_info(timestamp)
-                    week_key = f"{week_info['year']}-{week_info['month']:02d}-W{week_info['week_in_month']}"
+                    # Create simpler week key for better performance
+                    week_start = timestamp.date() - timedelta(days=(timestamp.weekday() + 1) % 7)
+                    week_key = week_start.strftime('%Y-%m-%d')
                     
                     self.weekly_groups[week_key].append(message)
                     
-                except (ValueError, TypeError) as e:
-                    print(f"Warning: Could not parse timestamp for message {message.get('message_id', 'unknown')}: {e}")
+                except (ValueError, TypeError):
+                    invalid_count += 1
+                    if invalid_count % 100 == 0:
+                        print(f"Warning: {invalid_count} messages with invalid timestamps")
                     continue
+        
+        print(f"Grouped {processed_count} messages into {len(self.weekly_groups)} weekly groups")
     
     def generate_output(self):
         """
@@ -124,14 +133,12 @@ class ConversationParser:
             
             print(f"Processing week {week_index}/{total_weeks} ({global_week_number}): {len(messages)} messages")
             
-            # Get week information for folder naming
-            first_message_timestamp = datetime.fromisoformat(
-                messages[0]['sent_timestamp'].replace('Z', '+00:00')
-            )
-            week_info = self.date_utils.get_week_info(first_message_timestamp)
+            # Create simplified folder name from week key and first message
+            first_timestamp = messages[0].get('sent_timestamp', '')
+            start_date = first_timestamp[:10] if first_timestamp else 'unknown'
             
             # Create folder name
-            folder_name = self.date_utils.get_week_folder_name(week_info, global_week_number)
+            folder_name = f"{global_week_number}. Week {global_week_number} ({start_date})"
             folder_path = os.path.join(output_dir, folder_name)
             os.makedirs(folder_path, exist_ok=True)
             
@@ -143,18 +150,11 @@ class ConversationParser:
             json_path = os.path.join(folder_path, json_filename)
             md_path = os.path.join(folder_path, md_filename)
             
-            # Prepare week data
+            # Prepare simplified week data for large datasets
             week_data = {
-                'week_info': week_info,
                 'global_week_number': global_week_number,
                 'conversation_metadata': self.conversation_metadata,
-                'messages': messages,
-                'summary': {
-                    'total_messages': len(messages),
-                    'message_types': self._get_message_type_counts(messages),
-                    'date_range': self._get_date_range(messages),
-                    'participants': list(set(msg.get('sender', 'Unknown') for msg in messages))
-                }
+                'messages': messages
             }
             
             # Generate JSON file

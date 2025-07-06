@@ -22,37 +22,32 @@ class JSONFormatter:
             week_data (Dict[str, Any]): Week data containing messages and metadata
             output_path (str): Path where the JSON file should be written
         """
-        # Structure the data for optimal RAG consumption
+        # Create minimal week info from first message
+        messages = week_data['messages']
+        if not messages:
+            return
+            
+        first_msg = messages[0]
+        last_msg = messages[-1]
+        
+        # Simplified structure for large datasets
         json_structure = {
             'metadata': {
                 'format_version': '1.0',
                 'generated_at': datetime.now().isoformat(),
-                'week_info': week_data['week_info'],
                 'global_week_number': week_data['global_week_number'],
-                'conversation_metadata': week_data['conversation_metadata'],
-                'summary': week_data['summary']
+                'week_start': first_msg.get('sent_timestamp', '')[:10],  # Just date part
+                'week_end': last_msg.get('sent_timestamp', '')[:10],
+                'total_messages': len(messages),
+                'conversation_title': week_data['conversation_metadata'].get('conversation_title', '')
             },
-            'messages': self._format_messages_for_json(week_data['messages']),
-            'analytics': self._generate_analytics(week_data['messages']),
-            'rag_optimization': {
-                'chunking_strategy': 'weekly',
-                'indexable_fields': [
-                    'message_id', 'sender', 'type', 'sent_timestamp', 
-                    'content', 'attachments', 'reactions'
-                ],
-                'searchable_content': self._extract_searchable_content(week_data['messages']),
-                'temporal_context': {
-                    'week_start': week_data['week_info']['week_start'],
-                    'week_end': week_data['week_info']['week_end'],
-                    'day_of_year': week_data['week_info'].get('day_of_year'),
-                    'week_of_year': week_data['week_info'].get('week_of_year')
-                }
-            }
+            'messages': self._format_messages_for_json_optimized(messages),
+            'analytics': self._generate_analytics_optimized(messages)
         }
         
-        # Write JSON file with proper formatting
+        # Write JSON file with compact formatting for large files
         with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(json_structure, f, indent=2, ensure_ascii=False, sort_keys=False)
+            json.dump(json_structure, f, indent=1, ensure_ascii=False, separators=(',', ':'))
     
     def _format_messages_for_json(self, messages):
         """Format messages for JSON with enhanced metadata."""
@@ -250,3 +245,47 @@ class JSONFormatter:
                                               key=lambda x: x[1], reverse=True)[:20]
         
         return searchable_content
+    
+    def _format_messages_for_json_optimized(self, messages):
+        """Format messages for JSON with reduced memory usage."""
+        formatted_messages = []
+        
+        for i, message in enumerate(messages):
+            # Only include essential fields for large datasets
+            formatted_message = {
+                'id': message.get('message_id'),
+                'seq': i + 1,
+                'sender': message.get('sender'),
+                'type': message.get('type'),
+                'timestamp': message.get('sent_timestamp'),
+                'content': message.get('content', ''),
+                'attachments': len(message.get('attachments', [])),
+                'has_quote': bool(message.get('quoted_message'))
+            }
+            
+            formatted_messages.append(formatted_message)
+        
+        return formatted_messages
+    
+    def _generate_analytics_optimized(self, messages):
+        """Generate simplified analytics for large datasets."""
+        analytics = {
+            'total_messages': len(messages),
+            'by_sender': {},
+            'by_type': {},
+            'timespan': {
+                'start': messages[0].get('sent_timestamp', '') if messages else '',
+                'end': messages[-1].get('sent_timestamp', '') if messages else ''
+            }
+        }
+        
+        for message in messages:
+            # Count by sender
+            sender = message.get('sender', 'Unknown')
+            analytics['by_sender'][sender] = analytics['by_sender'].get(sender, 0) + 1
+            
+            # Count by type
+            msg_type = message.get('type', 'unknown')
+            analytics['by_type'][msg_type] = analytics['by_type'].get(msg_type, 0) + 1
+        
+        return analytics

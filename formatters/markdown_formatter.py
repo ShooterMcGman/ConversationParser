@@ -22,10 +22,27 @@ class MarkdownFormatter:
             week_data (Dict[str, Any]): Week data containing messages and metadata
             output_path (str): Path where the Markdown file should be written
         """
-        content = self._generate_markdown_content(week_data)
-        
+        # Generate content in chunks for large datasets
+        messages = week_data['messages']
+        if not messages:
+            return
+            
+        # Write header and metadata first
         with open(output_path, 'w', encoding='utf-8') as f:
-            f.write(content)
+            f.write(self._generate_header_optimized(week_data))
+            f.write('\n\n')
+            f.write(self._generate_metadata_optimized(week_data))
+            f.write('\n\n')
+            
+            # Write messages in chunks to reduce memory usage
+            f.write('## 💬 Conversation Messages\n\n')
+            
+            chunk_size = 100  # Process 100 messages at a time
+            for i in range(0, len(messages), chunk_size):
+                chunk = messages[i:i + chunk_size]
+                for j, message in enumerate(chunk, i + 1):
+                    f.write(self._format_message_optimized(message, j))
+                    f.write('\n\n---\n\n')
     
     def _generate_markdown_content(self, week_data: Dict[str, Any]) -> str:
         """Generate the complete Markdown content for a week."""
@@ -314,3 +331,68 @@ class MarkdownFormatter:
 - Generation Time: {datetime.now().isoformat()}"""
         
         return section
+    
+    def _generate_header_optimized(self, week_data: Dict[str, Any]) -> str:
+        """Generate optimized header for large datasets."""
+        messages = week_data['messages']
+        first_msg = messages[0] if messages else {}
+        last_msg = messages[-1] if messages else {}
+        
+        start_date = first_msg.get('sent_timestamp', '')[:10]
+        end_date = last_msg.get('sent_timestamp', '')[:10]
+        
+        header = f"""# Week {week_data['global_week_number']}: Conversation Messages
+
+**Date Range:** {start_date} to {end_date}  
+**Total Messages:** {len(messages)}  
+**Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+
+---"""
+        
+        return header
+    
+    def _generate_metadata_optimized(self, week_data: Dict[str, Any]) -> str:
+        """Generate simplified metadata for large datasets."""
+        messages = week_data['messages']
+        
+        # Count participants and message types
+        participants = set()
+        msg_types = {}
+        
+        for msg in messages:
+            participants.add(msg.get('sender', 'Unknown'))
+            msg_type = msg.get('type', 'unknown')
+            msg_types[msg_type] = msg_types.get(msg_type, 0) + 1
+        
+        section = f"""## 📊 Week Summary
+
+- **Week Number:** {week_data['global_week_number']}
+- **Messages:** {len(messages)}
+- **Participants:** {len(participants)}
+- **Message Types:** {', '.join(msg_types.keys())}"""
+        
+        return section
+    
+    def _format_message_optimized(self, message, sequence_num) -> str:
+        """Format message with minimal processing for large datasets."""
+        msg_id = message.get('message_id', f'msg_{sequence_num:04d}')
+        sender = message.get('sender', 'Unknown')
+        content = message.get('content', '')
+        timestamp = message.get('sent_timestamp', '')
+        
+        # Simplified format for faster processing
+        msg_md = f"### {sequence_num}. {msg_id}\n\n"
+        msg_md += f"**{self._escape_markdown(sender)}** - {timestamp[:19]}\n\n"
+        
+        if content:
+            # Limit content length for very large messages
+            if len(content) > 1000:
+                content = content[:1000] + "... [truncated]"
+            msg_md += f"{self._escape_markdown(content)}\n"
+        
+        # Add attachment count if present
+        attachments = message.get('attachments', [])
+        if attachments:
+            msg_md += f"\n*{len(attachments)} attachment(s)*\n"
+        
+        return msg_md
