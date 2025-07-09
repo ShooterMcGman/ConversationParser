@@ -84,6 +84,15 @@ python main.py <conversation_file_path>
 
 **Architecture Decision**: Simple CLI approach prioritizes ease of use and eliminates infrastructure complexity.
 
+## Recent Changes
+
+- **July 09, 2025**: Enhanced RAG optimization with daily files and improved metadata
+  - Added daily Markdown files within weekly folders (e.g., `Day_2025-04-13_Sunday.md`)
+  - Upgraded JSON format to v2.0 with semantic tags, content classification, and temporal patterns
+  - Implemented content indexing for better RAG retrieval (by sender, keywords, message types)
+  - Added conversation flow analysis and temporal communication patterns
+  - Enhanced processing capability to handle 31,613 messages from 4.9MB conversation files
+
 ## Changelog
 
 - July 06, 2025. Initial setup

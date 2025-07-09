@@ -44,6 +44,107 @@ class MarkdownFormatter:
                     f.write(self._format_message_optimized(message, j))
                     f.write('\n\n---\n\n')
     
+    def write_daily_markdown_file(self, daily_data: Dict[str, Any], output_path: str) -> None:
+        """
+        Write daily data to a Markdown file optimized for RAG consumption.
+        
+        Args:
+            daily_data (Dict[str, Any]): Daily data containing messages and metadata
+            output_path (str): Path where the daily Markdown file should be written
+        """
+        messages = daily_data['messages']
+        if not messages:
+            return
+            
+        with open(output_path, 'w', encoding='utf-8') as f:
+            # Daily header
+            f.write(f"# Daily Conversation: {daily_data['day_date']} ({daily_data['day_name']})\n\n")
+            
+            # Metadata section
+            f.write("## 📅 Daily Metadata\n\n")
+            f.write("| Field | Value |\n")
+            f.write("|-------|-------|\n")
+            f.write(f"| **Date** | {daily_data['day_date']} |\n")
+            f.write(f"| **Day** | {daily_data['day_name']} |\n")
+            f.write(f"| **Week** | {daily_data['global_week_number']} |\n")
+            f.write(f"| **Messages** | {len(messages)} |\n")
+            
+            # Quick stats
+            senders = set(msg.get('sender', 'Unknown') for msg in messages)
+            f.write(f"| **Participants** | {', '.join(senders)} |\n")
+            f.write(f"| **Time Range** | {messages[0].get('sent_timestamp', '')[:16]} - {messages[-1].get('sent_timestamp', '')[:16]} |\n\n")
+            
+            # Daily summary
+            f.write("## 📝 Daily Summary\n\n")
+            f.write(f"This day contains **{len(messages)} messages** exchanged ")
+            if len(senders) > 1:
+                f.write(f"between {' and '.join(senders)}. ")
+            f.write(f"The conversation spans from morning to evening with various topics covered.\n\n")
+            
+            # Content tags for RAG
+            content_text = ' '.join([msg.get('content', '') for msg in messages]).lower()
+            tags = self._generate_daily_tags(content_text)
+            if tags:
+                f.write("**Content Tags:** ")
+                f.write(", ".join([f"`{tag}`" for tag in tags]))
+                f.write("\n\n")
+            
+            # Messages section
+            f.write("## 💬 Messages\n\n")
+            
+            for i, message in enumerate(messages, 1):
+                f.write(self._format_daily_message(message, i))
+                f.write('\n\n')
+    
+    def _generate_daily_tags(self, content_text):
+        """Generate content tags for daily files."""
+        tags = []
+        
+        # Simple keyword-based tagging
+        tag_keywords = {
+            'morning': ['morning', 'breakfast', 'wake', 'coffee'],
+            'work': ['work', 'office', 'meeting', 'job'],
+            'evening': ['evening', 'dinner', 'night'],
+            'planning': ['plan', 'schedule', 'later', 'tomorrow'],
+            'emotional': ['love', 'miss', 'happy', 'excited'],
+            'travel': ['drive', 'trip', 'go', 'come'],
+            'food': ['eat', 'food', 'lunch', 'dinner']
+        }
+        
+        for tag, keywords in tag_keywords.items():
+            if any(keyword in content_text for keyword in keywords):
+                tags.append(tag)
+        
+        return tags
+    
+    def _format_daily_message(self, message, sequence_num):
+        """Format a message for daily files with enhanced metadata."""
+        timestamp = message.get('sent_timestamp', '')
+        time_only = timestamp[11:16] if len(timestamp) >= 16 else 'Unknown'
+        sender = message.get('sender', 'Unknown')
+        content = message.get('content', '')
+        
+        formatted = f"**{sequence_num:03d}.** `{time_only}` **{sender}**\n\n"
+        
+        if content:
+            # Format content with better readability
+            formatted_content = self._format_message_content(content)
+            formatted += f"{formatted_content}\n"
+        
+        # Add metadata if present
+        metadata_parts = []
+        if message.get('attachments'):
+            metadata_parts.append(f"📎 {len(message['attachments'])} attachment(s)")
+        if message.get('quoted_message'):
+            metadata_parts.append("💬 Reply")
+        if message.get('is_edited'):
+            metadata_parts.append("✏️ Edited")
+        
+        if metadata_parts:
+            formatted += f"\n*{' • '.join(metadata_parts)}*"
+        
+        return formatted
+    
     def _generate_markdown_content(self, week_data: Dict[str, Any]) -> str:
         """Generate the complete Markdown content for a week."""
         sections = []

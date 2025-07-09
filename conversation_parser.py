@@ -100,9 +100,27 @@ class ConversationParser:
         
         print(f"Grouped {processed_count} messages into {len(self.weekly_groups)} weekly groups")
     
+    def _group_messages_by_day(self, messages):
+        """Group messages by day within a week."""
+        daily_groups = defaultdict(list)
+        
+        from dateutil.parser import isoparse
+        
+        for message in messages:
+            timestamp_str = message.get('sent_timestamp')
+            if timestamp_str:
+                try:
+                    timestamp = isoparse(timestamp_str)
+                    day_key = timestamp.strftime('%Y-%m-%d')
+                    daily_groups[day_key].append(message)
+                except (ValueError, TypeError):
+                    continue
+        
+        return dict(daily_groups)
+    
     def generate_output(self):
         """
-        Generate JSON and Markdown files organized by week and create a zip archive.
+        Generate JSON and Markdown files organized by week with daily breakdowns and create a zip archive.
         
         Returns:
             str: Path to the generated zip file
@@ -142,6 +160,9 @@ class ConversationParser:
             folder_path = os.path.join(output_dir, folder_name)
             os.makedirs(folder_path, exist_ok=True)
             
+            # Group messages by day for daily files
+            daily_groups = self._group_messages_by_day(messages)
+            
             # Generate file names
             base_filename = folder_name
             json_filename = f"{base_filename}.json"
@@ -163,7 +184,24 @@ class ConversationParser:
             # Generate Markdown file
             self.markdown_formatter.write_markdown_file(week_data, md_path)
             
-            print(f"Generated week {global_week_number}: {folder_name}")
+            # Generate daily markdown files
+            for day_key, day_messages in daily_groups.items():
+                if day_messages:
+                    day_name = datetime.strptime(day_key, '%Y-%m-%d').strftime('%A')
+                    daily_filename = f"Day_{day_key}_{day_name}.md"
+                    daily_path = os.path.join(folder_path, daily_filename)
+                    
+                    daily_data = {
+                        'global_week_number': global_week_number,
+                        'day_date': day_key,
+                        'day_name': day_name,
+                        'conversation_metadata': self.conversation_metadata,
+                        'messages': day_messages
+                    }
+                    
+                    self.markdown_formatter.write_daily_markdown_file(daily_data, daily_path)
+            
+            print(f"Generated week {global_week_number}: {folder_name} with {len(daily_groups)} daily files")
             global_week_number += 1
         
         # Create zip file
