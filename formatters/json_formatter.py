@@ -451,3 +451,100 @@ class JSONFormatter:
             prev_sender = current_sender
         
         return flow
+    
+    def write_daily_json_file(self, daily_data: Dict[str, Any], output_path: str) -> None:
+        """
+        Write daily data to a JSON file optimized for RAG consumption.
+        
+        Args:
+            daily_data (Dict[str, Any]): Daily data containing messages and metadata
+            output_path (str): Path where the daily JSON file should be written
+        """
+        messages = daily_data['messages']
+        if not messages:
+            return
+            
+        # Enhanced daily structure for RAG optimization
+        json_structure = {
+            'metadata': {
+                'format_version': '2.0',
+                'generated_at': datetime.now().isoformat(),
+                'day_date': daily_data['day_date'],
+                'day_name': daily_data['day_name'],
+                'global_week_number': daily_data['global_week_number'],
+                'total_messages': len(messages),
+                'conversation_title': daily_data['conversation_metadata'].get('conversation_title', ''),
+                'rag_optimization': {
+                    'content_types': self._analyze_content_types(messages),
+                    'semantic_tags': self._generate_semantic_tags(messages),
+                    'temporal_patterns': self._analyze_daily_temporal_patterns(messages)
+                }
+            },
+            'messages': self._format_messages_for_json_optimized(messages),
+            'analytics': self._generate_analytics_optimized(messages),
+            'content_index': self._create_content_index(messages),
+            'daily_summary': self._generate_daily_summary(messages)
+        }
+        
+        # Write JSON file with compact formatting
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(json_structure, f, indent=1, ensure_ascii=False, separators=(',', ':'))
+    
+    def _analyze_daily_temporal_patterns(self, messages):
+        """Analyze temporal patterns within a single day."""
+        patterns = {
+            'hourly_distribution': {},
+            'conversation_peaks': [],
+            'gaps_between_messages': []
+        }
+        
+        prev_timestamp = None
+        
+        for message in messages:
+            timestamp_str = message.get('sent_timestamp')
+            if timestamp_str:
+                try:
+                    timestamp = datetime.fromisoformat(timestamp_str.replace('Z', '+00:00'))
+                    hour = timestamp.hour
+                    
+                    patterns['hourly_distribution'][hour] = patterns['hourly_distribution'].get(hour, 0) + 1
+                    
+                    if prev_timestamp:
+                        gap_minutes = (timestamp - prev_timestamp).total_seconds() / 60
+                        patterns['gaps_between_messages'].append(gap_minutes)
+                    
+                    prev_timestamp = timestamp
+                except (ValueError, TypeError):
+                    continue
+        
+        # Find conversation peaks (hours with most activity)
+        if patterns['hourly_distribution']:
+            sorted_hours = sorted(patterns['hourly_distribution'].items(), key=lambda x: x[1], reverse=True)
+            patterns['conversation_peaks'] = sorted_hours[:3]
+        
+        return patterns
+    
+    def _generate_daily_summary(self, messages):
+        """Generate a summary of daily conversation."""
+        summary = {
+            'message_count': len(messages),
+            'participants': list(set(msg.get('sender', 'Unknown') for msg in messages)),
+            'first_message_time': messages[0].get('sent_timestamp', '')[:16] if messages else '',
+            'last_message_time': messages[-1].get('sent_timestamp', '')[:16] if messages else '',
+            'content_highlights': []
+        }
+        
+        # Simple content highlighting (longest messages)
+        content_messages = [msg for msg in messages if msg.get('content')]
+        if content_messages:
+            content_messages.sort(key=lambda x: len(x.get('content', '')), reverse=True)
+            summary['content_highlights'] = [
+                {
+                    'sender': msg.get('sender'),
+                    'preview': msg.get('content', '')[:100] + '...' if len(msg.get('content', '')) > 100 else msg.get('content', ''),
+                    'length': len(msg.get('content', ''))
+                }
+                for msg in content_messages[:3]
+            ]
+        
+        return summary
