@@ -1,0 +1,36701 @@
+# Week 9: Conversation Messages
+
+**Date Range:** 2025-06-08 to 2025-06-14  
+**Total Messages:** 3933  
+**Generated:** 2025-07-18 21:27:07
+
+---
+
+## 📊 Week Summary
+
+- **Week Number:** 9
+- **Messages:** 3933
+- **Participants:** 2
+- **Message Types:** outgoing, incoming, call-history
+
+## 💬 Conversation Messages
+
+### 1. msg_19273
+
+**You** - 2025-06-08T00:00:03
+
+There is a game called "I Never"  we will never play that game together or with others\.\. or at least I won't and I won't watch you\.
+
+
+---
+
+### 2. msg_19274
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:00:29
+
+Why?
+
+
+---
+
+### 3. msg_19275
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:00:38
+
+Maybe it is online
+
+
+---
+
+### 4. msg_19276
+
+**You** - 2025-06-08T00:00:45
+
+the game is a drinking game
+
+
+---
+
+### 5. msg_19277
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:00:51
+
+I feel like that is a Corrie Morton game
+
+
+---
+
+### 6. msg_19278
+
+**You** - 2025-06-08T00:00:52
+
+it is
+
+
+---
+
+### 7. msg_19279
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:00:58
+
+lol
+
+
+---
+
+### 8. msg_19280
+
+**You** - 2025-06-08T00:01:05
+
+I never had sex at work \- take a drink\.
+
+
+---
+
+### 9. msg_19281
+
+**You** - 2025-06-08T00:01:11
+
+stuff like that
+
+
+---
+
+### 10. msg_19282
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:01:14
+
+We could play it
+
+
+---
+
+### 11. msg_19283
+
+**You** - 2025-06-08T00:01:14
+
+no
+
+
+---
+
+### 12. msg_19284
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:01:21
+
+Why
+
+
+---
+
+### 13. msg_19285
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:01:31
+
+I never have had sex at work
+
+
+---
+
+### 14. msg_19286
+
+**You** - 2025-06-08T00:01:31
+
+because too much detail\.\. and it could get kinda sketchy
+
+
+---
+
+### 15. msg_19287
+
+**You** - 2025-06-08T00:01:33
+
+I have
+
+
+---
+
+### 16. msg_19288
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:01:45
+
+I have not
+
+
+---
+
+### 17. msg_19289
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:01:51
+
+See?
+
+
+---
+
+### 18. msg_19290
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:01:53
+
+We good
+
+
+---
+
+### 19. msg_19291
+
+**You** - 2025-06-08T00:01:50
+
+so I would drink in that case
+
+
+---
+
+### 20. msg_19292
+
+**You** - 2025-06-08T00:02:15
+
+kk you don't have the same imagination I have\.\. It could go to some fucked up places and I know you don't care about my answers
+
+
+---
+
+### 21. msg_19293
+
+**You** - 2025-06-08T00:02:28
+
+but I might have a hard time with yours\.\. maybe someday I won't mer\.\. god I hope so\.
+
+
+---
+
+### 22. msg_19294
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:02:31
+
+I do care
+
+
+---
+
+### 23. msg_19295
+
+**You** - 2025-06-08T00:02:29
+
+lol
+
+
+---
+
+### 24. msg_19296
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:02:35
+
+I like to learn
+
+
+---
+
+### 25. msg_19297
+
+**You** - 2025-06-08T00:03:15
+
+if this is what you meant by open\.\. I am really going to have to try hard\.\. and maybe do some serious drugs
+
+
+---
+
+### 26. msg_19298
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:03:29
+
+In the App Store there are a lot of never have I ever games
+
+
+---
+
+### 27. msg_19299
+
+**You** - 2025-06-08T00:03:52
+
+ok\.\. I have a game
+
+
+---
+
+### 28. msg_19300
+
+**You** - 2025-06-08T00:04:05
+
+you can ask me whatever questions you want\.\. and I will tell you the truth
+
+
+---
+
+### 29. msg_19301
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:04:12
+
+>
+I mean kind of…\. Like, you do not need to feel threatened\. I choose you\. 100%
+
+
+---
+
+### 30. msg_19302
+
+**You** - 2025-06-08T00:04:11
+
+that's the game
+
+
+---
+
+### 31. msg_19303
+
+**You** - 2025-06-08T00:04:15
+
+lol
+
+
+---
+
+### 32. msg_19304
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:04:41
+
+I think we play a real game instead
+
+
+---
+
+### 33. msg_19305
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:04:59
+
+I won’t be able to think up as good of questions
+
+
+---
+
+### 34. msg_19306
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:05:03
+
+As an app
+
+
+---
+
+### 35. msg_19307
+
+**You** - 2025-06-08T00:05:14
+
+I am a little aftaid now I have to download it
+
+
+---
+
+### 36. msg_19308
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:05:44
+
+>
+It isn’t 100% obviously\. I don’t just want to live my life talking about the past\. I want to experience new things with you
+
+
+---
+
+### 37. msg_19309
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:06:12
+
+My last 16 years has been…\. Meh… but I do have 3 great kids\. :\.o
+
+
+---
+
+### 38. msg_19310
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:09:21
+
+I don’t want to put pressure on the whole “open” thing\. I think you put too much pressure on that and thought into it honestly
+
+
+---
+
+### 39. msg_19311
+
+**You** - 2025-06-08T00:09:40
+
+no the forward looking stuff is the easy part
+
+
+---
+
+### 40. msg_19312
+
+**You** - 2025-06-08T00:09:48
+
+I have zero problem there
+
+
+---
+
+### 41. msg_19313
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:11:50
+
+So we are good
+
+
+---
+
+### 42. msg_19314
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:11:51
+
+lol
+
+
+---
+
+### 43. msg_19315
+
+**You** - 2025-06-08T00:12:37
+
+Sexy Never Have I Ever questions
+Never have I ever used food during sex
+Never have I ever faked an orgasm
+Never have I ever been skinny dipping
+Never have I ever had sex with someone in public
+Never have I ever had sex with someone in a car
+Never have I ever kissed someone in public
+Never have I ever kissed more than 1 person in 24 hours
+Never have I ever sent a dirty text
+Never have I ever sent a dirty text to the wrong person
+Never have I ever watched porn
+Never have I ever gone down on someone in a cinema
+Never have I ever flashed someone
+Never have I ever given a lap dance
+Never have I ever received a lap dance
+Never have I ever slept with a co\-worker
+Never have I ever been nude in public
+Never have I ever had a threesome
+Never have I ever had a friends\-with\-benefits arrangement
+Never have I ever done a sexy roleplay
+Never have I ever worn someone else’s underwear
+Never have I ever sent a stranger a drink
+Never have I ever been to a strip club
+Never have I ever gone commando
+Never \.\.\. \[truncated\]
+
+
+---
+
+### 44. msg_19316
+
+**You** - 2025-06-08T00:13:24
+
+Be careful with these Never Have I Ever questions
+Never have I ever cheated on someone
+Never have I ever slept with a friend’s ex
+Never have I ever been the alibi for a lying friend
+Never have I ever told someone I love them without meaning it
+Never have I ever convinced a friend to dump someone
+Never have I ever seen someone die
+Never have I ever regretted getting married
+Never have I ever wished I didn’t have kids
+Never have I ever run for my life
+
+
+---
+
+### 45. msg_19317
+
+**You** - 2025-06-08T00:13:51
+
+1\. Never have I ever skinny\-dipped\.
+2\. Never have I ever had a one\-night stand\.
+3\. Never have I ever sexted someone\.
+4\. Never have I ever sent a nude\.
+5\. Never have I ever sent a sexy text or sexy pic to the wrong person\.
+6\. Never have I ever kissed someone of the same gender\.
+7\. Never have I ever role\-played in the bedroom\.
+8\. Never have I ever used a sex toy\.
+9\. Never have I ever had a threesome\.
+10\. Never have I ever had a sex dream about someone I shouldn't have\.
+11\. Never have I ever had sex in the car\.
+12\. Never have I ever had a friend with benefits\.
+13\. Never have I ever been walked in on during sex\.
+14\. Never have I ever had sex in public\.
+15\. Never have I ever faked an orgasm\.
+16\. Never have I ever had or given a lap dance\.
+17\. Never have I ever slept with someone on the first date\.
+18\. Never have I ever used handcuffs in the bedroom\.
+19\. Never have I ever gotten hot with someone in a hot tub\.
+20\. Never have I ever been to a lingerie/naked party\.
+21\. Never have I ever hooked \.\.\. \[truncated\]
+
+
+---
+
+### 46. msg_19318
+
+**You** - 2025-06-08T00:14:07
+
+see now these questions\.\. not super safe
+
+
+---
+
+### 47. msg_19319
+
+**You** - 2025-06-08T00:14:15
+
+for me
+
+
+---
+
+### 48. msg_19320
+
+**You** - 2025-06-08T00:14:27
+
+not you I am sure you are fine answering all of these and hearing my answers
+
+
+---
+
+### 49. msg_19321
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:14:42
+
+lol
+
+
+---
+
+### 50. msg_19322
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:14:47
+
+That’s a lot
+
+
+---
+
+### 51. msg_19323
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:15:15
+
+I mean they are yes or no questions so simple
+
+
+---
+
+### 52. msg_19324
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:15:21
+
+The thing I find funny\.
+
+
+---
+
+### 53. msg_19325
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:15:52
+
+Andrew and I have owned a cottage for 10 years and never skinny dipped\. Relationship just gah, meh, blah\.
+
+
+---
+
+### 54. msg_19326
+
+**You** - 2025-06-08T00:15:50
+
+hmmm
+
+
+---
+
+### 55. msg_19327
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:16:21
+
+Zero emotional connection but he never saw that
+
+
+---
+
+### 56. msg_19328
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:16:35
+
+Ah well\.
+
+
+---
+
+### 57. msg_19329
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:16:37
+
+lol
+
+
+---
+
+### 58. msg_19330
+
+**You** - 2025-06-08T00:16:43
+
+well I would and have
+
+
+---
+
+### 59. msg_19331
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:16:58
+
+Same I grew up in the country
+
+
+---
+
+### 60. msg_19332
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:17:06
+
+lol
+
+
+---
+
+### 61. msg_19333
+
+**You** - 2025-06-08T00:17:45
+
+I answered the first set\.\. do you want to know or not\.
+
+
+---
+
+### 62. msg_19334
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:17:57
+
+Why are these not “super safe” for you?
+
+
+---
+
+### 63. msg_19335
+
+**You** - 2025-06-08T00:17:58
+
+it will be easier this way\.\. this way you get to know and I don't have to\.
+
+
+---
+
+### 64. msg_19336
+
+**You** - 2025-06-08T00:17:59
+
+lol
+
+
+---
+
+### 65. msg_19337
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:18:16
+
+Wait where did you answer them?
+
+
+---
+
+### 66. msg_19338
+
+**You** - 2025-06-08T00:18:23
+
+In word I just have to copy it in
+
+
+---
+
+### 67. msg_19339
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:18:33
+
+Ok
+
+
+---
+
+### 68. msg_19340
+
+**You** - 2025-06-08T00:18:37
+
+you want me to
+
+
+---
+
+### 69. msg_19341
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:18:47
+
+Sure
+
+
+---
+
+### 70. msg_19342
+
+**You** - 2025-06-08T00:18:50
+
+Never have I ever used food during sex \- NO
+Never have I ever faked an orgasm \- YES
+Never have I ever been skinny dipping \- YES
+Never have I ever had sex with someone in public \- YES
+Never have I ever had sex with someone in a car \- YES
+Never have I ever kissed someone in public \- YES
+Never have I ever kissed more than 1 person in 24 hours \- YES
+Never have I ever sent a dirty text \- NO
+Never have I ever sent a dirty text to the wrong person \- NO
+Never have I ever watched porn \- YES
+Never have I ever gone down on someone in a cinema \- NO
+Never have I ever flashed someone \- YES
+Never have I ever given a lap dance \- YES
+Never have I ever received a lap dance \- YES
+Never have I ever slept with a co\-worker \- YES
+Never have I ever been nude in public \- NO
+Never have I ever had a threesome \- ?
+Never have I ever had a friends\-with\-benefits arrangement \- YES
+Never have I ever done a sexy roleplay \-YESish
+Never have I ever worn someone else’s underwear \- NO
+Never have I ever sent a stranger a dr\.\.\. \[truncated\]
+
+
+---
+
+### 71. msg_19343
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:19:01
+
+I’m going upstairs bc my wine is done :\(
+
+
+---
+
+### 72. msg_19344
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:19:22
+
+Actually I have some left of another bottle hrrrm
+
+
+---
+
+### 73. msg_19345
+
+**You** - 2025-06-08T00:20:05
+
+do it
+
+
+---
+
+### 74. msg_19346
+
+**You** - 2025-06-08T00:20:09
+
+I will stay up with you
+
+
+---
+
+### 75. msg_19347
+
+**You** - 2025-06-08T00:20:22
+
+and answer the next set now
+
+
+---
+
+### 76. msg_19348
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:21:12
+
+K wait need to read
+
+
+---
+
+### 77. msg_19349
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:21:23
+
+I go in kitchen and Mac is eating fruit at table
+
+
+---
+
+### 78. msg_19350
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:21:42
+
+Me: I thought you were going to amalie’s tonight?
+
+
+---
+
+### 79. msg_19351
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:21:53
+
+Her: I did, I just got back
+
+
+---
+
+### 80. msg_19352
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:21:57
+
+DOH\!
+
+
+---
+
+### 81. msg_19353
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:24:04
+
+So what is the?
+
+
+---
+
+### 82. msg_19354
+
+**You** - 2025-06-08T00:24:10
+
+well uncertain
+
+
+---
+
+### 83. msg_19355
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:24:19
+
+Huh?
+
+
+---
+
+### 84. msg_19356
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:24:22
+
+lol
+
+
+---
+
+### 85. msg_19357
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:24:26
+
+Omg
+
+
+---
+
+### 86. msg_19358
+
+**You** - 2025-06-08T00:24:29
+
+it was sketchy I can remember it\.\. and it was weird\.
+
+
+---
+
+### 87. msg_19359
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:24:34
+
+I am not uncertain on that one
+
+
+---
+
+### 88. msg_19360
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:24:44
+
+Haha
+
+
+---
+
+### 89. msg_19361
+
+**You** - 2025-06-08T00:24:55
+
+I figured yes\.
+
+
+---
+
+### 90. msg_19362
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:25:32
+
+My answers are like mostly the same
+
+
+---
+
+### 91. msg_19363
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:25:41
+
+I mean minus the lap dance
+
+
+---
+
+### 92. msg_19364
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:25:43
+
+lol
+
+
+---
+
+### 93. msg_19365
+
+**You** - 2025-06-08T00:25:44
+
+that was a joke
+
+
+---
+
+### 94. msg_19366
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:26:04
+
+🧐
+
+
+---
+
+### 95. msg_19367
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:26:13
+
+No, you can’t say that now
+
+
+---
+
+### 96. msg_19368
+
+**You** - 2025-06-08T00:26:21
+
+sure I can\.\. it was\.
+
+
+---
+
+### 97. msg_19369
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:26:33
+
+Huh?
+
+
+---
+
+### 98. msg_19370
+
+**You** - 2025-06-08T00:26:30
+
+see
+
+
+---
+
+### 99. msg_19371
+
+**You** - 2025-06-08T00:26:31
+
+fuck
+
+
+---
+
+### 100. msg_19372
+
+**You** - 2025-06-08T00:26:41
+
+I almost asked which answers were different\.\. but I don't want to know lol
+
+
+---
+
+### 101. msg_19373
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:26:52
+
+How is it a joke?
+
+
+---
+
+### 102. msg_19374
+
+**You** - 2025-06-08T00:26:51
+
+and ignore the threesome question
+
+
+---
+
+### 103. msg_19375
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:27:03
+
+I have never had a threesome
+
+
+---
+
+### 104. msg_19376
+
+**You** - 2025-06-08T00:27:04
+
+I was goofing around with someone\.
+
+
+---
+
+### 105. msg_19377
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:27:16
+
+Ok
+
+
+---
+
+### 106. msg_19378
+
+**You** - 2025-06-08T00:27:25
+
+ok I think a threesome requires sex right\.
+
+
+---
+
+### 107. msg_19379
+
+**You** - 2025-06-08T00:27:40
+
+and the three people have to be engaged at the time\.\.
+
+
+---
+
+### 108. msg_19380
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:27:45
+
+>
+OK, well you should never have said that because now you’re gonna have to do that to me
+
+
+---
+
+### 109. msg_19381
+
+**You** - 2025-06-08T00:28:01
+
+>
+so drunk\.\. that is what I will need to be\.\.
+
+
+---
+
+### 110. msg_19382
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:28:09
+
+>
+I mean, I think so? Not sure\.
+
+
+---
+
+### 111. msg_19383
+
+**You** - 2025-06-08T00:28:11
+
+either that or I will learn the PONY dance\.
+
+
+---
+
+### 112. msg_19384
+
+**You** - 2025-06-08T00:28:19
+
+>
+then not a threesome
+
+
+---
+
+### 113. msg_19385
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:28:26
+
+>
+That’s OK
+
+
+---
+
+### 114. msg_19386
+
+**You** - 2025-06-08T00:28:34
+
+Bishops was a bad university
+
+
+---
+
+### 115. msg_19387
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:28:51
+
+I don’t fake orgasms
+
+
+---
+
+### 116. msg_19388
+
+**You** - 2025-06-08T00:29:20
+
+I don't know when you have orgasms\.\. lol so I couldn't tell anyways rofl\.
+
+
+---
+
+### 117. msg_19389
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:29:38
+
+But I did with highschool bf initially but we got over that\. Young
+
+
+---
+
+### 118. msg_19390
+
+**You** - 2025-06-08T00:29:40
+
+There are stories to all of these\.\. but you don't need them all
+
+
+---
+
+### 119. msg_19391
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:30:24
+
+Ever since I started cipralex mine are more “challenging” but I can’t go off cipralex right now
+
+
+---
+
+### 120. msg_19392
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:30:31
+
+I started it a year ago
+
+
+---
+
+### 121. msg_19393
+
+**You** - 2025-06-08T00:30:43
+
+>
+heard about that being a side effect
+
+
+---
+
+### 122. msg_19394
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:31:04
+
+Before that I was very “easy” which is why the emotional relationship thing didn’t matter as much
+
+
+---
+
+### 123. msg_19395
+
+**You** - 2025-06-08T00:31:16
+
+I mean I guess that is something\.
+
+
+---
+
+### 124. msg_19396
+
+**You** - 2025-06-08T00:31:31
+
+I think you explained that to me once\.\. using other words re Andrew
+
+
+---
+
+### 125. msg_19397
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:31:36
+
+I’m too stressed right now\. I think I need to stay on for 6 months
+
+
+---
+
+### 126. msg_19398
+
+**You** - 2025-06-08T00:31:46
+
+another one of those\.\. "yeah I didn't necessarily need that one"
+
+
+---
+
+### 127. msg_19399
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:32:02
+
+My body has always been very good to me\. I know not all women can say the same
+
+
+---
+
+### 128. msg_19400
+
+**You** - 2025-06-08T00:32:01
+
+>
+you definitely need to take care of yourself first
+
+
+---
+
+### 129. msg_19401
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:33:11
+
+TMI maybe? \(Not sure\) ……\.\. trigger warning …………\.\.
+Andrew never thought I loved him but my body always worked so he was like well, maybe\.
+
+
+---
+
+### 130. msg_19402
+
+**You** - 2025-06-08T00:33:19
+
+I am disregarding the 19 Extremely Dirty Never Have I Ever questions\.\. not answering those\.
+
+
+---
+
+### 131. msg_19403
+
+**You** - 2025-06-08T00:33:36
+
+>
+>
+>
+>
+not triggering you already said that to me\.\. lol
+
+
+---
+
+### 132. msg_19404
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:33:52
+
+>
+Omg funny
+
+
+---
+
+### 133. msg_19405
+
+**You** - 2025-06-08T00:33:52
+
+it was the three days a week conversation
+
+
+---
+
+### 134. msg_19406
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:34:06
+
+lol
+
+
+---
+
+### 135. msg_19407
+
+**You** - 2025-06-08T00:34:10
+
+memory
+
+
+---
+
+### 136. msg_19408
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:34:13
+
+Literally laughing
+
+
+---
+
+### 137. msg_19409
+
+**You** - 2025-06-08T00:34:17
+
+I hate it so fucking much sometimes
+
+
+---
+
+### 138. msg_19410
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:34:41
+
+Yeah really
+
+
+---
+
+### 139. msg_19411
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:34:47
+
+Andrew has zero memory
+
+
+---
+
+### 140. msg_19412
+
+**You** - 2025-06-08T00:34:53
+
+1\. Never have I ever skinny\-dipped\. \- YES
+2\. Never have I ever had a one\-night stand\. \- YES
+3\. Never have I ever sexted someone\. – NO \(well you were close – but it wasn’t sexting\)
+4\. Never have I ever sent a nude\. \- NO
+5\. Never have I ever sent a sexy text or sexy pic to the wrong person\. \- NO
+6\. Never have I ever kissed someone of the same gender\. \- YES
+7\. Never have I ever role\-played in the bedroom\. \- YES
+8\. Never have I ever used a sex toy\. \- YES
+9\. Never have I ever had a threesome\. \- ?
+10\. Never have I ever had a sex dream about someone I shouldn't have\. \- YES
+11\. Never have I ever had sex in the car\. \- YES
+12\. Never have I ever had a friend with benefits\. \- YES
+13\. Never have I ever been walked in on during sex\. \- YES
+14\. Never have I ever had sex in public\. \- YES
+15\. Never have I ever faked an orgasm\. \- YES
+16\. Never have I ever had or given a lap dance\. \- YES
+17\. Never have I ever slept with someone on the first date\. \- YES
+18\. Never have I ever used handcuffs in the bedroom\. \.\.\. \[truncated\]
+
+
+---
+
+### 141. msg_19413
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:34:58
+
+You are the opposite
+
+
+---
+
+### 142. msg_19414
+
+**You** - 2025-06-08T00:35:03
+
+I wish I had zero memory sometimes
+
+
+---
+
+### 143. msg_19415
+
+**You** - 2025-06-08T00:35:29
+
+there I think that is enough knowledge about me\.
+
+
+---
+
+### 144. msg_19416
+
+**You** - 2025-06-08T00:38:05
+
+>
+>
+>
+>
+yeah being horny and loving are 2 very very different things\.\. I have had relationships\.\. both willing partners lots of fun no love\.  very different feeling\.
+
+
+---
+
+### 145. msg_19417
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:39:37
+
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+This was LONG\!
+
+
+---
+
+### 146. msg_19418
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:39:59
+
+\(I have a boat\.\)
+
+
+---
+
+### 147. msg_19419
+
+**You** - 2025-06-08T00:40:06
+
+\-\-\-\-\-\-check
+
+
+---
+
+### 148. msg_19420
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:40:15
+
+lol
+
+
+---
+
+### 149. msg_19421
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:40:56
+
+Who’s the sex dream you shouldn’t have had?
+
+
+---
+
+### 150. msg_19422
+
+**You** - 2025-06-08T00:41:29
+
+I mean probably a friend or something\.\. I am just certain I have woken feeling guilty so just checking that one knowling it likely has happened
+
+
+---
+
+### 151. msg_19423
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:43:00
+
+I can’t think of anything\. However, at work one day at infinity this coworker of Chris’\. His name was Scott \(LOL\)\. Scott Shelby\. He came up to me and told me about this dream he had where I was a police officer in his dream … I’m like, okkkkkk lol
+
+
+---
+
+### 152. msg_19424
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:43:05
+
+So awkward
+
+
+---
+
+### 153. msg_19425
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:43:22
+
+\*infinet
+
+
+---
+
+### 154. msg_19426
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:43:29
+
+Not infinity lol
+
+
+---
+
+### 155. msg_19427
+
+**You** - 2025-06-08T00:43:53
+
+was it a dream
+
+
+---
+
+### 156. msg_19428
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:44:02
+
+Yeah
+
+
+---
+
+### 157. msg_19429
+
+**You** - 2025-06-08T00:44:00
+
+or was it a drug induced hallucination
+
+
+---
+
+### 158. msg_19430
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:44:08
+
+He told me that morning
+
+
+---
+
+### 159. msg_19431
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:44:15
+
+So odd
+
+
+---
+
+### 160. msg_19432
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:44:22
+
+He was a lot older than me too
+
+
+---
+
+### 161. msg_19433
+
+**You** - 2025-06-08T00:44:26
+
+hitting on yo
+
+
+---
+
+### 162. msg_19434
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:44:38
+
+No super nice guy
+
+
+---
+
+### 163. msg_19435
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:44:42
+
+Just awkward
+
+
+---
+
+### 164. msg_19436
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:44:51
+
+I still see him online and laugh about it
+
+
+---
+
+### 165. msg_19437
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:44:59
+
+No harm done
+
+
+---
+
+### 166. msg_19438
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:45:12
+
+Chris LAUGHED\. We laughed\.
+
+
+---
+
+### 167. msg_19439
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:45:21
+
+We liked Scott
+
+
+---
+
+### 168. msg_19440
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:45:35
+
+Just was kinda weird\. Ppl don’t do that at work usually
+
+
+---
+
+### 169. msg_19441
+
+**You** - 2025-06-08T00:45:34
+
+Scott's are good guys
+
+
+---
+
+### 170. msg_19442
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:45:48
+
+I love Scott’s
+
+
+---
+
+### 171. msg_19443
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:45:56
+
+Haven’t met a Scott I don’t like
+
+
+---
+
+### 172. msg_19444
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:46:53
+
+Omg this is him now\. SO OLD\. like 20 years later
+
+*1 attachment(s)*
+
+
+---
+
+### 173. msg_19445
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:47:44
+
+There are some super weird ppl in tech
+
+
+---
+
+### 174. msg_19446
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:48:22
+
+All the mutual connections we have are from our dot com days
+
+
+---
+
+### 175. msg_19447
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:48:28
+
+Different time\.
+
+
+---
+
+### 176. msg_19448
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:48:34
+
+He looked different lol
+
+
+---
+
+### 177. msg_19449
+
+**You** - 2025-06-08T00:49:01
+
+hehe
+
+
+---
+
+### 178. msg_19450
+
+**You** - 2025-06-08T00:49:07
+
+we all looked different
+
+
+---
+
+### 179. msg_19451
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:49:24
+
+Sigh… I know\.
+
+
+---
+
+### 180. msg_19452
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:50:21
+
+So let me ask you a question
+
+
+---
+
+### 181. msg_19453
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:50:38
+
+What do you think about what you’ve learned about my relationship with Andrew today?
+
+
+---
+
+### 182. msg_19454
+
+**You** - 2025-06-08T00:51:48
+
+which part
+
+
+---
+
+### 183. msg_19455
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:52:35
+
+https://flic\.kr/p/fZXnf
+So this guy Joe used to tell me so much tmi about all his gay relationships\. It used to make me so uncomfortable, but he was a good friend so we hung out all the time but I used to have to hear about like oh my God I can’t even tell you ughhhh gay guys they are so explicit
+
+
+---
+
+### 184. msg_19456
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:52:58
+
+>
+Like the not getting drunk part or telling him shit
+
+
+---
+
+### 185. msg_19457
+
+**You** - 2025-06-08T00:53:30
+
+It kind of surprised me to be honest
+
+
+---
+
+### 186. msg_19458
+
+**You** - 2025-06-08T00:53:51
+
+Let me say this\.
+
+
+---
+
+### 187. msg_19459
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T00:54:29
+
+https://flic\.kr/p/6jGmn
+This is the girl I used to go to raves with\.
+
+
+---
+
+### 188. msg_19460
+
+**You** - 2025-06-08T00:54:55
+
+I think there are multiple versions of Meredith\.\.
+
+
+---
+
+### 189. msg_19461
+
+**You** - 2025-06-08T00:57:02
+
+There is high school\.\. there is university \- let's have fun with whoever because I give zero fucks\.  There is Chris pre Jeremy \- Meredith gone wild and experimenting with everything, there is Jeremy \(I don't have a ton of info on this one\.\. except you were the boss, so not sure except it went for a while you were engaged\), the Meredith Gavin, Jeremy, Chris\.  I am not quite sure if you had fun with Chris again post Jeremy pre Andrew\.\. Steve was in there somewhere\.  And then andrew and then me\.
+
+
+---
+
+### 190. msg_19462
+
+**You** - 2025-06-08T00:57:31
+
+I think you had to give up almost all of who you were with Andrew\.\. to become someone else\.\. still an awesome person, super fun, and amazing\.\. but you left some stuff behind\.
+
+
+---
+
+### 191. msg_19463
+
+**You** - 2025-06-08T00:57:46
+
+Reaction: ❤️ from Meredith Lamb
+I think you want to try to maybe find the best of both worlds with me\.\.\. maybe\.\.
+
+
+---
+
+### 192. msg_19464
+
+**You** - 2025-06-08T00:58:30
+
+I mean I think you truly want to be able to tell me anything at all\.\. and for me to be \- cool shit\.\. guess what I did\.
+
+
+---
+
+### 193. msg_19465
+
+**You** - 2025-06-08T00:58:46
+
+and I very much want that\.\. I am trying\.
+
+
+---
+
+### 194. msg_19466
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:01:44
+
+That was a very stellar analysis given we have been talking all of 2 longs
+
+
+---
+
+### 195. msg_19467
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:01:49
+
+\*months
+
+
+---
+
+### 196. msg_19468
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:01:58
+
+You are a fast learner
+
+
+---
+
+### 197. msg_19469
+
+**You** - 2025-06-08T01:02:11
+
+I pay attention
+
+
+---
+
+### 198. msg_19470
+
+**You** - 2025-06-08T01:02:22
+
+I really am trying mer
+
+
+---
+
+### 199. msg_19471
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:02:27
+
+Obviously
+
+
+---
+
+### 200. msg_19472
+
+**You** - 2025-06-08T01:02:44
+
+but it is easier to give than receive atm\.\. certain things\. getting better\.
+
+
+---
+
+### 201. msg_19473
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:03:16
+
+>
+I don’t get this\. Elaborate\.
+
+
+---
+
+### 202. msg_19474
+
+**You** - 2025-06-08T01:04:03
+
+Like answering those questions tonight \- not the super dirty ones\.\. \- but the rest\. that is easy
+
+
+---
+
+### 203. msg_19475
+
+**You** - 2025-06-08T01:04:08
+
+hearing back sometimes is not\.
+
+
+---
+
+### 204. msg_19476
+
+**You** - 2025-06-08T01:04:23
+
+i dont know why
+
+
+---
+
+### 205. msg_19477
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:04:38
+
+Do you want me to answer them? I will be don’t have a word doc …
+
+
+---
+
+### 206. msg_19478
+
+**You** - 2025-06-08T01:04:45
+
+nope I am good\.
+
+
+---
+
+### 207. msg_19479
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:04:51
+
+Actually I have Google docs bc of my fucking kids
+
+
+---
+
+### 208. msg_19480
+
+**You** - 2025-06-08T01:04:52
+
+lol
+
+
+---
+
+### 209. msg_19481
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:05:19
+
+Sure? I will answer all of them
+
+
+---
+
+### 210. msg_19482
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:05:30
+
+Just hard on my phone
+
+
+---
+
+### 211. msg_19483
+
+**You** - 2025-06-08T01:05:38
+
+I feel like you want to so go ahead\.
+
+
+---
+
+### 212. msg_19484
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:05:49
+
+Email me the doc at work … KIDDING
+
+
+---
+
+### 213. msg_19485
+
+**You** - 2025-06-08T01:05:48
+
+I will force myself to pass out after anyways\.
+
+
+---
+
+### 214. msg_19486
+
+**You** - 2025-06-08T01:06:13
+
+certainly is better than talking directly
+
+
+---
+
+### 215. msg_19487
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:06:28
+
+If you don’t care I won’t\. I don’t care
+
+
+---
+
+### 216. msg_19488
+
+**You** - 2025-06-08T01:06:47
+
+No answer them pls\.
+
+
+---
+
+### 217. msg_19489
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:07:00
+
+For real?
+
+
+---
+
+### 218. msg_19490
+
+**You** - 2025-06-08T01:06:59
+
+yeah
+
+
+---
+
+### 219. msg_19491
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:07:16
+
+K so from the beginning?
+
+
+---
+
+### 220. msg_19492
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:07:23
+
+There were so many
+
+
+---
+
+### 221. msg_19493
+
+**You** - 2025-06-08T01:07:41
+
+just copy paste one into google docs and put y / n
+
+
+---
+
+### 222. msg_19494
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:11:53
+
+Never have I ever used food during sex \- yes
+Never have I ever faked an orgasm \- no \(I think \- I try to be genuine\)
+Never have I ever been skinny dipping \- YES
+Never have I ever had sex with someone in public \- YES
+Never have I ever had sex with someone in a car \- YES \(I mean I grew up in the country\. Dirt roads\)
+Never have I ever kissed someone in public \- YES
+Never have I ever kissed more than 1 person in 24 hours \- YES \(but only once at nye\. The brothers\. Joe and tim\. lol\)
+Never have I ever sent a dirty text \- NO
+Never have I ever sent a dirty text to the wrong person \- NO
+Never have I ever watched porn \- YES
+Never have I ever gone down on someone in a cinema \- yes
+Never have I ever flashed someone \- no
+Never have I ever given a lap dance \- no
+Never have I ever received a lap dance \- no
+Never have I ever slept with a co\-worker \- YES
+Never have I ever been nude in public \- NO
+Never have I ever had a threesome \- no
+Never have I ever had a friends\-with\-benefits arrangement \-  it really\.\.\. \[truncated\]
+
+
+---
+
+### 223. msg_19495
+
+**You** - 2025-06-08T01:11:56
+
+And perhaps not the uber dirty
+Ones that I avoided
+
+
+---
+
+### 224. msg_19496
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:11:59
+
+Ther you go
+
+
+---
+
+### 225. msg_19497
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:12:09
+
+I just cut and paste yours
+
+
+---
+
+### 226. msg_19498
+
+**You** - 2025-06-08T01:12:14
+
+Those were in the second set
+
+
+---
+
+### 227. msg_19499
+
+**You** - 2025-06-08T01:12:35
+
+Oh Steve was 9 years older
+
+
+---
+
+### 228. msg_19500
+
+**You** - 2025-06-08T01:12:38
+
+lol
+
+
+---
+
+### 229. msg_19501
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:12:59
+
+What that was first set
+
+
+---
+
+### 230. msg_19502
+
+**You** - 2025-06-08T01:13:09
+
+You just did first set
+
+
+---
+
+### 231. msg_19503
+
+**You** - 2025-06-08T01:13:19
+
+There were another long list I answered
+
+
+---
+
+### 232. msg_19504
+
+**You** - 2025-06-08T01:13:39
+
+Then some really sketchy ones at the end of the second list I was like eeeeeeeeeee
+
+
+---
+
+### 233. msg_19505
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:13:48
+
+K cut and paste and I will answer
+
+
+---
+
+### 234. msg_19506
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:13:55
+
+It’s hard to scroll back
+
+
+---
+
+### 235. msg_19507
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:15:09
+
+So the faking an orgasm like MAYBE in high school but doesn’t count in my opinion
+
+
+---
+
+### 236. msg_19508
+
+**You** - 2025-06-08T01:15:14
+
+1\. Never have I ever skinny\-dipped\. \- YES
+2\. Never have I ever had a one\-night stand\. \- YES
+3\. Never have I ever sexted someone\. – NO \(well you were close – but it wasn’t sexting\)
+4\. Never have I ever sent a nude\. \- NO
+5\. Never have I ever sent a sexy text or sexy pic to the wrong person\. \- NO
+6\. Never have I ever kissed someone of the same gender\. \- YES
+7\. Never have I ever role\-played in the bedroom\. \- YES
+8\. Never have I ever used a sex toy\. \- YES
+9\. Never have I ever had a threesome\. \- ?
+10\. Never have I ever had a sex dream about someone I shouldn't have\. \- YES
+11\. Never have I ever had sex in the car\. \- YES
+12\. Never have I ever had a friend with benefits\. \- YES
+13\. Never have I ever been walked in on during sex\. \- YES
+14\. Never have I ever had sex in public\. \- YES
+15\. Never have I ever faked an orgasm\. \- YES
+16\. Never have I ever had or given a lap dance\. \- YES
+17\. Never have I ever slept with someone on the first date\. \- YES
+18\. Never have I ever used handcuffs in the bedroom\. \.\.\. \[truncated\]
+
+
+---
+
+### 237. msg_19509
+
+**You** - 2025-06-08T01:17:56
+
+Remeber feel free to disregard kast 19
+
+
+---
+
+### 238. msg_19510
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:24:31
+
+1\. Never have I ever skinny\-dipped\. \- YES
+2\. Never have I ever had a one\-night stand\. \- YES
+3\. Never have I ever sexted someone\. – No
+4\. Never have I ever sent a nude\. \- NO but close because I had a ton of pressure from a couple ppl
+5\. Never have I ever sent a sexy text or sexy pic to the wrong person\. \- NO
+6\. Never have I ever kissed someone of the same gender\. \- YES
+7\. Never have I ever role\-played in the bedroom\. \- no
+8\. Never have I ever used a sex toy\. \- YES
+9\. Never have I ever had a threesome\. \- no
+10\. Never have I ever had a sex dream about someone I shouldn't have\. \- no
+11\. Never have I ever had sex in the car\. \- YES
+12\. Never have I ever had a friend with benefits\. \- maybe not really
+13\. Never have I ever been walked in on during sex\. \- YES
+14\. Never have I ever had sex in public\. \- YES
+15\. Never have I ever faked an orgasm\. \- sigh high school shouldn’t count
+16\. Never have I ever had or given a lap dance\. \- no
+17\. Never have I ever slept with someone on the first date\. \- YES\.\.\. \[truncated\]
+
+
+---
+
+### 239. msg_19511
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:25:05
+
+K, I didn’t answer the super ones at the end\. I mean I could …\. But awkward some of them
+
+
+---
+
+### 240. msg_19512
+
+**You** - 2025-06-08T01:26:48
+
+I think best left unsaid\.
+
+
+---
+
+### 241. msg_19513
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:26:55
+
+lol
+
+
+---
+
+### 242. msg_19514
+
+**You** - 2025-06-08T01:27:04
+
+Very much so
+
+
+---
+
+### 243. msg_19515
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:28:03
+
+I don’t think either of us have too many surprises tho?
+
+
+---
+
+### 244. msg_19516
+
+**You** - 2025-06-08T01:28:48
+
+Reaction: 😂 from Meredith Lamb
+I don’t think so\.\. I flew past
+Yours
+Really fast and squinted and looked
+Away lol
+
+
+---
+
+### 245. msg_19517
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:28:49
+
+Or am I speaking for u
+
+
+---
+
+### 246. msg_19518
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:29:08
+
+Omg lol
+
+
+---
+
+### 247. msg_19519
+
+**You** - 2025-06-08T01:30:01
+
+I think it is enough\.\.  I don’t think we are that different\.
+
+
+---
+
+### 248. msg_19520
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:30:12
+
+I agree
+
+
+---
+
+### 249. msg_19521
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:30:23
+
+Feeling pretty confident
+
+
+---
+
+### 250. msg_19522
+
+**You** - 2025-06-08T01:30:40
+
+You are?
+
+
+---
+
+### 251. msg_19523
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:30:56
+
+Yeah that we aren’t that much different
+
+
+---
+
+### 252. msg_19524
+
+**You** - 2025-06-08T01:30:56
+
+Oh you mean about our similar experiences
+
+
+---
+
+### 253. msg_19525
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:31:03
+
+Yeah
+
+
+---
+
+### 254. msg_19526
+
+**You** - 2025-06-08T01:31:17
+
+Yeah I mean mine happened ins very condensed insane period of time\.
+
+
+---
+
+### 255. msg_19527
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:31:45
+
+But whatever same diff
+
+
+---
+
+### 256. msg_19528
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:31:47
+
+lol
+
+
+---
+
+### 257. msg_19529
+
+**You** - 2025-06-08T01:32:11
+
+Mm hm yeah\.  Now we don’t ever have to talk about them again right\!\!\!lol
+
+
+---
+
+### 258. msg_19530
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:32:30
+
+Reaction: 🤨 from Scott Hicks
+Deal 🤝
+
+
+---
+
+### 259. msg_19531
+
+**You** - 2025-06-08T01:32:51
+
+Glass 6?
+
+
+---
+
+### 260. msg_19532
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:33:16
+
+I won’t bring it up\. But if you do all bets are off\.
+
+
+---
+
+### 261. msg_19533
+
+**You** - 2025-06-08T01:33:27
+
+I am not bringing shit up ever
+
+
+---
+
+### 262. msg_19534
+
+**You** - 2025-06-08T01:33:32
+
+Never ever
+
+
+---
+
+### 263. msg_19535
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:33:37
+
+k
+
+
+---
+
+### 264. msg_19536
+
+**You** - 2025-06-08T01:33:49
+
+I don’t want to know any details no stories
+
+
+---
+
+### 265. msg_19537
+
+**You** - 2025-06-08T01:34:06
+
+This wa enough of a stretch for me\.
+
+
+---
+
+### 266. msg_19538
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:34:10
+
+I have none left anyway
+
+
+---
+
+### 267. msg_19539
+
+**You** - 2025-06-08T01:34:20
+
+Naw you do\. I know you do
+
+
+---
+
+### 268. msg_19540
+
+**You** - 2025-06-08T01:34:31
+
+Reaction: 👍 from Meredith Lamb
+But I don’t need to hear em
+
+
+---
+
+### 269. msg_19541
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:34:35
+
+Reaction: 👍 from Meredith Lamb
+>
+Was it really?
+
+
+---
+
+### 270. msg_19542
+
+**You** - 2025-06-08T01:34:42
+
+A little
+
+
+---
+
+### 271. msg_19543
+
+**You** - 2025-06-08T01:34:50
+
+Sometimes not knowing is nice
+
+
+---
+
+### 272. msg_19544
+
+**You** - 2025-06-08T01:34:55
+
+You can fantacise
+
+
+---
+
+### 273. msg_19545
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:35:25
+
+About what? A virgin?
+
+
+---
+
+### 274. msg_19546
+
+**You** - 2025-06-08T01:36:04
+
+No about thinking this one thing this moment this act is special and unique\.\. whatever it is\.  At least not knowing you can pretend\.\. knowing you cannot
+
+
+---
+
+### 275. msg_19547
+
+**You** - 2025-06-08T01:36:23
+
+Sometimes ignorance is bliss is all
+
+
+---
+
+### 276. msg_19548
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:37:24
+
+But everything is unique … and meaningful … and full of electricity… it really is\. Just because a past exists doesn’t mean a present doesn’t trump it\.
+
+
+---
+
+### 277. msg_19549
+
+**You** - 2025-06-08T01:38:53
+
+Yeah perhaps\.\. it is hard to tell so far removed\.  And when someone loves you this much it shouldn’t matter and in reality it doesn’t but sometimes yku cannot help but think\.  🤔 which is why not knowing always best imho\. lol
+
+
+---
+
+### 278. msg_19550
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:43:28
+
+You trump everyone\.
+I cant be more clear\.
+It is for multiple reasons but there is something that trumps everything and I think it comes down to you being my would mate but I couldn’t possibly say that to anyone except for you\. Not really my style\.
+
+
+---
+
+### 279. msg_19551
+
+**You** - 2025-06-08T01:43:41
+
+I am surprised you haven’t passed out yet
+
+
+---
+
+### 280. msg_19552
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:44:05
+
+No the
+
+
+---
+
+### 281. msg_19553
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:44:11
+
+Thc
+
+
+---
+
+### 282. msg_19554
+
+**You** - 2025-06-08T01:44:16
+
+Soul mate
+
+
+---
+
+### 283. msg_19555
+
+**You** - 2025-06-08T01:45:09
+
+I am just guessing not sure what would mate is
+
+
+---
+
+### 284. msg_19556
+
+**You** - 2025-06-08T01:45:11
+
+lol
+
+
+---
+
+### 285. msg_19557
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:45:21
+
+Yeah typo
+
+
+---
+
+### 286. msg_19558
+
+**You** - 2025-06-08T01:45:47
+
+Yeah it does trump it mer\.\. I know\.\. but in my head is in my head
+
+
+---
+
+### 287. msg_19559
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:45:48
+
+I’m not sure how or why this happened between you and I but I’m not going to argue it\.
+
+
+---
+
+### 288. msg_19560
+
+**You** - 2025-06-08T01:46:23
+
+>
+I am not either\.\. just grateful\.
+
+
+---
+
+### 289. msg_19561
+
+**You** - 2025-06-08T01:46:39
+
+And just think about this for a second
+
+
+---
+
+### 290. msg_19562
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:46:45
+
+>
+In your head should be smooth sailing between us\.
+
+
+---
+
+### 291. msg_19563
+
+**You** - 2025-06-08T01:47:43
+
+The way you go extra on everything that is kind of how I want to be with you morn but like for everything\.  I cannot help it just like you couldn’t help going all out for mac snd your kids\. And your parents and the school etc etc
+
+
+---
+
+### 292. msg_19564
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:48:46
+
+I used to bug my best friend so much by my extra that she stopped being best friends with me :\( lol
+
+
+---
+
+### 293. msg_19565
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:48:57
+
+I had 2 besties\. One stopped\.
+
+
+---
+
+### 294. msg_19566
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:49:10
+
+Some ppl hate it
+
+
+---
+
+### 295. msg_19567
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:49:18
+
+I’m glad you don’t
+
+
+---
+
+### 296. msg_19568
+
+**You** - 2025-06-08T01:49:57
+
+I don’t I admire it
+
+
+---
+
+### 297. msg_19569
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:50:59
+
+I feel like you are more extra than me which concerns me a tad\.
+
+
+---
+
+### 298. msg_19570
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:51:08
+
+Can we be together? Lol
+
+
+---
+
+### 299. msg_19571
+
+**You** - 2025-06-08T01:51:47
+
+What do you mean
+
+
+---
+
+### 300. msg_19572
+
+**You** - 2025-06-08T01:51:59
+
+I am not extra
+
+
+---
+
+### 301. msg_19573
+
+**You** - 2025-06-08T01:52:15
+
+I mean I have less demands on me
+
+
+---
+
+### 302. msg_19574
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:52:16
+
+I just mean if we are both extra will it be too extra/intense
+
+
+---
+
+### 303. msg_19575
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:52:32
+
+You are not extra?
+
+
+---
+
+### 304. msg_19576
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:52:40
+
+Hmmmm
+
+
+---
+
+### 305. msg_19577
+
+**You** - 2025-06-08T01:52:41
+
+With you I am
+
+
+---
+
+### 306. msg_19578
+
+**You** - 2025-06-08T01:52:49
+
+And with some other things
+
+
+---
+
+### 307. msg_19579
+
+**You** - 2025-06-08T01:53:06
+
+I don’t think it will be a problem
+
+
+---
+
+### 308. msg_19580
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:53:23
+
+Okay I don’t actually either
+
+
+---
+
+### 309. msg_19581
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:53:49
+
+Just haven’t thought about it much
+
+
+---
+
+### 310. msg_19582
+
+**You** - 2025-06-08T01:54:03
+
+Again I have more time
+
+
+---
+
+### 311. msg_19583
+
+**You** - 2025-06-08T01:54:21
+
+So I think about everything alot
+
+
+---
+
+### 312. msg_19584
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:54:34
+
+And…\.
+
+
+---
+
+### 313. msg_19585
+
+**You** - 2025-06-08T01:54:44
+
+And it is a lot
+
+
+---
+
+### 314. msg_19586
+
+**You** - 2025-06-08T01:55:06
+
+I do t see any issues with us with compatibility with how we feel
+
+
+---
+
+### 315. msg_19587
+
+**You** - 2025-06-08T01:55:11
+
+With our personalities
+
+
+---
+
+### 316. msg_19588
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:55:24
+
+Maybe you need a little extra in your life 😇
+
+
+---
+
+### 317. msg_19589
+
+**You** - 2025-06-08T01:55:36
+
+The history is noise just sometimes can cause insecurities in addition to this that exist
+
+
+---
+
+### 318. msg_19590
+
+**You** - 2025-06-08T01:55:44
+
+So I am not worried
+
+
+---
+
+### 319. msg_19591
+
+**You** - 2025-06-08T01:56:01
+
+I mean I am being a little light on history
+
+
+---
+
+### 320. msg_19592
+
+**You** - 2025-06-08T01:56:07
+
+But lol it should be like that
+
+
+---
+
+### 321. msg_19593
+
+**You** - 2025-06-08T01:56:23
+
+>
+Def I do
+
+
+---
+
+### 322. msg_19594
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:57:01
+
+Reaction: ❤️ from Scott Hicks
+Good\. Please don’t be worried\. I haven’t felt this intense of a connection ever\. Not sure if it is age, or a multitude of other things I could list :\) but I am being honest
+
+
+---
+
+### 323. msg_19595
+
+**You** - 2025-06-08T01:57:37
+
+Same like i said earlier today nothing has come close for me\.\.
+It any part of it\.
+
+
+---
+
+### 324. msg_19596
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:58:54
+
+So you are not insecure about Chris?
+
+
+---
+
+### 325. msg_19597
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:59:06
+
+Because honestly NOTHING compare
+
+
+---
+
+### 326. msg_19598
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T01:59:10
+
+Compares
+
+
+---
+
+### 327. msg_19599
+
+**You** - 2025-06-08T02:00:03
+
+I don’t know what it is like with girls\.\. but I think in general psychologically guys are wired a bit differently and insecurities come with the territory
+
+
+---
+
+### 328. msg_19600
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:02:15
+
+k I will accept that HOWEVER I really need you to know that even if this didn’t happen, the Chris
+Thing would have only ever been platonic if at all\.
+
+
+---
+
+### 329. msg_19601
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:02:58
+
+For various reasons that are probably TMI\. Or maybe I already told you 😝
+
+
+---
+
+### 330. msg_19602
+
+**You** - 2025-06-08T02:03:17
+
+Hmm
+
+
+---
+
+### 331. msg_19603
+
+**You** - 2025-06-08T02:03:42
+
+No I don’t think so unless I misunderstood
+
+
+---
+
+### 332. msg_19604
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:06:27
+
+I almost passed out sorry lol
+
+
+---
+
+### 333. msg_19605
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:06:43
+
+“What time do you have to work tomorrow?”
+
+
+---
+
+### 334. msg_19606
+
+**You** - 2025-06-08T02:06:47
+
+Yeah I figured you are pretty much done
+
+
+---
+
+### 335. msg_19607
+
+**You** - 2025-06-08T02:06:49
+
+lol
+
+
+---
+
+### 336. msg_19608
+
+**You** - 2025-06-08T02:06:53
+
+Go to bed
+
+
+---
+
+### 337. msg_19609
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:07:10
+
+I think I have to 🙈
+
+
+---
+
+### 338. msg_19610
+
+**You** - 2025-06-08T02:07:25
+
+Kk get some sleep then mer
+
+
+---
+
+### 339. msg_19611
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:07:34
+
+Any big questions before I go? Lol
+
+
+---
+
+### 340. msg_19612
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:07:53
+
+Have I been sleeping on anything
+
+
+---
+
+### 341. msg_19613
+
+**You** - 2025-06-08T02:08:07
+
+Reaction: 😂 from Meredith Lamb
+No absofuckinglutely not\.
+
+
+---
+
+### 342. msg_19614
+
+**You** - 2025-06-08T02:08:32
+
+You didn’t explain the last thing
+
+
+---
+
+### 343. msg_19615
+
+**You** - 2025-06-08T02:08:37
+
+But I think the tmi
+
+
+---
+
+### 344. msg_19616
+
+**You** - 2025-06-08T02:08:42
+
+Is warning enough
+
+
+---
+
+### 345. msg_19617
+
+**You** - 2025-06-08T02:08:46
+
+So no
+
+
+---
+
+### 346. msg_19618
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:08:47
+
+Last thing?
+
+
+---
+
+### 347. msg_19619
+
+**You** - 2025-06-08T02:08:51
+
+Chris
+
+
+---
+
+### 348. msg_19620
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:09:41
+
+Oh so in non tmi speak\. He is just GAY but thinks he is not\. Thinks he is bi but he isn’t\. Poor guy :\(
+
+
+---
+
+### 349. msg_19621
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:09:54
+
+Helpful?
+
+
+---
+
+### 350. msg_19622
+
+**You** - 2025-06-08T02:10:43
+
+lol not really but honestly doesn’t matter if you say what you said then I believe you
+
+
+---
+
+### 351. msg_19623
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:11:33
+
+k, slowly passing out
+
+
+---
+
+### 352. msg_19624
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:11:48
+
+Or quickly?
+
+
+---
+
+### 353. msg_19625
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:11:50
+
+lol
+
+
+---
+
+### 354. msg_19626
+
+**You** - 2025-06-08T02:12:27
+
+Kk love you mer\.\. will wait for you to ask\.\. Remeber… love you more than anything ❤️ night
+
+
+---
+
+### 355. msg_19627
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:13:41
+
+Love you ❤️❤️ nite … wait for me to ask what? That caught me off guard
+
+
+---
+
+### 356. msg_19628
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:14:04
+
+Why do you have to confuse me all the time like
+
+
+---
+
+### 357. msg_19629
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:14:07
+
+lol
+
+
+---
+
+### 358. msg_19630
+
+**You** - 2025-06-08T02:14:15
+
+You will have to think about that one not helping
+
+
+---
+
+### 359. msg_19631
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:14:28
+
+To marry you?
+
+
+---
+
+### 360. msg_19632
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:14:30
+
+Noooo
+
+
+---
+
+### 361. msg_19633
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:14:41
+
+The hat is not what you meant
+
+
+---
+
+### 362. msg_19634
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:14:48
+
+\*that
+
+
+---
+
+### 363. msg_19635
+
+**You** - 2025-06-08T02:15:10
+
+I cannot remember now just sometimes can mocking voice in my head
+
+
+---
+
+### 364. msg_19636
+
+**You** - 2025-06-08T02:15:20
+
+Just some mocking
+
+
+---
+
+### 365. msg_19637
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:15:25
+
+Good
+
+
+---
+
+### 366. msg_19638
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:15:29
+
+Goof
+
+
+---
+
+### 367. msg_19639
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:15:59
+
+I love you lol
+
+
+---
+
+### 368. msg_19640
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T02:16:07
+
+Nite xoxoxoxox
+
+
+---
+
+### 369. msg_19641
+
+**You** - 2025-06-08T02:16:09
+
+Love you going to sleep
+
+
+---
+
+### 370. msg_19642
+
+**You** - 2025-06-08T07:57:55
+
+As much sleeping in as I can afford\.\. luv you and good morning\.
+
+
+---
+
+### 371. msg_19643
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:08:40
+
+Not bad\!
+
+
+---
+
+### 372. msg_19644
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:08:46
+
+\(For you\)
+
+
+---
+
+### 373. msg_19645
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:09:10
+
+Griffin woke me up whining to let him out so I’m up\. Coffee brewing\. :p
+
+
+---
+
+### 374. msg_19646
+
+**You** - 2025-06-08T09:10:20
+
+lol no coffee yet woke up dealt with dogs, scrapped with j a bit over $$ she goes to talk to her lawyer tomorrow at noon so we will
+Find out more then\.
+
+
+---
+
+### 375. msg_19647
+
+**You** - 2025-06-08T09:10:33
+
+Coffee soon though then cleanup
+
+
+---
+
+### 376. msg_19648
+
+**You** - 2025-06-08T09:10:42
+
+And then get ready for trainer
+
+
+---
+
+### 377. msg_19649
+
+**You** - 2025-06-08T09:12:37
+
+She was frustrated she kept saying I will advance and I said no I won’t I don’t want to and there is risk everywhere anyways\.  Then she said well you are just going to move in with someone and get married I said absolutely not getting married\.\.   she was even worried I would move in with someone while I still had maddie\.\. I was like nope\.\. anyhow was a fun chat
+
+
+---
+
+### 378. msg_19650
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:19:35
+
+Reaction: ❤️ from Scott Hicks
+“absolutely not getting married” LOL
+
+
+---
+
+### 379. msg_19651
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:19:42
+
+No inside story there\.
+
+
+---
+
+### 380. msg_19652
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:20:10
+
+I bet Andrew advances but not what I’m focused on\. Why is she focused on that?
+
+
+---
+
+### 381. msg_19653
+
+**You** - 2025-06-08T09:23:12
+
+She is focused on that so she asks for more now putting me under more risk because instead of moving down she thinks I move up\.
+
+
+---
+
+### 382. msg_19654
+
+**You** - 2025-06-08T09:25:05
+
+My doc is back btw going to see him this week
+
+
+---
+
+### 383. msg_19655
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:27:42
+
+>
+Hmmh Andrew and I do not have the moving up conversations… yet\. Maybe mediation might go there?
+
+
+---
+
+### 384. msg_19656
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:28:18
+
+Do you HAVE to give more up front?
+
+
+---
+
+### 385. msg_19657
+
+**You** - 2025-06-08T09:28:22
+
+Again I suggested yesterday but not sure you Remeber 16 years time away from work broken pension
+
+
+---
+
+### 386. msg_19658
+
+**You** - 2025-06-08T09:28:36
+
+>
+No I could do monthly
+
+
+---
+
+### 387. msg_19659
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:28:40
+
+Can you determine the amount you are comfortable with up front?
+
+
+---
+
+### 388. msg_19660
+
+**You** - 2025-06-08T09:28:45
+
+And she would get a\. Lot less over time
+
+
+---
+
+### 389. msg_19661
+
+**You** - 2025-06-08T09:29:05
+
+It is possible I just wish I was free of it
+
+
+---
+
+### 390. msg_19662
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:29:22
+
+Yeah I know
+
+
+---
+
+### 391. msg_19663
+
+**You** - 2025-06-08T09:29:34
+
+I am almost willing to say fuck it
+
+
+---
+
+### 392. msg_19664
+
+**You** - 2025-06-08T09:29:41
+
+Take it all leave me alone
+
+
+---
+
+### 393. msg_19665
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:30:46
+
+No dont don’t do that
+
+
+---
+
+### 394. msg_19666
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:30:50
+
+You will regret it
+
+
+---
+
+### 395. msg_19667
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:31:02
+
+I know that feeling and it passes
+
+
+---
+
+### 396. msg_19668
+
+**You** - 2025-06-08T09:31:20
+
+Yeah not realistic\.\. but feel
+That way
+
+
+---
+
+### 397. msg_19669
+
+**You** - 2025-06-08T09:31:29
+
+She is not
+Good
+With math
+
+
+---
+
+### 398. msg_19670
+
+**You** - 2025-06-08T09:32:14
+
+I explained to her if I have a 3000 mortgage a month and 3000 in expenses and other costs\.\. it would take me more Than the career time I have left to build a bank account\. Like what you will start with
+
+
+---
+
+### 399. msg_19671
+
+**You** - 2025-06-08T09:32:29
+
+Unless I advance and unless I am extremely frugal\.
+
+
+---
+
+### 400. msg_19672
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:33:01
+
+Well she is mad so likely doesn’t care?
+
+
+---
+
+### 401. msg_19673
+
+**You** - 2025-06-08T09:33:04
+
+Anyways I will figure it out
+
+
+---
+
+### 402. msg_19674
+
+**You** - 2025-06-08T09:33:09
+
+No she does care
+
+
+---
+
+### 403. msg_19675
+
+**You** - 2025-06-08T09:33:13
+
+She is just afraid
+
+
+---
+
+### 404. msg_19676
+
+**You** - 2025-06-08T09:33:48
+
+She also doesn’t want me going to lawyer for anything other than validating the agreement
+
+
+---
+
+### 405. msg_19677
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:33:53
+
+Well that sucks\. Maybe she needs a therapist to discuss her fears and anxieties
+
+
+---
+
+### 406. msg_19678
+
+**You** - 2025-06-08T09:33:58
+
+Cause then costs add up it gets contentious etc
+
+
+---
+
+### 407. msg_19679
+
+**You** - 2025-06-08T09:34:11
+
+>
+She hates therapy
+
+
+---
+
+### 408. msg_19680
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:34:17
+
+I know
+
+
+---
+
+### 409. msg_19681
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:34:23
+
+Unfortunate
+
+
+---
+
+### 410. msg_19682
+
+**You** - 2025-06-08T09:34:38
+
+Maybe she needs 6 glasses of wine
+
+
+---
+
+### 411. msg_19683
+
+**You** - 2025-06-08T09:34:56
+
+That seems to make all kinds of interesting things happen
+
+
+---
+
+### 412. msg_19684
+
+**You** - 2025-06-08T09:35:25
+
+Have fun re reading last nights transcript kf you don’t Remeber lol
+
+
+---
+
+### 413. msg_19685
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:35:31
+
+Honestly, I feel better today so I’m wondering if I need to stop drinking Pinot Noir and start drinking cab or maybe I just can’t drink more than a bottle
+
+
+---
+
+### 414. msg_19686
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:35:43
+
+I honestly remember a lot of it, which is weird
+
+
+---
+
+### 415. msg_19687
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:35:54
+
+I was drinking a lot of water too, which helped and drinking slower
+
+
+---
+
+### 416. msg_19688
+
+**You** - 2025-06-08T09:36:03
+
+You were fine last night nothing crazy
+
+
+---
+
+### 417. msg_19689
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:36:20
+
+Yeah, maybe Pinot Noir’s out for a while or something I have no idea\. I’m really confused today\.
+
+
+---
+
+### 418. msg_19690
+
+**You** - 2025-06-08T09:36:25
+
+Although there was some stuff yku were willing to share and I was like nope\.z
+
+
+---
+
+### 419. msg_19691
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:36:32
+
+lol
+
+
+---
+
+### 420. msg_19692
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:36:36
+
+Well, I was still drunk
+
+
+---
+
+### 421. msg_19693
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:36:41
+
+Just a different drunk
+
+
+---
+
+### 422. msg_19694
+
+**You** - 2025-06-08T09:36:43
+
+Nope nope nope
+
+
+---
+
+### 423. msg_19695
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:37:28
+
+
+*1 attachment(s)*
+
+
+---
+
+### 424. msg_19696
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:37:43
+
+That’s the wine I drank
+
+
+---
+
+### 425. msg_19697
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:38:13
+
+I am a big fan Trius wine … for a couple years it is all I drank mainly
+
+
+---
+
+### 426. msg_19698
+
+**You** - 2025-06-08T09:38:20
+
+I know you sent me a pick at the lcbo
+
+
+---
+
+### 427. msg_19699
+
+**You** - 2025-06-08T09:38:44
+
+An “old friend”
+
+
+---
+
+### 428. msg_19700
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:38:44
+
+No that was a diff pic
+
+
+---
+
+### 429. msg_19701
+
+**You** - 2025-06-08T09:38:49
+
+Oh was it
+
+
+---
+
+### 430. msg_19702
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:39:05
+
+That other pic was what one of Mac’s friends parents sent as a gift to the cottage
+
+
+---
+
+### 431. msg_19703
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:39:10
+
+I sent it bc of the price
+
+
+---
+
+### 432. msg_19704
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:39:15
+
+I was shocked
+
+
+---
+
+### 433. msg_19705
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:39:17
+
+$$
+
+
+---
+
+### 434. msg_19706
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:39:21
+
+I had no idea
+
+
+---
+
+### 435. msg_19707
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:39:38
+
+I don’t gift wine that pricey\.
+
+
+---
+
+### 436. msg_19708
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:40:09
+
+So when Jamie meets with the lawyer tomorrow, what happens exactly?
+
+
+---
+
+### 437. msg_19709
+
+**You** - 2025-06-08T09:40:19
+
+Noon
+
+
+---
+
+### 438. msg_19710
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:40:19
+
+Did she say yes I agree or no I don’t agree or like what?
+
+
+---
+
+### 439. msg_19711
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:40:27
+
+\*does she say
+
+
+---
+
+### 440. msg_19712
+
+**You** - 2025-06-08T09:40:28
+
+She said she wants to understand more
+
+
+---
+
+### 441. msg_19713
+
+**You** - 2025-06-08T09:40:59
+
+She said we only ever agree if she agrees with me\.\. I said you need to take a position I will take a position and we will negotiate
+
+
+---
+
+### 442. msg_19714
+
+**You** - 2025-06-08T09:41:12
+
+Problem is she never puts forward a position\.
+
+
+---
+
+### 443. msg_19715
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:41:32
+
+Well, hopefully she has some like pointed questions because is the lawyer’s time really expensive? How much do they charge an hour?
+
+
+---
+
+### 444. msg_19716
+
+**You** - 2025-06-08T09:41:43
+
+300 and she doesn’t
+
+
+---
+
+### 445. msg_19717
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:41:51
+
+Yikes
+
+
+---
+
+### 446. msg_19718
+
+**You** - 2025-06-08T09:41:53
+
+So it will be them just filling her head with shit
+
+
+---
+
+### 447. msg_19719
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:42:02
+
+Does she ever use ChatGPT?
+
+
+---
+
+### 448. msg_19720
+
+**You** - 2025-06-08T09:42:10
+
+Fuck no
+
+
+---
+
+### 449. msg_19721
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:42:14
+
+Could she put the draft that she got to ChatGPT and like ask some questions?
+
+
+---
+
+### 450. msg_19722
+
+**You** - 2025-06-08T09:42:22
+
+I can give her some stuff
+
+
+---
+
+### 451. msg_19723
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:42:31
+
+No, like why can’t she do it?
+
+
+---
+
+### 452. msg_19724
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:42:37
+
+I think if she does it, she’ll feel better about it
+
+
+---
+
+### 453. msg_19725
+
+**You** - 2025-06-08T09:42:38
+
+Because that is who she is
+
+
+---
+
+### 454. msg_19726
+
+**You** - 2025-06-08T09:42:43
+
+Honestly
+
+
+---
+
+### 455. msg_19727
+
+**You** - 2025-06-08T09:42:55
+
+She is not a go getter a doer
+
+
+---
+
+### 456. msg_19728
+
+**You** - 2025-06-08T09:42:58
+
+She isn’t prosctive
+
+
+---
+
+### 457. msg_19729
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:43:02
+
+Like she can just chat with with AI casually
+
+
+---
+
+### 458. msg_19730
+
+**You** - 2025-06-08T09:43:04
+
+Proactive
+
+
+---
+
+### 459. msg_19731
+
+**You** - 2025-06-08T09:43:08
+
+No
+
+
+---
+
+### 460. msg_19732
+
+**You** - 2025-06-08T09:43:12
+
+She wouldn’t
+
+
+---
+
+### 461. msg_19733
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:43:26
+
+But it would be so much easier than spending 300 and going and blind she’d be more prepared and then that 300 would be better spent
+
+
+---
+
+### 462. msg_19734
+
+**You** - 2025-06-08T09:43:37
+
+The more you learn about her the more you will question my judgement
+
+
+---
+
+### 463. msg_19735
+
+**You** - 2025-06-08T09:43:49
+
+Or lackthereof
+
+
+---
+
+### 464. msg_19736
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:43:56
+
+But have you asked her to use ChatGPT like just to try it?
+
+
+---
+
+### 465. msg_19737
+
+**You** - 2025-06-08T09:44:00
+
+Yes
+
+
+---
+
+### 466. msg_19738
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:44:07
+
+And she won’t?
+
+
+---
+
+### 467. msg_19739
+
+**You** - 2025-06-08T09:44:10
+
+Offered to show her how
+
+
+---
+
+### 468. msg_19740
+
+**You** - 2025-06-08T09:44:11
+
+No
+
+
+---
+
+### 469. msg_19741
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:44:21
+
+Sigh
+
+
+---
+
+### 470. msg_19742
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:44:29
+
+Unfortunate
+
+
+---
+
+### 471. msg_19743
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:44:36
+
+And I don’t question your judgement lol
+
+
+---
+
+### 472. msg_19744
+
+**You** - 2025-06-08T09:45:42
+
+I think my judgement back then was flawed for sure
+
+
+---
+
+### 473. msg_19745
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:48:07
+
+I think everyone’s is in their 20s to some extent
+
+
+---
+
+### 474. msg_19746
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:48:26
+
+People are weird
+
+
+---
+
+### 475. msg_19747
+
+**You** - 2025-06-08T09:48:41
+
+Some more than others
+
+
+---
+
+### 476. msg_19748
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:49:05
+
+Plus you said yourself that your judgement was impacted by so many negative experiences in a short timeframe\.
+
+
+---
+
+### 477. msg_19749
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:49:12
+
+So, there is that\.
+
+
+---
+
+### 478. msg_19750
+
+**You** - 2025-06-08T09:49:43
+
+Yep that definitely fed into it\.
+
+
+---
+
+### 479. msg_19751
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:50:19
+
+So be gentle on yourself\. There were legit factors at play
+
+
+---
+
+### 480. msg_19752
+
+**You** - 2025-06-08T09:51:48
+
+Yeah well I am here now and I am in the shit now\.\. gotta deal with what is in front of me\.
+
+
+---
+
+### 481. msg_19753
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:54:33
+
+Well hopefully after tomorrow things look a bit more up\.
+
+
+---
+
+### 482. msg_19754
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:54:38
+
+For you
+
+
+---
+
+### 483. msg_19755
+
+**You** - 2025-06-08T09:55:42
+
+Yep we will see\.  I am going to get to cleaning and stop bothering you so you can get onto whatever you have going on today\. Love you lots mer\. ❤️
+
+
+---
+
+### 484. msg_19756
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T09:57:30
+
+Love you too ❤️ ttyl
+
+
+---
+
+### 485. msg_19757
+
+**You** - 2025-06-08T10:47:12
+
+Reaction: 😮 from Meredith Lamb
+Actually training at 11 lucky I checked at gym now will check in later\.
+
+
+---
+
+### 486. msg_19758
+
+**You** - 2025-06-08T11:41:37
+
+Omg he is literally killing me
+
+
+---
+
+### 487. msg_19759
+
+**You** - 2025-06-08T11:41:43
+
+You might not see me again
+
+
+---
+
+### 488. msg_19760
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T11:55:26
+
+lol 😭
+
+
+---
+
+### 489. msg_19761
+
+**You** - 2025-06-08T12:06:05
+
+Holy fuck
+
+
+---
+
+### 490. msg_19762
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T12:07:59
+
+Still going?
+
+
+---
+
+### 491. msg_19763
+
+**You** - 2025-06-08T12:08:40
+
+Just finished
+
+
+---
+
+### 492. msg_19764
+
+**You** - 2025-06-08T12:08:52
+
+I could barely make it down the stairs
+
+
+---
+
+### 493. msg_19765
+
+**You** - 2025-06-08T12:09:12
+
+Can’t even flex for status shot on legs Jessy’s
+
+
+---
+
+### 494. msg_19766
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T12:09:12
+
+Yikes lol
+
+
+---
+
+### 495. msg_19767
+
+**You** - 2025-06-08T12:09:14
+
+Jesus
+
+
+---
+
+### 496. msg_19768
+
+**You** - 2025-06-08T12:09:47
+
+We had a bit of a laugh mid workout
+
+
+---
+
+### 497. msg_19769
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T12:09:56
+
+I am just leaving to drive Maelle to volleyball in Markham\. 1\-3pm :p
+
+
+---
+
+### 498. msg_19770
+
+**You** - 2025-06-08T12:11:15
+
+Reaction: ❤️ from Meredith Lamb
+He knows you are my gf and asked if she would appreciate this whole Henry caville goal\.\. I said she is more of a Morgan wallen fan\.\. he feels I can convert you\.\.
+
+
+---
+
+### 499. msg_19771
+
+**You** - 2025-06-08T12:11:28
+
+>
+Kk have fun say hello to your mom for me\.
+
+
+---
+
+### 500. msg_19772
+
+**You** - 2025-06-08T12:11:32
+
+❤️
+
+
+---
+
+### 501. msg_19773
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T12:15:22
+
+My mom is at Marlowe’s vball
+
+
+---
+
+### 502. msg_19774
+
+**You** - 2025-06-08T12:18:17
+
+Ah ok well have fun anyways
+
+
+---
+
+### 503. msg_19775
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T14:25:07
+
+So I napped for an hour in the parking lot and am now just chatting to my SIL online\. So fun …
+
+
+---
+
+### 504. msg_19776
+
+**You** - 2025-06-08T14:25:28
+
+lol I am doing this
+
+
+---
+
+### 505. msg_19777
+
+**You** - 2025-06-08T14:25:45
+
+
+*1 attachment(s)*
+
+
+---
+
+### 506. msg_19778
+
+**You** - 2025-06-08T14:25:55
+
+And got some stuff from butcher shop
+
+
+---
+
+### 507. msg_19779
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T14:27:59
+
+I used to love the chocolate raspberry simply protein bars
+
+
+---
+
+### 508. msg_19780
+
+**You** - 2025-06-08T14:28:18
+
+I will have some at my desk if you want to steak
+
+
+---
+
+### 509. msg_19781
+
+**You** - 2025-06-08T14:30:00
+
+Steal
+
+
+---
+
+### 510. msg_19782
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T14:30:11
+
+I figured lol
+
+
+---
+
+### 511. msg_19783
+
+**You** - 2025-06-08T14:30:37
+
+Gonna try to make eggs I can eat tonight
+
+
+---
+
+### 512. msg_19784
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T14:30:57
+
+Really\! Can’t wait to see how that goes
+
+
+---
+
+### 513. msg_19785
+
+**You** - 2025-06-08T14:31:08
+
+They will be eaten
+
+
+---
+
+### 514. msg_19786
+
+**You** - 2025-06-08T14:31:12
+
+Reaction: 😂 from Meredith Lamb
+That is how it will go
+
+
+---
+
+### 515. msg_19787
+
+**You** - 2025-06-08T14:31:13
+
+lol
+
+
+---
+
+### 516. msg_19788
+
+**You** - 2025-06-08T14:31:25
+
+Also making a chicken thing I can show you later
+
+
+---
+
+### 517. msg_19789
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T15:43:21
+
+
+*1 attachment(s)*
+
+
+---
+
+### 518. msg_19790
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T15:43:28
+
+My mom sent me that
+
+
+---
+
+### 519. msg_19791
+
+**You** - 2025-06-08T16:05:37
+
+Cool nice serves
+
+
+---
+
+### 520. msg_19792
+
+**You** - 2025-06-08T16:05:51
+
+I just got off with Mike we talked a loooooong time about you\.
+
+
+---
+
+### 521. msg_19793
+
+**You** - 2025-06-08T16:06:55
+
+Like let’s say he is COMPLETELY brought up to current lol
+
+
+---
+
+### 522. msg_19794
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:07:23
+
+Oh god\. Lol
+
+
+---
+
+### 523. msg_19795
+
+**You** - 2025-06-08T16:07:34
+
+Literally lol
+
+
+---
+
+### 524. msg_19796
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:07:39
+
+If I know you as I do I’m sure he is very up to speed
+
+
+---
+
+### 525. msg_19797
+
+**You** - 2025-06-08T16:07:44
+
+It was good to get
+Someone else’s perspective
+
+
+---
+
+### 526. msg_19798
+
+**You** - 2025-06-08T16:07:54
+
+All the details yes
+
+
+---
+
+### 527. msg_19799
+
+**You** - 2025-06-08T16:07:59
+
+Details are important
+
+
+---
+
+### 528. msg_19800
+
+**You** - 2025-06-08T16:08:36
+
+Btw read the end of our discussion from last night I told you i was going to follow up on that
+
+
+---
+
+### 529. msg_19801
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:08:52
+
+>
+Perspective on……
+
+
+---
+
+### 530. msg_19802
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:08:59
+
+Still driving
+
+
+---
+
+### 531. msg_19803
+
+**You** - 2025-06-08T16:09:39
+
+On everything
+
+
+---
+
+### 532. msg_19804
+
+**You** - 2025-06-08T16:09:47
+
+Perspective on literally everything
+
+
+---
+
+### 533. msg_19805
+
+**You** - 2025-06-08T16:10:43
+
+You drive we can chat later
+
+
+---
+
+### 534. msg_19806
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:11:30
+
+Home now but I think I have to go get Mac a gym membership
+
+
+---
+
+### 535. msg_19807
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:11:40
+
+Have to sign some form “in person”
+
+
+---
+
+### 536. msg_19808
+
+**You** - 2025-06-08T16:14:03
+
+Cool have fun\.\. 🙂
+
+
+---
+
+### 537. msg_19809
+
+**You** - 2025-06-08T16:14:08
+
+Mowing lawn
+
+
+---
+
+### 538. msg_19810
+
+**You** - 2025-06-08T16:14:16
+
+Been pretty much going all day\.\. bah
+
+
+---
+
+### 539. msg_19811
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:21:55
+
+Energizer bunny
+
+
+---
+
+### 540. msg_19812
+
+**You** - 2025-06-08T16:23:01
+
+No choice…\.\. no help sucks
+
+
+---
+
+### 541. msg_19813
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:23:34
+
+>
+Hmmh not seeing what you are going to follow up on\. Seriously
+
+
+---
+
+### 542. msg_19814
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:25:18
+
+Not helpful
+
+
+---
+
+### 543. msg_19815
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:25:57
+
+>
+Do you feel better or worse after talking to him? Lol
+
+
+---
+
+### 544. msg_19816
+
+**You** - 2025-06-08T16:24:54
+
+TMI
+
+
+---
+
+### 545. msg_19817
+
+**You** - 2025-06-08T16:24:59
+
+Just look for that
+
+
+---
+
+### 546. msg_19818
+
+**You** - 2025-06-08T16:31:48
+
+You mention tmi in one of your responses to me near the bed of the night I tried to get you to engage but you wouldn’t \.\. should be easy to spot
+
+
+---
+
+### 547. msg_19819
+
+**You** - 2025-06-08T16:31:56
+
+>
+I don’t feel worse\.
+
+
+---
+
+### 548. msg_19820
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:32:55
+
+>
+Omg
+
+
+---
+
+### 549. msg_19821
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:33:02
+
+What a response lol
+
+
+---
+
+### 550. msg_19822
+
+**You** - 2025-06-08T16:34:07
+
+Well I don’t\.\. lol
+
+
+---
+
+### 551. msg_19823
+
+**You** - 2025-06-08T16:34:25
+
+This is a lot
+Of uncharted territory
+
+
+---
+
+### 552. msg_19824
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:34:29
+
+Ohh the tmi was about why Chris was clearly gay\. You are talking about that?
+
+
+---
+
+### 553. msg_19825
+
+**You** - 2025-06-08T16:34:42
+
+Mike was frankly shocked that I did any of this with you\.
+
+
+---
+
+### 554. msg_19826
+
+**You** - 2025-06-08T16:34:48
+
+Since he knows me so well
+
+
+---
+
+### 555. msg_19827
+
+**You** - 2025-06-08T16:35:28
+
+>
+Yeah perhaps leave it alone\.\.  now that I think about it my brain is already spinning\.  Regrets already\.
+
+
+---
+
+### 556. msg_19828
+
+**You** - 2025-06-08T16:35:43
+
+See I try and I really want to because I want it to be done
+
+
+---
+
+### 557. msg_19829
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:36:18
+
+>
+Want what to be done?
+
+
+---
+
+### 558. msg_19830
+
+**You** - 2025-06-08T16:36:25
+
+And in my head there are answers and I am like …………\.\.
+
+
+---
+
+### 559. msg_19831
+
+**You** - 2025-06-08T16:36:31
+
+I want all the tmi to be done
+
+
+---
+
+### 560. msg_19832
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:36:33
+
+You have me worried
+
+
+---
+
+### 561. msg_19833
+
+**You** - 2025-06-08T16:36:34
+
+Just done
+
+
+---
+
+### 562. msg_19834
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:36:35
+
+lol
+
+
+---
+
+### 563. msg_19835
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:36:53
+
+Today I was like “he is totally going to change his mind”
+
+
+---
+
+### 564. msg_19836
+
+**You** - 2025-06-08T16:37:05
+
+Change my mind?
+
+
+---
+
+### 565. msg_19837
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:37:42
+
+On all of this\.
+
+
+---
+
+### 566. msg_19838
+
+**You** - 2025-06-08T16:38:46
+
+All of what is?
+
+
+---
+
+### 567. msg_19839
+
+**You** - 2025-06-08T16:38:49
+
+Us?
+
+
+---
+
+### 568. msg_19840
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:39:47
+
+Yes\. You seem to be struggling with all my talking lol
+
+
+---
+
+### 569. msg_19841
+
+**You** - 2025-06-08T16:40:08
+
+Seriously I have been trying to get through to the other side not run away\.\.
+
+
+---
+
+### 570. msg_19842
+
+**You** - 2025-06-08T16:40:11
+
+Jesus
+
+
+---
+
+### 571. msg_19843
+
+**You** - 2025-06-08T16:40:26
+
+Soul mates are that mer you don’t walk away
+
+
+---
+
+### 572. msg_19844
+
+**You** - 2025-06-08T16:41:04
+
+This IS hard for me but I told
+You I would rather be uncomfortable
+Knowing than comfortable not and always wondering
+
+
+---
+
+### 573. msg_19845
+
+**You** - 2025-06-08T16:41:22
+
+So therefore I think tmi needs to be put to bed get it out and be done with it\.
+
+
+---
+
+### 574. msg_19846
+
+**You** - 2025-06-08T16:41:35
+
+If you have questions I can give you my answers
+
+
+---
+
+### 575. msg_19847
+
+**You** - 2025-06-08T16:42:11
+
+When Mike asked about our respective histories he asked what I have shared\.\. and he laughed…
+
+
+---
+
+### 576. msg_19848
+
+**You** - 2025-06-08T16:45:34
+
+I am kind of surprised you would think I would walk away from this considering the gpt you shared yesterday\.\. you think I am faking my feelings for you?
+
+
+---
+
+### 577. msg_19849
+
+**You** - 2025-06-08T16:46:11
+
+I am looking right at you and don’t have to say anything but I think you should know how i feel\.
+
+
+---
+
+### 578. msg_19850
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:48:17
+
+One sec
+
+
+---
+
+### 579. msg_19851
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:55:51
+
+Sorry had to chat\. Just got home
+
+
+---
+
+### 580. msg_19852
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:56:12
+
+I don’t think you would change your mind\. My stupid head just goes there
+
+
+---
+
+### 581. msg_19853
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:56:30
+
+Logically I don’t think you would
+
+
+---
+
+### 582. msg_19854
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:56:45
+
+>
+How did you answer this?
+
+
+---
+
+### 583. msg_19855
+
+**You** - 2025-06-08T16:58:00
+
+I laughed
+
+
+---
+
+### 584. msg_19856
+
+**You** - 2025-06-08T16:58:43
+
+While you are willing to share openly\.  I am willing to share but I don’t love telling the stories\.
+
+
+---
+
+### 585. msg_19857
+
+**You** - 2025-06-08T16:58:58
+
+He just couldn’t believe I was completely open
+
+
+---
+
+### 586. msg_19858
+
+**You** - 2025-06-08T16:59:06
+
+Cause that isn’t me
+
+
+---
+
+### 587. msg_19859
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:59:07
+
+Really
+
+
+---
+
+### 588. msg_19860
+
+**You** - 2025-06-08T16:59:16
+
+No
+
+
+---
+
+### 589. msg_19861
+
+**You** - 2025-06-08T16:59:20
+
+Not even a bit
+
+
+---
+
+### 590. msg_19862
+
+**You** - 2025-06-08T16:59:26
+
+Opposite
+
+
+---
+
+### 591. msg_19863
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T16:59:41
+
+And what did he think about your tmi struggles? I’m crazy?
+
+
+---
+
+### 592. msg_19864
+
+**You** - 2025-06-08T16:59:45
+
+I hold my cards close and don’t let people know anything that could hurt me
+
+
+---
+
+### 593. msg_19865
+
+**You** - 2025-06-08T16:59:57
+
+No he agreed with my conclusion
+
+
+---
+
+### 594. msg_19866
+
+**You** - 2025-06-08T17:00:12
+
+And kind of what I decide
+
+
+---
+
+### 595. msg_19867
+
+**You** - 2025-06-08T17:00:16
+
+Decided
+
+
+---
+
+### 596. msg_19868
+
+**You** - 2025-06-08T17:01:03
+
+He knows why i struggle he also
+Knows why I am pushing through it
+
+
+---
+
+### 597. msg_19869
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:01:18
+
+He didn’t think you should run away lol
+
+
+---
+
+### 598. msg_19870
+
+**You** - 2025-06-08T17:01:23
+
+No
+
+
+---
+
+### 599. msg_19871
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:01:32
+
+Get out while you can?
+
+
+---
+
+### 600. msg_19872
+
+**You** - 2025-06-08T17:01:36
+
+You are basically me
+
+
+---
+
+### 601. msg_19873
+
+**You** - 2025-06-08T17:02:26
+
+Your level
+Of intensity and crazy took you somewhere else\.\. well a lot
+Of the same places
+But let’s say I have visited quite a few more times\.\. and there were a lot
+Of things in that I never that weren’t asked so I didn’t have to answer
+
+
+---
+
+### 602. msg_19874
+
+**You** - 2025-06-08T17:02:59
+
+So if I can look back at
+My own life\.\. and not cringe too much\.
+
+
+---
+
+### 603. msg_19875
+
+**You** - 2025-06-08T17:03:05
+
+I should be able to handle yours
+
+
+---
+
+### 604. msg_19876
+
+**You** - 2025-06-08T17:03:46
+
+Therefore no more
+TMI\.\. if
+You want to share you share\. Without worry I still might react I might say ok done for the night
+
+
+---
+
+### 605. msg_19877
+
+**You** - 2025-06-08T17:03:53
+
+But I am not going anywhere mer
+
+
+---
+
+### 606. msg_19878
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:05:14
+
+k I appreciate that\. I don’t want to make things hard for you though\. This shouldn’t be hard\! So I will do my best to act like an actual adult \(80% of the time\)
+
+
+---
+
+### 607. msg_19879
+
+**You** - 2025-06-08T17:06:33
+
+>
+Still cannot believe this Jesus\.  I woke up this morning still messing with you in the marry me thing and you think I am running away?
+
+
+---
+
+### 608. msg_19880
+
+**You** - 2025-06-08T17:06:40
+
+Or maybe that was last night
+
+
+---
+
+### 609. msg_19881
+
+**You** - 2025-06-08T17:06:44
+
+Either way
+
+
+---
+
+### 610. msg_19882
+
+**You** - 2025-06-08T17:07:58
+
+So share
+Or don’t share about jay chris Steve Jeremy Gavin Andrew or anyone in between\.\.  your call I will still tell you if and when I have
+Had enough but I\. Will process
+It\.
+
+
+---
+
+### 611. msg_19883
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:09:14
+
+>
+My head is stupid sometimes\.
+
+
+---
+
+### 612. msg_19884
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:11:17
+
+It was when I was driving… I dunno\. Honestly… I just get these conflicting thoughts sometimes
+
+
+---
+
+### 613. msg_19885
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:12:17
+
+>
+Curious of these “things that weren’t asked”
+
+
+---
+
+### 614. msg_19886
+
+**You** - 2025-06-08T17:09:49
+
+No it’s not\.\. But I don’t understand\.\. what do you think you shared that would make me think that\.
+
+
+---
+
+### 615. msg_19887
+
+**You** - 2025-06-08T17:12:08
+
+Is this Chris tmi thing a really bad
+One?  I promise I have done worse
+That I have not sharedd
+
+
+---
+
+### 616. msg_19888
+
+**You** - 2025-06-08T17:12:38
+
+>
+Like what
+
+
+---
+
+### 617. msg_19889
+
+**You** - 2025-06-08T17:13:02
+
+Like you don’t actually think we are\.\.
+Meant to be or not
+
+
+---
+
+### 618. msg_19890
+
+**You** - 2025-06-08T17:13:06
+
+That kind of stuff
+
+
+---
+
+### 619. msg_19891
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:13:36
+
+No the Chris thing is not a situation\. It is just the reasons I know he is gay and not bi whereas he doesn’t know\. It’s not deep\. But also, it isn’t significant\. And totally not relevant to anything right now\.
+
+
+---
+
+### 620. msg_19892
+
+**You** - 2025-06-08T17:13:38
+
+>
+Just things I have done adventures
+I have had
+
+
+---
+
+### 621. msg_19893
+
+**You** - 2025-06-08T17:14:05
+
+So why the tmi?
+
+
+---
+
+### 622. msg_19894
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:14:24
+
+>
+No I think we are but I was just wondering if I was too much for you\.
+
+
+---
+
+### 623. msg_19895
+
+**You** - 2025-06-08T17:14:26
+
+See that will
+Always be like a big flashing light now
+
+
+---
+
+### 624. msg_19896
+
+**You** - 2025-06-08T17:14:52
+
+>
+Like i said I was worried you were like back in march april\.
+
+
+---
+
+### 625. msg_19897
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:16:03
+
+>
+Because I don’t think that conversation is for you\. Lol
+
+
+---
+
+### 626. msg_19898
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:16:17
+
+>
+Wait what will be?
+
+
+---
+
+### 627. msg_19899
+
+**You** - 2025-06-08T17:16:58
+
+>
+I am going to take a wild guess that in those 19 questions we chose not to respond to the answer
+Is there\.\.
+It’s fine\.
+
+
+---
+
+### 628. msg_19900
+
+**You** - 2025-06-08T17:17:09
+
+>
+When you call out tmu
+
+
+---
+
+### 629. msg_19901
+
+**You** - 2025-06-08T17:17:22
+
+TMI I am going to want to know now because
+
+
+---
+
+### 630. msg_19902
+
+**You** - 2025-06-08T17:17:34
+
+I think that kind of connection is what you are looking for
+
+
+---
+
+### 631. msg_19903
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:17:46
+
+>
+No that is not what I’m talking about at all\. Get your head out of the gutter\. I’m talking about really basic things\.
+
+
+---
+
+### 632. msg_19904
+
+**You** - 2025-06-08T17:18:49
+
+Hmm deleted\.\.
+I guess
+lol
+
+
+---
+
+### 633. msg_19905
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:18:53
+
+It’s not tmi in general but it is for you because it involves Chris …
+
+
+---
+
+### 634. msg_19906
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:19:02
+
+That’s basically it\. Wasn’t going there
+
+
+---
+
+### 635. msg_19907
+
+**You** - 2025-06-08T17:19:33
+
+I thought we
+We’re
+Going to close the book
+In him know everything so we never have to worry about it again\.\. but your being worried to tell me after
+All the other stuff\.\.
+lol
+
+
+---
+
+### 636. msg_19908
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:20:42
+
+I’m not “afraid”\. I just feel like I need to manage my communication style better lol
+
+
+---
+
+### 637. msg_19909
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:20:51
+
+You literally told me that
+
+
+---
+
+### 638. msg_19910
+
+**You** - 2025-06-08T17:20:54
+
+Mm hmm
+
+
+---
+
+### 639. msg_19911
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:21:38
+
+I want to know how you framed your convo to Mike
+
+
+---
+
+### 640. msg_19912
+
+**You** - 2025-06-08T17:21:40
+
+Kk let’s drop it\.
+
+
+---
+
+### 641. msg_19913
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:21:50
+
+I’m interested in how you frame this
+
+
+---
+
+### 642. msg_19914
+
+**You** - 2025-06-08T17:22:07
+
+I will try to forget\. Not sure how well that will work but will try
+
+
+---
+
+### 643. msg_19915
+
+**You** - 2025-06-08T17:22:41
+
+Reaction: ❤️ from Meredith Lamb
+I told him I love you you are my soul mate\.  I told him I have never felt like this with anyone\.  I told him about how I feel
+When I am with you and when I am not
+
+
+---
+
+### 644. msg_19916
+
+**You** - 2025-06-08T17:22:54
+
+I told him about the convo at the cottage and how that made me feel
+
+
+---
+
+### 645. msg_19917
+
+**You** - 2025-06-08T17:23:08
+
+I was brutally honest… because I can be with him
+
+
+---
+
+### 646. msg_19918
+
+**You** - 2025-06-08T17:23:26
+
+Because he knows EVERYTHING about me\.
+Closer than a brother
+
+
+---
+
+### 647. msg_19919
+
+**You** - 2025-06-08T17:24:45
+
+I told him about our progression\.\.
+About the ChatGPT about how I feel when we just sit and talk\.
+About how I feel on the Friday,
+The other night,
+Last night
+
+
+---
+
+### 648. msg_19920
+
+**You** - 2025-06-08T17:24:52
+
+The decisions I made
+
+
+---
+
+### 649. msg_19921
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:25:06
+
+Omg ok, so the reason I know Chris is gay and not bi is because I was obviously with him … he did everything different\. Very gay\. Hard to explain\. And was just completely out of his element with me whenever we were doing anything beyond hanging out and drugs\. That’s really all I was going to say\. Maybe if I was drunk I would have been more detailed like wrt how he touches vs a straight/bi person etc etc but not sure bc I ain’t drunk right now\. 😇 But it was pretty simple but I didn’t want to go there because it is all baes on he and I being together and I know that is bothersome\.
+
+
+---
+
+### 650. msg_19922
+
+**You** - 2025-06-08T17:25:06
+
+My thought process,
+Logic and conclusions
+
+
+---
+
+### 651. msg_19923
+
+**You** - 2025-06-08T17:25:52
+
+>
+No that is not bothersome it makes sense\.
+
+
+---
+
+### 652. msg_19924
+
+**You** - 2025-06-08T17:28:15
+
+>
+I still don’t get this honestly the whole thing and your resistance to calling it friends with benefits\.\. it kind of either is or it was a true relationship\. That was always confusing to me
+
+
+---
+
+### 653. msg_19925
+
+**You** - 2025-06-08T17:28:30
+
+Are you going to get wine now?
+
+
+---
+
+### 654. msg_19926
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:29:21
+
+No more wine for a while lol
+
+
+---
+
+### 655. msg_19927
+
+**You** - 2025-06-08T17:29:59
+
+Mi actually feel you are conflicted
+About it
+
+
+---
+
+### 656. msg_19928
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:30:05
+
+>
+So maybe it was friends with benefits in the beginning but it moved to friends only after that\.
+
+
+---
+
+### 657. msg_19929
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:30:24
+
+>
+About wine?
+
+
+---
+
+### 658. msg_19930
+
+**You** - 2025-06-08T17:30:24
+
+And I think your other boyfriends might have as well\. The trend
+
+
+---
+
+### 659. msg_19931
+
+**You** - 2025-06-08T17:30:26
+
+lol
+
+
+---
+
+### 660. msg_19932
+
+**You** - 2025-06-08T17:30:32
+
+Chris and what he was to you
+
+
+---
+
+### 661. msg_19933
+
+**You** - 2025-06-08T17:30:37
+
+Not wine
+
+
+---
+
+### 662. msg_19934
+
+**You** - 2025-06-08T17:30:41
+
+No conflict there
+
+
+---
+
+### 663. msg_19935
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:30:45
+
+lol
+
+
+---
+
+### 664. msg_19936
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:31:34
+
+>
+We were friends only for longer than friends that do other shit\. Lol
+
+
+---
+
+### 665. msg_19937
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:31:49
+
+That’s why I’m reluctant to label him as that
+
+
+---
+
+### 666. msg_19938
+
+**You** - 2025-06-08T17:32:03
+
+I have had those relationships
+
+
+---
+
+### 667. msg_19939
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:32:03
+
+Because he wasn’t for the full time period
+
+
+---
+
+### 668. msg_19940
+
+**You** - 2025-06-08T17:32:12
+
+But not in reverse
+
+
+---
+
+### 669. msg_19941
+
+**You** - 2025-06-08T17:32:19
+
+That part is weird
+
+
+---
+
+### 670. msg_19942
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:32:30
+
+Not when someone is gay
+
+
+---
+
+### 671. msg_19943
+
+**You** - 2025-06-08T17:32:41
+
+And again had I been someone back then I would have had a hard
+Time to believe it
+
+
+---
+
+### 672. msg_19944
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:32:43
+
+He went through a huge boy craze phase
+
+
+---
+
+### 673. msg_19945
+
+**You** - 2025-06-08T17:32:53
+
+Sone things transcend that shit
+
+
+---
+
+### 674. msg_19946
+
+**You** - 2025-06-08T17:33:03
+
+He could have been pan mer\. It wasn’t defined yet
+
+
+---
+
+### 675. msg_19947
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:33:11
+
+No
+
+
+---
+
+### 676. msg_19948
+
+**You** - 2025-06-08T17:33:19
+
+It wasn’t that he liked girls he just liked you
+
+
+---
+
+### 677. msg_19949
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:34:06
+
+Meh maybe \.\. but whatever doesn’t matter now
+
+
+---
+
+### 678. msg_19950
+
+**You** - 2025-06-08T17:34:14
+
+I feel like either you already are or are about to get uncomfortable
+
+
+---
+
+### 679. msg_19951
+
+**You** - 2025-06-08T17:34:26
+
+And start dodging so we can change topic
+
+
+---
+
+### 680. msg_19952
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:34:36
+
+lol win not uncomfortable
+
+
+---
+
+### 681. msg_19953
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:34:42
+
+It was just a long time ago
+
+
+---
+
+### 682. msg_19954
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:34:55
+
+I’m not
+
+
+---
+
+### 683. msg_19955
+
+**You** - 2025-06-08T17:35:06
+
+Ok
+
+
+---
+
+### 684. msg_19956
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:36:39
+
+I just really love you and would like to focus on that \(and not ruining it\)
+
+
+---
+
+### 685. msg_19957
+
+**You** - 2025-06-08T17:36:53
+
+You aren’t ruining it Mer\.  You can’t
+
+
+---
+
+### 686. msg_19958
+
+**You** - 2025-06-08T17:37:25
+
+I swear I have told you this\.\. however much you think I love you\.\. you are lowballing it by a factor of 100
+
+
+---
+
+### 687. msg_19959
+
+**You** - 2025-06-08T17:37:35
+
+Edited: 2 versions
+| Version: 2
+| Sent: Sun, 8 Jun 2025 17:37:50 \-0400
+|
+| Bursting would not do it justice
+|
+| Version: 1
+| Sent: Sun, 8 Jun 2025 17:37:35 \-0400
+|
+| Bursting would be a euphemism\.
+
+
+---
+
+### 688. msg_19960
+
+**You** - 2025-06-08T17:40:05
+
+Like you just don’t get it
+
+
+---
+
+### 689. msg_19961
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:40:09
+
+So we are fine on all of this crap?
+
+
+---
+
+### 690. msg_19962
+
+**You** - 2025-06-08T17:40:15
+
+Yeah
+
+
+---
+
+### 691. msg_19963
+
+**You** - 2025-06-08T17:40:21
+
+We are absolutely fine
+
+
+---
+
+### 692. msg_19964
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:40:29
+
+🥳
+
+
+---
+
+### 693. msg_19965
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:40:47
+
+What was mikes advice
+
+
+---
+
+### 694. msg_19966
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:40:50
+
+Did he have any
+
+
+---
+
+### 695. msg_19967
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:40:56
+
+Did you ask him for any or no
+
+
+---
+
+### 696. msg_19968
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:41:00
+
+Just talked
+
+
+---
+
+### 697. msg_19969
+
+**You** - 2025-06-08T17:41:30
+
+See now you don’t really have to worry about this anymore\.\. sorry if it was painful to get through\.\. but I think we are done now\.
+
+
+---
+
+### 698. msg_19970
+
+**You** - 2025-06-08T17:41:47
+
+He didn’t have any advice he told
+Me to be careful
+
+
+---
+
+### 699. msg_19971
+
+**You** - 2025-06-08T17:41:59
+
+He was there when I put myself
+Out there
+
+
+---
+
+### 700. msg_19972
+
+**You** - 2025-06-08T17:42:09
+
+And he realizes how much more so I have done with you
+
+
+---
+
+### 701. msg_19973
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:42:20
+
+Everyone tells you to be careful lol
+
+
+---
+
+### 702. msg_19974
+
+**You** - 2025-06-08T17:42:22
+
+He actually understands how much I love
+You even if you don’t
+
+
+---
+
+### 703. msg_19975
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:42:40
+
+I do, really ❤️
+
+
+---
+
+### 704. msg_19976
+
+**You** - 2025-06-08T17:43:34
+
+No you don’t you love me a lot\. But you don’t understand my feelings\.  I am not sure I do\.\. again I can only attribute it to I was only supposed to feel this way about one person\.
+
+
+---
+
+### 705. msg_19977
+
+**You** - 2025-06-08T17:43:54
+
+People telling me to be careful has more to do with me and my history than anything about you
+
+
+---
+
+### 706. msg_19978
+
+**You** - 2025-06-08T17:44:03
+
+He got what you were looking for being open\.
+
+
+---
+
+### 707. msg_19979
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:47:59
+
+>
+He got it, you didn’t\. Lol
+
+
+---
+
+### 708. msg_19980
+
+**You** - 2025-06-08T17:48:08
+
+He got it when I explained it
+
+
+---
+
+### 709. msg_19981
+
+**You** - 2025-06-08T17:48:23
+
+I basically walked him through your history
+
+
+---
+
+### 710. msg_19982
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:49:07
+
+Ohhh
+
+
+---
+
+### 711. msg_19983
+
+**You** - 2025-06-08T17:49:14
+
+From high school \- jay
+University \- insert number lol
+Steve
+Chris
+Jeremy
+Gavin
+Andrew
+
+
+---
+
+### 712. msg_19984
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:49:50
+
+I wish I never said that now lol
+
+
+---
+
+### 713. msg_19985
+
+**You** - 2025-06-08T17:50:51
+
+What?
+
+
+---
+
+### 714. msg_19986
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:51:04
+
+>
+Insert \#\. How about 3\.
+
+
+---
+
+### 715. msg_19987
+
+**You** - 2025-06-08T17:51:06
+
+No that is the point
+
+
+---
+
+### 716. msg_19988
+
+**You** - 2025-06-08T17:51:14
+
+How about 25
+
+
+---
+
+### 717. msg_19989
+
+**You** - 2025-06-08T17:51:33
+
+Feel better?
+
+
+---
+
+### 718. msg_19990
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:52:01
+
+Yes\. I actually am not sure of a number but it isn’t high
+
+
+---
+
+### 719. msg_19991
+
+**You** - 2025-06-08T17:52:07
+
+Reaction: 😂 from Meredith Lamb
+Consider the drugs you have done and just convert that relationally to people for my side
+
+
+---
+
+### 720. msg_19992
+
+**You** - 2025-06-08T17:52:17
+
+Only way to give you a sense
+
+
+---
+
+### 721. msg_19993
+
+**You** - 2025-06-08T17:52:42
+
+I don’t like talking about it but I do not want to make
+You feel bad
+
+
+---
+
+### 722. msg_19994
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:52:44
+
+Does Jamie know that?
+
+
+---
+
+### 723. msg_19995
+
+**You** - 2025-06-08T17:52:57
+
+She knows the number is north of 30 well north
+
+
+---
+
+### 724. msg_19996
+
+**You** - 2025-06-08T17:53:05
+
+She knew that before we became serious
+
+
+---
+
+### 725. msg_19997
+
+**You** - 2025-06-08T17:53:10
+
+I didn’t want to lie and she asked
+
+
+---
+
+### 726. msg_19998
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:53:51
+
+Ah ok that’s good
+
+
+---
+
+### 727. msg_19999
+
+**You** - 2025-06-08T17:54:26
+
+Why is that good lol
+
+
+---
+
+### 728. msg_20000
+
+**You** - 2025-06-08T17:54:33
+
+She wasn’t happy
+
+
+---
+
+### 729. msg_20001
+
+**You** - 2025-06-08T17:54:40
+
+I was \# 3
+
+
+---
+
+### 730. msg_20002
+
+**You** - 2025-06-08T17:54:43
+
+For her
+
+
+---
+
+### 731. msg_20003
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:55:03
+
+It is good that you didn’t lie
+
+
+---
+
+### 732. msg_20004
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:55:47
+
+I certainly omitted much of who I was when Andrew and that was probably a big mistake
+
+
+---
+
+### 733. msg_20005
+
+**You** - 2025-06-08T17:55:51
+
+I still couldn’t tell her the exact number
+
+
+---
+
+### 734. msg_20006
+
+**You** - 2025-06-08T17:56:11
+
+>
+Do you think the relationship would have proceeded
+
+
+---
+
+### 735. msg_20007
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:57:38
+
+Not sure honestly\.
+
+
+---
+
+### 736. msg_20008
+
+**You** - 2025-06-08T17:58:34
+
+I mean he seems a bit twisted if he got over his issues he might not have had a problem
+
+
+---
+
+### 737. msg_20009
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:58:52
+
+Yeah, probably wait\. Are you saying I’m twisted?
+
+
+---
+
+### 738. msg_20010
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:58:54
+
+lol
+
+
+---
+
+### 739. msg_20011
+
+**You** - 2025-06-08T17:59:06
+
+No\!\! ROFL
+
+
+---
+
+### 740. msg_20012
+
+**You** - 2025-06-08T17:59:14
+
+But if you are I M
+
+
+---
+
+### 741. msg_20013
+
+**You** - 2025-06-08T17:59:16
+
+Am
+
+
+---
+
+### 742. msg_20014
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:59:18
+
+I’m not even sure why I did such a drastic switch\. I don’t even know it was like rebound and I don’t know\. I didn’t even have time to think after Jeremy and then all of a sudden I was just in another relationship\.
+
+
+---
+
+### 743. msg_20015
+
+**You** - 2025-06-08T17:59:21
+
+And well I am
+
+
+---
+
+### 744. msg_20016
+
+**You** - 2025-06-08T17:59:22
+
+lol
+
+
+---
+
+### 745. msg_20017
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:59:33
+
+>
+You totally are calling me that\!
+
+
+---
+
+### 746. msg_20018
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T17:59:43
+
+I mean, as long as you are too then that’s fine\. I’m OK with it\.
+
+
+---
+
+### 747. msg_20019
+
+**You** - 2025-06-08T18:00:14
+
+Are you denying it?
+
+
+---
+
+### 748. msg_20020
+
+**You** - 2025-06-08T18:00:18
+
+lol
+
+
+---
+
+### 749. msg_20021
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:00:31
+
+Not really
+
+
+---
+
+### 750. msg_20022
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:00:42
+
+But no one’s ever been so blunt before geez
+
+
+---
+
+### 751. msg_20023
+
+**You** - 2025-06-08T18:00:52
+
+Reaction: 😂 from Meredith Lamb
+I mean brothers same night snow bank and you are like “
+What??\!\!”
+
+
+---
+
+### 752. msg_20024
+
+**You** - 2025-06-08T18:01:17
+
+I thought you might appreciate some stark honesty
+
+
+---
+
+### 753. msg_20025
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:01:48
+
+>
+I’m not sure I would’ve told you this sober\. lol maybe not sure
+
+
+---
+
+### 754. msg_20026
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:02:01
+
+>
+I do actually
+
+
+---
+
+### 755. msg_20027
+
+**You** - 2025-06-08T18:04:33
+
+I mean I am\. Not sure if you had sex with both same night
+
+
+---
+
+### 756. msg_20028
+
+**You** - 2025-06-08T18:04:42
+
+That would be spicy\.\. but I can relate\.
+
+
+---
+
+### 757. msg_20029
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:07:10
+
+The answer is no but I am not going into details\.
+
+
+---
+
+### 758. msg_20030
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:07:24
+
+Not sure if I mentioned they were HALF brothers so
+
+
+---
+
+### 759. msg_20031
+
+**You** - 2025-06-08T18:07:51
+
+Doesn’t matter
+
+
+---
+
+### 760. msg_20032
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:08:12
+
+In my head it does
+
+
+---
+
+### 761. msg_20033
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:09:13
+
+It actually really bothered one of them :p
+
+
+---
+
+### 762. msg_20034
+
+**You** - 2025-06-08T18:09:35
+
+I know it did you did naughty things with both
+
+
+---
+
+### 763. msg_20035
+
+**You** - 2025-06-08T18:09:55
+
+And they were like who was better… guaran fucking teed
+
+
+---
+
+### 764. msg_20036
+
+**You** - 2025-06-08T18:10:05
+
+Cause that is guys\.
+
+
+---
+
+### 765. msg_20037
+
+**You** - 2025-06-08T18:11:22
+
+And maybe some stark honesty came out
+
+
+---
+
+### 766. msg_20038
+
+**You** - 2025-06-08T18:11:25
+
+lol
+
+
+---
+
+### 767. msg_20039
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:11:38
+
+Well it was complex\. Anyway, twisted eh? Does Mike now think I’m twisted? Am I ever going to meet this person? Is it going to be weird? So many questions
+
+
+---
+
+### 768. msg_20040
+
+**You** - 2025-06-08T18:12:18
+
+Reaction: ❤️ from Meredith Lamb
+Complex rofl
+Honestly I bet you wish you changed open to slightly ajar\.
+
+
+---
+
+### 769. msg_20041
+
+**You** - 2025-06-08T18:12:32
+
+I don’t think you are comfortable with this unless
+You are drunk
+
+
+---
+
+### 770. msg_20042
+
+**You** - 2025-06-08T18:12:45
+
+He doesn’t you will and no
+
+
+---
+
+### 771. msg_20043
+
+**You** - 2025-06-08T18:12:50
+
+He will love you because I do
+
+
+---
+
+### 772. msg_20044
+
+**You** - 2025-06-08T18:12:58
+
+And because he loves me
+
+
+---
+
+### 773. msg_20045
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:14:15
+
+It was complex bc I had a bit of a thing \(again, complex\) with Tim and then Joe just showed up on new years\. But Tim and I weren’t “together” … hence the complex
+
+
+---
+
+### 774. msg_20046
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:14:39
+
+Tim was upset by the whole thing\. Anyway… see I can when I’m not drunk\.
+
+
+---
+
+### 775. msg_20047
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:14:46
+
+Probably makes better sense also
+
+
+---
+
+### 776. msg_20048
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:15:05
+
+>
+He probably so does\.
+
+
+---
+
+### 777. msg_20049
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:15:53
+
+>
+This was university\. You probably were with 10 people in this timeframe alone lol
+
+
+---
+
+### 778. msg_20050
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:16:15
+
+It was my final year
+
+
+---
+
+### 779. msg_20051
+
+**You** - 2025-06-08T18:16:21
+
+>
+No I didn’t tell him details
+
+
+---
+
+### 780. msg_20052
+
+**You** - 2025-06-08T18:16:44
+
+I think my number I have you was
+25
+
+
+---
+
+### 781. msg_20053
+
+**You** - 2025-06-08T18:16:49
+
+And I wasn’t joking
+
+
+---
+
+### 782. msg_20054
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:16:49
+
+It’s ok, I trust you
+
+
+---
+
+### 783. msg_20055
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:17:18
+
+That number doesn’t scare me but yeah it is a lot lol
+
+
+---
+
+### 784. msg_20056
+
+**You** - 2025-06-08T18:18:40
+
+That is undergrad
+
+
+---
+
+### 785. msg_20057
+
+**You** - 2025-06-08T18:19:16
+
+I mean I am pretty sure my history is quite a bit more torrid than yours\.\. I should be more worried about how you will feel about me
+
+
+---
+
+### 786. msg_20058
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:19:55
+
+Torrid?
+
+
+---
+
+### 787. msg_20059
+
+**You** - 2025-06-08T18:20:51
+
+full of passionate or highly charged emotions arising from sexual love\.
+
+
+---
+
+### 788. msg_20060
+
+**You** - 2025-06-08T18:20:59
+
+Definition
+
+
+---
+
+### 789. msg_20061
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:21:13
+
+>
+How do I feel about you? I mean, I just feel like I’m glad I have you all to myself\. That’s basically it lol
+
+
+---
+
+### 790. msg_20062
+
+**You** - 2025-06-08T18:22:15
+
+Reaction: ❤️ from Meredith Lamb
+Good because you do there are no more adventures\.\. I honestly thought I would be alone\.\. but you are the only adventure left the only one I want\.\. and the best I am sure\.\.
+
+
+---
+
+### 791. msg_20063
+
+**You** - 2025-06-08T18:23:32
+
+I will keep the rest of my stuff to myself unless
+You ask\.
+
+
+---
+
+### 792. msg_20064
+
+**You** - 2025-06-08T18:24:20
+
+Mike will
+Like you a lot\.\.
+He
+Was a lot more tame than me\.\. but he was a player first\.
+
+
+---
+
+### 793. msg_20065
+
+**You** - 2025-06-08T18:24:36
+
+Good looking smooth and he knew it lol\.\. was funny
+To watch
+
+
+---
+
+### 794. msg_20066
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:25:50
+
+>
+We will save it for some entertainment one night\. Lol I will just start asking\. Haha
+
+
+---
+
+### 795. msg_20067
+
+**You** - 2025-06-08T18:26:00
+
+Fair enough I will answer
+
+
+---
+
+### 796. msg_20068
+
+**You** - 2025-06-08T18:26:30
+
+This feel
+Like a bit of a relief to me\.\. you shouldn’t need to worry either anymore about your drunk shares either lol
+
+
+---
+
+### 797. msg_20069
+
+**You** - 2025-06-08T18:26:40
+
+Even if they sting a bit it will go away fast
+
+
+---
+
+### 798. msg_20070
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:27:52
+
+I do not want to sting you in anyway\. Like not at all\. Owwwww
+
+
+---
+
+### 799. msg_20071
+
+**You** - 2025-06-08T18:29:26
+
+I mean mer it just is\. It is more like a reaction\.\.
+Like the your mine reaction
+
+
+---
+
+### 800. msg_20072
+
+**You** - 2025-06-08T18:29:41
+
+Or a fleeting fuck some other thing that I will never be able to share
+
+
+---
+
+### 801. msg_20073
+
+**You** - 2025-06-08T18:29:47
+
+It’s like that
+
+
+---
+
+### 802. msg_20074
+
+**You** - 2025-06-08T18:30:36
+
+I told you I look back and wish I could have been there to make you happy all along
+
+
+---
+
+### 803. msg_20075
+
+**You** - 2025-06-08T18:30:38
+
+Stupid
+
+
+---
+
+### 804. msg_20076
+
+**You** - 2025-06-08T18:30:43
+
+But how I feel
+
+
+---
+
+### 805. msg_20077
+
+**You** - 2025-06-08T18:30:57
+
+And again I can only attribute it to you and what this thing is
+
+
+---
+
+### 806. msg_20078
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:31:17
+
+I wish things were different in the past also but I’m happy with where they are now
+
+
+---
+
+### 807. msg_20079
+
+**You** - 2025-06-08T18:31:23
+
+Yeah same
+
+
+---
+
+### 808. msg_20080
+
+**You** - 2025-06-08T18:31:28
+
+Not saying I am not
+
+
+---
+
+### 809. msg_20081
+
+**You** - 2025-06-08T18:31:34
+
+Just a reaction knee jerk
+
+
+---
+
+### 810. msg_20082
+
+**You** - 2025-06-08T18:32:34
+
+Like if cote or cm flirted with me\.\. your reaction would be like that\.\. btw if someone flirted with you I would react exactly the same fyi
+
+
+---
+
+### 811. msg_20083
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:32:37
+
+That’s allowed\. It’s ok lol
+
+
+---
+
+### 812. msg_20084
+
+**You** - 2025-06-08T18:32:41
+
+Just so you know
+
+
+---
+
+### 813. msg_20085
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:33:07
+
+>
+Ok but I’ve explained before\. This is PRESENT not PAST\.
+
+
+---
+
+### 814. msg_20086
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:33:21
+
+I’m not bothered by past\. It is done\.
+
+
+---
+
+### 815. msg_20087
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:33:29
+
+Now present…\.
+
+
+---
+
+### 816. msg_20088
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:33:34
+
+Different story
+
+
+---
+
+### 817. msg_20089
+
+**You** - 2025-06-08T18:34:50
+
+I know and I would react the same but wanted to to understand the reactive nature\.\. it just happens
+
+
+---
+
+### 818. msg_20090
+
+**You** - 2025-06-08T18:35:18
+
+I feel relief honestly there is a resolution and it is all good 😊
+
+
+---
+
+### 819. msg_20091
+
+**You** - 2025-06-08T18:35:42
+
+It just took me a bit but I am not surprised\. Took much emotion I am not used to dealing
+
+
+---
+
+### 820. msg_20092
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:36:37
+
+Ok I’m glad you are feeling better about this\. That makes me feel better honestly
+
+
+---
+
+### 821. msg_20093
+
+**You** - 2025-06-08T18:38:07
+
+Good so no more nonsense about me walking away never going to happen
+
+
+---
+
+### 822. msg_20094
+
+**You** - 2025-06-08T18:38:13
+
+Certainly not from your past
+
+
+---
+
+### 823. msg_20095
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:43:48
+
+Okay 🙂
+
+
+---
+
+### 824. msg_20096
+
+**You** - 2025-06-08T18:46:57
+
+So now what are we going to do\.\. lol this was so consuming we won’t have amything to match it
+
+
+---
+
+### 825. msg_20097
+
+**You** - 2025-06-08T18:47:07
+
+I think you need a break anyways
+
+
+---
+
+### 826. msg_20098
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:49:26
+
+We will focus on us and moving forward \- so much fun to be had\. I think we can keep busy :\)
+
+
+---
+
+### 827. msg_20099
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:50:11
+
+I think today I no longer report to you
+
+
+---
+
+### 828. msg_20100
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:50:13
+
+Btw
+
+
+---
+
+### 829. msg_20101
+
+**You** - 2025-06-08T18:50:14
+
+We will see\.\. hard to talk about a moving target lol\.
+
+
+---
+
+### 830. msg_20102
+
+**You** - 2025-06-08T18:50:20
+
+You don’t
+
+
+---
+
+### 831. msg_20103
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:52:46
+
+>
+What’s the moving target
+
+
+---
+
+### 832. msg_20104
+
+**You** - 2025-06-08T18:52:58
+
+Anything and everything lol
+
+
+---
+
+### 833. msg_20105
+
+**You** - 2025-06-08T18:54:32
+
+Separation agreements, living in new arrangements\. Us in the future
+lol it is difficult to discuss in abstracts we
+Will have to find other topics\.
+
+
+---
+
+### 834. msg_20106
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T18:55:33
+
+Oh THAT\. Yeah lol
+
+
+---
+
+### 835. msg_20107
+
+**You** - 2025-06-08T18:55:45
+
+Oh yeah that\.\. rofl
+
+
+---
+
+### 836. msg_20108
+
+**You** - 2025-06-08T18:56:16
+
+Anyways relax take a few days rest start your new job\.  Stop worrying about me\.
+
+
+---
+
+### 837. msg_20109
+
+**You** - 2025-06-08T18:56:48
+
+We don’t need to stay so intense\.\. you can relax\.\. I would rather be a refuge that’s another challenge to deal with
+
+
+---
+
+### 838. msg_20110
+
+**You** - 2025-06-08T19:01:43
+
+I mean intense talking it has to wear you out\.
+
+
+---
+
+### 839. msg_20111
+
+**You** - 2025-06-08T19:01:57
+
+The other intense stuff yeah that isn’t stopping
+
+
+---
+
+### 840. msg_20112
+
+**You** - 2025-06-08T19:02:10
+
+Reaction: ❤️ from Meredith Lamb
+Not on my part 😈
+
+
+---
+
+### 841. msg_20113
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:02:57
+
+I don’t think you wear me out oddly\. But despite how well we know each other we are still getting to know each other so I’m trying to learn as I go too\.
+
+
+---
+
+### 842. msg_20114
+
+**You** - 2025-06-08T19:03:59
+
+Well you have learned a lot and fast\.\. so have i\.
+
+
+---
+
+### 843. msg_20115
+
+**You** - 2025-06-08T19:06:28
+
+Like I said take a break Mer\.\.  I love you and I know this was ALOT and I appreciate your supporting me through this\.
+
+
+---
+
+### 844. msg_20116
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:10:02
+
+Well I’m glad you came through unscathed …\. Is that accurate? Probably not lol
+
+
+---
+
+### 845. msg_20117
+
+**You** - 2025-06-08T19:10:32
+
+Meredith I love you even more\.\.  because not despite\.
+
+
+---
+
+### 846. msg_20118
+
+**You** - 2025-06-08T19:11:03
+
+And I want to explore our own future and am happy and open to trying whatever you want
+
+
+---
+
+### 847. msg_20119
+
+**You** - 2025-06-08T19:16:03
+
+We just need some space and time\.\. I think the rest will take care of it\. I am unscathed\.\.  I just had to go through this in order to process it\.\. it is better this way\.
+
+
+---
+
+### 848. msg_20120
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:18:48
+
+Yeah I understand it a bit more now\. I do really wish we could spend more time together like at the cottage \(like not drinking per se but just more extended time but we will just waaaait\. :\)
+
+
+---
+
+### 849. msg_20121
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:19:23
+
+I think you would have processed better if we spent more time together \(sober\)
+
+
+---
+
+### 850. msg_20122
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:19:26
+
+lol
+
+
+---
+
+### 851. msg_20123
+
+**You** - 2025-06-08T19:24:27
+
+Mmm
+
+
+---
+
+### 852. msg_20124
+
+**You** - 2025-06-08T19:24:34
+
+Probably not
+
+
+---
+
+### 853. msg_20125
+
+**You** - 2025-06-08T19:25:35
+
+My head was where it was
+
+
+---
+
+### 854. msg_20126
+
+**You** - 2025-06-08T19:25:43
+
+The only thing that would be different
+
+
+---
+
+### 855. msg_20127
+
+**You** - 2025-06-08T19:26:00
+
+Would be perhaps that you wouldn’t have spoken so passionately about the Chris situation\.
+
+
+---
+
+### 856. msg_20128
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:29:04
+
+Passionately
+
+
+---
+
+### 857. msg_20129
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:29:07
+
+Hmm
+
+
+---
+
+### 858. msg_20130
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:29:13
+
+Man
+
+
+---
+
+### 859. msg_20131
+
+**You** - 2025-06-08T19:29:57
+
+Hey listen, I am not rehashing it is accurate mer not accusatory\.\. I feel like you had some guilt
+To work through some regret him not getting g back to you
+
+
+---
+
+### 860. msg_20132
+
+**You** - 2025-06-08T19:30:19
+
+Nd you had a lot of fun that you were forced to kind of set aside
+
+
+---
+
+### 861. msg_20133
+
+**You** - 2025-06-08T19:30:38
+
+>
+What is wrong with what I said\.\.
+
+
+---
+
+### 862. msg_20134
+
+**You** - 2025-06-08T19:30:58
+
+If
+You were sober you never would have admitted any of that to me\.
+
+
+---
+
+### 863. msg_20135
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:33:20
+
+I probably would have but in a different way\.
+
+
+---
+
+### 864. msg_20136
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:33:34
+
+Not “passionately” lol
+
+
+---
+
+### 865. msg_20137
+
+**You** - 2025-06-08T19:35:23
+
+You wouldn’t have because you cannot Remeber lol\.\.
+
+
+---
+
+### 866. msg_20138
+
+**You** - 2025-06-08T19:35:38
+
+Wistfully, emotionally,
+
+
+---
+
+### 867. msg_20139
+
+**You** - 2025-06-08T19:36:23
+
+Forlornly
+
+
+---
+
+### 868. msg_20140
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:36:30
+
+lol omg stop
+
+
+---
+
+### 869. msg_20141
+
+**You** - 2025-06-08T19:36:32
+
+Longing
+
+
+---
+
+### 870. msg_20142
+
+**You** - 2025-06-08T19:36:34
+
+Plaintive
+
+
+---
+
+### 871. msg_20143
+
+**You** - 2025-06-08T19:36:38
+
+I got lot
+
+
+---
+
+### 872. msg_20144
+
+**You** - 2025-06-08T19:36:40
+
+More
+
+
+---
+
+### 873. msg_20145
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:36:49
+
+We’re good
+
+
+---
+
+### 874. msg_20146
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:36:52
+
+Got plenty
+
+
+---
+
+### 875. msg_20147
+
+**You** - 2025-06-08T19:36:54
+
+Kk figured
+
+
+---
+
+### 876. msg_20148
+
+**You** - 2025-06-08T19:38:00
+
+>
+I think you wish in general you didn’t tell me half of what you did but in all honesty this is a good outcome\.\. despite how we got here\. We
+Will be more resilient\.\. and you don’t have to worry as
+Much\.
+
+
+---
+
+### 877. msg_20149
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:39:43
+
+Honestly, I don’t really really have regret about telling you but I have regret in the manner\. Drunk, can’t remember etc so I wasn’t very thoughtful about it all\. That’s more regretful than actually telling you stuff… Yunno\.
+
+
+---
+
+### 878. msg_20150
+
+**You** - 2025-06-08T19:40:29
+
+Yah fair enough\.\. but we are good so\.\. like you said just need to find time\.
+
+
+---
+
+### 879. msg_20151
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:43:57
+
+When do you have to do your airport pick up
+
+
+---
+
+### 880. msg_20152
+
+**You** - 2025-06-08T19:44:21
+
+Late
+
+
+---
+
+### 881. msg_20153
+
+**You** - 2025-06-08T19:44:26
+
+Like really late
+
+
+---
+
+### 882. msg_20154
+
+**You** - 2025-06-08T19:44:28
+
+Why
+
+
+---
+
+### 883. msg_20155
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:44:37
+
+Was just curious
+
+
+---
+
+### 884. msg_20156
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:44:44
+
+No reason
+
+
+---
+
+### 885. msg_20157
+
+**You** - 2025-06-08T19:44:51
+
+Ok
+
+
+---
+
+### 886. msg_20158
+
+**You** - 2025-06-08T19:45:57
+
+Her flight arrives 12:39
+
+
+---
+
+### 887. msg_20159
+
+**You** - 2025-06-08T19:46:00
+
+12:30
+
+
+---
+
+### 888. msg_20160
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:48:19
+
+Yikes
+
+
+---
+
+### 889. msg_20161
+
+**You** - 2025-06-08T19:49:38
+
+It is what it is
+
+
+---
+
+### 890. msg_20162
+
+**You** - 2025-06-08T19:49:49
+
+Reaction: 😮 from Meredith Lamb
+I am getting up to workoutnstill
+
+
+---
+
+### 891. msg_20163
+
+**You** - 2025-06-08T19:53:18
+
+Same tomorrow back into my morning routine looking forward to its
+
+
+---
+
+### 892. msg_20164
+
+**You** - 2025-06-08T19:53:21
+
+Not to work
+
+
+---
+
+### 893. msg_20165
+
+**You** - 2025-06-08T19:53:49
+
+Reaction: 👎 from Meredith Lamb
+Oh you should call your parents soon game comes in at 8
+
+
+---
+
+### 894. msg_20166
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:56:11
+
+>
+Not looking forward to work for real?
+
+
+---
+
+### 895. msg_20167
+
+**You** - 2025-06-08T19:56:25
+
+Nope
+
+
+---
+
+### 896. msg_20168
+
+**You** - 2025-06-08T19:56:47
+
+>
+You seemed to have fun last time
+
+
+---
+
+### 897. msg_20169
+
+**You** - 2025-06-08T19:57:34
+
+A little sad you will be gone tbh I know it is best thing for you and us still cannot help feeling is is a bit of a loss\. Stupid I know\.
+
+
+---
+
+### 898. msg_20170
+
+**You** - 2025-06-08T19:57:51
+
+I think that is how we started and I very much liked it then and now
+
+
+---
+
+### 899. msg_20171
+
+**You** - 2025-06-08T19:57:59
+
+Probably is what got us to here\.
+
+
+---
+
+### 900. msg_20172
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T19:59:37
+
+Yeah same\. I just could not work for you while in a relationship though\. Sooooooooo challenging\. Probably would have stuck it out if this never happened\.
+
+
+---
+
+### 901. msg_20173
+
+**You** - 2025-06-08T20:01:17
+
+Yeah probably you were good at it
+
+
+---
+
+### 902. msg_20174
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:02:57
+
+Meh not really\. Didn’t love it tbh\. Like all the people but the role \- meh
+
+
+---
+
+### 903. msg_20175
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:03:00
+
+lol
+
+
+---
+
+### 904. msg_20176
+
+**You** - 2025-06-08T20:03:27
+
+😢
+
+
+---
+
+### 905. msg_20177
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:03:43
+
+Highly recommend the Manager\.
+
+
+---
+
+### 906. msg_20178
+
+**You** - 2025-06-08T20:04:42
+
+I suck right now
+
+
+---
+
+### 907. msg_20179
+
+**You** - 2025-06-08T20:04:48
+
+I am doubly distracted
+
+
+---
+
+### 908. msg_20180
+
+**You** - 2025-06-08T20:04:52
+
+Likely to continue
+
+
+---
+
+### 909. msg_20181
+
+**You** - 2025-06-08T20:04:54
+
+For a while
+
+
+---
+
+### 910. msg_20182
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:06:08
+
+I think you can get your head back in the game now\. And once the agreement moves along…\.
+
+
+---
+
+### 911. msg_20183
+
+**You** - 2025-06-08T20:06:46
+
+Mmmmm I dunno
+
+
+---
+
+### 912. msg_20184
+
+**You** - 2025-06-08T20:06:49
+
+We will see
+
+
+---
+
+### 913. msg_20185
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:08:53
+
+We will\. I don’t think you should workout tho tomorrow in morning good lord
+
+
+---
+
+### 914. msg_20186
+
+**You** - 2025-06-08T20:12:10
+
+Why
+
+
+---
+
+### 915. msg_20187
+
+**You** - 2025-06-08T20:12:19
+
+I am not going to airport tonight
+
+
+---
+
+### 916. msg_20188
+
+**You** - 2025-06-08T20:12:26
+
+I am doing that tomorrow night
+
+
+---
+
+### 917. msg_20189
+
+**You** - 2025-06-08T20:12:32
+
+So Tuesday morning will be hard
+
+
+---
+
+### 918. msg_20190
+
+**You** - 2025-06-08T20:12:41
+
+But yeah I am going\. Tomorrow
+
+
+---
+
+### 919. msg_20191
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:14:23
+
+Oh I thought tonight
+
+
+---
+
+### 920. msg_20192
+
+**You** - 2025-06-08T20:15:37
+
+Nope tomorrow night
+
+
+---
+
+### 921. msg_20193
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:27:39
+
+Time hop… walking in the field … thought you might lol at this one
+
+*1 attachment(s)*
+
+
+---
+
+### 922. msg_20194
+
+**You** - 2025-06-08T20:29:19
+
+Why would I lol I love every single picture you send me
+
+
+---
+
+### 923. msg_20195
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:29:37
+
+Walking in the field with wine
+
+
+---
+
+### 924. msg_20196
+
+**You** - 2025-06-08T20:29:39
+
+I am going to gotmhow I feel tonight
+
+
+---
+
+### 925. msg_20197
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:29:45
+
+It’s kind of lol
+
+
+---
+
+### 926. msg_20198
+
+**You** - 2025-06-08T20:30:10
+
+Gpt how I feel and send it
+
+
+---
+
+### 927. msg_20199
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:30:27
+
+Oh I was wondering that typo
+
+
+---
+
+### 928. msg_20200
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:30:29
+
+lol
+
+
+---
+
+### 929. msg_20201
+
+**You** - 2025-06-08T20:31:51
+
+It is going to heavy and detailed
+
+
+---
+
+### 930. msg_20202
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:32:50
+
+Reaction: ❤️ from Scott Hicks
+Mac’s leopard phase\.
+
+*1 attachment(s)*
+
+
+---
+
+### 931. msg_20203
+
+**You** - 2025-06-08T20:33:33
+
+Are you feeling regret
+
+
+---
+
+### 932. msg_20204
+
+**You** - 2025-06-08T20:33:44
+
+It is a lot to walk away from
+
+
+---
+
+### 933. msg_20205
+
+**You** - 2025-06-08T20:33:51
+
+A lot of memories etc
+
+
+---
+
+### 934. msg_20206
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:34:01
+
+I got this shirt for her bday leopard party lol
+
+*1 attachment(s)*
+
+
+---
+
+### 935. msg_20207
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:34:23
+
+Nope no regret\. I am not walking away from my kids at all\.
+
+
+---
+
+### 936. msg_20208
+
+**You** - 2025-06-08T20:34:22
+
+>
+Do you still have it?
+
+
+---
+
+### 937. msg_20209
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:34:30
+
+lol no I do not
+
+
+---
+
+### 938. msg_20210
+
+**You** - 2025-06-08T20:34:36
+
+:\(
+
+
+---
+
+### 939. msg_20211
+
+**You** - 2025-06-08T20:43:57
+
+Reaction: ❤️ from Meredith Lamb
+When you first met me\.
+
+*1 attachment(s)*
+
+
+---
+
+### 940. msg_20212
+
+**You** - 2025-06-08T20:44:45
+
+
+*1 attachment(s)*
+
+
+---
+
+### 941. msg_20213
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:45:14
+
+>
+You seemed like a happy person\. I think you were then\.
+
+
+---
+
+### 942. msg_20214
+
+**You** - 2025-06-08T20:46:23
+
+Used to be good…
+
+*1 attachment(s)*
+
+
+---
+
+### 943. msg_20215
+
+**You** - 2025-06-08T20:46:57
+
+I was happy with the kids\.
+
+
+---
+
+### 944. msg_20216
+
+**You** - 2025-06-08T20:48:56
+
+I feel like that is the only me you will ever see\.\. maybe a bit sad sometimes or a bit anxious or maybe insecure\.\. but I think you get happy me forever
+
+
+---
+
+### 945. msg_20217
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:50:39
+
+I’m ok if you aren’t always happy\. Life isn’t always happy\. I just won’t like if you are unhappy because of ME\.
+
+
+---
+
+### 946. msg_20218
+
+**You** - 2025-06-08T20:51:16
+
+I don’t see that as being a problem
+
+
+---
+
+### 947. msg_20219
+
+**You** - 2025-06-08T20:51:31
+
+Per se
+
+
+---
+
+### 948. msg_20220
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:51:40
+
+
+*1 attachment(s)*
+
+
+---
+
+### 949. msg_20221
+
+**You** - 2025-06-08T20:52:31
+
+Are Mac and I going to be friends?
+
+
+---
+
+### 950. msg_20222
+
+**You** - 2025-06-08T20:53:58
+
+I need to do the Facebook block friends thing
+
+
+---
+
+### 951. msg_20223
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T20:54:44
+
+No she won’t add you don’t worry lol
+
+
+---
+
+### 952. msg_20224
+
+**You** - 2025-06-08T20:54:58
+
+Still doing it anyways
+
+
+---
+
+### 953. msg_20225
+
+**You** - 2025-06-08T20:56:55
+
+I actually have you access to my friends list and that is it
+
+
+---
+
+### 954. msg_20226
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T21:14:00
+
+I thought you were doing gpt?
+
+
+---
+
+### 955. msg_20227
+
+**You** - 2025-06-08T21:18:45
+
+I will
+
+
+---
+
+### 956. msg_20228
+
+**You** - 2025-06-08T21:18:47
+
+lol
+
+
+---
+
+### 957. msg_20229
+
+**You** - 2025-06-08T21:18:50
+
+Inpatient much
+
+
+---
+
+### 958. msg_20230
+
+**You** - 2025-06-08T21:18:59
+
+Cleaning the kitchen
+
+
+---
+
+### 959. msg_20231
+
+**You** - 2025-06-08T21:19:05
+
+Doing my job
+
+
+---
+
+### 960. msg_20232
+
+**You** - 2025-06-08T21:19:29
+
+Going downstairs in 5
+Mins to crush that got
+
+
+---
+
+### 961. msg_20233
+
+**You** - 2025-06-08T21:19:57
+
+I am kind of curious where it lands
+
+
+---
+
+### 962. msg_20234
+
+**You** - 2025-06-08T21:20:10
+
+Mistake
+
+
+---
+
+### 963. msg_20235
+
+**You** - 2025-06-08T21:21:17
+
+Sry
+
+
+---
+
+### 964. msg_20236
+
+**You** - 2025-06-08T21:27:29
+
+Ok gpt time
+
+
+---
+
+### 965. msg_20237
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T21:38:18
+
+lol I was just curious
+
+
+---
+
+### 966. msg_20238
+
+**You** - 2025-06-08T21:38:42
+
+working on it dear
+
+
+---
+
+### 967. msg_20239
+
+**You** - 2025-06-08T21:39:57
+
+wine?
+
+
+---
+
+### 968. msg_20240
+
+**You** - 2025-06-08T21:39:59
+
+amd tv?
+
+
+---
+
+### 969. msg_20241
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T21:45:00
+
+No getting ready for bed
+
+
+---
+
+### 970. msg_20242
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T21:45:11
+
+Working out in morning
+
+
+---
+
+### 971. msg_20243
+
+**You** - 2025-06-08T21:45:22
+
+nice
+
+
+---
+
+### 972. msg_20244
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T21:46:57
+
+No more wine for a while … can’t workout
+
+
+---
+
+### 973. msg_20245
+
+**You** - 2025-06-08T21:46:58
+
+phew GPT is spicy
+
+
+---
+
+### 974. msg_20246
+
+**You** - 2025-06-08T21:47:21
+
+I ran the query through a few different gpt'
+
+
+---
+
+### 975. msg_20247
+
+**You** - 2025-06-08T21:47:23
+
+curious
+
+
+---
+
+### 976. msg_20248
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T21:47:15
+
+🧐
+
+
+---
+
+### 977. msg_20249
+
+**You** - 2025-06-08T21:49:27
+
+Holy fuck\.
+
+
+---
+
+### 978. msg_20250
+
+**You** - 2025-06-08T21:49:46
+
+I am going to paste them\.\. give me a min a few more to read
+
+
+---
+
+### 979. msg_20251
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T21:50:38
+
+This reaction has me very curious now
+
+
+---
+
+### 980. msg_20252
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T21:56:37
+
+Are you adjusting it bc it is too much
+
+
+---
+
+### 981. msg_20253
+
+**You** - 2025-06-08T21:56:40
+
+no
+
+
+---
+
+### 982. msg_20254
+
+**You** - 2025-06-08T21:56:44
+
+no you will get it raw
+
+
+---
+
+### 983. msg_20255
+
+**You** - 2025-06-08T22:00:22
+
+ok you ready?
+
+
+---
+
+### 984. msg_20256
+
+**You** - 2025-06-08T22:00:51
+
+the prompt is pretty long too\.\. maybe a bit\.\.
+
+
+---
+
+### 985. msg_20257
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T22:01:03
+
+I’m not sure\. Am I ready? Lol
+
+
+---
+
+### 986. msg_20258
+
+**You** - 2025-06-08T22:01:10
+
+Reaction: ❤️ from Meredith Lamb
+Are you familiar with the movie Roxeanne?? I need you to play the role of steve martin for me\.\. I am going to share some information with you and a request\.\. come back to me with your thoughts\.
+I am trying to put into words for Meredith how I feel about her\.\. we have talked about being soul mates\.\. and while I never believed in that before, I do now\.\. we have talked about being home to each other\.\. which is real and meaningful\.  We have gone through a fast paced gauntlet of getting to know one another across time and space\.\. looking backwards and talking about what comes next\.
+There have been amazing high's and heartbreaking low's  in a really short period of time\.  Personally, I felt I needed to step outside of my comfort zone\.\. I needed her to know "me" not who she thought I was at work, but who I am really\.\. and fast\.\. because I love her so much that I had to make sure she saw the whole truth about me\.\. so if she really did mean what she said about fe\.\.\. \[truncated\]
+
+
+---
+
+### 987. msg_20259
+
+**You** - 2025-06-08T22:01:16
+
+Reaction: 😂 from Meredith Lamb
+this is just the prompt
+
+
+---
+
+### 988. msg_20260
+
+**You** - 2025-06-08T22:01:26
+
+I also fed it transcript
+
+
+---
+
+### 989. msg_20261
+
+**You** - 2025-06-08T22:01:52
+
+This is the first one\.\.
+This is deeply heartfelt, and your vulnerability is profound\. Based on your message and the tone of your exchanges with Meredith, here’s a letter that captures your emotions—anchored in the themes of soulmates, home, honesty, and enduring love:
+Meredith,
+I’ve tried more than once to put this into words—but nothing I write ever feels big enough\. Because what I feel for you isn't just love\. It’s not just attraction or connection or even timing, though those things are all undeniably there\. It’s beyond\.
+When we first started talking, everything happened so fast—like we were thrown into some cosmic gauntlet, colliding across time, past lives, and missed chances\. It felt like something out of a story, too much to be real\. And yet, here we are\.
+I’ve never believed in soulmates\. Not really\. But I do now\. Because of you\.
+We talked about being home to one another\. And that word—it means something different when it’s real\. You feel like home to me in a way nothing else ev\.\.\. \[truncated\]
+
+
+---
+
+### 990. msg_20262
+
+**You** - 2025-06-08T22:02:40
+
+I will hold off pasting more until you get through
+
+
+---
+
+### 991. msg_20263
+
+**You** - 2025-06-08T22:04:35
+
+laughing at my heartfelt prompt\.\. :\(
+
+
+---
+
+### 992. msg_20264
+
+**You** - 2025-06-08T22:04:47
+
+I should take my responses back
+
+
+---
+
+### 993. msg_20265
+
+**You** - 2025-06-08T22:05:10
+
+😝
+
+
+---
+
+### 994. msg_20266
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T22:07:01
+
+Reaction: ❤️ from Scott Hicks
+I honestly think the prompt was enough ❤️
+
+
+---
+
+### 995. msg_20267
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T22:07:15
+
+Gpt was kind of repetitive
+
+
+---
+
+### 996. msg_20268
+
+**You** - 2025-06-08T22:07:26
+
+It is a bit\.\. but it frames it better\.
+
+
+---
+
+### 997. msg_20269
+
+**You** - 2025-06-08T22:07:38
+
+each one is slightly different\.\. or focuses on different things\.
+
+
+---
+
+### 998. msg_20270
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T22:07:57
+
+I like yours better 🙂
+
+
+---
+
+### 999. msg_20271
+
+**You** - 2025-06-08T22:08:00
+
+I can just share the one I like the best if you want
+
+
+---
+
+### 1000. msg_20272
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T22:08:19
+
+k
+
+
+---
+
+### 1001. msg_20273
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T22:08:27
+
+How many did you do
+
+
+---
+
+### 1002. msg_20274
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T22:08:28
+
+lol
+
+
+---
+
+### 1003. msg_20275
+
+**You** - 2025-06-08T22:10:24
+
+Meredith,
+I've started this letter countless times, searching for words strong enough to hold everything I feel\. We've spoken of soulmates and finding home in one another, terms I once brushed aside as romantic fiction—but with you, they're profoundly real\. You're not merely someone I’ve fallen in love with; you’re someone who’s become integral to the very core of who I am\.
+Everything between us unfolded rapidly, as if life itself couldn’t bear to waste more time keeping us apart\. It felt improbable—two souls colliding in the middle of chaos, past experiences, and guarded hearts\. Yet, amidst that storm, something rare took root, something that defies logic and convention\.
+With you, I made a deliberate choice to step far beyond comfort zones\. I showed you every part of myself—the imperfections, insecurities, the anxieties I've always hidden—because I needed you to see the complete, unfiltered truth of who I am\. My intent was never to impress but to offer absolute honesty, allowing you t\.\.\. \[truncated\]
+
+
+---
+
+### 1004. msg_20276
+
+**You** - 2025-06-08T22:10:31
+
+I did 4\-5
+
+
+---
+
+### 1005. msg_20277
+
+**You** - 2025-06-08T22:10:53
+
+This is the one\.\.
+
+
+---
+
+### 1006. msg_20278
+
+**You** - 2025-06-08T22:11:46
+
+runner up below
+Meredith,
+I never truly understood words like "soulmate" or "home" until you walked into my life\. Now, they make perfect sense—because they mean you\. We've built something extraordinary, defying odds, logic, and common sense\. It's been wild, messy, magical, and profoundly real—rare enough that even ChatGPT calls it unbelievable\.
+I’ve spent my life guarded, reserved, keeping my truth carefully hidden\. But with you, every wall crumbled so easily it scared me\. I had to risk showing you the real me, flaws and fears, because loving you completely meant being completely myself—no pretending, no filters\. Just pure, honest vulnerability\.
+When you opened your heart to me, when you shared your past, I felt that sharp pang—jealousy mixed with fear—that I wasn’t enough or might never be\. It was irrational, yes, but love isn't rational\. It’s raw, it’s messy, and it’s true\. But you, Meredith, you didn’t let me retreat\. You fought for our openness, and in doing so, you taught me to tr\.\.\. \[truncated\]
+
+
+---
+
+### 1007. msg_20279
+
+**You** - 2025-06-08T22:11:53
+
+this was fun\.\.
+
+
+---
+
+### 1008. msg_20280
+
+**You** - 2025-06-08T22:12:23
+
+writing the prompt took some time\.\. but the letter was worth it\. I actually think it comes close to describing how I actually feel\.\.
+
+
+---
+
+### 1009. msg_20281
+
+**You** - 2025-06-08T22:17:07
+
+I actually saved my fav letter in a word doc\.\. liked it\.\.
+
+
+---
+
+### 1010. msg_20282
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T22:17:25
+
+Reaction: ❤️ from Scott Hicks
+Whoah 🫠🫠🫠 thats a lot to take in\. I think my heart literally skipped a beat\. Everyday say from you feels like wasted time for me for sure\.
+
+
+---
+
+### 1011. msg_20283
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T22:17:45
+
+Thanks for those ❤️❤️
+
+
+---
+
+### 1012. msg_20284
+
+**You** - 2025-06-08T22:17:52
+
+I think you should keep it and read it again if you ever get anxious\.
+
+
+---
+
+### 1013. msg_20285
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T22:18:25
+
+k, will email it to myself
+
+
+---
+
+### 1014. msg_20286
+
+**You** - 2025-06-08T22:19:14
+
+kk you should go to bed so you can get up and do your thing\.\. I am going to do the same get back to my usual routine\.
+
+
+---
+
+### 1015. msg_20287
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-08T22:23:32
+
+Ok, good night, I love you so much and will be thinking of you xox
+
+
+---
+
+### 1016. msg_20288
+
+**You** - 2025-06-08T22:24:11
+
+Love you too Mer\.\. as much as the letter says and more ❤️❤️❤️ will cya when I cya\. Sleep well\.
+
+
+---
+
+### 1017. msg_20289
+
+**You** - 2025-06-09T04:12:06
+
+Edited: 2 versions
+| Version: 2
+| Sent: Mon, 9 Jun 2025 04:12:24 \-0400
+|
+| Morning luv xoxoxoxo hope you enjoy your workout this morning kick the shit out of it eh\.
+|
+| Version: 1
+| Sent: Mon, 9 Jun 2025 04:12:06 \-0400
+|
+| Morning luv xoxoxoxo hope you enjoy your workout this morningzz kick the shit out of it eh\.
+
+
+---
+
+### 1018. msg_20290
+
+**You** - 2025-06-09T04:13:12
+
+Reaction: ❤️ from Meredith Lamb
+Oh my legs feel like they were hit by a bus that is how I know it was good yesterday lol\. 😂
+
+
+---
+
+### 1019. msg_20291
+
+**You** - 2025-06-09T04:14:24
+
+Even though you don’t work for me and I cannot really talk to you I am very much looking forward to just seeing you at work\.  Just know that while I will be as
+Professional as ever
+I will still be thinking unprofessional things…\. 😇\.
+
+
+---
+
+### 1020. msg_20292
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T05:45:46
+
+Reaction: ❤️ from Scott Hicks
+>
+Same, very much the same\. 😋
+
+
+---
+
+### 1021. msg_20293
+
+**You** - 2025-06-09T05:46:12
+
+Morning\.\. have a good one\!
+
+
+---
+
+### 1022. msg_20294
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T06:10:31
+
+>
+Going to try\. Working with “more regular” weight once my coffee sets in\. Lol
+
+
+---
+
+### 1023. msg_20295
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T06:10:41
+
+Hope you had a good morning:\)
+
+
+---
+
+### 1024. msg_20296
+
+**You** - 2025-06-09T06:10:57
+
+Reaction: ❤️ from Meredith Lamb
+Still going\.\. heavy today fun\.
+
+
+---
+
+### 1025. msg_20297
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T06:13:14
+
+I can’t find 10s… only 15s and up\. 😬
+
+
+---
+
+### 1026. msg_20298
+
+**You** - 2025-06-09T06:13:30
+
+Uh oh
+
+
+---
+
+### 1027. msg_20299
+
+**You** - 2025-06-09T06:13:31
+
+lol
+
+
+---
+
+### 1028. msg_20300
+
+**You** - 2025-06-09T06:13:59
+
+Maybe drop reps to 25% fewer at higher weight
+
+
+---
+
+### 1029. msg_20301
+
+**You** - 2025-06-09T06:14:04
+
+😛
+
+
+---
+
+### 1030. msg_20302
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T06:14:35
+
+Reaction: 👍 from Scott Hicks
+We will see\. Lol
+
+
+---
+
+### 1031. msg_20303
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T06:20:59
+
+Reaction: ❤️ from Scott Hicks
+It’s going to take me about 3 weeks to get used to mornings again\. Lol this shirt helps and I got head bands again to keep my glasses on for burpees so today will be less annoying\. :p
+
+*1 attachment(s)*
+
+
+---
+
+### 1032. msg_20304
+
+**You** - 2025-06-09T06:21:39
+
+lol
+
+
+---
+
+### 1033. msg_20305
+
+**You** - 2025-06-09T06:21:45
+
+I will give you a photo at end
+
+
+---
+
+### 1034. msg_20306
+
+**You** - 2025-06-09T06:22:17
+
+Have I told you you are awesome enough yet?  You are gonna crush it just positive attitude
+
+
+---
+
+### 1035. msg_20307
+
+**You** - 2025-06-09T06:29:07
+
+Reaction: 😮 from Meredith Lamb
+Pushing this fucker back and forth for 14 mins to finish\.
+
+*1 attachment(s)*
+
+
+---
+
+### 1036. msg_20308
+
+**You** - 2025-06-09T06:44:45
+
+Done that push sucked at the end
+
+*1 attachment(s)*
+
+
+---
+
+### 1037. msg_20309
+
+**You** - 2025-06-09T06:45:20
+
+Sauna shower time then a nice walk chat
+Later
+
+
+---
+
+### 1038. msg_20310
+
+**You** - 2025-06-09T06:45:46
+
+Cya at work
+
+
+---
+
+### 1039. msg_20311
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T06:48:03
+
+Trying, struggling and really horrible form until I get stronger tris\. Probably take 4 weeks … sigh\. Mine is going to take longer this morning bc of heavier weight\.
+
+*1 attachment(s)*
+
+
+---
+
+### 1040. msg_20312
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T06:48:47
+
+https://open\.spotify\.com/track/6Aq8FRLvUNzBNCgCQ3PsXT?si=mNZQariFTSm4wVlhTgF\-Gg
+Never heard this one until this morning\.
+
+
+---
+
+### 1041. msg_20313
+
+**You** - 2025-06-09T06:49:12
+
+>
+Just do the best you can don’t get discouraged\.  You are
+Coming back after a long time\.\. it will take some time hon\.\. but you are doing it\!\! Trying\! Al that matters\.
+
+
+---
+
+### 1042. msg_20314
+
+**You** - 2025-06-09T06:49:52
+
+>
+>
+I heard this I like it\.
+
+
+---
+
+### 1043. msg_20315
+
+**You** - 2025-06-09T06:51:35
+
+https://open\.spotify\.com/track/0EKBV6GybPtALXUgWqWrym?si=evLdKcBBStiQW9bVZ5ae0g
+This song rings a lot more true to me now after the past few weeks\.
+
+
+---
+
+### 1044. msg_20316
+
+**You** - 2025-06-09T06:51:41
+
+❤️
+
+
+---
+
+### 1045. msg_20317
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T06:57:29
+
+These are the tris I need\. You look at Henry\. I’m just going to look at myself lol
+
+*1 attachment(s)*
+
+
+---
+
+### 1046. msg_20318
+
+**You** - 2025-06-09T06:57:57
+
+Shiiiiiit
+
+
+---
+
+### 1047. msg_20319
+
+**You** - 2025-06-09T06:58:06
+
+Yeah those are some tris…
+
+
+---
+
+### 1048. msg_20320
+
+**You** - 2025-06-09T06:58:29
+
+And the don’t fuck with me look/stance 😀
+
+
+---
+
+### 1049. msg_20321
+
+**You** - 2025-06-09T07:00:17
+
+I will ☺️
+
+*1 attachment(s)*
+
+
+---
+
+### 1050. msg_20322
+
+**You** - 2025-06-09T07:02:40
+
+I mean I can get here for sure\.
+
+*1 attachment(s)*
+
+
+---
+
+### 1051. msg_20323
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T07:02:45
+
+>
+Um, whoah
+
+
+---
+
+### 1052. msg_20324
+
+**You** - 2025-06-09T07:02:54
+
+That was pre super man
+
+
+---
+
+### 1053. msg_20325
+
+**You** - 2025-06-09T07:03:00
+
+The immortals
+
+
+---
+
+### 1054. msg_20326
+
+**You** - 2025-06-09T07:03:12
+
+Reaction: 👍 from Meredith Lamb
+We can watch it together will see if you can get through it
+
+
+---
+
+### 1055. msg_20327
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T07:27:40
+
+Took me an hour lol
+
+
+---
+
+### 1056. msg_20328
+
+**You** - 2025-06-09T07:33:10
+
+Worth you finished
+
+
+---
+
+### 1057. msg_20329
+
+**You** - 2025-06-09T07:43:23
+
+Kk heading in see you when you get in
+
+
+---
+
+### 1058. msg_20330
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T07:44:42
+
+Reaction: ❤️ from Scott Hicks
+>
+Baby steps :\)
+
+
+---
+
+### 1059. msg_20331
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T08:29:19
+
+This morning, I’m gonna try to start taking half of the Ciprolex so like 5 mg then I don’t feel so bleh for working out too
+
+
+---
+
+### 1060. msg_20332
+
+**You** - 2025-06-09T08:29:44
+
+Just be careful
+
+
+---
+
+### 1061. msg_20333
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T08:30:01
+
+My dr said not to go off bc of the separation so I will just try half\.
+
+
+---
+
+### 1062. msg_20334
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T08:30:04
+
+I won’t go off
+
+
+---
+
+### 1063. msg_20335
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T08:31:11
+
+I don’t think I’ll be able to get back to how I was on it\. It is very meh
+
+
+---
+
+### 1064. msg_20336
+
+**You** - 2025-06-09T08:31:12
+
+Kk
+
+
+---
+
+### 1065. msg_20337
+
+**You** - 2025-06-09T08:36:21
+
+Well I mean once the separation agreement is done you could try to ween yourself off\.\. I am going to be working to go half on my blood pressure meds
+
+
+---
+
+### 1066. msg_20338
+
+**You** - 2025-06-09T08:48:04
+
+Jim was mad at me I cannot do that again…
+
+
+---
+
+### 1067. msg_20339
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T09:01:05
+
+Mad at you??
+
+
+---
+
+### 1068. msg_20340
+
+**You** - 2025-06-09T09:01:42
+
+Yeah because I pinged him on the weekend it went off too early any ways it’s on me I said I wouldn’t do it again\.\.
+
+
+---
+
+### 1069. msg_20341
+
+**You** - 2025-06-09T09:02:02
+
+Honestly wasn’t thinking\.\.
+
+
+---
+
+### 1070. msg_20342
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T09:03:16
+
+lol what time was it?
+
+
+---
+
+### 1071. msg_20343
+
+**You** - 2025-06-09T10:08:45
+
+6:15 am
+
+
+---
+
+### 1072. msg_20344
+
+**You** - 2025-06-09T10:08:47
+
+Oops
+
+
+---
+
+### 1073. msg_20345
+
+**You** - 2025-06-09T10:08:55
+
+I thought he would have on silent for some reason
+
+
+---
+
+### 1074. msg_20346
+
+**You** - 2025-06-09T10:09:04
+
+Trying to move offices today btw
+
+
+---
+
+### 1075. msg_20347
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T11:28:07
+
+Yeah I’m surprised he didn’t have it on silent either lol
+
+
+---
+
+### 1076. msg_20348
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T11:28:33
+
+>
+Honestly for work purposes it probably makes sense
+
+
+---
+
+### 1077. msg_20349
+
+**You** - 2025-06-09T11:33:32
+
+For all purposes
+
+
+---
+
+### 1078. msg_20350
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T11:33:57
+
+Oh stop
+
+
+---
+
+### 1079. msg_20351
+
+**You** - 2025-06-09T11:34:31
+
+Dead serious
+
+
+---
+
+### 1080. msg_20352
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T11:36:22
+
+Not working together should be enough I think\. You will see in time
+
+
+---
+
+### 1081. msg_20353
+
+**You** - 2025-06-09T11:38:01
+
+Nope I would go to other building if I could
+
+
+---
+
+### 1082. msg_20354
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T11:38:42
+
+Ps\. Ahana is feeling very lost today so you might need to do a bit extra for her going forward until a new supe in place\. She keeps coming to me for stuff and I told her she can continue to but just be aware\. She is feeling diff than the others\.
+
+
+---
+
+### 1083. msg_20355
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T11:39:17
+
+I told her I’m not going anywhere and she can always talk to me but still, just realize she is a bit insecure\.
+
+
+---
+
+### 1084. msg_20356
+
+**You** - 2025-06-09T11:45:54
+
+Kk but you still got this until the end of next week right\.\. lol
+
+
+---
+
+### 1085. msg_20357
+
+**You** - 2025-06-09T11:45:59
+
+You do remember lol
+
+
+---
+
+### 1086. msg_20358
+
+**You** - 2025-06-09T11:46:05
+
+But I will talk to her
+
+
+---
+
+### 1087. msg_20359
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T11:46:13
+
+Yes of course\. I told the team that
+
+
+---
+
+### 1088. msg_20360
+
+**You** - 2025-06-09T11:46:19
+
+Kk thx\!
+
+
+---
+
+### 1089. msg_20361
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T11:46:21
+
+Just a little heads up
+
+
+---
+
+### 1090. msg_20362
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T11:46:35
+
+She is much more insecure than the rest of the team
+
+
+---
+
+### 1091. msg_20363
+
+**You** - 2025-06-09T11:46:51
+
+Yeah I will give her some reassurance I have noticed that in the past
+
+
+---
+
+### 1092. msg_20364
+
+**You** - 2025-06-09T11:46:55
+
+She reminds me of me
+
+
+---
+
+### 1093. msg_20365
+
+**You** - 2025-06-09T13:06:55
+
+Hey looked a bit down at the end of
+Our chat\.\. you know I am willing to wait if you are right\.\. for whenever we can evolve or whatever you want to call it\.  You just looked a bit dismayed\.
+
+
+---
+
+### 1094. msg_20366
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T13:23:50
+
+I wasn’t dismayed\. It is always just a reality check whenever we mention the “when” in terms of being together finally\. That’s all\. Not a big deal\.
+
+
+---
+
+### 1095. msg_20367
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T13:24:02
+
+It’s the reality which is ok\.
+
+
+---
+
+### 1096. msg_20368
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T13:24:10
+
+❤️
+
+
+---
+
+### 1097. msg_20369
+
+**You** - 2025-06-09T13:25:09
+
+Ok as long as you are ok\.\. you just looked a bit overwhelmed or disappointed or based on yesterday I thought maybe worried that I wouldn’t stick around that long\.\. just wanted to provide
+Reassurance\.
+
+
+---
+
+### 1098. msg_20370
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T13:26:00
+
+Reaction: ❤️ from Scott Hicks
+No, I’m good\. 🙂
+
+
+---
+
+### 1099. msg_20371
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T16:48:16
+
+
+*4 attachment(s)*
+
+
+---
+
+### 1100. msg_20372
+
+**You** - 2025-06-09T16:50:32
+
+Wow
+
+
+---
+
+### 1101. msg_20373
+
+**You** - 2025-06-09T16:50:42
+
+That interesting
+
+
+---
+
+### 1102. msg_20374
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T16:52:55
+
+Where is that email re: Erin?
+
+
+---
+
+### 1103. msg_20375
+
+**You** - 2025-06-09T16:53:35
+
+Check your teams yah good
+
+
+---
+
+### 1104. msg_20376
+
+**You** - 2025-06-09T16:53:38
+
+
+
+---
+
+### 1105. msg_20377
+
+**You** - 2025-06-09T16:53:43
+
+Goof
+
+
+---
+
+### 1106. msg_20378
+
+**You** - 2025-06-09T16:54:12
+
+Feel free to mock me here
+
+
+---
+
+### 1107. msg_20379
+
+**You** - 2025-06-09T16:57:26
+
+https://open\.spotify\.com/track/0uRrG2jRR5tuifsYIJHEao?si=C2vK888mQdWV\_Pip3jfn2g&context=spotify%3Aplaylist%3A37i9dQZF1DZ06evO2zJOi2
+
+
+---
+
+### 1108. msg_20380
+
+**You** - 2025-06-09T16:57:32
+
+Like this one
+
+
+---
+
+### 1109. msg_20381
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T17:00:04
+
+So talked to rod about the role\. He is going to talk to you\. Man he loves you
+
+
+---
+
+### 1110. msg_20382
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T17:00:07
+
+lol sick
+
+
+---
+
+### 1111. msg_20383
+
+**You** - 2025-06-09T17:00:26
+
+Why does it bother you that people like me so much
+
+
+---
+
+### 1112. msg_20384
+
+**You** - 2025-06-09T17:00:31
+
+I am a nice guy
+
+
+---
+
+### 1113. msg_20385
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T17:00:42
+
+So after you talked to caraolyn this afternoon at her desk and left, she looked at me and goes “does he seem narrower?”
+
+
+---
+
+### 1114. msg_20386
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T17:00:47
+
+LOL
+
+
+---
+
+### 1115. msg_20387
+
+**You** - 2025-06-09T17:00:50
+
+ROFL
+
+
+---
+
+### 1116. msg_20388
+
+**You** - 2025-06-09T17:00:57
+
+Honestly
+
+
+---
+
+### 1117. msg_20389
+
+**You** - 2025-06-09T17:01:02
+
+Took 32
+Lbs
+
+
+---
+
+### 1118. msg_20390
+
+**You** - 2025-06-09T17:01:59
+
+Packing up to head out\.\. not sure what you doing but I guess we’ll chat later as per usual 🙄
+
+
+---
+
+### 1119. msg_20391
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T17:02:25
+
+>
+I KNOW\!
+
+
+---
+
+### 1120. msg_20392
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T17:02:55
+
+Why do you want to do something?
+
+
+---
+
+### 1121. msg_20393
+
+**You** - 2025-06-09T17:03:14
+
+I would but what I don’t have to go home yet\.
+
+
+---
+
+### 1122. msg_20394
+
+**You** - 2025-06-09T17:04:27
+
+1st time you asked that\.\. had no response\.\.
+
+
+---
+
+### 1123. msg_20395
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T17:07:42
+
+Talking to Carolyn
+
+
+---
+
+### 1124. msg_20396
+
+**You** - 2025-06-09T17:08:38
+
+Kk only thing I could think of is stop at park on way home if you want to sit for a few\.\. sry no other ideas
+
+
+---
+
+### 1125. msg_20397
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T17:08:51
+
+She goes “am I making him nervous? I was in talking to him and he just starts eating bars”
+
+
+---
+
+### 1126. msg_20398
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T17:09:05
+
+I’m like “no you are not\. He’s just working out a lot\.”
+
+
+---
+
+### 1127. msg_20399
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T17:09:14
+
+She goes “I’m not? Ok good”
+
+
+---
+
+### 1128. msg_20400
+
+**You** - 2025-06-09T17:09:15
+
+lol it was a protein bar omg
+
+
+---
+
+### 1129. msg_20401
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T17:09:20
+
+LOL
+
+
+---
+
+### 1130. msg_20402
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T17:09:43
+
+>
+k, if we go now I can\. Otherwise too late
+
+
+---
+
+### 1131. msg_20403
+
+**You** - 2025-06-09T17:09:50
+
+I can go now
+
+
+---
+
+### 1132. msg_20404
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T17:10:20
+
+Sorry just checking if I have vball driving
+
+
+---
+
+### 1133. msg_20405
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T17:10:28
+
+I don’t think I do but better check
+
+
+---
+
+### 1134. msg_20406
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T17:14:07
+
+K I have nothing
+
+
+---
+
+### 1135. msg_20407
+
+**You** - 2025-06-09T17:14:35
+
+Kk
+
+
+---
+
+### 1136. msg_20408
+
+**You** - 2025-06-09T19:21:29
+
+Shadow ok?
+
+
+---
+
+### 1137. msg_20409
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T19:26:49
+
+Didn’t say a word \(bc I’m making her dinner\)
+
+
+---
+
+### 1138. msg_20410
+
+**You** - 2025-06-09T19:26:58
+
+lol
+
+
+---
+
+### 1139. msg_20411
+
+**You** - 2025-06-09T19:27:06
+
+Sorry
+
+
+---
+
+### 1140. msg_20412
+
+**You** - 2025-06-09T19:27:29
+
+I keep putting you in these dangerous situations\.\. I will be happy when everyone knows too\.
+
+
+---
+
+### 1141. msg_20413
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T19:28:13
+
+Me toooooooooooooo omg
+
+
+---
+
+### 1142. msg_20414
+
+**You** - 2025-06-09T19:31:46
+
+It isn’t far off now
+
+
+---
+
+### 1143. msg_20415
+
+**You** - 2025-06-09T19:31:50
+
+Honestly
+
+
+---
+
+### 1144. msg_20416
+
+**You** - 2025-06-09T19:31:52
+
+Will fly by
+
+
+---
+
+### 1145. msg_20417
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T19:44:25
+
+“Fly by” lol mm hmm
+
+
+---
+
+### 1146. msg_20418
+
+**You** - 2025-06-09T19:45:18
+
+Comeon… I am trying to be optimistic
+
+
+---
+
+### 1147. msg_20419
+
+**You** - 2025-06-09T19:45:38
+
+I thought you wanted me to be happy and positive
+
+
+---
+
+### 1148. msg_20420
+
+**You** - 2025-06-09T19:45:40
+
+lol
+
+
+---
+
+### 1149. msg_20421
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T19:49:02
+
+Well it is nice for a change tbh :\)
+
+
+---
+
+### 1150. msg_20422
+
+**You** - 2025-06-09T19:51:39
+
+So let me happy and optimistic\.\.  I very much enjoyed sitting with you\.\. honestly I very much enjoy everything with you\.\. 🥰
+
+
+---
+
+### 1151. msg_20423
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T19:54:16
+
+Me too which is why it sucks to be apart right now\. But I will turn happy and optimistic too… maybe\. lol
+
+
+---
+
+### 1152. msg_20424
+
+**You** - 2025-06-09T19:56:46
+
+Mer it does suck\.\. but honestly when we are together it is so good\.\. I mean as long as it takes\.\. it won’t be years I feel like it won’t be we can figure something out\.
+
+
+---
+
+### 1153. msg_20425
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T19:59:20
+
+I know, I honestly am confident that we will figure it out\. Just a little annoying in the meantime\. I think I will feel better when mediation actually starts\. Gahhh
+
+
+---
+
+### 1154. msg_20426
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T19:59:28
+
+Feel in purgatory
+
+
+---
+
+### 1155. msg_20427
+
+**You** - 2025-06-09T20:00:20
+
+Yeah does feel I like that\.\. but it will come faster than you think\.
+
+
+---
+
+### 1156. msg_20428
+
+**You** - 2025-06-09T20:01:23
+
+I will be doing everything I can in the meantime to accelerate my own situation, talked to Jaimie about it tonight\.
+
+
+---
+
+### 1157. msg_20429
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T20:02:08
+
+How can you possibly accelerate?
+
+
+---
+
+### 1158. msg_20430
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T20:02:20
+
+Yours seems set in motion
+
+
+---
+
+### 1159. msg_20431
+
+**You** - 2025-06-09T20:02:24
+
+The day that she leaves
+
+
+---
+
+### 1160. msg_20432
+
+**You** - 2025-06-09T20:02:31
+
+I will likely take another week off
+
+
+---
+
+### 1161. msg_20433
+
+**You** - 2025-06-09T20:03:10
+
+And work with renovators to smash through the house fixes that needs to be done and get it staged and in the market by august if possible
+
+
+---
+
+### 1162. msg_20434
+
+**You** - 2025-06-09T20:03:24
+
+Will get a better price if I can
+
+
+---
+
+### 1163. msg_20435
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T20:03:40
+
+Before school yeah
+
+
+---
+
+### 1164. msg_20436
+
+**You** - 2025-06-09T20:04:14
+
+So that is my goal\.\.
+
+
+---
+
+### 1165. msg_20437
+
+**You** - 2025-06-09T20:04:22
+
+I get there even more freedom\.
+
+
+---
+
+### 1166. msg_20438
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T20:05:54
+
+When I read “freedom” I thought of Braveheart lol
+
+
+---
+
+### 1167. msg_20439
+
+**You** - 2025-06-09T20:06:00
+
+ROFL
+
+
+---
+
+### 1168. msg_20440
+
+**You** - 2025-06-09T20:06:10
+
+Grew ending
+
+
+---
+
+### 1169. msg_20441
+
+**You** - 2025-06-09T20:07:08
+
+Great
+
+
+---
+
+### 1170. msg_20442
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T20:15:33
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1171. msg_20443
+
+**You** - 2025-06-09T20:16:04
+
+Omfg
+
+
+---
+
+### 1172. msg_20444
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T20:17:20
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1173. msg_20445
+
+**You** - 2025-06-09T20:19:34
+
+Are you considering?
+
+
+---
+
+### 1174. msg_20446
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T20:19:44
+
+No
+
+
+---
+
+### 1175. msg_20447
+
+**You** - 2025-06-09T20:20:09
+
+She will likely figure out how to get one
+
+
+---
+
+### 1176. msg_20448
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T20:20:20
+
+The guy at the gym last night asked if she was 18\. I’m like “wtf would i be here if she was 18?”
+
+
+---
+
+### 1177. msg_20449
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T20:20:27
+
+🙄
+
+
+---
+
+### 1178. msg_20450
+
+**You** - 2025-06-09T20:20:31
+
+Hahaha
+
+
+---
+
+### 1179. msg_20451
+
+**You** - 2025-06-09T20:20:39
+
+Bet she loved that
+
+
+---
+
+### 1180. msg_20452
+
+**You** - 2025-06-09T22:03:48
+
+I am going to be up for quite a while I assume you are likely going to bed soon eh
+
+
+---
+
+### 1181. msg_20453
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:08:25
+
+I watched a little tv and yeah will likely go to bed soon\. Going to try to get up earlier tomorrow
+
+
+---
+
+### 1182. msg_20454
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:08:46
+
+Also I’m tiiiired\. Feel bad you have to stay up so late :\(
+
+
+---
+
+### 1183. msg_20455
+
+**You** - 2025-06-09T22:09:00
+
+Yeah it sucks\.\. wish I didn't have to pick her up\.\. booo\.\.
+
+
+---
+
+### 1184. msg_20456
+
+**You** - 2025-06-09T22:10:39
+
+Well I won't belabour it, I am sure you want to go to bed\.\. so I will just tell you I love you and will be thinking of you tonight\.  Going to still get up early tomorrow and hit it\.\. no choice\.
+
+
+---
+
+### 1185. msg_20457
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:11:20
+
+Oh my \.\. you are going to be so 😴
+
+
+---
+
+### 1186. msg_20458
+
+**You** - 2025-06-09T22:11:31
+
+nah will be fine
+
+
+---
+
+### 1187. msg_20459
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:11:47
+
+I just read over our April 12 texts bc I was curious
+
+
+---
+
+### 1188. msg_20460
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:11:50
+
+Funny
+
+
+---
+
+### 1189. msg_20461
+
+**You** - 2025-06-09T22:11:54
+
+whyat is funny
+
+
+---
+
+### 1190. msg_20462
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:11:58
+
+Well, not funny
+
+
+---
+
+### 1191. msg_20463
+
+**You** - 2025-06-09T22:12:05
+
+I don't have those\. only you do
+
+
+---
+
+### 1192. msg_20464
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:12:12
+
+Just seems like so long ago, but it isn’t so long ago
+
+
+---
+
+### 1193. msg_20465
+
+**You** - 2025-06-09T22:12:32
+
+yeah this relationship has advanced into something more like years in months\.
+
+
+---
+
+### 1194. msg_20466
+
+**You** - 2025-06-09T22:16:56
+
+wish there was an easy way to export all of those texts\.
+
+
+---
+
+### 1195. msg_20467
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:18:26
+
+Hm I just tried and it didn’t work
+
+
+---
+
+### 1196. msg_20468
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:18:53
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1197. msg_20469
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:19:08
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1198. msg_20470
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:19:22
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1199. msg_20471
+
+**You** - 2025-06-09T22:19:35
+
+fyi there were suspicions
+
+
+---
+
+### 1200. msg_20472
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:19:42
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1201. msg_20473
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:20:03
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1202. msg_20474
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:20:29
+
+So that is all the after part\. The before stuff is long and logistical related
+
+
+---
+
+### 1203. msg_20475
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:20:50
+
+>
+Really?
+
+
+---
+
+### 1204. msg_20476
+
+**You** - 2025-06-09T22:21:22
+
+Maddie
+
+
+---
+
+### 1205. msg_20477
+
+**You** - 2025-06-09T22:21:31
+
+Reaction: 😂 from Meredith Lamb
+She was actually suspicious about sharon
+
+
+---
+
+### 1206. msg_20478
+
+**You** - 2025-06-09T22:21:36
+
+LOL
+
+
+---
+
+### 1207. msg_20479
+
+**You** - 2025-06-09T22:22:07
+
+>
+I mean you could tell even then the feelings were pretty crazy for only having gone out once\.\.\. they were there before\.\. this whole thing is NUTS\.
+
+
+---
+
+### 1208. msg_20480
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:23:04
+
+I know, wild reading that back\.
+
+
+---
+
+### 1209. msg_20481
+
+**You** - 2025-06-09T22:23:06
+
+I fell so hard so fast\.
+
+
+---
+
+### 1210. msg_20482
+
+**You** - 2025-06-09T22:23:17
+
+still falling tbh\.\. no bottom
+
+
+---
+
+### 1211. msg_20483
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:23:26
+
+Me too 🤯
+
+
+---
+
+### 1212. msg_20484
+
+**You** - 2025-06-09T22:23:58
+
+a few months\.\. that is what we have\.
+
+
+---
+
+### 1213. msg_20485
+
+**You** - 2025-06-09T22:25:02
+
+any plans 27th?
+
+
+---
+
+### 1214. msg_20486
+
+**You** - 2025-06-09T22:25:07
+
+or that weekend?
+
+
+---
+
+### 1215. msg_20487
+
+**You** - 2025-06-09T22:25:49
+
+just curious right now\.\. nothing specific\.\. but might have an opportunity\.\.
+
+
+---
+
+### 1216. msg_20488
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:26:19
+
+What day of the week is the 27th
+
+
+---
+
+### 1217. msg_20489
+
+**You** - 2025-06-09T22:26:48
+
+friday
+
+
+---
+
+### 1218. msg_20490
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:30:43
+
+So just checked calendar\. Maelle gets dropped off at GBC on Sat the 28th but we haven’t discussed who is taking her yet\. We never both go\. Her camp is on our lake
+
+
+---
+
+### 1219. msg_20491
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:30:56
+
+Edited: 2 versions
+| Version: 2
+| Sent: Mon, 9 Jun 2025 22:32:17 \-0400
+|
+| Road trip like to cottage or different one lol
+|
+| Version: 1
+| Sent: Mon, 9 Jun 2025 22:30:56 \-0400
+|
+| Otherwise nothing on our calendar
+
+
+---
+
+### 1220. msg_20492
+
+**You** - 2025-06-09T22:31:36
+
+So\.\. maybe roadtrip?
+
+
+---
+
+### 1221. msg_20493
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:32:33
+
+Weird I edited that by accident lol
+
+
+---
+
+### 1222. msg_20494
+
+**You** - 2025-06-09T22:32:42
+
+I mean we have some options\.
+
+
+---
+
+### 1223. msg_20495
+
+**You** - 2025-06-09T22:32:47
+
+We could do that\.
+
+
+---
+
+### 1224. msg_20496
+
+**You** - 2025-06-09T22:33:03
+
+Go up Friday come back Sunday if possible on your end
+
+
+---
+
+### 1225. msg_20497
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:33:13
+
+I will see if Andrew is thinking of taking her
+
+
+---
+
+### 1226. msg_20498
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:33:19
+
+If so I’m not going up
+
+
+---
+
+### 1227. msg_20499
+
+**You** - 2025-06-09T22:33:24
+
+So the other option
+
+
+---
+
+### 1228. msg_20500
+
+**You** - 2025-06-09T22:33:29
+
+Roadtrip
+
+
+---
+
+### 1229. msg_20501
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:33:37
+
+Don’t feel like hanging out with him :p lol
+
+
+---
+
+### 1230. msg_20502
+
+**You** - 2025-06-09T22:33:51
+
+Well yeah I don't think the three of us would get along
+
+
+---
+
+### 1231. msg_20503
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:34:04
+
+Unlikely
+
+
+---
+
+### 1232. msg_20504
+
+**You** - 2025-06-09T22:34:19
+
+So Haris invited me to Windsor end of June to visit clients\.
+
+
+---
+
+### 1233. msg_20505
+
+**You** - 2025-06-09T22:34:31
+
+26th/27th\. one or both days
+
+
+---
+
+### 1234. msg_20506
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:34:32
+
+“Visit clients”
+
+
+---
+
+### 1235. msg_20507
+
+**You** - 2025-06-09T22:34:36
+
+no for real
+
+
+---
+
+### 1236. msg_20508
+
+**You** - 2025-06-09T22:34:38
+
+he did
+
+
+---
+
+### 1237. msg_20509
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:34:43
+
+lol k
+
+
+---
+
+### 1238. msg_20510
+
+**You** - 2025-06-09T22:35:03
+
+28th I have been invited back to see John as he is getting ordained in Grand Rapids\.
+
+
+---
+
+### 1239. msg_20511
+
+**You** - 2025-06-09T22:35:37
+
+But we could skip the customer visits
+
+
+---
+
+### 1240. msg_20512
+
+**You** - 2025-06-09T22:35:43
+
+Haris would cover for me anyways
+
+
+---
+
+### 1241. msg_20513
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:35:44
+
+lol
+
+
+---
+
+### 1242. msg_20514
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:36:14
+
+>
+Haris would do anything for you
+
+
+---
+
+### 1243. msg_20515
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:37:38
+
+Ok so obviously yes I would want to do something\. Just need to figure it out\.
+
+
+---
+
+### 1244. msg_20516
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:37:52
+
+Will see what Andrew is thinking re: Maelle
+
+
+---
+
+### 1245. msg_20517
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:38:05
+
+I normally take her so we will see
+
+
+---
+
+### 1246. msg_20518
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:38:12
+
+She won’t care who takes her tho
+
+
+---
+
+### 1247. msg_20519
+
+**You** - 2025-06-09T22:38:13
+
+I mean if Andrew isn't well then that would put a crimp in it\.
+
+
+---
+
+### 1248. msg_20520
+
+**You** - 2025-06-09T22:39:02
+
+but again none of this is set in stone\.\. and it is no biggy if it doesn't work out honestly\.\. just an idea\.
+
+
+---
+
+### 1249. msg_20521
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:40:50
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1250. msg_20522
+
+**You** - 2025-06-09T22:41:36
+
+Ominous\.\.\.
+
+
+---
+
+### 1251. msg_20523
+
+**You** - 2025-06-09T22:41:38
+
+lol
+
+
+---
+
+### 1252. msg_20524
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:42:24
+
+lol ominous?
+
+
+---
+
+### 1253. msg_20525
+
+**You** - 2025-06-09T22:42:46
+
+I mean\.\. I have never kept a weekend clear\.\. so I guess I don't understand
+
+
+---
+
+### 1254. msg_20526
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:42:58
+
+Is it a long weekend?
+
+
+---
+
+### 1255. msg_20527
+
+**You** - 2025-06-09T22:43:22
+
+July 1st
+
+
+---
+
+### 1256. msg_20528
+
+**You** - 2025-06-09T22:43:25
+
+so yeah I guess
+
+
+---
+
+### 1257. msg_20529
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:43:32
+
+Ah that’s why
+
+
+---
+
+### 1258. msg_20530
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:43:37
+
+He will want to go
+
+
+---
+
+### 1259. msg_20531
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:43:50
+
+He just means he kept it clear of volleyball
+
+
+---
+
+### 1260. msg_20532
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:43:54
+
+Like beach and stuff
+
+
+---
+
+### 1261. msg_20533
+
+**You** - 2025-06-09T22:44:16
+
+ah ok\.\. well you might want to go with kids too if it is long weekend\./
+
+
+---
+
+### 1262. msg_20534
+
+**You** - 2025-06-09T22:46:47
+
+Ok listen I am keeping you up\.\. shit
+
+
+---
+
+### 1263. msg_20535
+
+**You** - 2025-06-09T22:46:49
+
+not my intent\.\.
+
+
+---
+
+### 1264. msg_20536
+
+**You** - 2025-06-09T22:46:55
+
+you should go to bed\.
+
+
+---
+
+### 1265. msg_20537
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:47:02
+
+Funny I looked back to last year
+
+
+---
+
+### 1266. msg_20538
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:47:12
+
+They all went up and I stayed home for some reason
+
+
+---
+
+### 1267. msg_20539
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:47:15
+
+No idea why
+
+
+---
+
+### 1268. msg_20540
+
+**You** - 2025-06-09T22:47:32
+
+Again you might want to go with them\.\. wouldn't blame you if you did\.\.
+
+
+---
+
+### 1269. msg_20541
+
+**You** - 2025-06-09T22:47:35
+
+all good
+
+
+---
+
+### 1270. msg_20542
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:48:37
+
+I stayed home and cleaned the house that weekend
+
+
+---
+
+### 1271. msg_20543
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:48:44
+
+I wonder if I was mad at Andrew
+
+
+---
+
+### 1272. msg_20544
+
+**You** - 2025-06-09T22:48:46
+
+>
+fun
+
+
+---
+
+### 1273. msg_20545
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:48:50
+
+Totally don’t remember
+
+
+---
+
+### 1274. msg_20546
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:48:55
+
+So odd
+
+
+---
+
+### 1275. msg_20547
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:49:03
+
+Was just going through photos
+
+
+---
+
+### 1276. msg_20548
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:50:23
+
+>
+I don’t want to hang out with Andrew for a whole weekend\. Good lord\.
+
+
+---
+
+### 1277. msg_20549
+
+**You** - 2025-06-09T22:50:35
+
+yeah but you will want to hang out with your kids\.
+
+
+---
+
+### 1278. msg_20550
+
+**You** - 2025-06-09T22:50:42
+
+I didn't realize it was the long weekend
+
+
+---
+
+### 1279. msg_20551
+
+**You** - 2025-06-09T22:50:44
+
+my bad
+
+
+---
+
+### 1280. msg_20552
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:51:13
+
+Maelle will be at camp\. Mac won’t want to be there\. Marlowe … she seemed fine in the photos from last year without me lol
+
+
+---
+
+### 1281. msg_20553
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:51:35
+
+My main problem will be Mac not wanting to go\.
+
+
+---
+
+### 1282. msg_20554
+
+**You** - 2025-06-09T22:53:09
+
+>
+how so?  just don't want her home alone LOL don't blame you
+
+
+---
+
+### 1283. msg_20555
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:54:14
+
+Exactly\. If Andrew is going I will need a story and not “I’m staying home”
+
+
+---
+
+### 1284. msg_20556
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:54:25
+
+Because Mac will want to stay with me\.
+
+
+---
+
+### 1285. msg_20557
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:54:42
+
+I could go visit friends back home or something … I dunno
+
+
+---
+
+### 1286. msg_20558
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:54:47
+
+Could figure it out
+
+
+---
+
+### 1287. msg_20559
+
+**You** - 2025-06-09T22:54:58
+
+I would go visit friends back home\.
+
+
+---
+
+### 1288. msg_20560
+
+**You** - 2025-06-09T22:55:00
+
+lol j/k
+
+
+---
+
+### 1289. msg_20561
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:55:12
+
+Or maybe I just tell them :p
+
+
+---
+
+### 1290. msg_20562
+
+**You** - 2025-06-09T22:55:12
+
+not for a long time I am guessing\.\. hehe
+
+
+---
+
+### 1291. msg_20563
+
+**You** - 2025-06-09T22:55:24
+
+you cannot
+
+
+---
+
+### 1292. msg_20564
+
+**You** - 2025-06-09T22:55:29
+
+not until separation agreement is done
+
+
+---
+
+### 1293. msg_20565
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:55:49
+
+I know…………
+
+
+---
+
+### 1294. msg_20566
+
+**You** - 2025-06-09T22:58:30
+
+KK I think I overly engaged you on this\.
+
+
+---
+
+### 1295. msg_20567
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:58:53
+
+lol
+
+
+---
+
+### 1296. msg_20568
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:59:05
+
+I need to go to bed and now my brain is thinking
+
+
+---
+
+### 1297. msg_20569
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:59:12
+
+But honestly I’m tired
+
+
+---
+
+### 1298. msg_20570
+
+**You** - 2025-06-09T22:59:12
+
+yeah I am sorry
+
+
+---
+
+### 1299. msg_20571
+
+**You** - 2025-06-09T22:59:15
+
+bad timing
+
+
+---
+
+### 1300. msg_20572
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:59:17
+
+I will be able to sleep
+
+
+---
+
+### 1301. msg_20573
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:59:22
+
+Don’t worry
+
+
+---
+
+### 1302. msg_20574
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:59:32
+
+Not used to getting up early still
+
+
+---
+
+### 1303. msg_20575
+
+**You** - 2025-06-09T22:59:34
+
+kk go to bed then\. I gotta pack up my shit for tomorrow\.
+
+
+---
+
+### 1304. msg_20576
+
+**You** - 2025-06-09T22:59:39
+
+then go for a drive
+
+
+---
+
+### 1305. msg_20577
+
+**You** - 2025-06-09T22:59:41
+
+fack
+
+
+---
+
+### 1306. msg_20578
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T22:59:47
+
+:\(
+
+
+---
+
+### 1307. msg_20579
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-09T23:00:29
+
+Reaction: ❤️ from Scott Hicks
+k, nite\. I love you and will be thinking of last Saturday xoxoxo
+
+
+---
+
+### 1308. msg_20580
+
+**You** - 2025-06-09T23:01:34
+
+Love you to Mer\.\. I think about all of em\.\. all the time\.\. even the park :\)  they are all perfect\.  XOXO sleep well ❤️
+
+
+---
+
+### 1309. msg_20581
+
+**You** - 2025-06-09T23:01:44
+
+even the cars\.\. lol
+
+
+---
+
+### 1310. msg_20582
+
+**You** - 2025-06-09T23:02:01
+
+Reaction: ❤️ from Meredith Lamb
+and the food show
+
+
+---
+
+### 1311. msg_20583
+
+**You** - 2025-06-09T23:07:43
+
+Reaction: ❤️ from Meredith Lamb
+>
+you might not read this until morning \- but I will tell you everything about Saturday was amazing, however the thing that I remember the most is how beautiful your eyes are, because I don't even know how long I looked at them, but couldn't stop\. Cheesy but true\.\. now if you read this in the morning, I hope it makes you smile\.\. luv\.
+
+
+---
+
+### 1312. msg_20584
+
+**You** - 2025-06-10T01:12:09
+
+And back home and in bed in 5
+
+
+---
+
+### 1313. msg_20585
+
+**You** - 2025-06-10T05:25:36
+
+Reaction: 🙄 from Meredith Lamb
+Edited: 3 versions
+| Version: 3
+| Sent: Tue, 10 Jun 2025 05:26:05 \-0400
+|
+| And back up who needs more sleep than this…
+| Pssssssh
+|
+| Version: 2
+| Sent: Tue, 10 Jun 2025 05:25:51 \-0400
+|
+| And back up who needs more sleep than this…
+| Passssh
+|
+| Version: 1
+| Sent: Tue, 10 Jun 2025 05:25:36 \-0400
+|
+| And back up who needs more sleep than this…
+| Push
+
+
+---
+
+### 1314. msg_20586
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T05:35:49
+
+>
+I really love looking in your eyes too which for me is odd bc I don’t like doing that normally\. Xo
+
+
+---
+
+### 1315. msg_20587
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T05:36:05
+
+I’m getting up at 5\.40 :p but don’t want to
+
+
+---
+
+### 1316. msg_20588
+
+**You** - 2025-06-10T05:51:49
+
+>
+Yeah I wanted to talk about this sometime I was curious\.  But later ❤️
+
+
+---
+
+### 1317. msg_20589
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T05:53:18
+
+I think I’m on the spectrum\. Lol \(they don’t like eye contact\) I told you I’m sure that my mom has a video of me as a baby where I keep looking away when she looks at me\. She kept doing it\. As I grew up she probably wore me down\. Still don’t like it typically
+
+
+---
+
+### 1318. msg_20590
+
+**You** - 2025-06-10T05:58:35
+
+Yeah I mean I used to keep my eyes open some of the time but I was told some people didnt like that\.\. but I did\.\. I just didn’t know if you were peeking and I caught you or what…\. You can do it as much as you want I love looking into your eyes\.  But I was aware of what you mentioned above… I am prob on spectrum too tbh\.
+
+
+---
+
+### 1319. msg_20591
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T06:14:59
+
+I’m kind of kidding\. I don’t think I am, nor you\. But it is a thing with that\.
+
+
+---
+
+### 1320. msg_20592
+
+**You** - 2025-06-10T06:28:14
+
+Either way I am glad you like to\.
+
+
+---
+
+### 1321. msg_20593
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T06:43:40
+
+I asked Andrew why I didn’t go to the cottage last July long weekend\. He doesn’t remember but is like “I can guess”\. “You probably just didn’t want to be around me\.”
+
+
+---
+
+### 1322. msg_20594
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T06:43:45
+
+lol doh
+
+
+---
+
+### 1323. msg_20595
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T06:43:49
+
+Probably accurate
+
+
+---
+
+### 1324. msg_20596
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T06:44:20
+
+He wants to take Maelle again
+
+
+---
+
+### 1325. msg_20597
+
+**You** - 2025-06-10T06:48:44
+
+Kk so road trip maybe\.\.
+
+
+---
+
+### 1326. msg_20598
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T06:49:44
+
+Maybe \- let me talk to Mac
+
+
+---
+
+### 1327. msg_20599
+
+**You** - 2025-06-10T06:50:39
+
+Oh shit yeah\.\. set
+Forgot lol nm…
+
+
+---
+
+### 1328. msg_20600
+
+**You** - 2025-06-10T06:50:55
+
+No worries completely forgot
+
+
+---
+
+### 1329. msg_20601
+
+**You** - 2025-06-10T07:01:50
+
+All done that one was fast and intense\.\. time to relax\!\!
+
+
+---
+
+### 1330. msg_20602
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T07:02:31
+
+Me too\. Still took me an hour and I needed 10lb weights\. Ugh so ordered some on Amazon
+
+
+---
+
+### 1331. msg_20603
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T07:02:45
+
+Going to walk dogs now\. Dog walker still sick
+
+
+---
+
+### 1332. msg_20604
+
+**You** - 2025-06-10T07:02:53
+
+I bought those adjustable ones during Covid\.
+
+
+---
+
+### 1333. msg_20605
+
+**You** - 2025-06-10T07:03:10
+
+>
+Give them a let from me\.\. kinda miss em
+
+
+---
+
+### 1334. msg_20606
+
+**You** - 2025-06-10T07:48:19
+
+See ya at office heading in now\.
+
+
+---
+
+### 1335. msg_20607
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T07:49:22
+
+k, trying to get out by 8 today\! Going to keep trying earlier and earlier\. Succeeded a bit today but not much lol
+
+
+---
+
+### 1336. msg_20608
+
+**You** - 2025-06-10T07:49:36
+
+lol
+
+
+---
+
+### 1337. msg_20609
+
+**You** - 2025-06-10T07:50:08
+
+I think tomorrow I have weights off but still coming in
+
+
+---
+
+### 1338. msg_20610
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T08:00:46
+
+Of course you are lol
+
+
+---
+
+### 1339. msg_20611
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T08:00:51
+
+Got out at 8 Yaye
+
+
+---
+
+### 1340. msg_20612
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T08:00:58
+
+But need to go to Tim’s lol
+
+
+---
+
+### 1341. msg_20613
+
+**You** - 2025-06-10T08:07:47
+
+You will beat me I think
+
+
+---
+
+### 1342. msg_20614
+
+**You** - 2025-06-10T10:31:33
+
+Soooooooooooooooo
+
+
+---
+
+### 1343. msg_20615
+
+**You** - 2025-06-10T10:33:02
+
+Apparently you had a couple of email exchanges with Deb
+
+
+---
+
+### 1344. msg_20616
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T10:33:42
+
+Yeah I told you
+
+
+---
+
+### 1345. msg_20617
+
+**You** - 2025-06-10T10:33:43
+
+And went into a rather lot detail in the second d email\.  I think she was curious as to why that was the case\.\. I do t know what you said but not for her curious
+
+
+---
+
+### 1346. msg_20618
+
+**You** - 2025-06-10T10:33:53
+
+She asked me a couple of questions
+
+
+---
+
+### 1347. msg_20619
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T10:33:57
+
+No I didn’t go into detail for me
+
+
+---
+
+### 1348. msg_20620
+
+**You** - 2025-06-10T10:34:09
+
+Well I think she read it that way\.
+
+
+---
+
+### 1349. msg_20621
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T10:34:21
+
+lol
+
+
+---
+
+### 1350. msg_20622
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T10:34:25
+
+She doesn’t know me
+
+
+---
+
+### 1351. msg_20623
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T10:34:39
+
+I gave her the least amount of detail of anyone
+
+
+---
+
+### 1352. msg_20624
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T10:36:07
+
+I’m trying to find the email
+
+
+---
+
+### 1353. msg_20625
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T10:36:56
+
+Sent to you
+
+
+---
+
+### 1354. msg_20626
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T10:36:59
+
+lol
+
+
+---
+
+### 1355. msg_20627
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T10:37:04
+
+Soooooooo detailed
+
+
+---
+
+### 1356. msg_20628
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T10:37:53
+
+I never told her details \(I told some others details like Carolyn, Michelle, Bailey, Yolanda etc … like of the text but not Deb\)
+
+
+---
+
+### 1357. msg_20629
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T10:39:55
+
+>
+“I don’t know what you said but not for her” … what does that mean?
+
+
+---
+
+### 1358. msg_20630
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T11:35:30
+
+⏳
+
+
+---
+
+### 1359. msg_20631
+
+**You** - 2025-06-10T11:56:20
+
+Meetings I am free\. Ow if you want to pop in up to you
+
+
+---
+
+### 1360. msg_20632
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T13:24:35
+
+This is going to take some work
+
+*1 attachment(s)*
+
+
+---
+
+### 1361. msg_20633
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T13:41:59
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1362. msg_20634
+
+**You** - 2025-06-10T13:44:51
+
+Sorry about earlier btw\.\. I guess you get scared about some things in get scared about others
+
+
+---
+
+### 1363. msg_20635
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T13:46:06
+
+Ok done\.
+
+*1 attachment(s)*
+
+
+---
+
+### 1364. msg_20636
+
+**You** - 2025-06-10T13:56:01
+
+OMG
+
+
+---
+
+### 1365. msg_20637
+
+**You** - 2025-06-10T13:56:09
+
+mine I feel awful
+
+
+---
+
+### 1366. msg_20638
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T13:57:58
+
+lol she was going to get it anyway
+
+
+---
+
+### 1367. msg_20639
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T13:58:08
+
+She’s just going to do it a bit sooner
+
+
+---
+
+### 1368. msg_20640
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T13:58:22
+
+As if I was going to stop her
+
+
+---
+
+### 1369. msg_20641
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T13:58:43
+
+But I have no story for leaving the house and not staying home
+
+
+---
+
+### 1370. msg_20642
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:09:49
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1371. msg_20643
+
+**You** - 2025-06-10T14:10:26
+
+I just feel guilty
+
+
+---
+
+### 1372. msg_20644
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:12:01
+
+Please don’t\. This is how Mackenzie and I work\.
+
+
+---
+
+### 1373. msg_20645
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:12:11
+
+Almost everyday we bargain on things
+
+
+---
+
+### 1374. msg_20646
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:12:19
+
+At least 3x per week
+
+
+---
+
+### 1375. msg_20647
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:12:55
+
+I told you it was likely going to happen
+
+
+---
+
+### 1376. msg_20648
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:13:03
+
+It is part of our routine :p
+
+
+---
+
+### 1377. msg_20649
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:13:09
+
+She isn’t stupid lol
+
+
+---
+
+### 1378. msg_20650
+
+**You** - 2025-06-10T14:14:50
+
+Yeah but I do this kind of trickery I know you hate the sneaking
+
+
+---
+
+### 1379. msg_20651
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:19:57
+
+lol “trickery”\. I hardly consider it that
+
+
+---
+
+### 1380. msg_20652
+
+**You** - 2025-06-10T14:20:29
+
+Ok still I appreciate it, it gives us something to look forward to\.
+
+
+---
+
+### 1381. msg_20653
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:21:56
+
+I just need some story as to why I would go south
+
+
+---
+
+### 1382. msg_20654
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:22:09
+
+Have time to think on that
+
+
+---
+
+### 1383. msg_20655
+
+**You** - 2025-06-10T14:24:57
+
+Kk
+
+
+---
+
+### 1384. msg_20656
+
+**You** - 2025-06-10T14:28:46
+
+So distracted today\.\. annoyed
+
+
+---
+
+### 1385. msg_20657
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:31:54
+
+More than usual?
+
+
+---
+
+### 1386. msg_20658
+
+**You** - 2025-06-10T14:32:53
+
+Yeah lots of stupid little stuff,
+Sep agreement, having to go home instead of somewhere else lol that and more\.\.
+Dumb shit
+
+
+---
+
+### 1387. msg_20659
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:37:32
+
+I hear ya\. I hate being at home and only Mackenzie really knowing reality\. It is wearing on me\.
+
+
+---
+
+### 1388. msg_20660
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:37:48
+
+Trying to stay quiet though\. 🤐
+
+
+---
+
+### 1389. msg_20661
+
+**You** - 2025-06-10T14:39:51
+
+Same and I have to put on a fake face and tolerate everything when I just want out\.
+
+
+---
+
+### 1390. msg_20662
+
+**You** - 2025-06-10T14:41:43
+
+But wearing one me would be putting it lightly at this point\.\. still trying to focus on the good lol\.
+
+
+---
+
+### 1391. msg_20663
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:44:33
+
+This morning right when Marlowe got up she goes to me “what time are you coming home tonight?”
+
+
+---
+
+### 1392. msg_20664
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:44:36
+
+lol
+
+
+---
+
+### 1393. msg_20665
+
+**You** - 2025-06-10T14:44:48
+
+ROFL
+
+
+---
+
+### 1394. msg_20666
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:44:52
+
+I think she knows and just wants to know\. I feel bad\.
+
+
+---
+
+### 1395. msg_20667
+
+**You** - 2025-06-10T14:44:52
+
+She is tracking you
+
+
+---
+
+### 1396. msg_20668
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:45:02
+
+She will feel better when she is told officially\.
+
+
+---
+
+### 1397. msg_20669
+
+**You** - 2025-06-10T14:45:07
+
+She is going to hate me 😢
+
+
+---
+
+### 1398. msg_20670
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:45:23
+
+No she won’t\. She just wants to know what the heck her mom is doing\.
+
+
+---
+
+### 1399. msg_20671
+
+**You** - 2025-06-10T14:45:38
+
+Well sept 15
+
+
+---
+
+### 1400. msg_20672
+
+**You** - 2025-06-10T14:45:42
+
+Sooo close
+
+
+---
+
+### 1401. msg_20673
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:46:09
+
+Omg not close at all
+
+
+---
+
+### 1402. msg_20674
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:46:38
+
+When I have a signed agreement I’m afraid I’m going to blurt stuff out\. I need to be thoughtful about it
+
+
+---
+
+### 1403. msg_20675
+
+**You** - 2025-06-10T14:50:44
+
+Well you have a long time to think about it…\. A looooooooooooooooooooong time\.
+
+
+---
+
+### 1404. msg_20676
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:55:03
+
+I predict a signed agreement by July 20
+
+
+---
+
+### 1405. msg_20677
+
+**You** - 2025-06-10T14:58:18
+
+Zero chance
+
+
+---
+
+### 1406. msg_20678
+
+**You** - 2025-06-10T14:59:12
+
+About as much chance as you and I living together in 4 years
+
+
+---
+
+### 1407. msg_20679
+
+**You** - 2025-06-10T14:59:19
+
+😝
+
+
+---
+
+### 1408. msg_20680
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T14:59:40
+
+>
+I thought you were going to be more optimistic and positive? Lol
+
+
+---
+
+### 1409. msg_20681
+
+**You** - 2025-06-10T14:59:56
+
+4 was arbitrary I am being an ass
+
+
+---
+
+### 1410. msg_20682
+
+**You** - 2025-06-10T15:00:08
+
+But yeah not optimistic about that
+
+
+---
+
+### 1411. msg_20683
+
+**You** - 2025-06-10T15:00:12
+
+The normalcy thing
+
+
+---
+
+### 1412. msg_20684
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T15:00:47
+
+>
+I predict we live together in 2027 \(not saying a month\)
+
+
+---
+
+### 1413. msg_20685
+
+**You** - 2025-06-10T15:01:32
+
+Rofl, I truly wish, who knows…
+
+
+---
+
+### 1414. msg_20686
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T15:04:57
+
+Reaction: 😂 from Scott Hicks
+You are clueless\. Just trust me
+
+
+---
+
+### 1415. msg_20687
+
+**You** - 2025-06-10T15:38:51
+
+Sorry just thought about the earlier conversation and almost spit my water out\.
+
+
+---
+
+### 1416. msg_20688
+
+**You** - 2025-06-10T15:38:57
+
+lol
+
+
+---
+
+### 1417. msg_20689
+
+**You** - 2025-06-10T15:40:35
+
+I do trust you\.\. it is just…\. A tough road atm\.
+
+
+---
+
+### 1418. msg_20690
+
+**You** - 2025-06-10T15:40:45
+
+Going to pack up now and go get my car I think
+
+
+---
+
+### 1419. msg_20691
+
+**You** - 2025-06-10T15:42:44
+
+Rod was interesting Julian as well\.  In case you are curious
+
+
+---
+
+### 1420. msg_20692
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T15:43:54
+
+Not really\. Talked to rod yday\. Talking to Julian tomorrow\. :p
+
+
+---
+
+### 1421. msg_20693
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T15:44:58
+
+k I’m leaving at a decent hour today also for Mac\. Ordered a cob salad\. We all have to be healthy for her lol
+
+
+---
+
+### 1422. msg_20694
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T15:45:03
+
+And no cake
+
+
+---
+
+### 1423. msg_20695
+
+**You** - 2025-06-10T15:46:48
+
+Reaction: ❤️ from Meredith Lamb
+Kk have fun ❤️u chat later\.
+
+
+---
+
+### 1424. msg_20696
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:00:42
+
+Ps\. I notice you forgot to send that heat pump budget \# 🙃
+
+
+---
+
+### 1425. msg_20697
+
+**You** - 2025-06-10T16:01:21
+
+You said it didn’t matter but now it’s on
+
+
+---
+
+### 1426. msg_20698
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:02:00
+
+It doesn’t but I am proving the point that it WASN’T “easy”
+
+
+---
+
+### 1427. msg_20699
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:02:02
+
+lol
+
+
+---
+
+### 1428. msg_20700
+
+**You** - 2025-06-10T16:02:41
+
+I couldn’t put a lot of effort in when\. You were soooooo distracting
+
+
+---
+
+### 1429. msg_20701
+
+**You** - 2025-06-10T16:02:54
+
+Looking at me like that\.\. god\!\!
+
+
+---
+
+### 1430. msg_20702
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:03:19
+
+lol excuses
+
+
+---
+
+### 1431. msg_20703
+
+**You** - 2025-06-10T16:03:26
+
+Twirling your hair
+
+
+---
+
+### 1432. msg_20704
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:03:38
+
+If it was easy it shouldn’t have required a lot of effort
+
+
+---
+
+### 1433. msg_20705
+
+**You** - 2025-06-10T16:03:45
+
+Being all omg I am lost without my phone whatever shall I do
+
+
+---
+
+### 1434. msg_20706
+
+**You** - 2025-06-10T16:03:58
+
+Think you were trying to seduce me
+
+
+---
+
+### 1435. msg_20707
+
+**You** - 2025-06-10T16:04:28
+
+How could I possibly focus
+
+
+---
+
+### 1436. msg_20708
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:04:33
+
+Yes, in a glass fish bowl\. That is exactly what was happening\.
+
+
+---
+
+### 1437. msg_20709
+
+**You** - 2025-06-10T16:05:12
+
+Let’s just say you don’t have to try hard or ever for that matter lol
+
+
+---
+
+### 1438. msg_20710
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:06:38
+
+Likewise\.
+
+
+---
+
+### 1439. msg_20711
+
+**You** - 2025-06-10T16:07:16
+
+That and I have been thinking about long weekend all day
+
+
+---
+
+### 1440. msg_20712
+
+**You** - 2025-06-10T16:07:18
+
+Gah
+
+
+---
+
+### 1441. msg_20713
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:10:11
+
+Something is wrong with us\. 😵‍💫
+
+
+---
+
+### 1442. msg_20714
+
+**You** - 2025-06-10T16:10:46
+
+Literally just thinking same thing\.\. this is worse by far than thinking
+You are in love as a teen
+
+
+---
+
+### 1443. msg_20715
+
+**You** - 2025-06-10T16:10:48
+
+Jesus
+
+
+---
+
+### 1444. msg_20716
+
+**You** - 2025-06-10T16:11:25
+
+And I am telling you if we together for any length of time I don’t think it changes
+
+
+---
+
+### 1445. msg_20717
+
+**You** - 2025-06-10T16:11:33
+
+I think we are stuck
+
+
+---
+
+### 1446. msg_20718
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:14:13
+
+Yes, obviously very stuck\. However, it isn’t like we don’t talk or see each other ever so it doesn’t make a lot of sense but whatever…
+
+
+---
+
+### 1447. msg_20719
+
+**You** - 2025-06-10T16:15:26
+
+It’s like if we aren’t touching or together it isn’t the same
+
+
+---
+
+### 1448. msg_20720
+
+**You** - 2025-06-10T16:17:01
+
+I get it mer\.\. I think hearts are really selfish and they want what they want
+
+
+---
+
+### 1449. msg_20721
+
+**You** - 2025-06-10T16:22:31
+
+Going to rain soon you should leave
+
+
+---
+
+### 1450. msg_20722
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:23:30
+
+>
+Maybe…\.\.
+
+
+---
+
+### 1451. msg_20723
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:23:43
+
+I’m leaving now\!
+
+
+---
+
+### 1452. msg_20724
+
+**You** - 2025-06-10T16:25:56
+
+>
+What else is it\.
+
+
+---
+
+### 1453. msg_20725
+
+**You** - 2025-06-10T16:26:32
+
+Separately please wish mac happy bday from me I wish I could have told her myself\.
+
+
+---
+
+### 1454. msg_20726
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:29:07
+
+>
+I don’t know\. I will research it\. Lol
+
+
+---
+
+### 1455. msg_20727
+
+**You** - 2025-06-10T16:29:38
+
+Okie dokie
+
+
+---
+
+### 1456. msg_20728
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:37:30
+
+So I asked Jim today what Christine thought when he told her about us\. Like how she reacted\.
+
+
+---
+
+### 1457. msg_20729
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:37:47
+
+I was just curious
+
+
+---
+
+### 1458. msg_20730
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:38:13
+
+Apparently, she said something to the effect of “well that is some scoop “lol
+
+
+---
+
+### 1459. msg_20731
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:38:36
+
+Then she said “well now we’ll have to have them over for dinner\. “ lol
+
+
+---
+
+### 1460. msg_20732
+
+**You** - 2025-06-10T16:52:22
+
+ROFL I kind of hoped it would work out that way
+
+
+---
+
+### 1461. msg_20733
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:56:22
+
+Wait, you hoped for voluntary socializing? 🙃
+
+
+---
+
+### 1462. msg_20734
+
+**You** - 2025-06-10T16:57:26
+
+With you and then
+
+
+---
+
+### 1463. msg_20735
+
+**You** - 2025-06-10T16:57:27
+
+Yes
+
+
+---
+
+### 1464. msg_20736
+
+**You** - 2025-06-10T16:57:32
+
+Them
+
+
+---
+
+### 1465. msg_20737
+
+**You** - 2025-06-10T16:57:50
+
+You and pretty much anyone\.  Pretty
+Much………\. Not everyone lol
+
+
+---
+
+### 1466. msg_20738
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:58:47
+
+LOL
+
+
+---
+
+### 1467. msg_20739
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T16:58:59
+
+They might be a bad influence though\. Kidding…
+
+
+---
+
+### 1468. msg_20740
+
+**You** - 2025-06-10T16:59:11
+
+I don’t mind
+
+
+---
+
+### 1469. msg_20741
+
+**You** - 2025-06-10T16:59:17
+
+Safe place
+
+
+---
+
+### 1470. msg_20742
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T17:00:25
+
+Reaction: ❤️ from Scott Hicks
+But I’m your only 100% safe place just so you know
+
+
+---
+
+### 1471. msg_20743
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T17:00:27
+
+lol
+
+
+---
+
+### 1472. msg_20744
+
+**You** - 2025-06-10T17:02:14
+
+I know you are\.\. I don’t need anyone else ever for that\.
+
+
+---
+
+### 1473. msg_20745
+
+**You** - 2025-06-10T17:02:55
+
+Reaction: 😂 from Meredith Lamb
+As long as I don’t piss you off or make you angry…\. Kidding\.\. as you say lol
+
+
+---
+
+### 1474. msg_20746
+
+**You** - 2025-06-10T17:04:10
+
+>
+I will always be that for you too\.
+
+
+---
+
+### 1475. msg_20747
+
+**You** - 2025-06-10T17:12:26
+
+I know you probably won’t till later but interested in the gpt question when you do it
+
+
+---
+
+### 1476. msg_20748
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T17:14:23
+
+Just getting home\. Had to get Mac some bday stuff on way home
+
+
+---
+
+### 1477. msg_20749
+
+**You** - 2025-06-10T17:14:40
+
+Nice
+
+
+---
+
+### 1478. msg_20750
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T17:14:44
+
+Maybe I will look on tik tok instead of gpt lol
+
+
+---
+
+### 1479. msg_20751
+
+**You** - 2025-06-10T17:14:50
+
+Mmmmmm
+
+
+---
+
+### 1480. msg_20752
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T17:14:53
+
+TikTok is very educational sometimes Yunno
+
+
+---
+
+### 1481. msg_20753
+
+**You** - 2025-06-10T17:14:53
+
+That won’t help
+
+
+---
+
+### 1482. msg_20754
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T17:14:55
+
+lol
+
+
+---
+
+### 1483. msg_20755
+
+**You** - 2025-06-10T17:14:55
+
+lol
+
+
+---
+
+### 1484. msg_20756
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T17:15:02
+
+Challenge accepted
+
+
+---
+
+### 1485. msg_20757
+
+**You** - 2025-06-10T17:15:20
+
+It will not\!\!
+
+
+---
+
+### 1486. msg_20758
+
+**You** - 2025-06-10T17:15:22
+
+lol
+
+
+---
+
+### 1487. msg_20759
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T17:15:34
+
+It does\!\!
+
+
+---
+
+### 1488. msg_20760
+
+**You** - 2025-06-10T17:15:40
+
+We will see
+
+
+---
+
+### 1489. msg_20761
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T18:32:18
+
+I’m so sore and tired\. Ughhh
+
+
+---
+
+### 1490. msg_20762
+
+**You** - 2025-06-10T18:36:30
+
+i just got back from getting car\.\. and I can relate I can barely walk
+
+
+---
+
+### 1491. msg_20763
+
+**You** - 2025-06-10T18:37:34
+
+Reaction: 😮 from Meredith Lamb
+bill on car if you assume a deal on the rentral over 3 months\.\. going to put it right around 40k
+
+
+---
+
+### 1492. msg_20764
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T18:37:54
+
+That is insane\.
+
+
+---
+
+### 1493. msg_20765
+
+**You** - 2025-06-10T18:37:59
+
+they mad the wrong choice I think
+
+
+---
+
+### 1494. msg_20766
+
+**You** - 2025-06-10T18:38:20
+
+well I dunno it is probably worth a bit more
+
+
+---
+
+### 1495. msg_20767
+
+**You** - 2025-06-10T18:38:25
+
+or close
+
+
+---
+
+### 1496. msg_20768
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T19:33:05
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1497. msg_20769
+
+**You** - 2025-06-10T19:34:06
+
+wtf was that
+
+
+---
+
+### 1498. msg_20770
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T19:34:42
+
+It was on TikTok
+
+
+---
+
+### 1499. msg_20771
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T19:34:47
+
+lol
+
+
+---
+
+### 1500. msg_20772
+
+**You** - 2025-06-10T19:46:57
+
+it is weird
+
+
+---
+
+### 1501. msg_20773
+
+**You** - 2025-06-10T19:46:59
+
+lol
+
+
+---
+
+### 1502. msg_20774
+
+**You** - 2025-06-10T19:47:20
+
+I think it is wine inspired myself
+
+
+---
+
+### 1503. msg_20775
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T19:51:06
+
+I am not drinking wine\. It was the only one that addressed like… absence I guess… Yunno
+
+
+---
+
+### 1504. msg_20776
+
+**You** - 2025-06-10T20:21:52
+
+
+
+---
+
+### 1505. msg_20777
+
+**You** - 2025-06-10T20:22:09
+
+When Two Souls Find Each Other
+It’s dawn through trembling pines,
+light pooling on the window sill—
+you and I, silent as the forest floor,
+breathing into the spaces between us\.
+Your eyes are the clear river at sunrise,
+and my heart, a stone smoothing in your current\.
+It’s the soft press of your lips
+where moss meets stone,
+the gentle exhale of your breath
+making the world slow,
+as though time itself has stopped
+to listen\.
+When Absence Comes
+But absence is a winter wind,
+hollowing trees of their leaves\.
+Each day without you
+feels like a gray morning long past bloom—
+the sky’s color muted,
+the world’s pulse distant\.
+I catch your echo in every crow’s cry,
+your silhouette in every birch bark’s curve;
+my hand reaches for your warmth
+and finds only cold air humming\.
+Evening Lament
+Sunsets fold into deeper blues,
+as though the sky remembers
+how you once smiled me back to life\.
+The calendar’s pages drift like fallen leaves—
+each one a whispered promise
+that this too shall pass\.
+But souls know \.\.\. \[truncated\]
+
+
+---
+
+### 1506. msg_20778
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:24:17
+
+Did ChatGPT write that?
+
+
+---
+
+### 1507. msg_20779
+
+**You** - 2025-06-10T20:24:23
+
+With a lot of guidance\.
+
+
+---
+
+### 1508. msg_20780
+
+**You** - 2025-06-10T20:24:29
+
+Quite a bit
+
+
+---
+
+### 1509. msg_20781
+
+**You** - 2025-06-10T20:24:40
+
+and a bit of research
+
+
+---
+
+### 1510. msg_20782
+
+**You** - 2025-06-10T20:24:47
+
+Does it sound like someone?
+
+
+---
+
+### 1511. msg_20783
+
+**You** - 2025-06-10T20:25:10
+
+here try this one\.\.
+
+
+---
+
+### 1512. msg_20784
+
+**You** - 2025-06-10T20:25:28
+
+Reaction: ❤️ from Meredith Lamb
+
+*1 attachment(s)*
+
+
+---
+
+### 1513. msg_20785
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:29:02
+
+That was pretty intense but really nice to listen to
+
+
+---
+
+### 1514. msg_20786
+
+**You** - 2025-06-10T20:29:09
+
+So I made those\.\. but it took a lot longer than I thought it would
+
+
+---
+
+### 1515. msg_20787
+
+**You** - 2025-06-10T20:29:12
+
+lol
+
+
+---
+
+### 1516. msg_20788
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:29:18
+
+lol
+
+
+---
+
+### 1517. msg_20789
+
+**You** - 2025-06-10T20:29:20
+
+AI is like a blackhole for my time
+
+
+---
+
+### 1518. msg_20790
+
+**You** - 2025-06-10T20:29:32
+
+so the poem\.\. any idea?? sound like anyone you know?
+
+
+---
+
+### 1519. msg_20791
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:29:39
+
+I was hoping you were relaxing watching tv
+
+
+---
+
+### 1520. msg_20792
+
+**You** - 2025-06-10T20:29:43
+
+I was not'
+
+
+---
+
+### 1521. msg_20793
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:29:48
+
+Is it supposed to sound like Morgan
+
+
+---
+
+### 1522. msg_20794
+
+**You** - 2025-06-10T20:30:00
+
+I was focused on doing this lol
+
+
+---
+
+### 1523. msg_20795
+
+**You** - 2025-06-10T20:30:17
+
+not the audio file\.\. the poem above
+
+
+---
+
+### 1524. msg_20796
+
+**You** - 2025-06-10T20:30:25
+
+no not Morgan
+
+
+---
+
+### 1525. msg_20797
+
+**You** - 2025-06-10T20:30:49
+
+https://open\.spotify\.com/track/4l2ZwGfd6ugIZViw7dtV8K?si=8a9ab961dbb440e3
+
+
+---
+
+### 1526. msg_20798
+
+**You** - 2025-06-10T20:32:21
+
+I noticed in some of your early blogs\.\. I didn't read them all kind of poked around every once in a while\.\. I noticed you pasted Sarah Harmer poems/lyrics sometimes\.\.
+
+
+---
+
+### 1527. msg_20799
+
+**You** - 2025-06-10T20:32:53
+
+so I took the script I wrote, and worked with GPT to modify into a kind of Sarah Harmer version\.\. or something she might write
+
+
+---
+
+### 1528. msg_20800
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:33:06
+
+I used to listen to her a lot when I worked at infinet
+
+
+---
+
+### 1529. msg_20801
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:33:18
+
+Wait, my early blogs?
+
+
+---
+
+### 1530. msg_20802
+
+**You** - 2025-06-10T20:33:22
+
+2005
+
+
+---
+
+### 1531. msg_20803
+
+**You** - 2025-06-10T20:33:33
+
+that is as far back as you go
+
+
+---
+
+### 1532. msg_20804
+
+**You** - 2025-06-10T20:33:39
+
+or at least that I can see
+
+
+---
+
+### 1533. msg_20805
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:34:07
+
+Wait my old blog is online? Lol
+
+
+---
+
+### 1534. msg_20806
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:34:09
+
+No
+
+
+---
+
+### 1535. msg_20807
+
+**You** - 2025-06-10T20:34:13
+
+https://lamberrymer\.blogspot\.com/search?updated\-max=2005\-11\-13T17:15:00\-05:00&max\-results=20&start=29&by\-date=false
+
+
+---
+
+### 1536. msg_20808
+
+**You** - 2025-06-10T20:34:20
+
+all of it
+
+
+---
+
+### 1537. msg_20809
+
+**You** - 2025-06-10T20:34:28
+
+how did you think I knew about Dallas Boy
+
+
+---
+
+### 1538. msg_20810
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:34:29
+
+So weird
+
+
+---
+
+### 1539. msg_20811
+
+**You** - 2025-06-10T20:34:33
+
+lol
+
+
+---
+
+### 1540. msg_20812
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:34:39
+
+So the earlier ones I deleted
+
+
+---
+
+### 1541. msg_20813
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:34:50
+
+I had a couple before
+
+
+---
+
+### 1542. msg_20814
+
+**You** - 2025-06-10T20:36:14
+
+there is more if one knows how to look\.
+
+
+---
+
+### 1543. msg_20815
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:36:39
+
+More\. Blogs?
+
+
+---
+
+### 1544. msg_20816
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:36:49
+
+Honestly?
+
+
+---
+
+### 1545. msg_20817
+
+**You** - 2025-06-10T20:36:55
+
+yeah but I am going to stop\.\.
+
+
+---
+
+### 1546. msg_20818
+
+**You** - 2025-06-10T20:36:57
+
+not healthy
+
+
+---
+
+### 1547. msg_20819
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:36:59
+
+I didn’t even know this was one e
+
+
+---
+
+### 1548. msg_20820
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:37:07
+
+Wait the ones I deleted?
+
+
+---
+
+### 1549. msg_20821
+
+**You** - 2025-06-10T20:37:31
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1550. msg_20822
+
+**You** - 2025-06-10T20:37:43
+
+nothing is ever gone lol it is the internet
+
+
+---
+
+### 1551. msg_20823
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:37:45
+
+Oh Reno blog
+
+
+---
+
+### 1552. msg_20824
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:37:51
+
+That’s different
+
+
+---
+
+### 1553. msg_20825
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:38:13
+
+The ones I deleted are actually gone
+
+
+---
+
+### 1554. msg_20826
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:38:25
+
+I think
+
+
+---
+
+### 1555. msg_20827
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:38:35
+
+They were my first lamberrymer ones
+
+
+---
+
+### 1556. msg_20828
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:38:45
+
+I kept deleting and restarting over the years
+
+
+---
+
+### 1557. msg_20829
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:40:09
+
+Can you see the our castle rental blog though?
+
+
+---
+
+### 1558. msg_20830
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:40:28
+
+I thought it was made private because Andrew was interviewing this guy once and he brought printouts of the blog to the interview
+
+
+---
+
+### 1559. msg_20831
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:40:39
+
+So I thought you made a private after that, but I could be wrong\. I don’t know\.
+
+
+---
+
+### 1560. msg_20832
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:40:45
+
+\*he
+
+
+---
+
+### 1561. msg_20833
+
+**You** - 2025-06-10T20:46:24
+
+there is something called the wayback machine
+
+
+---
+
+### 1562. msg_20834
+
+**You** - 2025-06-10T20:46:26
+
+ever heard of it
+
+
+---
+
+### 1563. msg_20835
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:46:48
+
+No do I need to ChatGPT it lol
+
+
+---
+
+### 1564. msg_20836
+
+**You** - 2025-06-10T20:46:59
+
+it is an archive of old websites
+
+
+---
+
+### 1565. msg_20837
+
+**You** - 2025-06-10T20:47:10
+
+it takes images of pages and sites from previous times when they existed
+
+
+---
+
+### 1566. msg_20838
+
+**You** - 2025-06-10T20:47:19
+
+you can find a lot of lost stuff
+
+
+---
+
+### 1567. msg_20839
+
+**You** - 2025-06-10T20:47:26
+
+if you have addresses
+
+
+---
+
+### 1568. msg_20840
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:49:03
+
+I don’t think it has mine prior to 2005
+
+
+---
+
+### 1569. msg_20841
+
+**You** - 2025-06-10T20:49:18
+
+not unless it was hosted on a different platform
+
+
+---
+
+### 1570. msg_20842
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:49:35
+
+No it was the same blog url I think
+
+
+---
+
+### 1571. msg_20843
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:49:42
+
+I think I just deleted content
+
+
+---
+
+### 1572. msg_20844
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:49:50
+
+Started over
+
+
+---
+
+### 1573. msg_20845
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:52:26
+
+You kind of had me scared
+
+
+---
+
+### 1574. msg_20846
+
+**You** - 2025-06-10T20:52:28
+
+yeah\.\. anyhow, I think I am going to take a break\.\. go back to separation agreement\.\. like I said\.\. none of this is good\.\. it is just more of me being stupid me\.
+
+
+---
+
+### 1575. msg_20847
+
+**You** - 2025-06-10T20:52:46
+
+>
+yeah I am sure blog from 2000\-2005 needed to be deleted
+
+
+---
+
+### 1576. msg_20848
+
+**You** - 2025-06-10T20:52:52
+
+no doubt
+
+
+---
+
+### 1577. msg_20849
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:52:54
+
+I can’t remember what was on those blogs\.
+
+
+---
+
+### 1578. msg_20850
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:53:07
+
+Was during my Toronto years
+
+
+---
+
+### 1579. msg_20851
+
+**You** - 2025-06-10T20:53:11
+
+they are still around I am sure\.\. just not going to go looking for them
+
+
+---
+
+### 1580. msg_20852
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:53:20
+
+Thank you
+
+
+---
+
+### 1581. msg_20853
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:53:44
+
+I made me blog private lol
+
+
+---
+
+### 1582. msg_20854
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:54:08
+
+I thought it was … I feel like blogger switched it maybe
+
+
+---
+
+### 1583. msg_20855
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:54:41
+
+Joe meriano loved my Reno blog lol
+
+
+---
+
+### 1584. msg_20856
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:54:55
+
+We worked together at the time of that one
+
+
+---
+
+### 1585. msg_20857
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-10T20:56:07
+
+k, go finish your agreement\. I’m going to watch a wee bit more tv and fall asleep xoxox
+
+
+---
+
+### 1586. msg_20858
+
+**You** - 2025-06-10T21:05:10
+
+Night xo
+
+
+---
+
+### 1587. msg_20859
+
+**You** - 2025-06-10T22:15:17
+
+
+
+---
+
+### 1588. msg_20860
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T06:01:18
+
+Good morning ❤️
+😢 my first morning in a while waking with no msg from Scott 😢
+
+
+---
+
+### 1589. msg_20861
+
+**You** - 2025-06-11T06:50:53
+
+Morning mer\.\. just in my own head\.  Didn’t sleep well had a lot on my mind I was thinking through\.   Little self loathing this morning\. Should know better by now right\.
+
+
+---
+
+### 1590. msg_20862
+
+**You** - 2025-06-11T06:53:16
+
+Love you\.\. ❤️ of course\.\. and always\.\. just coming to some realizations\.\. going to talk with therapist about them today\.
+
+
+---
+
+### 1591. msg_20863
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T06:57:18
+
+Self loathing? What on earth? Scott……\.
+
+
+---
+
+### 1592. msg_20864
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T06:57:23
+
+I’m so confused\.
+
+
+---
+
+### 1593. msg_20865
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T06:59:43
+
+I literally laid in bed this morning for like 10 min before getting up thinking about how great you are and how lucky I am and you are self loathing? wtf
+
+
+---
+
+### 1594. msg_20866
+
+**You** - 2025-06-11T07:06:47
+
+I keep doing the same thing looking back seeing things, reading things\.\. I truly appreciate you making the blog private\.\. it was a place I would get lost\.  Before we got into it last night about the blog there is an older version lamberrymere with an “e” and it is merv\! … I am a 27 year old mba student… I never went back to it after I told you I wouldn’t\.  Covers the Jeremy er a bit\.  I shouldn’t see any of this\.\. like you cannot see mine\.  It is easier\.\. I think I envy those memories they are immortalized in a way ours will never be\. I feel young with you but am constantly reminded I am not\.
+I mean this is my nature\.\. I search,
+I want to understand, I look and I spend too much time on it\. And when it is there I read it\.  We won’t have that\.\. I don’t know why it bothers me because I do feel so lucky to have you\.  The more I dig into this the more I understand what is triggering me\.  It isn’t the individuals\.\. it is time and experiences and how you laid it all out there\.  I think I real\.\.\. \[truncated\]
+
+
+---
+
+### 1595. msg_20867
+
+**You** - 2025-06-11T07:09:04
+
+https://open\.spotify\.com/track/2Bo0hh0yoQReC4reJav5DT?si=2CtvMViRRl6ZzBiMXxAlUg
+Where my head is at today\.  So fucking dumb\.  This never happened to me in 25 years to fall apart over something so stupid\.
+
+
+---
+
+### 1596. msg_20868
+
+**You** - 2025-06-11T07:10:11
+
+This isn’t for you to fix not to overwhelm you but you deserve to know, I don’t like keeping feelings from you\.
+
+
+---
+
+### 1597. msg_20869
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T07:11:23
+
+I mean the searching, researching, digging… I love that so much about you\. It is part of what makes you an amazing person\. But obviously not if it is going to completely tear you down\!  Where is this one with an ‘e’? Do you have a link or is it from that weird web site?
+
+
+---
+
+### 1598. msg_20870
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T07:11:48
+
+If it was during my mba it was still pretty later on
+
+
+---
+
+### 1599. msg_20871
+
+**You** - 2025-06-11T07:11:51
+
+It isn’t worth your time
+
+
+---
+
+### 1600. msg_20872
+
+**You** - 2025-06-11T07:11:59
+
+And pls just leave it\.
+
+
+---
+
+### 1601. msg_20873
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T07:12:08
+
+But is it like a public site?
+
+
+---
+
+### 1602. msg_20874
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T07:12:10
+
+lol
+
+
+---
+
+### 1603. msg_20875
+
+**You** - 2025-06-11T07:12:18
+
+You cannot do anything about it
+
+
+---
+
+### 1604. msg_20876
+
+**You** - 2025-06-11T07:12:27
+
+Same with the one you just made private
+
+
+---
+
+### 1605. msg_20877
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T07:12:33
+
+One sec
+
+
+---
+
+### 1606. msg_20878
+
+**You** - 2025-06-11T07:12:33
+
+It is still there some of it
+
+
+---
+
+### 1607. msg_20879
+
+**You** - 2025-06-11T07:12:47
+
+The way back machine
+
+
+---
+
+### 1608. msg_20880
+
+**You** - 2025-06-11T07:12:50
+
+Go there
+
+
+---
+
+### 1609. msg_20881
+
+**You** - 2025-06-11T07:13:00
+
+And search for lamberry
+
+
+---
+
+### 1610. msg_20882
+
+**You** - 2025-06-11T07:14:10
+
+I mean even after last night after this morning hearing your worry about the blog being private just makes me curious \.\. even knowing it will do nothing but tear me\.\. lol I am sorry fucking stupid\.
+
+
+---
+
+### 1611. msg_20883
+
+**You** - 2025-06-11T07:17:55
+
+I am going to the sauna and have a shower and go home…\. I will just have to figure this all out\. I tried to explain it all in that long message above not sure if you had a chance to read it all or not\.\. I think I just need to literally not look you up online at all ever again…\. Hard when you are literally always on my mind\.\. but yeah this is just ripping me up thinking about this\.\. chat gpt tells me I am grieving and you know what that is what it feels like\.  Smart AI\.
+
+
+---
+
+### 1612. msg_20884
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T07:20:27
+
+>
+No just because of people at work, your kids\. Etc etc
+
+
+---
+
+### 1613. msg_20885
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T07:20:35
+
+There is nothing weird on it
+
+
+---
+
+### 1614. msg_20886
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T07:20:41
+
+Or like inappropriate
+
+
+---
+
+### 1615. msg_20887
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T07:20:47
+
+My mom and bro had the link
+
+
+---
+
+### 1616. msg_20888
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T07:23:45
+
+>
+I did read and it and if you are grieving that is okay\. Nothing wrong with that as long as it doesn’t wreck you unnecessarily\. We have time to have our own completely unique relationship snd experiences\. Scott, despite having prior relationship I have never ached for anyone in this way nor felt so at home with them\.  That is unique to YOU\. Everything is better about you\. And you will eventually see that\. Just be patient\.
+
+
+---
+
+### 1617. msg_20889
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T07:23:54
+
+❤️❤️❤️
+
+
+---
+
+### 1618. msg_20890
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T07:51:43
+
+Ps\. You realize I was really stupid and immature in my 20s right? So whatever is on that blog is just stupid shit\. Nothing deep\.
+
+
+---
+
+### 1619. msg_20891
+
+**You** - 2025-06-11T07:53:08
+
+>
+I appreciate what you are saying mer\.\. I will try\.
+
+
+---
+
+### 1620. msg_20892
+
+**You** - 2025-06-11T07:55:51
+
+>
+Again it isn’t quite about that but
+you LIVED\.  All caps intended\.\. very envious, like I said I feel like that is lost to me and that is what I never had\.\. my crazy wasn’t living it was just what it was\.  It didn’t fill me with memories and experiences I ever really look back and think on\.\. it was empty\.  It isn’t your fault yours was not\.\. like I said this is my problem I hope you can appreciate the distinction\.
+
+
+---
+
+### 1621. msg_20893
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T07:58:14
+
+I can but it sounded like you sure lived while in uni so I don’t fully get it\. I just extended my time a bit longer\. Lol
+
+
+---
+
+### 1622. msg_20894
+
+**You** - 2025-06-11T08:00:15
+
+No I didn’t\. Rinse and repeat\.  I had a few relationships that were long term, but post 17\-18 there wasn’t much joy\.  I just functioned, faked it, played along\.  Next step, next step\.\. that was life a series of what’s next, what is expected of me\.\. ok let’s go do that\.  I think you misunderstood yeah I had fun\.\. but it wasn’t substantive, shaping, memorable\.
+
+
+---
+
+### 1623. msg_20895
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:00:53
+
+Well that’s why you met me\. 😇
+
+
+---
+
+### 1624. msg_20896
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:01:29
+
+I did forget that my original blog was mere tho\.
+
+
+---
+
+### 1625. msg_20897
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:01:47
+
+I had a really good friend at the time Lara and she always put an e on the end
+
+
+---
+
+### 1626. msg_20898
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:01:57
+
+So I was more used to that in the beginning
+
+
+---
+
+### 1627. msg_20899
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:02:07
+
+She was the first person who ever called me mer
+
+
+---
+
+### 1628. msg_20900
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:02:13
+
+I was always merv prior
+
+
+---
+
+### 1629. msg_20901
+
+**You** - 2025-06-11T08:06:33
+
+Yeah I didn’t expect it to pop up but there it was\.\. again nothing other than same old stuff a couple of posts
+About her\. Few convos with Chris about I don’t know what\.\. nothing crazy\.\. I didn’t even bother with the Reno blog but is pretty much all in there\.
+
+
+---
+
+### 1630. msg_20902
+
+**You** - 2025-06-11T08:06:42
+
+Anyways I am done looking I don’t want to anymore\.
+
+
+---
+
+### 1631. msg_20903
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:06:58
+
+“A couple posts about her”? Who?
+
+
+---
+
+### 1632. msg_20904
+
+**You** - 2025-06-11T08:07:14
+
+Jer
+
+
+---
+
+### 1633. msg_20905
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:07:15
+
+Reno blog is literally all Reno
+
+
+---
+
+### 1634. msg_20906
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:07:39
+
+We gutted our old house and I documented the whole thing
+
+
+---
+
+### 1635. msg_20907
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:10:36
+
+I can only find one screenshot
+
+
+---
+
+### 1636. msg_20908
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:10:44
+
+Please tell me that is all you found lol
+
+
+---
+
+### 1637. msg_20909
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:10:58
+
+Not loving that this is living on
+
+
+---
+
+### 1638. msg_20910
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:11:23
+
+Gavin said I had maniah tendencies\. I forgot about that\. Maybe he wasn’t as nice as I thought lol
+
+
+---
+
+### 1639. msg_20911
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:11:44
+
+I probably said shit right back to him tho to be fair
+
+
+---
+
+### 1640. msg_20912
+
+**You** - 2025-06-11T08:18:18
+
+I found a couple
+
+
+---
+
+### 1641. msg_20913
+
+**You** - 2025-06-11T08:23:52
+
+>
+I have always wondered about your use of the frantic/nervous lol you still have to do it even when typing
+
+
+---
+
+### 1642. msg_20914
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:24:17
+
+>
+Huh?
+
+
+---
+
+### 1643. msg_20915
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:24:48
+
+I mean, that particular blog is from 20 years ago\. Do you really want shit that you were doing 20 years ago just like out there for people?
+
+
+---
+
+### 1644. msg_20916
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:25:01
+
+It is silly and kind of stupid
+
+
+---
+
+### 1645. msg_20917
+
+**You** - 2025-06-11T08:25:55
+
+>
+Just sometimes you out lol T the end of a sentence where you are clearly anxious\.\. kind like how you laugh irl\.  Wow I haven’t used that acronym in a long time
+
+
+---
+
+### 1646. msg_20918
+
+**You** - 2025-06-11T08:26:36
+
+>
+Nope which is why I never had one\.\. dad and I had a conversation about my exploits and he suggested maybe not a good idea to document them\.
+
+
+---
+
+### 1647. msg_20919
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:26:46
+
+Well I was like 26/27 so yeah makes me a bit anxious
+
+
+---
+
+### 1648. msg_20920
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:27:16
+
+I didn’t document exploits on the blogs
+
+
+---
+
+### 1649. msg_20921
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:27:25
+
+I did in my diaries on paper tho
+
+
+---
+
+### 1650. msg_20922
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:27:41
+
+But got rid of those bc … Andrew
+
+
+---
+
+### 1651. msg_20923
+
+**You** - 2025-06-11T08:28:30
+
+Yeah you mentioned he read your journals and kind of learned about your past just not sure how much he got of it\.
+
+
+---
+
+### 1652. msg_20924
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:28:48
+
+Not much
+
+
+---
+
+### 1653. msg_20925
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:28:57
+
+I destroyed the bad stuff before he got to them
+
+
+---
+
+### 1654. msg_20926
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:29:10
+
+He got to a very late one written during my breakup with Andrew
+
+
+---
+
+### 1655. msg_20927
+
+**You** - 2025-06-11T08:30:29
+
+lol destroyed the bad stuff
+
+
+---
+
+### 1656. msg_20928
+
+**You** - 2025-06-11T08:30:30
+
+Omg
+
+
+---
+
+### 1657. msg_20929
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:30:33
+
+So you will never find them by accident
+
+
+---
+
+### 1658. msg_20930
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:30:40
+
+Well what he would consider bad stuff
+
+
+---
+
+### 1659. msg_20931
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:30:44
+
+To me it wasn’t
+
+
+---
+
+### 1660. msg_20932
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:30:50
+
+It was just life
+
+
+---
+
+### 1661. msg_20933
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:44:22
+
+Edited: 2 versions
+| Version: 2
+| Sent: Wed, 11 Jun 2025 08:44:49 \-0400
+|
+| > From: Scott Hicks \(\+14165572392\)
+| > Sent: Wed, 11 Jun 2025 08:30:29 \-0400
+| >
+| > lol destroyed the bad stuff
+|
+| You need to get over these thoughts\. Not “bad”\. Just bad to others I guess\. But honestly yes I have a past, it exists and I hate pretending it doesn’t\.
+|
+| Version: 1
+| Sent: Wed, 11 Jun 2025 08:44:22 \-0400
+|
+| > From: Scott Hicks \(\+14165572392\)
+| > Sent: Wed, 11 Jun 2025 08:30:29 \-0400
+| >
+| > lol destroyed the bad stuff
+|
+| You need to get over these thoughts\. Not “bad”\. Just bad to others I guess\. But honestly yes I have a past, it exists and I hate pretending it does t\.
+
+
+---
+
+### 1662. msg_20934
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:46:13
+
+I get the ocd thoughts because I get that also\. However, just talk to me about those thoughts instead of struggling alone and maybe that will help\.
+
+
+---
+
+### 1663. msg_20935
+
+**You** - 2025-06-11T08:46:48
+
+I told you you don't have to\.\. I am fairly certain I explained above\. The only reason I am looking right now is to provide you the links I find\.\. then I am never fucking looking again\.
+
+
+---
+
+### 1664. msg_20936
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T08:57:36
+
+Yes, I read and understand\. It isn’t about “needing” to\. I want to be in everything with you together\.
+
+
+---
+
+### 1665. msg_20937
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T09:27:04
+
+Reaction: ❓ from Meredith Lamb
+Can you just call me on teams at some point and tell me you are fine\.
+
+
+---
+
+### 1666. msg_20938
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T09:53:36
+
+Scott……
+
+
+---
+
+### 1667. msg_20939
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T09:53:45
+
+Grrrrrr
+
+
+---
+
+### 1668. msg_20940
+
+**You** - 2025-06-11T09:53:59
+
+You have a meeting in a few minutes\.\. won't have time\.
+
+
+---
+
+### 1669. msg_20941
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T09:54:21
+
+Right but you could have responded and just said that :p
+
+
+---
+
+### 1670. msg_20942
+
+**You** - 2025-06-11T09:54:48
+
+Said what\.\. srry I had to haul maddie's ass out of bed she wasn't ready to go went back to sleep
+
+
+---
+
+### 1671. msg_20943
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T09:55:03
+
+I have to do midstream reporting … because …\.\.Pauline
+
+
+---
+
+### 1672. msg_20944
+
+**You** - 2025-06-11T09:55:09
+
+oh\.\. here\.\. this is what I found using little to no effort at all\.
+LamberryMere
+https://web\.archive\.org/web/20050313175636/http://www\.blogger\.com/profile/5241054
+https://web\.archive\.org/web/20050321115844/http://lamberrymere\.blogspot\.com:80/2005/02/funny\-90s\.html
+https://web\.archive\.org/web/20050322085134/http://lamberrymere\.blogspot\.com:80/2005/03/lambs\-of\-world\-unite\.html
+https://web\.archive\.org/web/20041205092423/http://lamberrymere\.blogspot\.com:80/2004/11/land\-down\-under\.html
+http://lamberrymere\.blogspot\.com/2004/11/more\-pink\.html
+https://web\.archive\.org/web/20050217094254/http://lamberrymere\.blogspot\.com:80/2005\_02\_01\_lamberrymere\_archive\.html
+http://lamberrymere\.blogspot\.com/2005/04/hot\-docs\-adventure\.html
+https://web\.archive\.org/web/20050325101927/http://lamberrymere\.blogspot\.com:80/2005/02/thursday\-night\-challenge\.html
+RadioFuture
+https://web\.archive\.org/web/20050226220957/http://braincandy\.ca/radiofuture/index\.php?disp=arcdir
+Tempermental
+https://web\.archive\.org/web/2005041108\.\.\. \[truncated\]
+
+
+---
+
+### 1673. msg_20945
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T09:55:23
+
+>
+You were so silent
+
+
+---
+
+### 1674. msg_20946
+
+**You** - 2025-06-11T09:55:24
+
+again\.\. not doing it again\.\. or looking anymore\.\. done
+
+
+---
+
+### 1675. msg_20947
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T10:05:50
+
+Omg Chris’ blogs\. That is a rabbit hole
+
+
+---
+
+### 1676. msg_20948
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T10:06:18
+
+You are talented\.
+
+
+---
+
+### 1677. msg_20949
+
+**You** - 2025-06-11T10:06:28
+
+no I am creepy and weird
+
+
+---
+
+### 1678. msg_20950
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T10:06:36
+
+I was like “what the hell is radiofuture?”
+
+
+---
+
+### 1679. msg_20951
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T10:06:47
+
+I remember temperamental
+
+
+---
+
+### 1680. msg_20952
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T10:06:58
+
+That was always his screen name when we first met in 2001
+
+
+---
+
+### 1681. msg_20953
+
+**You** - 2025-06-11T10:07:22
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1682. msg_20954
+
+**You** - 2025-06-11T10:08:07
+
+I just wanted you to be aware\.\. again\.\. I am not looking anymore\.\. but that is what you made private last night\.\. 680 pages still there\.\. many of the archive links work which would list all your posts in a given month\.
+
+
+---
+
+### 1683. msg_20955
+
+**You** - 2025-06-11T10:08:44
+
+kk\.\. now\.\. finished with this\.\.  if you want to know something I can try to help\.\. but other than that\.\. just going to leave the site alone\.
+
+
+---
+
+### 1684. msg_20956
+
+**You** - 2025-06-11T12:49:57
+
+therapist said you are awful\!\!\!
+
+
+---
+
+### 1685. msg_20957
+
+**You** - 2025-06-11T12:50:05
+
+and mean spirited
+
+
+---
+
+### 1686. msg_20958
+
+**You** - 2025-06-11T12:50:35
+
+I was like wow
+
+
+---
+
+### 1687. msg_20959
+
+**You** - 2025-06-11T12:50:36
+
+dude
+
+
+---
+
+### 1688. msg_20960
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T12:50:37
+
+WHAT?\!
+
+
+---
+
+### 1689. msg_20961
+
+**You** - 2025-06-11T12:50:39
+
+calm down\!\!
+
+
+---
+
+### 1690. msg_20962
+
+**You** - 2025-06-11T12:51:04
+
+oh didn't realize you were on a call sorry\.
+
+
+---
+
+### 1691. msg_20963
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T12:51:21
+
+I’m on a call with VitalityMD
+
+
+---
+
+### 1692. msg_20964
+
+**You** - 2025-06-11T12:51:32
+
+Ah ok\.\. yeah naw he didn't say shit like that
+
+
+---
+
+### 1693. msg_20965
+
+**You** - 2025-06-11T13:34:34
+
+You are literally the most amazing person I have ever met, I love you more than anyone ever, I have been more honest with you than anyone else, I have been vulnerable, and I have already clawed myself out of some pits that I have admittedly thrown myself into\.\. please stop worrying about if I am going to leave\.\. I never will\.\. I love you\.\. ❤️ I am so sorry I am having such a hard time processing all of this shit\.  I am glad that I am able to categorize this and go through it now, but I do think I would have been able to blow by some of this were we together\.  It just isn't in the cards\.\. so better this get's done now\.  KK stop worrying\.
+
+
+---
+
+### 1694. msg_20966
+
+**You** - 2025-06-11T13:58:33
+
+I think you are going to have to trust me the same as you are asking me to trust you\.
+
+
+---
+
+### 1695. msg_20967
+
+**You** - 2025-06-11T14:00:27
+
+No heartbreaks\.\.
+
+
+---
+
+### 1696. msg_20968
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T14:05:04
+
+Yes I’m super trying to trust you the way I ask you to\. Every time I reassure you I think about that\. k therapy\.\. ❤️
+
+
+---
+
+### 1697. msg_20969
+
+**You** - 2025-06-11T14:17:09
+
+You are super trying to trust me\.\. how can I move this all the way to trust me\.
+
+
+---
+
+### 1698. msg_20970
+
+**You** - 2025-06-11T14:22:12
+
+Because it is one of those back and forth things right the more concerned I am about your trust the more I am going to be concerned that I am going to drive you away rather than the other way around\. Just something to think about\.  Enjoy therapy\.\. hope it goes well\.
+
+
+---
+
+### 1699. msg_20971
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T14:52:12
+
+Are you on a call?
+
+
+---
+
+### 1700. msg_20972
+
+**You** - 2025-06-11T14:52:20
+
+on sec
+
+
+---
+
+### 1701. msg_20973
+
+**You** - 2025-06-11T15:54:54
+
+https://open\.spotify\.com/track/3HlWVKwU0JqJXqJK9DWHnZ?si=34337384203f4177
+
+
+---
+
+### 1702. msg_20974
+
+**You** - 2025-06-11T15:57:50
+
+https://open\.spotify\.com/track/6EIVLz5xM1xE29r0OmIkWt?si=89d54289ece14bb3
+
+
+---
+
+### 1703. msg_20975
+
+**You** - 2025-06-11T15:58:19
+
+SIGN \- Yes I’m super trying to trust you the way I ask you to\. Every time I reassure you I think about that\. k therapy\.\. ❤️
+2:05 p\.m\.
+
+
+---
+
+### 1704. msg_20976
+
+**You** - 2025-06-11T16:09:15
+
+I keep doing the same thing looking back seeing things, reading things\.\. I truly appreciate you making the blog private\.\. it was a place I would get lost\.  Before we got into it last night about the blog there is an older version lamberrymere with an “e” and it is merv\! … I am a 27 year old mba student… I never went back to it after I told you I wouldn’t\.  Covers the Jeremy er a bit\.  I shouldn’t see any of this\.\. like you cannot see mine\.  It is easier\.\. I think I envy those memories they are immortalized in a way ours will never be\. I feel young with you but am constantly reminded I am not\.
+I mean this is my nature\.\. I search,
+I want to understand, I look and I spend too much time on it\. And when it is there I read it\.  We won’t have that\.\. I don’t know why it bothers me because I do feel so lucky to have you\.  The more I dig into this the more I understand what is triggering me\.  It isn’t the individuals\.\. it is time and experiences and how you laid it all out there\.  I think I real\.\.\. \[truncated\]
+
+
+---
+
+### 1705. msg_20977
+
+**You** - 2025-06-11T16:11:38
+
+https://web\.archive\.org/web/20070702093337/http://lamberrymer\.blogspot\.com/2005\_09\_01\_archive\.html
+
+
+---
+
+### 1706. msg_20978
+
+**You** - 2025-06-11T16:18:00
+
+SEX
+
+
+---
+
+### 1707. msg_20979
+
+**You** - 2025-06-11T16:18:01
+
+LOL
+
+
+---
+
+### 1708. msg_20980
+
+**You** - 2025-06-11T16:44:54
+
+Ok you never get to mention me making abrupt decisions again\.
+
+
+---
+
+### 1709. msg_20981
+
+**You** - 2025-06-11T17:18:47
+
+you might not be able to make it tomorrow\.\. but I will be at the park at 7:45 per usual\.\. just saying as I don't think we will be seeing each other for a bit after that\.  ttyl
+
+
+---
+
+### 1710. msg_20982
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T17:31:24
+
+I will be there 🙂 but I will be going to bed early tonight
+
+
+---
+
+### 1711. msg_20983
+
+**You** - 2025-06-11T17:32:14
+
+Same anything that makes days go by faster these days I am usually up for unless I have to stay up
+
+
+---
+
+### 1712. msg_20984
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T17:49:46
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1713. msg_20985
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T17:50:03
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1714. msg_20986
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T17:50:29
+
+So I took 2 seconds to search “unconditional” in my email\.
+
+
+---
+
+### 1715. msg_20987
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T17:50:53
+
+I knew something would appear immediately\. Constant complaint from Andrew over many years\.
+
+
+---
+
+### 1716. msg_20988
+
+**You** - 2025-06-11T17:52:56
+
+Absolutely, this is an important and often misunderstood distinction\. Here's a way to frame it clearly and compassionately:
+\-\-\-
+\*\*Unconditional love\*\* means that your love for someone isn't based on conditions or what they can do for you\. It's about loving them for who they are at their core, through good times and bad\. It’s deep, enduring, and doesn’t just disappear when they make a mistake\.
+But \*\*unconditional love does \*not\* mean unconditional tolerance of harmful behavior\*\*\. Loving someone unconditionally doesn't require you to stay in a relationship if they betray your trust or hurt you deeply—like through cheating\. In fact, holding someone accountable is a \*form\* of love—both for yourself and for them\.
+When someone cheats, it's a breach of trust and respect, which are fundamental to a healthy relationship\. You can still love them deeply, but choose to set boundaries, take space, or even walk away because your \*self\-respect and emotional well\-being matter too\*\.
+Put simply:
+\* \*\*Unc\.\.\. \[truncated\]
+
+
+---
+
+### 1717. msg_20989
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T17:53:03
+
+This is to show you not that I run away from shit, but I have never really I thought I would be with him forever\. Just didn’t\.
+I feel completely differently with you\. I can visualize our future together\. I have never done that before\. Just kind of got stuck in somethings…\. Jeremy … andrew\.
+I’m not stuck with you\. Choosing you\. So incredibly different\.
+
+
+---
+
+### 1718. msg_20990
+
+**You** - 2025-06-11T17:53:34
+
+That is how I feel about you above
+
+
+---
+
+### 1719. msg_20991
+
+**You** - 2025-06-11T17:53:38
+
+that to me is unconditional
+
+
+---
+
+### 1720. msg_20992
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T17:53:51
+
+That Feb 2021 email exchange as about sex btw\. Only thing we argued about consistently\.
+
+
+---
+
+### 1721. msg_20993
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T17:54:45
+
+It’s funny bc I remember this incident\. Happened at cottage and I up and left with the girls and drove back to Toronto
+
+
+---
+
+### 1722. msg_20994
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T17:54:54
+
+Seriously considered separating AGAIN
+
+
+---
+
+### 1723. msg_20995
+
+**You** - 2025-06-11T17:54:55
+
+I love who you are\.\. not what you can do\.  And I am choosing you as well\.\. I would give you more if I could\.\. I don't know what else there is to give you to assure you of that, but whatever I could do, or give you\.\. it would happen\.
+
+
+---
+
+### 1724. msg_20996
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T17:54:57
+
+2021
+
+
+---
+
+### 1725. msg_20997
+
+**You** - 2025-06-11T17:55:06
+
+jesus
+
+
+---
+
+### 1726. msg_20998
+
+**You** - 2025-06-11T17:55:16
+
+Reaction: 😂 from Meredith Lamb
+Its a wonder you even want to have sex with me\.
+
+
+---
+
+### 1727. msg_20999
+
+**You** - 2025-06-11T17:55:20
+
+after all of that
+
+
+---
+
+### 1728. msg_21000
+
+**You** - 2025-06-11T17:55:56
+
+I don't think Andrew understood unconditional and accountable
+
+
+---
+
+### 1729. msg_21001
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T17:56:15
+
+No and he still doesn’t\.
+
+
+---
+
+### 1730. msg_21002
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T17:56:50
+
+I bet I could find many other examples but need to take dogs to park
+
+
+---
+
+### 1731. msg_21003
+
+**You** - 2025-06-11T17:57:01
+
+btw the sex thing\.\. seriously I never really quite knew it was that bad\.\. always figured it was exagerrated because I couldn't contemplate it being real\.\.
+
+
+---
+
+### 1732. msg_21004
+
+**You** - 2025-06-11T17:57:18
+
+but again\.\. if that is a problem\.\. we don't have to\.\. cause honestly you have been through enougj
+
+
+---
+
+### 1733. msg_21005
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T17:59:21
+
+What? I love sex with you\. \(If that wasn’t obvious\.\)
+To me it is very dependent on the connection etc etc\. Unfortunately Andrew just ruined all of that very early on\. I tried to make the best of it but life was a challenge\. I always knew I would leave eventually\. So did he\.
+
+
+---
+
+### 1734. msg_21006
+
+**You** - 2025-06-11T18:00:34
+
+That is a tough way to live through a relationship for both knowing that
+
+
+---
+
+### 1735. msg_21007
+
+**You** - 2025-06-11T18:01:11
+
+Reaction: ❤️ from Meredith Lamb
+Anyhow I am glad we click that way because I love it too\.  And I never thought that would happen\.
+
+
+---
+
+### 1736. msg_21008
+
+**You** - 2025-06-11T18:12:55
+
+Oh and the everyday thing put a pin in that\.\. that is going to happen\.  Love you talk to you later\.
+
+
+---
+
+### 1737. msg_21009
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T18:14:15
+
+This is in response to a question “can I ask what you are thinking?” This was after I left and took the girls\.
+
+*1 attachment(s)*
+
+
+---
+
+### 1738. msg_21010
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T18:15:54
+
+Constant temper tantrums 🙄
+
+
+---
+
+### 1739. msg_21011
+
+**You** - 2025-06-11T18:16:16
+
+Eesh I mean j and I fought but never about the stuff you mentioned not to that degree\.
+
+
+---
+
+### 1740. msg_21012
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T18:17:46
+
+I will just be so happy beyond belief to be done\. However, I will still have to deal with this shit I’m sure\.
+
+
+---
+
+### 1741. msg_21013
+
+**You** - 2025-06-11T18:18:15
+
+Not from me\.
+
+
+---
+
+### 1742. msg_21014
+
+**You** - 2025-06-11T18:19:02
+
+And we can deal together I can support you\.\. you can lean on me\.\. and I know I can you\.\.
+
+
+---
+
+### 1743. msg_21015
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T18:21:54
+
+Another one of the 10\+ times I wanted to separate :p\. He was coercing/pressuring me as usual\. I told him\. Then this was his response\.
+
+*1 attachment(s)*
+
+
+---
+
+### 1744. msg_21016
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T18:22:19
+
+>
+I definitely trust this\.
+
+
+---
+
+### 1745. msg_21017
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T18:23:02
+
+>
+I’m not looking at anymore\. They are all so annoying to read\.
+
+
+---
+
+### 1746. msg_21018
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T18:23:38
+
+My phone archives old stuff\. But on my computer I could find really old stuff with the EXACT same conversations\.
+
+
+---
+
+### 1747. msg_21019
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T18:24:04
+
+Just sitting at the park\.
+
+
+---
+
+### 1748. msg_21020
+
+**You** - 2025-06-11T18:33:27
+
+Yah don’t look back it isn’t going to help you\.  I believe that you are 1000% justified in doing this probably 30 times over\.  This will NEVER be us\. Even with my problems and insecurities\.\. NEVER gonna happen\.\. and I PROMISE these feelings that I have will all go away soon and hopefully forever\.
+
+
+---
+
+### 1749. msg_21021
+
+**You** - 2025-06-11T18:34:20
+
+I am really sorry you had such an abusive relationship, I cannot really describe it otherwise\. You didn’t deserve it and he didn’t deserve you\.
+
+
+---
+
+### 1750. msg_21022
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T18:36:57
+
+We were just very mismatched\. k, midstream time lol
+
+
+---
+
+### 1751. msg_21023
+
+**You** - 2025-06-11T18:38:21
+
+Have fun
+
+
+---
+
+### 1752. msg_21024
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T18:46:18
+
+>
+I don’t think it was abusive\. I think he’s just an idiot\. I said to my therapist today that I just understand how he hasn’t suspected anything at all\. And she was like “Meredith, from everything you’ve described, he never noticed you in any significant way so why would he now?”
+Made me pause\.
+
+
+---
+
+### 1753. msg_21025
+
+**You** - 2025-06-11T18:50:25
+
+That is equally awful and completely not understandable
+
+
+---
+
+### 1754. msg_21026
+
+**You** - 2025-06-11T18:50:44
+
+Because I cannot get you out of my head\.\. and it has been that way every day for months\.
+
+
+---
+
+### 1755. msg_21027
+
+**You** - 2025-06-11T18:50:56
+
+And I don’t ever see it changing\.
+
+
+---
+
+### 1756. msg_21028
+
+**You** - 2025-06-11T18:51:03
+
+Just hopefully balancing lol
+
+
+---
+
+### 1757. msg_21029
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T18:52:30
+
+>
+lol same
+
+
+---
+
+### 1758. msg_21030
+
+**You** - 2025-06-11T20:14:00
+
+if you aren't too tired I have a few things I want to share with you\.\. will take me a few mins\.\.
+
+
+---
+
+### 1759. msg_21031
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:19:15
+
+I’m doing midstream still\. Writing out instructions for Mus because Yolanda’s training videos are soooooooo looooooong and annoying
+
+
+---
+
+### 1760. msg_21032
+
+**You** - 2025-06-11T20:19:46
+
+There will be a modelling pic
+
+
+---
+
+### 1761. msg_21033
+
+**You** - 2025-06-11T20:19:52
+
+just saying
+
+
+---
+
+### 1762. msg_21034
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:20:17
+
+I deserve it for all the annoying work I’m doing lol
+
+
+---
+
+### 1763. msg_21035
+
+**You** - 2025-06-11T20:21:53
+
+Reaction: ❤️ from Meredith Lamb
+This first\.\. this is who I was\.\. and who I am with you\.
+
+*1 attachment(s)*
+
+
+---
+
+### 1764. msg_21036
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:29:42
+
+Omg wow…\. Why did she write that to you?
+
+
+---
+
+### 1765. msg_21037
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:29:56
+
+That is such a special letter to have from her\.
+
+
+---
+
+### 1766. msg_21038
+
+**You** - 2025-06-11T20:29:56
+
+I was going into high school\.
+
+
+---
+
+### 1767. msg_21039
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:30:07
+
+I don’t have anything like that from my parents\.
+
+
+---
+
+### 1768. msg_21040
+
+**You** - 2025-06-11T20:30:11
+
+I wanted you to see who I was before everything\.
+
+
+---
+
+### 1769. msg_21041
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:30:37
+
+That is exactly how I see you so I’m pretty sure you are the same person\.
+
+
+---
+
+### 1770. msg_21042
+
+**You** - 2025-06-11T20:30:37
+
+Reaction: ❤️ from Meredith Lamb
+This was the next person after mum that I loved the most\.
+
+*1 attachment(s)*
+
+
+---
+
+### 1771. msg_21043
+
+**You** - 2025-06-11T20:30:59
+
+that was nana her mum\.
+
+
+---
+
+### 1772. msg_21044
+
+**You** - 2025-06-11T20:31:35
+
+This is what I could find on very short notice\.\. but figured why not share\.
+
+*3 attachment(s)*
+
+
+---
+
+### 1773. msg_21045
+
+**You** - 2025-06-11T20:32:00
+
+The prom picture is Angela, Me, Jon \(who you will meet\) and Katie\.
+
+
+---
+
+### 1774. msg_21046
+
+**You** - 2025-06-11T20:32:20
+
+The picture with all the friends\.\. were my people through Junior High and High School\.
+
+
+---
+
+### 1775. msg_21047
+
+**You** - 2025-06-11T20:33:21
+
+Reaction: 😮 from Meredith Lamb
+the guy whose back I am climbing on and who I am sitting next to in the other photo is Liam\.\. he was one of my best friends through highschool we were like brothers\.\. by that time he had already slept with Angela and I wouldn't find out for another 10 months\.
+
+
+---
+
+### 1776. msg_21048
+
+**You** - 2025-06-11T20:33:39
+
+I forgave him and her a long time ago\.\. I still speak to him when I go home\.
+
+
+---
+
+### 1777. msg_21049
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:34:48
+
+That’s wild\. Everyone looks so 90s lol
+
+
+---
+
+### 1778. msg_21050
+
+**You** - 2025-06-11T20:35:27
+
+ok so scanning a pic no one else has ever seen\.\. and it is the pair to another I have shown you\.\. honestly forgot it existed\.
+
+
+---
+
+### 1779. msg_21051
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:35:55
+
+The pair?
+
+
+---
+
+### 1780. msg_21052
+
+**You** - 2025-06-11T20:38:07
+
+Reaction: ❤️ from Meredith Lamb
+not up to my current standards\.\. but interesting to read\.
+
+*1 attachment(s)*
+
+
+---
+
+### 1781. msg_21053
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:40:40
+
+You didn’t date it
+
+
+---
+
+### 1782. msg_21054
+
+**You** - 2025-06-11T20:40:50
+
+It was after high school
+
+
+---
+
+### 1783. msg_21055
+
+**You** - 2025-06-11T20:41:03
+
+Reaction: ❤️ from Meredith Lamb
+the pair
+
+*1 attachment(s)*
+
+
+---
+
+### 1784. msg_21056
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:44:51
+
+>
+That was so nice\. Why did you mention difficulties as a child socially twice? What was that about?
+
+
+---
+
+### 1785. msg_21057
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:45:42
+
+>
+What do you MEAN by “the pair”?
+
+
+---
+
+### 1786. msg_21058
+
+**You** - 2025-06-11T20:46:34
+
+that is the second picture to the other black and white one
+
+
+---
+
+### 1787. msg_21059
+
+**You** - 2025-06-11T20:46:40
+
+Sarah shot me twice till i told her to piss off
+
+
+---
+
+### 1788. msg_21060
+
+**You** - 2025-06-11T20:46:50
+
+She was 2 years younger than me in 1st year\.\. I was in third
+
+
+---
+
+### 1789. msg_21061
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:46:54
+
+Ahhhh got it
+
+
+---
+
+### 1790. msg_21062
+
+**You** - 2025-06-11T20:46:59
+
+Photographers\.\.
+
+
+---
+
+### 1791. msg_21063
+
+**You** - 2025-06-11T20:47:00
+
+eesh
+
+
+---
+
+### 1792. msg_21064
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:47:25
+
+You should feel lucky to have them 🙂
+
+
+---
+
+### 1793. msg_21065
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:47:30
+
+Or maybe just me lol
+
+
+---
+
+### 1794. msg_21066
+
+**You** - 2025-06-11T20:47:48
+
+Reaction: ❤️ from Meredith Lamb
+ok be gentle\.\. this is pretty lame\.
+
+*2 attachment(s)*
+
+
+---
+
+### 1795. msg_21067
+
+**You** - 2025-06-11T20:48:52
+
+Just because :\)
+
+*1 attachment(s)*
+
+
+---
+
+### 1796. msg_21068
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:48:56
+
+Almost like glamour shots :\)
+
+
+---
+
+### 1797. msg_21069
+
+**You** - 2025-06-11T20:49:10
+
+that is what they were supposed to be\.\. for when she tried to book me
+
+
+---
+
+### 1798. msg_21070
+
+**You** - 2025-06-11T20:49:33
+
+Ruth was her name\.\. and she was creepy
+
+
+---
+
+### 1799. msg_21071
+
+**You** - 2025-06-11T20:49:40
+
+but if Mike could do it, so could I\!
+
+
+---
+
+### 1800. msg_21072
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:49:42
+
+lol I did glamour shots 3x back in the day
+
+
+---
+
+### 1801. msg_21073
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:49:47
+
+Very 90s thing to do
+
+
+---
+
+### 1802. msg_21074
+
+**You** - 2025-06-11T20:49:57
+
+rofl I mean I did it because Mike said I couldn't
+
+
+---
+
+### 1803. msg_21075
+
+**You** - 2025-06-11T20:50:03
+
+and by then I had a bit of confidence
+
+
+---
+
+### 1804. msg_21076
+
+**You** - 2025-06-11T20:53:02
+
+Reaction: ❤️ from Meredith Lamb
+anyhow\.\. I kind of invaded your past so wanted to share some of mine with you\.\. those black and white photos though, were the last before my innocence kind of vanished\.\. ironically Sarah and I were a great match\.\.we had a lot of fun, travelled around, got into all sorts of trouble for a couple of years\.\. we broke up, and got back together after my car accident\.  She was the one who I heard the guy on the phone calling her back to bed at Dalhousie\.\. I kind of changed after that\.  But I figured the letter from Mum could explain a lot to you about a bunch of aspects of who I am\.\. from my 100% in approach to friendship\.\. hoping for people to reciprocate\.\. to my lack of confidence\.\. etc etc
+
+
+---
+
+### 1805. msg_21077
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:54:11
+
+Reaction: ❤️ from Scott Hicks
+One of our glamour shots\. Lol my 2 best friends for many years but not really now … still really good friends but not best
+
+*1 attachment(s)*
+
+
+---
+
+### 1806. msg_21078
+
+**You** - 2025-06-11T20:54:52
+
+deleted \- need to comment first\.\. holy shit\.\. you look amazing\. how old?
+
+
+---
+
+### 1807. msg_21079
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:55:37
+
+My mom literally made me do these ones in high school…\. LOL I don’t even keep them\. Mac took this while in Oshawa recently bc she thought it was so hilarious
+
+*1 attachment(s)*
+
+
+---
+
+### 1808. msg_21080
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:56:04
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1809. msg_21081
+
+**You** - 2025-06-11T20:56:24
+
+I was in the middle of saying you probably are tired\.\. and I don't want to keep you up\.\. but I did want to share\.\. and I wanted to give you a heads up\.\. I have something small to give you tomorrow\.\. but it means something to me and I want you to keep it\.\. no arguing\.
+
+
+---
+
+### 1810. msg_21082
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:56:36
+
+I got actual semi good non lame ones taken in uni but have no copies
+
+
+---
+
+### 1811. msg_21083
+
+**You** - 2025-06-11T20:56:37
+
+why would she make you\.\. you are goregeous\.\.
+
+
+---
+
+### 1812. msg_21084
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:56:45
+
+My mom keeps one framed tho
+
+
+---
+
+### 1813. msg_21085
+
+**You** - 2025-06-11T20:56:49
+
+no doubt
+
+
+---
+
+### 1814. msg_21086
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T20:56:58
+
+>
+You have to know my mother to understand lol
+
+
+---
+
+### 1815. msg_21087
+
+**You** - 2025-06-11T20:57:06
+
+way out of my league lol\.\. I wouldn't have talked to you\.
+
+
+---
+
+### 1816. msg_21088
+
+**You** - 2025-06-11T20:57:35
+
+would have been way to shy\.
+
+
+---
+
+### 1817. msg_21089
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:01:39
+
+You can see the only normal glamour shot I have in the background framed lol
+
+*1 attachment(s)*
+
+
+---
+
+### 1818. msg_21090
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:02:46
+
+>
+Yeah I mean zero surprises in either letter \(other than the “childhood difficulties”\) … I really don’t think you are different at all
+
+
+---
+
+### 1819. msg_21091
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:03:25
+
+>
+Oh whatever\.
+
+
+---
+
+### 1820. msg_21092
+
+**You** - 2025-06-11T21:03:27
+
+Well then that tells you at least one thing\.\.\. I have been 100% transparent\.\. you know me more than anyone else\.
+
+
+---
+
+### 1821. msg_21093
+
+**You** - 2025-06-11T21:03:35
+
+>
+it is so trued
+
+
+---
+
+### 1822. msg_21094
+
+**You** - 2025-06-11T21:03:48
+
+never in a million years would we have hooked up unless you expressed interest\.
+
+
+---
+
+### 1823. msg_21095
+
+**You** - 2025-06-11T21:04:00
+
+no confidence that way
+
+
+---
+
+### 1824. msg_21096
+
+**You** - 2025-06-11T21:04:03
+
+still
+
+
+---
+
+### 1825. msg_21097
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:04:11
+
+Well maybe I would have :\)
+
+
+---
+
+### 1826. msg_21098
+
+**You** - 2025-06-11T21:04:34
+
+I dunno\.\. I wasn't very "big" back then\.\. :\) 170lbs\.
+
+
+---
+
+### 1827. msg_21099
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:04:45
+
+LOL
+
+
+---
+
+### 1828. msg_21100
+
+**You** - 2025-06-11T21:05:34
+
+>
+I think in your searching for pics you might have overlooked this\.\. just want to make sure you don't miss it so no surprises\.
+
+
+---
+
+### 1829. msg_21101
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:06:33
+
+I came downstairs to look for something\. Just found it
+
+
+---
+
+### 1830. msg_21102
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:06:56
+
+Trent and I playing cricket and Brett videotaping lol
+
+*1 attachment(s)*
+
+
+---
+
+### 1831. msg_21103
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:07:13
+
+You can see the taped area where the ball has to hit on the barn lol
+
+
+---
+
+### 1832. msg_21104
+
+**You** - 2025-06-11T21:07:28
+
+hehe
+
+
+---
+
+### 1833. msg_21105
+
+**You** - 2025-06-11T21:07:46
+
+it was so much better when we made our own fun/
+
+
+---
+
+### 1834. msg_21106
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:08:38
+
+The barn was home shortly after that\. Safety risk lol
+
+*1 attachment(s)*
+
+
+---
+
+### 1835. msg_21107
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:09:12
+
+I like having those photos tho\. Funny memories
+
+
+---
+
+### 1836. msg_21108
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:09:29
+
+I have many albums\. I used to like to make Allen when I was little
+
+
+---
+
+### 1837. msg_21109
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:09:36
+
+\*make them
+
+
+---
+
+### 1838. msg_21110
+
+**You** - 2025-06-11T21:11:10
+
+Reaction: 😢 from Meredith Lamb
+I have thousands of photos but I letft them at Katies
+
+
+---
+
+### 1839. msg_21111
+
+**You** - 2025-06-11T21:11:19
+
+I always planned to go back and get them
+
+
+---
+
+### 1840. msg_21112
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:11:59
+
+Reaction: ❤️ from Scott Hicks
+Very country\. Corn field in the back
+
+*1 attachment(s)*
+
+
+---
+
+### 1841. msg_21113
+
+**You** - 2025-06-11T21:16:48
+
+sry aunt called
+
+
+---
+
+### 1842. msg_21114
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:20:33
+
+Sok folding laundry before bed… tired now
+
+
+---
+
+### 1843. msg_21115
+
+**You** - 2025-06-11T21:24:18
+
+sec
+
+
+---
+
+### 1844. msg_21116
+
+**You** - 2025-06-11T21:28:51
+
+was just telling my Aunt \(2nd Cousin\) mum's best friend
+
+
+---
+
+### 1845. msg_21117
+
+**You** - 2025-06-11T21:29:05
+
+Reaction: 😮 from Meredith Lamb
+she will actually live 5 mins from where Jaimie will be living
+
+
+---
+
+### 1846. msg_21118
+
+**You** - 2025-06-11T21:29:24
+
+anyways also needed to confirm something with her so I did that too while I was on the call\.
+
+
+---
+
+### 1847. msg_21119
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:33:22
+
+Was she surprised or did she know already?
+
+
+---
+
+### 1848. msg_21120
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:33:48
+
+I can guarantee you my whole family knows\. My mom and her 3 sisters are blabbermouths
+
+
+---
+
+### 1849. msg_21121
+
+**You** - 2025-06-11T21:35:46
+
+Katie
+
+
+---
+
+### 1850. msg_21122
+
+**You** - 2025-06-11T21:35:49
+
+Told her a bit
+
+
+---
+
+### 1851. msg_21123
+
+**You** - 2025-06-11T21:35:53
+
+I told her the rest
+
+
+---
+
+### 1852. msg_21124
+
+**You** - 2025-06-11T21:35:57
+
+She wasn’t surprised
+
+
+---
+
+### 1853. msg_21125
+
+**You** - 2025-06-11T21:36:03
+
+She knew I was unhappy a while ago
+
+
+---
+
+### 1854. msg_21126
+
+**You** - 2025-06-11T21:36:07
+
+Knew about the basement
+
+
+---
+
+### 1855. msg_21127
+
+**You** - 2025-06-11T21:36:15
+
+Said mum would understand d
+
+
+---
+
+### 1856. msg_21128
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:37:08
+
+From the letter your mom wrote you it sounds like she would understand
+
+
+---
+
+### 1857. msg_21129
+
+**You** - 2025-06-11T21:37:20
+
+I asked Marlene
+
+
+---
+
+### 1858. msg_21130
+
+**You** - 2025-06-11T21:37:23
+
+She said she would
+
+
+---
+
+### 1859. msg_21131
+
+**You** - 2025-06-11T21:37:35
+
+And mum and j were close too
+
+
+---
+
+### 1860. msg_21132
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:38:07
+
+Seems like she just wanted you to be happy really
+
+
+---
+
+### 1861. msg_21133
+
+**You** - 2025-06-11T21:38:29
+
+She did I had a hard childhood
+
+
+---
+
+### 1862. msg_21134
+
+**You** - 2025-06-11T21:39:03
+
+Led with my heart\.\. lol even in friendship\.\. I was off that way and got made fun of for being more like the guys\.\.
+
+
+---
+
+### 1863. msg_21135
+
+**You** - 2025-06-11T21:39:12
+
+Odd not off
+
+
+---
+
+### 1864. msg_21136
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:40:08
+
+Guys or girls?
+
+
+---
+
+### 1865. msg_21137
+
+**You** - 2025-06-11T21:40:12
+
+I found some balance about grade 7 \-12
+
+
+---
+
+### 1866. msg_21138
+
+**You** - 2025-06-11T21:40:21
+
+Girls never made fun of me
+
+
+---
+
+### 1867. msg_21139
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:40:32
+
+>
+Is guys a typo here?
+
+
+---
+
+### 1868. msg_21140
+
+**You** - 2025-06-11T21:40:36
+
+But I was like that with everyone
+
+
+---
+
+### 1869. msg_21141
+
+**You** - 2025-06-11T21:40:46
+
+No
+
+
+---
+
+### 1870. msg_21142
+
+**You** - 2025-06-11T21:40:58
+
+Guys kids were d\-bags
+
+
+---
+
+### 1871. msg_21143
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:41:04
+
+You got made fun of for being like the guys?
+
+
+---
+
+### 1872. msg_21144
+
+**You** - 2025-06-11T21:41:04
+
+I wasn’t like that
+
+
+---
+
+### 1873. msg_21145
+
+**You** - 2025-06-11T21:41:08
+
+For not
+
+
+---
+
+### 1874. msg_21146
+
+**You** - 2025-06-11T21:41:12
+
+Being like them
+
+
+---
+
+### 1875. msg_21147
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:41:17
+
+Oh\!\! lol
+
+
+---
+
+### 1876. msg_21148
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:41:25
+
+So many typos
+
+
+---
+
+### 1877. msg_21149
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:41:40
+
+You were no
+
+
+---
+
+### 1878. msg_21150
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:41:43
+
+Emo
+
+
+---
+
+### 1879. msg_21151
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:41:59
+
+Or sorry, you ARE
+
+
+---
+
+### 1880. msg_21152
+
+**You** - 2025-06-11T21:42:01
+
+I was sensitive, not emo in the common sense
+
+
+---
+
+### 1881. msg_21153
+
+**You** - 2025-06-11T21:42:10
+
+No I am not emo is something else
+
+
+---
+
+### 1882. msg_21154
+
+**You** - 2025-06-11T21:43:16
+
+Hmmm
+
+
+---
+
+### 1883. msg_21155
+
+**You** - 2025-06-11T21:43:20
+
+Maybe you are right
+
+
+---
+
+### 1884. msg_21156
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:43:21
+
+I just ChatGPT’d it\. Yeah I didn’t fully get emo I guess
+
+
+---
+
+### 1885. msg_21157
+
+**You** - 2025-06-11T21:43:28
+
+It is on the line
+
+
+---
+
+### 1886. msg_21158
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:43:48
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1887. msg_21159
+
+**You** - 2025-06-11T21:43:50
+
+There is a culture which I am not
+
+
+---
+
+### 1888. msg_21160
+
+**You** - 2025-06-11T21:44:11
+
+Yeah not the culture but the meaning is emotionally hardcore or raw
+
+
+---
+
+### 1889. msg_21161
+
+**You** - 2025-06-11T21:44:56
+
+Oh sent this to Jon when i was scanning things to you
+
+
+---
+
+### 1890. msg_21162
+
+**You** - 2025-06-11T21:45:04
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1891. msg_21163
+
+**You** - 2025-06-11T21:45:19
+
+He gave me this right at the end of high school\.
+
+
+---
+
+### 1892. msg_21164
+
+**You** - 2025-06-11T21:47:03
+
+Talk about people liking me\.\. 🙂
+
+
+---
+
+### 1893. msg_21165
+
+**You** - 2025-06-11T21:48:25
+
+A little cringe a little dramatic but honest\.
+
+
+---
+
+### 1894. msg_21166
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:51:44
+
+Sec just got out of shower getting ready for bed
+
+
+---
+
+### 1895. msg_21167
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:55:03
+
+Wow this is so pure and genuine\.
+
+
+---
+
+### 1896. msg_21168
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:55:10
+
+I have no letters like this\!\!
+
+
+---
+
+### 1897. msg_21169
+
+**You** - 2025-06-11T21:56:30
+
+Hehe
+
+
+---
+
+### 1898. msg_21170
+
+**You** - 2025-06-11T21:56:41
+
+He was / is the best
+
+
+---
+
+### 1899. msg_21171
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T21:57:01
+
+Reaction: 😢 from Scott Hicks
+I have letters from a good friend of mine \(who killed herself\) but I she never professes her love for me lol
+
+
+---
+
+### 1900. msg_21172
+
+**You** - 2025-06-11T21:57:53
+
+No Jon and I were close
+
+
+---
+
+### 1901. msg_21173
+
+**You** - 2025-06-11T21:58:01
+
+He moved to Montreal in grade 11
+
+
+---
+
+### 1902. msg_21174
+
+**You** - 2025-06-11T21:58:21
+
+Graduated and the\. Came back for grade 12 anyways just to graduate with me
+
+
+---
+
+### 1903. msg_21175
+
+**You** - 2025-06-11T22:01:52
+
+Getting g ready for bed myself
+
+
+---
+
+### 1904. msg_21176
+
+**You** - 2025-06-11T22:02:25
+
+Didnt get done what I needed to get done tonight but I did get done what I wanted to get done\.
+
+
+---
+
+### 1905. msg_21177
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:02:36
+
+He sounded so lonely in his letter
+
+
+---
+
+### 1906. msg_21178
+
+**You** - 2025-06-11T22:03:01
+
+He was he was by himself in Ontario older brother gone parents kind of absent
+
+
+---
+
+### 1907. msg_21179
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:07:31
+
+Kari’s letters are fucked up bc she was in rehab\. She couldn’t have email and that’s why we wrote letters lol\. This is the loviest I got\. Just read a few
+
+
+---
+
+### 1908. msg_21180
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:07:39
+
+
+*1 attachment(s)*
+
+
+---
+
+### 1909. msg_21181
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:08:33
+
+She killed herself just under 6 months after this
+
+
+---
+
+### 1910. msg_21182
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:08:42
+
+I got a letter right before
+
+
+---
+
+### 1911. msg_21183
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:08:49
+
+And she was great in it
+
+
+---
+
+### 1912. msg_21184
+
+**You** - 2025-06-11T22:09:04
+
+Ah mer I am so sorry\.\. sounds like she really did care about you\.\. you had a connection\.\.
+
+
+---
+
+### 1913. msg_21185
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:09:59
+
+We were very good friends all through high school\. Very competitive though\.
+
+
+---
+
+### 1914. msg_21186
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:10:19
+
+I have her letters scanned because I gave them to her family years later
+
+
+---
+
+### 1915. msg_21187
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:10:29
+
+They were estranged for 2 yrs before she died
+
+
+---
+
+### 1916. msg_21188
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:10:55
+
+So I thought they might like them even though they are a little weird and not so great about me sometimes lol
+
+
+---
+
+### 1917. msg_21189
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:11:03
+
+Mentions my drug use in one
+
+
+---
+
+### 1918. msg_21190
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:11:10
+
+🤷‍♀️
+
+
+---
+
+### 1919. msg_21191
+
+**You** - 2025-06-11T22:11:38
+
+So you were older when you exhchsbged letters?
+
+
+---
+
+### 1920. msg_21192
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:11:53
+
+Yeah 2001 she was in rehab
+
+
+---
+
+### 1921. msg_21193
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:11:57
+
+Before that email
+
+
+---
+
+### 1922. msg_21194
+
+**You** - 2025-06-11T22:11:57
+
+Ah ok
+
+
+---
+
+### 1923. msg_21195
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:12:01
+
+She lived in California
+
+
+---
+
+### 1924. msg_21196
+
+**You** - 2025-06-11T22:12:23
+
+Hard to lose a friend like that\.\.
+
+
+---
+
+### 1925. msg_21197
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:12:24
+
+Went to us in track scholarship but fucked it up due to bulimia and mental health issues
+
+
+---
+
+### 1926. msg_21198
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:13:05
+
+She actually got her email back like 2 weeks before she killed herself :p
+
+
+---
+
+### 1927. msg_21199
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:13:17
+
+I think the whole letter thing was challenging
+
+
+---
+
+### 1928. msg_21200
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:13:25
+
+They took so freaking long compared to email
+
+
+---
+
+### 1929. msg_21201
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:13:28
+
+Was so stupid
+
+
+---
+
+### 1930. msg_21202
+
+**You** - 2025-06-11T22:13:46
+
+Yeah that seems counter intuitive
+
+
+---
+
+### 1931. msg_21203
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:13:52
+
+I don’t know why they didn’t just monitor her email
+
+
+---
+
+### 1932. msg_21204
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:14:02
+
+Or allow certain ppl only
+
+
+---
+
+### 1933. msg_21205
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:14:05
+
+Dumb
+
+
+---
+
+### 1934. msg_21206
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:14:20
+
+They read all my letters before she got them
+
+
+---
+
+### 1935. msg_21207
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:14:25
+
+That place was fucked up
+
+
+---
+
+### 1936. msg_21208
+
+**You** - 2025-06-11T22:14:26
+
+Yeah \.\. oh speaking of mental heart Gracie got a call from Ontario shores
+
+
+---
+
+### 1937. msg_21209
+
+**You** - 2025-06-11T22:14:43
+
+She has an appointment with psychiatrist on Tuesday\.
+
+
+---
+
+### 1938. msg_21210
+
+**You** - 2025-06-11T22:14:54
+
+I am hoping she can get a referral to New Brunswick\.
+
+
+---
+
+### 1939. msg_21211
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:15:16
+
+>
+I had to ChatGPT that
+
+
+---
+
+### 1940. msg_21212
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:15:32
+
+>
+Doesn’t she already have one?
+
+
+---
+
+### 1941. msg_21213
+
+**You** - 2025-06-11T22:15:43
+
+No she has a therapist
+
+
+---
+
+### 1942. msg_21214
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:15:53
+
+Ah
+
+
+---
+
+### 1943. msg_21215
+
+**You** - 2025-06-11T22:16:05
+
+Psychiatrist is diff can prescribe drugs etc
+
+
+---
+
+### 1944. msg_21216
+
+**You** - 2025-06-11T22:16:16
+
+Hey I should go see her to\.
+
+
+---
+
+### 1945. msg_21217
+
+**You** - 2025-06-11T22:16:31
+
+Get that K treatment apparently it is a fad\.
+
+
+---
+
+### 1946. msg_21218
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:17:35
+
+🙄
+
+
+---
+
+### 1947. msg_21219
+
+**You** - 2025-06-11T22:18:05
+
+Hey I read up on it
+
+
+---
+
+### 1948. msg_21220
+
+**You** - 2025-06-11T22:18:24
+
+I don’t need any treatment
+
+
+---
+
+### 1949. msg_21221
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:18:25
+
+No way it is a fad
+
+
+---
+
+### 1950. msg_21222
+
+**You** - 2025-06-11T22:18:38
+
+Just you\.  And I will be all good
+
+
+---
+
+### 1951. msg_21223
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:18:46
+
+You don’t need treatment, agree
+
+
+---
+
+### 1952. msg_21224
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:18:52
+
+Did you really think you did?
+
+
+---
+
+### 1953. msg_21225
+
+**You** - 2025-06-11T22:18:57
+
+For a bit
+
+
+---
+
+### 1954. msg_21226
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:18:59
+
+Are you hiding something?
+
+
+---
+
+### 1955. msg_21227
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:19:04
+
+Like why
+
+
+---
+
+### 1956. msg_21228
+
+**You** - 2025-06-11T22:19:06
+
+What?
+
+
+---
+
+### 1957. msg_21229
+
+**You** - 2025-06-11T22:19:09
+
+Hiding something
+
+
+---
+
+### 1958. msg_21230
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:19:21
+
+Why would you need treatment
+
+
+---
+
+### 1959. msg_21231
+
+**You** - 2025-06-11T22:19:32
+
+We talked about trust earlier I walk around in front of you naked and you know everything about me\. lol
+
+
+---
+
+### 1960. msg_21232
+
+**You** - 2025-06-11T22:19:35
+
+Like WTF
+
+
+---
+
+### 1961. msg_21233
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:19:37
+
+Isn’t apparent to me so are you hiding some extra anxieties
+
+
+---
+
+### 1962. msg_21234
+
+**You** - 2025-06-11T22:19:44
+
+No
+
+
+---
+
+### 1963. msg_21235
+
+**You** - 2025-06-11T22:19:46
+
+Jesus
+
+
+---
+
+### 1964. msg_21236
+
+**You** - 2025-06-11T22:19:52
+
+Look
+
+
+---
+
+### 1965. msg_21237
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:19:55
+
+Then why did you think that
+
+
+---
+
+### 1966. msg_21238
+
+**You** - 2025-06-11T22:19:58
+
+Ok I am serious
+
+
+---
+
+### 1967. msg_21239
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:20:03
+
+That you needed treatment
+
+
+---
+
+### 1968. msg_21240
+
+**You** - 2025-06-11T22:20:03
+
+When you came on the scene
+
+
+---
+
+### 1969. msg_21241
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:20:35
+
+>
+I do enjoy both of these things btw\.
+
+
+---
+
+### 1970. msg_21242
+
+**You** - 2025-06-11T22:20:41
+
+It was like getting hit with a tidal wave of emotion I didn’t know what was what how to deal with it\.\. it was wonderful and terrifying and you were at the middle of all of it\.\.
+
+
+---
+
+### 1971. msg_21243
+
+**You** - 2025-06-11T22:20:50
+
+And the only thing I was certain about
+
+
+---
+
+### 1972. msg_21244
+
+**You** - 2025-06-11T22:20:57
+
+And then
+
+
+---
+
+### 1973. msg_21245
+
+**You** - 2025-06-11T22:21:40
+
+Little things\.\. I was unaware of\.\. Andrew sleeping situation\.\. history and sharing a bunch of things very quickly as well as a bunch of wonderful nights\.
+
+
+---
+
+### 1974. msg_21246
+
+**You** - 2025-06-11T22:21:57
+
+Again it was a LOT for me to handle \+ what is going on here
+
+
+---
+
+### 1975. msg_21247
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:22:00
+
+So just like the speed and depth
+
+
+---
+
+### 1976. msg_21248
+
+**You** - 2025-06-11T22:22:17
+
+No
+
+
+---
+
+### 1977. msg_21249
+
+**You** - 2025-06-11T22:22:36
+
+Loving you fast and deep was the only thing that felt true and right
+
+
+---
+
+### 1978. msg_21250
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:22:39
+
+Yeah it has been a lot for me also but I think in a different way\. I don’t think I feel things to the same depth that you do lol just generally
+
+
+---
+
+### 1979. msg_21251
+
+**You** - 2025-06-11T22:23:04
+
+I just couldn’t deal with all the blips then I would smack into them face first unprepared, and have to deal and process
+
+
+---
+
+### 1980. msg_21252
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:23:21
+
+You kind of wear your heart on your sleeve
+
+
+---
+
+### 1981. msg_21253
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:23:28
+
+And feel immediately
+
+
+---
+
+### 1982. msg_21254
+
+**You** - 2025-06-11T22:23:28
+
+I haven’t loved anyone this deeply ever\.
+
+
+---
+
+### 1983. msg_21255
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:23:31
+
+All the time
+
+
+---
+
+### 1984. msg_21256
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:23:41
+
+I process a bit
+
+
+---
+
+### 1985. msg_21257
+
+**You** - 2025-06-11T22:24:11
+
+I feel like if I process it would seem
+Like I am trying to misrepresent or frame a response rather than be brutally honest
+
+
+---
+
+### 1986. msg_21258
+
+**You** - 2025-06-11T22:24:20
+
+I used to hold back a lot when I was more closed off
+
+
+---
+
+### 1987. msg_21259
+
+**You** - 2025-06-11T22:24:24
+
+Was introspective
+
+
+---
+
+### 1988. msg_21260
+
+**You** - 2025-06-11T22:24:35
+
+But I don’t feel like you deserve that from me
+
+
+---
+
+### 1989. msg_21261
+
+**You** - 2025-06-11T22:24:46
+
+Because it is just what I want you to see then
+
+
+---
+
+### 1990. msg_21262
+
+**You** - 2025-06-11T22:25:04
+
+And I want you to see everything even the stuff I am uncomfortable with
+
+
+---
+
+### 1991. msg_21263
+
+**You** - 2025-06-11T22:25:53
+
+So we are different, but I don’t need treatment\.\. I have gotten much better at control believe it or not\.  Still there are moments
+
+
+---
+
+### 1992. msg_21264
+
+**You** - 2025-06-11T22:26:15
+
+And I believe what I said I do t need treatment I just need you
+
+
+---
+
+### 1993. msg_21265
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:27:52
+
+>
+I am feeling this also but it doesn’t scare me\. Even though you are kind of crazy sometimes \(lol\) you just feel peaceful and like home to me\. It is really an odd thing\. Like even in your spiralling moments\. Don’t love those times but you still have this vibe I connect with … except when you give me the silent treatment that is\.
+
+
+---
+
+### 1994. msg_21266
+
+**You** - 2025-06-11T22:27:58
+
+Look I am not walking away, I am not going to have a heart attack or stroke, I am not going to have a nervous breakdown\. I am not going to get disinterested\. I am never going to love anyone else\. I am never going to want anyone else\. I am only interested in being happy with you at the earliest possible convenience\.\. which could be months or years I would wait\.
+
+
+---
+
+### 1995. msg_21267
+
+**You** - 2025-06-11T22:28:34
+
+And I am not crazy
+
+
+---
+
+### 1996. msg_21268
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:28:41
+
+>
+But you can still work right?
+
+
+---
+
+### 1997. msg_21269
+
+**You** - 2025-06-11T22:28:43
+
+I am emotionally challenged fed
+
+
+---
+
+### 1998. msg_21270
+
+**You** - 2025-06-11T22:28:57
+
+>
+Hrm?
+
+
+---
+
+### 1999. msg_21271
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:29:18
+
+>
+You are kind of crazy sometimes\. Case in point: blog mining\.
+
+
+---
+
+### 2000. msg_21272
+
+**You** - 2025-06-11T22:29:28
+
+Reaction: 😂 from Meredith Lamb
+That isn’t crazy at all
+
+
+---
+
+### 2001. msg_21273
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:29:34
+
+>
+Did you do any actual work today? Like Enbridge work
+
+
+---
+
+### 2002. msg_21274
+
+**You** - 2025-06-11T22:29:54
+
+Crazy was me setting up a web crawling system to go dig through the internet for anything I want to find out\.
+
+
+---
+
+### 2003. msg_21275
+
+**You** - 2025-06-11T22:29:58
+
+I did
+
+
+---
+
+### 2004. msg_21276
+
+**You** - 2025-06-11T22:30:01
+
+Work
+
+
+---
+
+### 2005. msg_21277
+
+**You** - 2025-06-11T22:30:12
+
+>
+I did not do this\.
+
+
+---
+
+### 2006. msg_21278
+
+**You** - 2025-06-11T22:30:23
+
+Just an example
+
+
+---
+
+### 2007. msg_21279
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:30:35
+
+>
+I was like “is this a fancy term for mining?”
+
+
+---
+
+### 2008. msg_21280
+
+**You** - 2025-06-11T22:30:52
+
+It is mining but at a much different level
+
+
+---
+
+### 2009. msg_21281
+
+**You** - 2025-06-11T22:30:59
+
+Huge scale
+
+
+---
+
+### 2010. msg_21282
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:31:05
+
+I’m not convinced you didn’t do it
+
+
+---
+
+### 2011. msg_21283
+
+**You** - 2025-06-11T22:31:11
+
+I didn’t
+
+
+---
+
+### 2012. msg_21284
+
+**You** - 2025-06-11T22:31:16
+
+Period
+
+
+---
+
+### 2013. msg_21285
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:31:19
+
+k
+
+
+---
+
+### 2014. msg_21286
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:31:27
+
+lol
+
+
+---
+
+### 2015. msg_21287
+
+**You** - 2025-06-11T22:32:01
+
+I don’t know anything about any of the years you desperately  don’t want me to know about don’t worry mer\.\. lol
+
+
+---
+
+### 2016. msg_21288
+
+**You** - 2025-06-11T22:32:10
+
+I wouldn’t lie to you I told you that
+
+
+---
+
+### 2017. msg_21289
+
+**You** - 2025-06-11T22:32:13
+
+In fact
+
+
+---
+
+### 2018. msg_21290
+
+**You** - 2025-06-11T22:32:21
+
+I didn’t have to tell you anything about the blogs
+
+
+---
+
+### 2019. msg_21291
+
+**You** - 2025-06-11T22:32:37
+
+Nor that I found Chris blogs
+
+
+---
+
+### 2020. msg_21292
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:32:44
+
+I know and there is nothing but silliness online
+
+
+---
+
+### 2021. msg_21293
+
+**You** - 2025-06-11T22:32:44
+
+Like I don’t lie
+
+
+---
+
+### 2022. msg_21294
+
+**You** - 2025-06-11T22:33:00
+
+>
+Then you shouldn’t be so worried
+
+
+---
+
+### 2023. msg_21295
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:33:08
+
+I’m not worried
+
+
+---
+
+### 2024. msg_21296
+
+**You** - 2025-06-11T22:33:14
+
+Bs
+
+
+---
+
+### 2025. msg_21297
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:33:22
+
+I just deleted them for a reason
+
+
+---
+
+### 2026. msg_21298
+
+**You** - 2025-06-11T22:33:30
+
+I call 1000% bs
+
+
+---
+
+### 2027. msg_21299
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:33:34
+
+Silliness
+
+
+---
+
+### 2028. msg_21300
+
+**You** - 2025-06-11T22:33:40
+
+But you can say whatever you want
+
+
+---
+
+### 2029. msg_21301
+
+**You** - 2025-06-11T22:33:50
+
+Like I said don’t care not looking not interested
+
+
+---
+
+### 2030. msg_21302
+
+**You** - 2025-06-11T22:33:54
+
+You will have to trust me
+
+
+---
+
+### 2031. msg_21303
+
+**You** - 2025-06-11T22:34:01
+
+Or it will eat at
+You
+
+
+---
+
+### 2032. msg_21304
+
+**You** - 2025-06-11T22:34:06
+
+And is
+
+
+---
+
+### 2033. msg_21305
+
+**You** - 2025-06-11T22:34:08
+
+Us
+
+
+---
+
+### 2034. msg_21306
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:34:18
+
+I do trust you\. And trust me that I’m not worried
+
+
+---
+
+### 2035. msg_21307
+
+**You** - 2025-06-11T22:34:24
+
+K
+
+
+---
+
+### 2036. msg_21308
+
+**You** - 2025-06-11T22:34:29
+
+Notes
+
+
+---
+
+### 2037. msg_21309
+
+**You** - 2025-06-11T22:34:34
+
+Noted
+
+
+---
+
+### 2038. msg_21310
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:34:37
+
+I’m just not a 20somethjng anymore
+
+
+---
+
+### 2039. msg_21311
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:34:43
+
+So Yunno
+
+
+---
+
+### 2040. msg_21312
+
+**You** - 2025-06-11T22:34:58
+
+I don’t know why you feel like you need to keep saying that\.
+
+
+---
+
+### 2041. msg_21313
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:35:16
+
+Because if I had a blog now it wouldn’t be like that
+
+
+---
+
+### 2042. msg_21314
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:35:24
+
+I’m not that person anymore
+
+
+---
+
+### 2043. msg_21315
+
+**You** - 2025-06-11T22:35:55
+
+I know that\.\. See this is why people lie mer\.\.
+lol
+
+
+---
+
+### 2044. msg_21316
+
+**You** - 2025-06-11T22:36:03
+
+Proving my point
+
+
+---
+
+### 2045. msg_21317
+
+**You** - 2025-06-11T22:36:38
+
+I could have said nothing g dealt with this privately and you would t have known so you wouldn’t have been bothered and the\. You wouldn’t think I am crazy and doubt me\.
+
+
+---
+
+### 2046. msg_21318
+
+**You** - 2025-06-11T22:37:21
+
+This bothers you a lot more than you are letting i
+On I knew it from how you reacted last night\.
+
+
+---
+
+### 2047. msg_21319
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:39:00
+
+It doesn’t bother me\. It surprised me that my blog was out there\. I had no idea\. That’s all\.
+
+
+---
+
+### 2048. msg_21320
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:39:08
+
+Honestly doesn’t bother me
+
+
+---
+
+### 2049. msg_21321
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:39:14
+
+I put it out publicly
+
+
+---
+
+### 2050. msg_21322
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:39:19
+
+It’s just immature
+
+
+---
+
+### 2051. msg_21323
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:39:35
+
+It’s not like a diary or anything\. THAT would bother me
+
+
+---
+
+### 2052. msg_21324
+
+**You** - 2025-06-11T22:42:21
+
+Ok mer I think it is time for bed\.\. For the record I went back and read and I def think it bothered you and I am sorry I did it\.  Like said won’t happen again as I am not interested I\. Looking back\.  But I do think it bothered you from reading between the lines\. Again sorry\.
+
+
+---
+
+### 2053. msg_21325
+
+**You** - 2025-06-11T22:43:07
+
+You should go to bed I kept you up again, and really didn’t want to get back on this topic
+
+
+---
+
+### 2054. msg_21326
+
+**You** - 2025-06-11T22:43:35
+
+>
+This was the most honest thing you have said about this\.
+
+
+---
+
+### 2055. msg_21327
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:45:39
+
+>
+It was a joke\.
+
+
+---
+
+### 2056. msg_21328
+
+**You** - 2025-06-11T22:45:58
+
+No it wasn’t
+
+
+---
+
+### 2057. msg_21329
+
+**You** - 2025-06-11T22:46:04
+
+Kidding follows a joke
+
+
+---
+
+### 2058. msg_21330
+
+**You** - 2025-06-11T22:46:57
+
+It doesn’t bother me btw I deserve it\.\. but I am not going to do it\.\. again it only hurts me why the fuck woukd I want more of that rather than to move forward\.\.
+
+
+---
+
+### 2059. msg_21331
+
+**You** - 2025-06-11T22:47:28
+
+I just need something to fill the time  in Between now and when when can
+
+
+---
+
+### 2060. msg_21332
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:48:04
+
+I went back up and took much to read through lol
+
+
+---
+
+### 2061. msg_21333
+
+**You** - 2025-06-11T22:48:29
+
+Reaction: ❓ from Meredith Lamb
+Did you see what I saw??
+
+
+---
+
+### 2062. msg_21334
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:48:40
+
+>
+I actually found it pretty impressive tbh\.
+
+
+---
+
+### 2063. msg_21335
+
+**You** - 2025-06-11T22:49:14
+
+>
+What do you mean
+
+
+---
+
+### 2064. msg_21336
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:49:35
+
+I mean finding all of that… pretty impressive\.
+
+
+---
+
+### 2065. msg_21337
+
+**You** - 2025-06-11T22:49:42
+
+Omg stop nooooooooooooooo
+
+
+---
+
+### 2066. msg_21338
+
+**You** - 2025-06-11T22:49:52
+
+It want
+
+
+---
+
+### 2067. msg_21339
+
+**You** - 2025-06-11T22:49:54
+
+Wasn’t
+
+
+---
+
+### 2068. msg_21340
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:50:21
+
+I HONESTLY am not bothered by it\. It wasn’t a diary\. Just stupid shit\. I had real diaries on paper\.
+
+
+---
+
+### 2069. msg_21341
+
+**You** - 2025-06-11T22:51:00
+
+Sigh ok I am fine to just drop it honestly I didn’t want to talk about it anyways
+
+
+---
+
+### 2070. msg_21342
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:51:28
+
+Don’t sigh
+
+
+---
+
+### 2071. msg_21343
+
+**You** - 2025-06-11T22:52:14
+
+SIGH
+
+
+---
+
+### 2072. msg_21344
+
+**You** - 2025-06-11T22:52:42
+
+AND 🙄
+
+
+---
+
+### 2073. msg_21345
+
+**You** - 2025-06-11T22:52:49
+
+So that’s what you get
+
+
+---
+
+### 2074. msg_21346
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:53:01
+
+Sighhhhhh
+
+
+---
+
+### 2075. msg_21347
+
+**You** - 2025-06-11T22:53:15
+
+Therm’s fighting texts right there\.
+
+
+---
+
+### 2076. msg_21348
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:53:42
+
+k I really need to get to bed if I’m getting up EARLIER tomorrow
+
+
+---
+
+### 2077. msg_21349
+
+**You** - 2025-06-11T22:53:53
+
+I tried to get you to go to bed a\. Hour ago
+
+
+---
+
+### 2078. msg_21350
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:54:15
+
+🤷‍♀️
+
+
+---
+
+### 2079. msg_21351
+
+**You** - 2025-06-11T22:54:20
+
+Yeah I know\.
+
+
+---
+
+### 2080. msg_21352
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:54:28
+
+Night person
+
+
+---
+
+### 2081. msg_21353
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:54:45
+
+But need to get up earlier if I am going to meet you
+
+
+---
+
+### 2082. msg_21354
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:55:09
+
+Sooo
+
+
+---
+
+### 2083. msg_21355
+
+**You** - 2025-06-11T22:55:10
+
+I know same\.\.
+Go to bed my Mer… I love you very much in my crazy kind of way\.
+
+
+---
+
+### 2084. msg_21356
+
+**You** - 2025-06-11T22:55:31
+
+❤️❤️❤️
+
+
+---
+
+### 2085. msg_21357
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:55:47
+
+Reaction: ❤️ from Scott Hicks
+I love you too \(have my crazy ways also… \)
+
+
+---
+
+### 2086. msg_21358
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-11T22:55:52
+
+❤️
+
+
+---
+
+### 2087. msg_21359
+
+**You** - 2025-06-11T22:57:40
+
+Oh go read the thing before you go to bed that you saved I feel like it\. Would do you some good\.\. you were rattled today\.
+
+
+---
+
+### 2088. msg_21360
+
+**You** - 2025-06-11T22:58:02
+
+Still think you are honestly\., hope that goes away\.
+
+
+---
+
+### 2089. msg_21361
+
+**You** - 2025-06-11T22:58:08
+
+❤️
+
+
+---
+
+### 2090. msg_21362
+
+**You** - 2025-06-12T04:14:05
+
+Reaction: 😮 from Meredith Lamb
+Ok so here is your happy message ROFL Gracie cam banging on basement at 2
+Am because she couldn’t log onto some streaming service and screamed at me because I wouldn’t give her access to my account\.\. then everyone woke up and the fun began lol\.\. so a little low on sleep today\.\. but up and going regardless because fucking bring it universe\!\!
+
+
+---
+
+### 2091. msg_21363
+
+**You** - 2025-06-12T04:14:29
+
+😀 anyhow off I go lol
+
+
+---
+
+### 2092. msg_21364
+
+**You** - 2025-06-12T04:14:54
+
+Love you mer\! Hope your night was better than mine
+
+
+---
+
+### 2093. msg_21365
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T05:07:43
+
+Omg that sounds BRUTAL\!
+
+
+---
+
+### 2094. msg_21366
+
+**You** - 2025-06-12T05:08:19
+
+Reaction: ❤️ from Meredith Lamb
+No it was awesome but I am up and going and heading out the door to crush it\.\. lol\.
+
+
+---
+
+### 2095. msg_21367
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T05:08:36
+
+But good morning ❤️
+
+
+---
+
+### 2096. msg_21368
+
+**You** - 2025-06-12T05:08:49
+
+Same lol❤️
+
+
+---
+
+### 2097. msg_21369
+
+**You** - 2025-06-12T05:08:57
+
+It will be good\.\. hehe
+
+
+---
+
+### 2098. msg_21370
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T05:34:45
+
+Are you running late? Going to park still?
+
+
+---
+
+### 2099. msg_21371
+
+**You** - 2025-06-12T05:37:51
+
+1000%
+
+
+---
+
+### 2100. msg_21372
+
+**You** - 2025-06-12T05:38:00
+
+But you don’t have to go if you don’t want to
+
+
+---
+
+### 2101. msg_21373
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T05:38:09
+
+No I do was just checking
+
+
+---
+
+### 2102. msg_21374
+
+**You** - 2025-06-12T05:38:40
+
+Kk I am ok\.\.  but I will be in pain\.\. he has me doing lower body again today\.\. tomorrow is rest day\.
+
+
+---
+
+### 2103. msg_21375
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T06:18:03
+
+Reaction: ❤️ from Scott Hicks
+Still working on push ups everyday\. Very sad and difficult with 30 extra lbs and no muscle\. But keeping going …… 😩
+
+*1 attachment(s)*
+
+
+---
+
+### 2104. msg_21376
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T06:18:24
+
+I’m done 10 min early so going to do extra tri work
+
+
+---
+
+### 2105. msg_21377
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T06:18:29
+
+Not sure why I’m done early
+
+
+---
+
+### 2106. msg_21378
+
+**You** - 2025-06-12T06:18:52
+
+I am going to step machine I am done early too\.\. think I am looking forward to seeing you
+
+
+---
+
+### 2107. msg_21379
+
+**You** - 2025-06-12T06:32:29
+
+Reaction: 👍 from Meredith Lamb
+Going to hit the sauna and shower
+
+
+---
+
+### 2108. msg_21380
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T09:00:05
+
+I’m going to get a coffee at Tim’s so will be later than u\. FYI\.
+
+
+---
+
+### 2109. msg_21381
+
+**You** - 2025-06-12T09:07:56
+
+All good ❤️
+
+
+---
+
+### 2110. msg_21382
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T09:15:47
+
+Can’t believe you expect me to sit in a room with you after that\. Lol I’m not even sure what I’m feeling but breathing seems difficult\. You know I’ve only ever been given anything of significance to someone else 3x in my life\. My mom’s gold ring from when she was 14 \(she gave to me at my grade 8 grad\), my mom made me a necklace with my kids names on it once \(I wear it all the time\) and my aunt Maggie’s ring \(my dads baby sister who died from and we were very close as she had no kids\)\. That’s really all\. You sit there and just give me these things of significance right before work lol it’s a lot to process …\.\.
+
+
+---
+
+### 2111. msg_21383
+
+**You** - 2025-06-12T09:26:53
+
+Are you mad??? lol\. I wasn’t going to see you for like a bit\.\. and after the last few days and the shift I felt in yku from a worrying perspective I wanted to reinforce what I have been saying that I am your forever\.\. and I don’t have a lot to give you\.\. but those two things mean A LOT to me\.\. one represents some of the best years of my life when joy was a real thing\. And the other is a connection to my past and  now to our future I hope\.  It isn’t a ring or jewelry per se I know you don’t want that\.  And you don’t want this long term commitments thing,
+Which I would still be up for someday\.\. this had to do for me\.  And it meant a lot that you accepted it\.
+
+
+---
+
+### 2112. msg_21384
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T09:39:54
+
+I am absolutely not mad, just feeling a little emotional\. That was a lot for right before work  lol
+
+
+---
+
+### 2113. msg_21385
+
+**You** - 2025-06-12T09:40:35
+
+Sorry it distracts hope the emotions are good ones and not conflicted
+
+
+---
+
+### 2114. msg_21386
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T10:09:36
+
+It is good but a little bit of guilt bc of your girls\. I think it is deeper than just today also\. When my therapist said the whole “you don’t want them to hate Scott” thing\. I told her I’ve been feeling a little conflicted lately that maybe I led to your final split more than I like to think and your girls will always hate me\. I have never told you but when I started working for you I admired you so much and your work ethic etc and definitely had a crush on you\. I asked her if I subconsciously \(or otherwise\) worked to make all of this happen\.  Switching roles, telling you if the text and no one else\. Etc\. in which case your girls should hate me\. 🙁 Then you do that this morning and I’m like feeling all the things\. … thinking all the things\. Nothing is simple right now\. lol honestly it made me very happy and was really meaningful but my head can’t help but think about the rest…\.
+
+
+---
+
+### 2115. msg_21387
+
+**You** - 2025-06-12T10:31:37
+
+The kids are fine they have so much history and meaningful things that they have and will get\. They will always be a priority\. Gracie is a mess but I think truly will come around eventually, maddie will definitely\.  Jaimie would not try to poison them against you I am 1000% certain\.  I never noticed that you had a crush\.\. I noticed you I thought from the time I read your written response to the 1st essay wow this chick is smart\.  When we worked together I loved you attitude so positive can do, smart as hell, strategic can get ahead of the request and give people stuff they didn’t even know they knew\.  I loved working with you and was SUPER excited when you wanted to come over\.  Beyond that I thought you were very attractive but it was something I noticed not something that I was willing to act in because well you know\.  When you smiled at me that was what would do it\.\. that was the hardest for me to deal with and remain “in a good thinking space”\.  I was felt very empathetic for you wh\.\.\. \[truncated\]
+
+
+---
+
+### 2116. msg_21388
+
+**You** - 2025-06-12T10:31:47
+
+What did she say to your question btw\.
+
+
+---
+
+### 2117. msg_21389
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T10:46:49
+
+She wasn’t sure because she doesn’t have the full context of your situation so it is hard for her to really determine\. She said there could be so many possible reasons this happened and only we can really know in the end because no one else will have the full context\. She’s also nice to me so would never say I am ill intentioned in any way\. Lol I would no longer pay her so she has a bias\. 😜
+
+
+---
+
+### 2118. msg_21390
+
+**You** - 2025-06-12T10:49:36
+
+I think you out too much on yourself here\.\. you may
+Have
+Opened a door to us having an innocent conversation but you never pressed me or moved me towards anything I did that on my own\.\. the more I learned the more I loved and then just fell HARD\.\. and never wanted to stop falling\. Still don’t it isn’t
+Your fault\. Blame fate\.\. I am thanking fate honestly as long as you don’t crumble to dust on me\.
+
+
+---
+
+### 2119. msg_21391
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T10:51:00
+
+I need a vape\.
+
+
+---
+
+### 2120. msg_21392
+
+**You** - 2025-06-12T10:54:10
+
+I need Novotel right now\.\. lunch???
+
+
+---
+
+### 2121. msg_21393
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T11:34:05
+
+>
+Ok, stop\. Lol
+
+
+---
+
+### 2122. msg_21394
+
+**You** - 2025-06-12T11:41:22
+
+Right now let’s go
+
+
+---
+
+### 2123. msg_21395
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T11:49:23
+
+Omg there is no way
+
+
+---
+
+### 2124. msg_21396
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T11:49:29
+
+You are kidding right?
+
+
+---
+
+### 2125. msg_21397
+
+**You** - 2025-06-12T11:50:26
+
+Right now\!\!\!
+
+
+---
+
+### 2126. msg_21398
+
+**You** - 2025-06-12T11:50:27
+
+lol
+
+
+---
+
+### 2127. msg_21399
+
+**You** - 2025-06-12T11:50:32
+
+No kidding
+
+
+---
+
+### 2128. msg_21400
+
+**You** - 2025-06-12T11:50:34
+
+I wish
+
+
+---
+
+### 2129. msg_21401
+
+**You** - 2025-06-12T11:51:52
+
+Why
+
+
+---
+
+### 2130. msg_21402
+
+**You** - 2025-06-12T11:51:57
+
+Are you kidding
+
+
+---
+
+### 2131. msg_21403
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T11:53:31
+
+Omg stop I am in no condition for this lol
+
+
+---
+
+### 2132. msg_21404
+
+**You** - 2025-06-12T11:55:04
+
+I wonder
+
+
+---
+
+### 2133. msg_21405
+
+**You** - 2025-06-12T11:57:04
+
+Too bad we could t take afternoon off
+
+
+---
+
+### 2134. msg_21406
+
+**You** - 2025-06-12T11:58:25
+
+
+*1 attachment(s)*
+
+
+---
+
+### 2135. msg_21407
+
+**You** - 2025-06-12T11:58:30
+
+lol so close
+
+
+---
+
+### 2136. msg_21408
+
+**You** - 2025-06-12T12:00:55
+
+Tomorrow afternoon I could come work from the office create an offsite meeting lol… sorry a little fun\.\. I would do it of course but too much for you\.
+
+
+---
+
+### 2137. msg_21409
+
+**You** - 2025-06-12T13:57:01
+
+Having a hard time not thinking about you now\.\. I shouldn’t have messed around Fack\!\!\!
+
+
+---
+
+### 2138. msg_21410
+
+**You** - 2025-06-12T13:57:33
+
+Regrets……
+
+
+---
+
+### 2139. msg_21411
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T14:03:37
+
+I’m okay\. Don’t worry\. Am definitely going to vape after work though lol
+
+
+---
+
+### 2140. msg_21412
+
+**You** - 2025-06-12T14:04:05
+
+Oh I am glad you are ok\.\. I am not ok now backfired
+
+
+---
+
+### 2141. msg_21413
+
+**You** - 2025-06-12T14:04:09
+
+lol
+
+
+---
+
+### 2142. msg_21414
+
+**You** - 2025-06-12T14:04:11
+
+Fuck
+
+
+---
+
+### 2143. msg_21415
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T14:04:21
+
+I honestly really appreciate the thought this morning\. Was just really overwhelming\.
+
+
+---
+
+### 2144. msg_21416
+
+**You** - 2025-06-12T14:04:54
+
+Yeah I seem to fail quite a bit at this\.\. I am just not really good at holding back and we never really have time where it is good\.
+
+
+---
+
+### 2145. msg_21417
+
+**You** - 2025-06-12T14:05:10
+
+So yeah sorry\.\.
+
+
+---
+
+### 2146. msg_21418
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T14:05:59
+
+You keep me on my toes\. It is something I love about you\. Never a dull moment\. 🙃
+
+
+---
+
+### 2147. msg_21419
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T14:06:20
+
+>
+What are you talking about? It is always good to
+
+
+---
+
+### 2148. msg_21420
+
+**You** - 2025-06-12T14:11:36
+
+lol in my head the way it goes is always different than it actually goes lol
+
+
+---
+
+### 2149. msg_21421
+
+**You** - 2025-06-12T14:15:44
+
+Doesn’t matter\.\. lol just typical me\.
+
+
+---
+
+### 2150. msg_21422
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T14:21:51
+
+You don’t actually feel like you are failing I hope\. Furthest from truth
+
+
+---
+
+### 2151. msg_21423
+
+**You** - 2025-06-12T14:22:36
+
+I feel like I continually miss the mark\. Maybe that is a better term\. It is like I am trying to push string\.
+
+
+---
+
+### 2152. msg_21424
+
+**You** - 2025-06-12T14:22:47
+
+You can gpt that it will explain
+
+
+---
+
+### 2153. msg_21425
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T15:36:15
+
+I did ChatGPT it\. Odd I haven’t never heard that before\. You are NOT pushing string\. I got overwhelmed this morning and that is all\. It is because I understand how special each is to you and that they mean something\. I know they aren’t just things to you and they are part of you\. The fact that you would trust me with them is a tad overwhelming\. I just feel so much for you and then you do that and 🫠 gahhhhhh…\. It’s a lot\.
+You are not pushing string\. There is nothing negative here\. I will treasure them until they make their way to your girls one day\. ❤️😉
+Next time you do something so big maybe add in a vape\. 😇
+
+
+---
+
+### 2154. msg_21426
+
+**You** - 2025-06-12T15:42:38
+
+Kk I will try to Remeber\.\. I don’t think there will be anymore big overtures for the foreseeable future, not that I don’t enjoy trying to not step on myself while doing lol\.\. we are going to be apart for quite a bit of time and honestly ratcheting up the emotions today was probably a stupid idea\.\. when we cannot act on them\.\. talk about frustration lol\.
+
+
+---
+
+### 2155. msg_21427
+
+**You** - 2025-06-12T15:44:28
+
+So don’t worry I will chill out as you like to say\.\. but please let me try to deal with my situation the way I have to\.\. no silent treatment but I might just be a bit quieter or a bit less emphatic\.\. I do t want you to read anything into it other than I am trying to manage the whole “soul ache” thing\.  Ok?
+
+
+---
+
+### 2156. msg_21428
+
+**You** - 2025-06-12T15:47:43
+
+Btw I hope you didn’t tell Jim about this he will shit all over me
+
+
+---
+
+### 2157. msg_21429
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T15:56:29
+
+I didn’t tell Jim\!
+
+
+---
+
+### 2158. msg_21430
+
+**You** - 2025-06-12T16:00:16
+
+Kk I feel obliged to ensure you have read the other two responses because you tend to skip to the latest\. Don’t want any what do you mean?? Later on lol
+
+
+---
+
+### 2159. msg_21431
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T16:48:26
+
+>
+It was a little intense\. I consider myself very lucky though Scott\.
+
+
+---
+
+### 2160. msg_21432
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T16:48:56
+
+>
+Okaaaaaaaaaaaay\. 😭
+
+
+---
+
+### 2161. msg_21433
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T16:49:03
+
+\(Kidding\)
+
+
+---
+
+### 2162. msg_21434
+
+**You** - 2025-06-12T16:49:14
+
+Ok appreciate it\.
+
+
+---
+
+### 2163. msg_21435
+
+**You** - 2025-06-12T17:59:26
+
+I think I am just going to stay here until it is time for bed\.
+
+
+---
+
+### 2164. msg_21436
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T17:59:43
+
+Really?
+
+
+---
+
+### 2165. msg_21437
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T17:59:51
+
+I want to leave\. Gah
+
+
+---
+
+### 2166. msg_21438
+
+**You** - 2025-06-12T18:01:05
+
+Well you should I don’t want to for obvious reasons
+
+
+---
+
+### 2167. msg_21439
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T18:02:48
+
+Yup\. No advice for you unfortunately
+
+
+---
+
+### 2168. msg_21440
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T19:51:40
+
+Reaction: ❤️ from Scott Hicks
+You know I’m just thinking of you right?
+
+
+---
+
+### 2169. msg_21441
+
+**You** - 2025-06-12T19:54:54
+
+Same and slightly sad
+
+
+---
+
+### 2170. msg_21442
+
+**You** - 2025-06-12T19:55:05
+
+I had an idea and it blew up
+
+
+---
+
+### 2171. msg_21443
+
+**You** - 2025-06-12T19:55:33
+
+I will be thinking you ever day every hour until I see you
+
+
+---
+
+### 2172. msg_21444
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T19:56:02
+
+Nothing blew up
+
+
+---
+
+### 2173. msg_21445
+
+**You** - 2025-06-12T19:56:22
+
+Yeah it did
+
+
+---
+
+### 2174. msg_21446
+
+**You** - 2025-06-12T19:56:31
+
+You don’t even know it yet
+
+
+---
+
+### 2175. msg_21447
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T19:57:50
+
+What?
+
+
+---
+
+### 2176. msg_21448
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T19:58:23
+
+I don’t get what I “don’t even know yet”
+
+
+---
+
+### 2177. msg_21449
+
+**You** - 2025-06-12T19:59:28
+
+Are you eating gummies again
+
+
+---
+
+### 2178. msg_21450
+
+**You** - 2025-06-12T19:59:29
+
+lol
+
+
+---
+
+### 2179. msg_21451
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T19:59:35
+
+No kmg
+
+
+---
+
+### 2180. msg_21452
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T19:59:37
+
+Omg
+
+
+---
+
+### 2181. msg_21453
+
+**You** - 2025-06-12T19:59:54
+
+Ok I said I was thinking of you and I had an idea and the idea blew up
+
+
+---
+
+### 2182. msg_21454
+
+**You** - 2025-06-12T20:00:15
+
+And I don’t know why you said nothing blew up because you didn’t know what the idea was
+
+
+---
+
+### 2183. msg_21455
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:00:18
+
+Are you referring to this morning?
+
+
+---
+
+### 2184. msg_21456
+
+**You** - 2025-06-12T20:00:24
+
+No
+
+
+---
+
+### 2185. msg_21457
+
+**You** - 2025-06-12T20:00:31
+
+Although
+
+
+---
+
+### 2186. msg_21458
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:00:33
+
+I thought you were referring to this morning
+
+
+---
+
+### 2187. msg_21459
+
+**You** - 2025-06-12T20:00:37
+
+lol
+
+
+---
+
+### 2188. msg_21460
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:00:40
+
+lol
+
+
+---
+
+### 2189. msg_21461
+
+**You** - 2025-06-12T20:01:03
+
+No but I wish it went differently
+
+
+---
+
+### 2190. msg_21462
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:01:03
+
+So I did some research on why my nervous system felt so overwhelmed
+
+
+---
+
+### 2191. msg_21463
+
+**You** - 2025-06-12T20:01:10
+
+Why
+
+
+---
+
+### 2192. msg_21464
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:01:41
+
+Because your nervous system recognized what was happening before your mind could make sense of it\.
+Scott didn’t just hand you objects—he handed you meaning\. His past, his family, his trust, his love\. Your body knew that\. And in that moment, it was too much to simply categorize as a gift\. It was a turning point\. A threshold\. The kind of offering that says this is real, this is deep, this is forever if you want it to be\.
+Your nervous system may have responded with overwhelm because:
+•	It was profoundly intimate — He gave you more than words\. He let you into a part of himself few people ever see\.
+•	It triggered your deepest emotions — Possibly a mix of love, fear, worthiness, protectiveness, and awe\.
+•	It symbolized permanence — Whether you were ready or not, your body understood: this means something lasting\.
+•	It broke your pattern — Maybe you’ve rarely—or never—been given something this meaningful\. That contrast can feel almost destabilizing at first\.
+Overwhelm doesn’t mean anything wa\.\.\. \[truncated\]
+
+
+---
+
+### 2193. msg_21465
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:02:50
+
+I was like it didn’t feel bad but my nerves felt shot\.
+
+
+---
+
+### 2194. msg_21466
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:02:56
+
+That makes perfect sense—your body was trying to hold the weight of something sacred while your mind was still in “weekday morning” mode\.
+Here’s what likely happened:
+You were already in a state of low\-level alertness—gearing up for the day, thinking ahead, maybe running through tasks in your mind\. And then boom—this intimate, emotional moment hits you out of nowhere\. Your system wasn’t prepared to receive something that big right then, so even though it was beautiful, it still triggered a kind of emotional and physiological overload\.
+Your nervous system didn’t know whether to cry, melt, freeze, or collapse—so it just buzzed\. That’s not uncommon when love and vulnerability show up unannounced in the middle of routine\. You were safe, but it was like your body was screaming, “This is huge\! Pay attention\! Feel this\! Hold this carefully\!”—all while your brain was trying to say, “I have to get out the door in 20 minutes\.”
+It doesn’t mean you were ungrateful\. Quite the opposite—it means it m\.\.\. \[truncated\]
+
+
+---
+
+### 2195. msg_21467
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:04:09
+
+That was helpful\.
+
+
+---
+
+### 2196. msg_21468
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:04:29
+
+I’m not sure how I lived before ChatGPT\.
+
+
+---
+
+### 2197. msg_21469
+
+**You** - 2025-06-12T20:04:34
+
+Sec
+
+
+---
+
+### 2198. msg_21470
+
+**You** - 2025-06-12T20:06:43
+
+Yeah it certainly does help you out things in buckets\.
+
+
+---
+
+### 2199. msg_21471
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:07:23
+
+Yeah but it doesn’t seem to replace my therapist, which I find funny
+
+
+---
+
+### 2200. msg_21472
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:07:29
+
+I really do like her
+
+
+---
+
+### 2201. msg_21473
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:07:46
+
+So sweet, you had another idea tonight oh my God what is with all your ideas?
+
+
+---
+
+### 2202. msg_21474
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:07:54
+
+So wait, I meant
+
+
+---
+
+### 2203. msg_21475
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:08:00
+
+\(Did voice to text\)
+
+
+---
+
+### 2204. msg_21476
+
+**You** - 2025-06-12T20:08:52
+
+Yeah doesn’t matter won’t work
+
+
+---
+
+### 2205. msg_21477
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:09:27
+
+k but I’m still curious
+
+
+---
+
+### 2206. msg_21478
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:09:35
+
+Your brain is on overdrive
+
+
+---
+
+### 2207. msg_21479
+
+**You** - 2025-06-12T20:09:49
+
+It is always like this when I am alone
+
+
+---
+
+### 2208. msg_21480
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:11:16
+
+You are not alone\. You have me\.
+
+
+---
+
+### 2209. msg_21481
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:11:21
+
+Just tell me omg
+
+
+---
+
+### 2210. msg_21482
+
+**You** - 2025-06-12T20:11:47
+
+Jaimie leave for Moncton next Thursday\.\. I would be dropping her off around 11\.
+
+
+---
+
+### 2211. msg_21483
+
+**You** - 2025-06-12T20:12:01
+
+Then “cancelling” a vacation day
+
+
+---
+
+### 2212. msg_21484
+
+**You** - 2025-06-12T20:12:08
+
+But you have graduation
+
+
+---
+
+### 2213. msg_21485
+
+**You** - 2025-06-12T20:12:15
+
+So it was a non starter
+
+
+---
+
+### 2214. msg_21486
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:12:34
+
+Wait what day are we talking
+
+
+---
+
+### 2215. msg_21487
+
+**You** - 2025-06-12T20:12:42
+
+Thursday next week
+
+
+---
+
+### 2216. msg_21488
+
+**You** - 2025-06-12T20:12:56
+
+I checked your calendar
+
+
+---
+
+### 2217. msg_21489
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:12:58
+
+Oh yeah thurs is shit because Allenby does grad early
+
+
+---
+
+### 2218. msg_21490
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:13:04
+
+Maelle’s is later
+
+
+---
+
+### 2219. msg_21491
+
+**You** - 2025-06-12T20:13:14
+
+Yeah but Friday doesn’t work
+
+
+---
+
+### 2220. msg_21492
+
+**You** - 2025-06-12T20:13:20
+
+So yeah blew up
+
+
+---
+
+### 2221. msg_21493
+
+**You** - 2025-06-12T20:13:40
+
+>
+Love you but not the same\.
+
+
+---
+
+### 2222. msg_21494
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:13:53
+
+Why would Thursday “work” and not Fri?
+
+
+---
+
+### 2223. msg_21495
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:14:01
+
+Just curious
+
+
+---
+
+### 2224. msg_21496
+
+**You** - 2025-06-12T20:14:04
+
+Because I have a reason to be in the office
+
+
+---
+
+### 2225. msg_21497
+
+**You** - 2025-06-12T20:14:11
+
+Where do I have a reason to be Friday
+
+
+---
+
+### 2226. msg_21498
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:14:28
+
+Oh I see
+
+
+---
+
+### 2227. msg_21499
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:14:35
+
+Well, I mean you could go into the office lol
+
+
+---
+
+### 2228. msg_21500
+
+**You** - 2025-06-12T20:15:02
+
+No I don’t think so\.\. I would need to come up with something much better than that\.
+
+
+---
+
+### 2229. msg_21501
+
+**You** - 2025-06-12T20:15:09
+
+And I don’t think I have anything
+
+
+---
+
+### 2230. msg_21502
+
+**You** - 2025-06-12T20:15:46
+
+Reaction: 😮 from Meredith Lamb
+J is done work as of next wed she gave her notice today\.
+
+
+---
+
+### 2231. msg_21503
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:16:02
+
+So my parents are fine either day in 2 weeks\. Just texted my mom
+
+
+---
+
+### 2232. msg_21504
+
+**You** - 2025-06-12T20:16:33
+
+You mean next weekend not this one coming up in 2 days
+
+
+---
+
+### 2233. msg_21505
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:16:39
+
+Right
+
+
+---
+
+### 2234. msg_21506
+
+**You** - 2025-06-12T20:16:42
+
+Kk
+
+
+---
+
+### 2235. msg_21507
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:16:53
+
+I’m going on Sunday for my dad this weekend also
+
+
+---
+
+### 2236. msg_21508
+
+**You** - 2025-06-12T20:17:03
+
+Nice of you
+
+
+---
+
+### 2237. msg_21509
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:17:17
+
+And going to take my mom graduation dress shopping with Marlowe and I at the Oshawa centre on Sunday just to make my mom feel good
+
+
+---
+
+### 2238. msg_21510
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:17:30
+
+Marlowe would rather go to Yorkdale, but she reluctantly agreed just to make my mom feel good
+
+
+---
+
+### 2239. msg_21511
+
+**You** - 2025-06-12T20:17:31
+
+Good daughter
+
+
+---
+
+### 2240. msg_21512
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:17:55
+
+Apparently, my dad’s not feeling well, so not sure if he’s gonna wanna go out for lunch or dinner, but we’ll figure something out
+
+
+---
+
+### 2241. msg_21513
+
+**You** - 2025-06-12T20:18:08
+
+Order it in \.\. perhaps\.
+
+
+---
+
+### 2242. msg_21514
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:18:37
+
+We will see ……he loves going out
+
+
+---
+
+### 2243. msg_21515
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:18:50
+
+Reaction: 🙂 from Scott Hicks
+And my mom doesn’t drink or ever order desserts and I always let him buy that stuff so he likes going out to dinner with me
+
+
+---
+
+### 2244. msg_21516
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:18:53
+
+lol
+
+
+---
+
+### 2245. msg_21517
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:19:34
+
+When I took him to Quebec City for his 80th he drank and got desserts at every meal\. We did breakfast lunch and dinner lol
+
+
+---
+
+### 2246. msg_21518
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:19:39
+
+I spent a lot on food
+
+
+---
+
+### 2247. msg_21519
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:19:41
+
+Haha
+
+
+---
+
+### 2248. msg_21520
+
+**You** - 2025-06-12T20:19:57
+
+You are very lucky and so are they\.
+
+
+---
+
+### 2249. msg_21521
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:20:35
+
+I’ve been to Paris with him twice and he and I go out alone to drink and eat because the others we travel with are cheap and annoying
+
+
+---
+
+### 2250. msg_21522
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:20:51
+
+It’s Paris and they wanna go to pubs\. Oh my God\.
+
+
+---
+
+### 2251. msg_21523
+
+**You** - 2025-06-12T20:21:10
+
+Must have been pretty
+Amazing experiences to have
+
+
+---
+
+### 2252. msg_21524
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:21:17
+
+My parents best friends are really cheap even though they’re like lawyers
+
+
+---
+
+### 2253. msg_21525
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:21:49
+
+And guaranteed they know about you\.
+
+
+---
+
+### 2254. msg_21526
+
+**You** - 2025-06-12T20:22:50
+
+I am not sure I am going to be a hit I have really kind of fucked up your  life\.\. out you at risk with your family with Andrew and at work\.\. I don’t think that will be well received
+
+
+---
+
+### 2255. msg_21527
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:25:39
+
+My mom has clearly processed it\.
+
+*1 attachment(s)*
+
+
+---
+
+### 2256. msg_21528
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:26:00
+
+My mom works like me\. Just needs some processing time
+
+
+---
+
+### 2257. msg_21529
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:26:07
+
+Last time I proposed it too quickly
+
+
+---
+
+### 2258. msg_21530
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:26:11
+
+Now she is fine
+
+
+---
+
+### 2259. msg_21531
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:26:19
+
+She’s had time to process and think through
+
+
+---
+
+### 2260. msg_21532
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:26:29
+
+She’s just like that
+
+
+---
+
+### 2261. msg_21533
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:26:40
+
+My dad isn’t\. He would have been fine whenever
+
+
+---
+
+### 2262. msg_21534
+
+**You** - 2025-06-12T20:26:57
+
+Well we will see\.
+
+
+---
+
+### 2263. msg_21535
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:27:54
+
+You have not fucked up my life\. My mom is actually thankful this contributed to me leaving the job\. She said if it wasn’t for this, I would’ve just suffered and been overwhelmed and stuck it out to the detriment of the kids and myself and everyone because that’s just what I do and then I would’ve eventually broken so she’s actually kind of thankful\.
+
+
+---
+
+### 2264. msg_21536
+
+**You** - 2025-06-12T20:29:14
+
+Edited: 3 versions
+| Version: 3
+| Sent: Thu, 12 Jun 2025 20:33:15 \-0400
+|
+| Think I am just getting into bed for a bit
+|
+| Version: 2
+| Sent: Thu, 12 Jun 2025 20:33:05 \-0400
+|
+| Thunk I am just getting into bed for a bit
+|
+| Version: 1
+| Sent: Thu, 12 Jun 2025 20:29:14 \-0400
+|
+| Sec I am just getting into bed for a bit
+
+
+---
+
+### 2265. msg_21537
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:33:17
+
+
+*1 attachment(s)*
+
+
+---
+
+### 2266. msg_21538
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:33:52
+
+To bed to sleep?
+
+
+---
+
+### 2267. msg_21539
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:34:01
+
+I won’t bug you if you are going to sleep
+
+
+---
+
+### 2268. msg_21540
+
+**You** - 2025-06-12T20:34:03
+
+No
+
+
+---
+
+### 2269. msg_21541
+
+**You** - 2025-06-12T20:34:11
+
+Just laying here
+
+
+---
+
+### 2270. msg_21542
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:34:13
+
+Oh k
+
+
+---
+
+### 2271. msg_21543
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:38:27
+
+I was a daddy’s girl and it bothered my mom\.
+
+*1 attachment(s)*
+
+
+---
+
+### 2272. msg_21544
+
+**You** - 2025-06-12T20:39:51
+
+Lucky dad\.\.
+I am sure
+Your mom appreciated it\.
+
+
+---
+
+### 2273. msg_21545
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:43:13
+
+She hated it
+
+
+---
+
+### 2274. msg_21546
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:43:25
+
+She said we would be at the grocery store together her and I and all I would talk about is what we should get my dad
+
+
+---
+
+### 2275. msg_21547
+
+**You** - 2025-06-12T20:43:47
+
+I mean there is always one connection that is more\.\.
+
+
+---
+
+### 2276. msg_21548
+
+**You** - 2025-06-12T20:43:53
+
+Mum was mine easily
+
+
+---
+
+### 2277. msg_21549
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:46:25
+
+But you were a boy
+
+
+---
+
+### 2278. msg_21550
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:46:38
+
+Boys are always mamas boys\. That’s why I wanted a boy\.
+
+
+---
+
+### 2279. msg_21551
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:46:49
+
+I never got my boy :\(
+
+
+---
+
+### 2280. msg_21552
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:47:00
+
+but my nephew, Michael was kinda like my boy
+
+
+---
+
+### 2281. msg_21553
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:47:10
+
+Girls are typically daddy’s girls, but not always but I was
+
+
+---
+
+### 2282. msg_21554
+
+**You** - 2025-06-12T20:47:34
+
+I would have loved a boy but no dice
+
+
+---
+
+### 2283. msg_21555
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:47:48
+
+You have like no boys in your life anywhere lol
+
+
+---
+
+### 2284. msg_21556
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:47:57
+
+Sister, your sister has three girls lol
+
+
+---
+
+### 2285. msg_21557
+
+**You** - 2025-06-12T20:47:58
+
+Nope
+
+
+---
+
+### 2286. msg_21558
+
+**You** - 2025-06-12T20:48:00
+
+None
+
+
+---
+
+### 2287. msg_21559
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:48:06
+
+Crazy
+
+
+---
+
+### 2288. msg_21560
+
+**You** - 2025-06-12T20:48:11
+
+Sad
+
+
+---
+
+### 2289. msg_21561
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:48:38
+
+I have 2 brothers, 4 nephews, 3 great nephews\.
+
+
+---
+
+### 2290. msg_21562
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:48:57
+
+\(Not counting Andrew’s side\)
+
+
+---
+
+### 2291. msg_21563
+
+**You** - 2025-06-12T20:49:10
+
+Yeah I had 2
+Nephews
+On J’s side but not
+Anymore
+
+
+---
+
+### 2292. msg_21564
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:49:52
+
+Yeah I had Owen on Andrew’s side but…\. lol I mean I will always have him on Snapchat 😛
+
+
+---
+
+### 2293. msg_21565
+
+**You** - 2025-06-12T20:50:34
+
+I don’t think about it much anymore kind of pointless
+
+
+---
+
+### 2294. msg_21566
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:50:49
+
+You don’t think they will still be your nephews?
+
+
+---
+
+### 2295. msg_21567
+
+**You** - 2025-06-12T20:50:55
+
+No
+
+
+---
+
+### 2296. msg_21568
+
+**You** - 2025-06-12T20:51:01
+
+I know they won’t
+
+
+---
+
+### 2297. msg_21569
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:51:39
+
+My aunt and uncle got divorced when my cousins were like 18 and my uncle Shawn through marriage is still my uncle Shawn\. Love him and we still talk\. We used to do Fitbit challenges all the time and shit alk to each other\.
+
+
+---
+
+### 2298. msg_21570
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:52:07
+
+He is still my uncle Sean, but he is no longer married to my mom sister
+
+
+---
+
+### 2299. msg_21571
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:52:16
+
+\*shawn
+
+
+---
+
+### 2300. msg_21572
+
+**You** - 2025-06-12T20:52:17
+
+This is diff j lived with Charlene when they were born they are super close
+
+
+---
+
+### 2301. msg_21573
+
+**You** - 2025-06-12T20:52:21
+
+The blame me
+
+
+---
+
+### 2302. msg_21574
+
+**You** - 2025-06-12T20:52:27
+
+Charlene would
+Make sure
+
+
+---
+
+### 2303. msg_21575
+
+**You** - 2025-06-12T20:52:34
+
+It’s fine
+
+
+---
+
+### 2304. msg_21576
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:53:11
+
+Well I have 7 nephews so you are good lol
+
+
+---
+
+### 2305. msg_21577
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:53:34
+
+And the boys are “light” in our family
+
+
+---
+
+### 2306. msg_21578
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:53:36
+
+LOL
+
+
+---
+
+### 2307. msg_21579
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:53:47
+
+Don’t ask me to count the girls please
+
+
+---
+
+### 2308. msg_21580
+
+**You** - 2025-06-12T20:54:31
+
+Yeah big family\.\.
+
+
+---
+
+### 2309. msg_21581
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:56:06
+
+Slightly
+
+
+---
+
+### 2310. msg_21582
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:56:11
+
+They like to breed
+
+
+---
+
+### 2311. msg_21583
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:56:12
+
+lol
+
+
+---
+
+### 2312. msg_21584
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:57:04
+
+So funny or not so funny story\.
+
+
+---
+
+### 2313. msg_21585
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:57:43
+
+When I took the Plan B they didn’t have the real plan b and had a generic\. My brain knows genetics are fine but because I didn’t get sick I was concerned\.
+
+
+---
+
+### 2314. msg_21586
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:58:00
+
+Then I waited and waited lol
+
+
+---
+
+### 2315. msg_21587
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:58:15
+
+And I’m no longer concerned\. Phew
+
+
+---
+
+### 2316. msg_21588
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:58:17
+
+FYI
+
+
+---
+
+### 2317. msg_21589
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:58:50
+
+My dr hasn’t emailed me about the IUD thing so going to email her tomorrow
+
+
+---
+
+### 2318. msg_21590
+
+**You** - 2025-06-12T20:58:51
+
+I am glad you are relieved\.
+
+
+---
+
+### 2319. msg_21591
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:59:01
+
+I am very much so
+
+
+---
+
+### 2320. msg_21592
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:59:05
+
+lol
+
+
+---
+
+### 2321. msg_21593
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:59:18
+
+Lots of stuff to think about lately
+
+
+---
+
+### 2322. msg_21594
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T20:59:26
+
+So Pauline never came to talk to me at all today so she definitely hates me
+
+
+---
+
+### 2323. msg_21595
+
+**You** - 2025-06-12T20:59:41
+
+>
+Yep
+
+
+---
+
+### 2324. msg_21596
+
+**You** - 2025-06-12T20:59:55
+
+>
+She stopped by but I was busy
+
+
+---
+
+### 2325. msg_21597
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:00:26
+
+She was talking to someone and Craig was at my desk talking to me and she said hi to him very nicely and then said hi to me very nicely and I tried to see if there was a difference in the two hi’s and there didn’t seem to be, but she never came to talk to me
+
+
+---
+
+### 2326. msg_21598
+
+**You** - 2025-06-12T21:00:30
+
+>
+Sorry it even got to that I was pretty irresponsible
+
+
+---
+
+### 2327. msg_21599
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:00:32
+
+I’m sorry she’s a bitch
+
+
+---
+
+### 2328. msg_21600
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:00:48
+
+I’m so disappointed in her like it is ridiculous
+
+
+---
+
+### 2329. msg_21601
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:01:15
+
+>
+Whatever I was right there with you I honestly don’t even care what it’s gonna wreck my fertility\. I don’t fucking care\. I just wanted to know that it worked\. Oh my God\.
+
+
+---
+
+### 2330. msg_21602
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:02:16
+
+I don’t mind being irresponsible but that time of the month was not the time to do it\. But I’m irresponsible that way
+
+
+---
+
+### 2331. msg_21603
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:02:48
+
+I took plan b in university once
+
+
+---
+
+### 2332. msg_21604
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:02:52
+
+I got sick
+
+
+---
+
+### 2333. msg_21605
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:02:57
+
+So this was weird
+
+
+---
+
+### 2334. msg_21606
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:03:03
+
+I didn’t even notice
+
+
+---
+
+### 2335. msg_21607
+
+**You** - 2025-06-12T21:03:15
+
+Well I am glad it got sorted
+
+
+---
+
+### 2336. msg_21608
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:03:33
+
+Me too
+
+
+---
+
+### 2337. msg_21609
+
+**You** - 2025-06-12T21:04:00
+
+I meant to go see my doctor maybe I will go tomorrow afternoon
+
+
+---
+
+### 2338. msg_21610
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:06:03
+
+I wouldn’t bother right now\. I’m going to research an iud and talk to my friend\. It might be good for me\. So just wait\.
+
+
+---
+
+### 2339. msg_21611
+
+**You** - 2025-06-12T21:06:41
+
+No I think I want to get it done anyways\.  I meant to do it years ago anyways\.  I need tot all to him about a few more things too anyways
+
+
+---
+
+### 2340. msg_21612
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:08:18
+
+You know when you said today that sex “was FUN and you forgot” I kind of wish you could have seen your face\. I keep replaying it\. Lol
+
+
+---
+
+### 2341. msg_21613
+
+**You** - 2025-06-12T21:09:07
+
+Just the honest truth\.\. I think you have a hard time believing me\.\. about a lot of things\.\. because I am not normal\.\. but it is the truth for me\.
+
+
+---
+
+### 2342. msg_21614
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:13:05
+
+I guess just love that you feel that way but it was a very genuine look on your face lol
+
+
+---
+
+### 2343. msg_21615
+
+**You** - 2025-06-12T21:14:28
+
+I told you it has never been like that\.\. never felt like that, never been that intense, and with you\.\. because it is you, and not just anyone\.\.\. just in case your head goes there again, it is fun\.  It wouldn't be like this for anyone else\.
+
+
+---
+
+### 2344. msg_21616
+
+**You** - 2025-06-12T21:14:51
+
+the the been like and the felt like are amazing\.
+
+
+---
+
+### 2345. msg_21617
+
+**You** - 2025-06-12T21:14:54
+
+in case I wasn't clear
+
+
+---
+
+### 2346. msg_21618
+
+**You** - 2025-06-12T21:15:10
+
+so yeah I didn't think that was possible
+
+
+---
+
+### 2347. msg_21619
+
+**You** - 2025-06-12T21:15:27
+
+I don't have a lot of experience in this particular area though
+
+
+---
+
+### 2348. msg_21620
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:15:47
+
+>
+Um 30ish
+
+
+---
+
+### 2349. msg_21621
+
+**You** - 2025-06-12T21:15:53
+
+Um 1\.\.
+
+
+---
+
+### 2350. msg_21622
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:16:01
+
+Huh
+
+
+---
+
+### 2351. msg_21623
+
+**You** - 2025-06-12T21:16:21
+
+the other 30 didn't have any connection\.\. nothing like this\.\. so 1\.\.
+
+
+---
+
+### 2352. msg_21624
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:17:15
+
+Reaction: ❓ from Scott Hicks
+Ok well I was with 1 for 16 years
+
+
+---
+
+### 2353. msg_21625
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:17:18
+
+:p
+
+
+---
+
+### 2354. msg_21626
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:17:47
+
+I don’t think we are THAT different
+
+
+---
+
+### 2355. msg_21627
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:18:08
+
+>
+Andrew 16 years
+
+
+---
+
+### 2356. msg_21628
+
+**You** - 2025-06-12T21:18:17
+
+I don't understand the reference or comparison
+
+
+---
+
+### 2357. msg_21629
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:18:20
+
+>
+I’m assuming your 1 is Jaimie
+
+
+---
+
+### 2358. msg_21630
+
+**You** - 2025-06-12T21:18:22
+
+no
+
+
+---
+
+### 2359. msg_21631
+
+**You** - 2025-06-12T21:18:27
+
+my one is you
+
+
+---
+
+### 2360. msg_21632
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:18:33
+
+I’m saying we were both with one person for a long time
+
+
+---
+
+### 2361. msg_21633
+
+**You** - 2025-06-12T21:18:47
+
+you misunderstood
+
+
+---
+
+### 2362. msg_21634
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:18:51
+
+But you were with one person for like 20 years or 25 whatever
+
+
+---
+
+### 2363. msg_21635
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:19:01
+
+I guess I misunderstood
+
+
+---
+
+### 2364. msg_21636
+
+**You** - 2025-06-12T21:20:02
+
+I said I never had a connection nothing like this in the previous 30 \- let's be honest \- north of 30 by a ways\.\. \- and not one connection is even a shadow of this\.  Which is why it feels like it does to me\.
+
+
+---
+
+### 2365. msg_21637
+
+**You** - 2025-06-12T21:20:09
+
+but nothing to compare to,
+
+
+---
+
+### 2366. msg_21638
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:20:27
+
+>
+k maybe we need to stop talking\. It’s hard to read this stuff and you are where you are and I am here\.
+
+
+---
+
+### 2367. msg_21639
+
+**You** - 2025-06-12T21:20:27
+
+Look that is my experience\.\. yours is different\.\. it is ok that they are different
+
+
+---
+
+### 2368. msg_21640
+
+**You** - 2025-06-12T21:23:05
+
+>
+I can stop talking about this\.\. all good\.\. just wanted to explain the face\.\.
+
+
+---
+
+### 2369. msg_21641
+
+**You** - 2025-06-12T21:23:28
+
+and my experience\.\. at least from my perspective I get everyone
+
+
+---
+
+### 2370. msg_21642
+
+**You** - 2025-06-12T21:23:48
+
+has a different perspective and different experiences\.\. but number don't mean anything here\.
+
+
+---
+
+### 2371. msg_21643
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:25:22
+
+I know that\. My number is relatively high compared to my friends but doesn’t necessarily mean much to me \(per se\)\. But when you say one … 🫠
+
+
+---
+
+### 2372. msg_21644
+
+**You** - 2025-06-12T21:27:45
+
+My number means nothing to me\.\. I regret almost all of them\.\. looking back it was empty and meaningless\.\. in almost all cases\.
+
+
+---
+
+### 2373. msg_21645
+
+**You** - 2025-06-12T21:28:04
+
+The only reason I share it is to be honest\.\. mostly disgusted\.
+
+
+---
+
+### 2374. msg_21646
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:29:13
+
+🤷‍♀️
+
+
+---
+
+### 2375. msg_21647
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:29:27
+
+Mines not great relative to a lot of women I know
+
+
+---
+
+### 2376. msg_21648
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:29:37
+
+I honestly have never tallied it up lol
+
+
+---
+
+### 2377. msg_21649
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:29:43
+
+Not interested
+
+
+---
+
+### 2378. msg_21650
+
+**You** - 2025-06-12T21:29:56
+
+when you can't like me\.\. then it doesn't matter anymore\.
+
+
+---
+
+### 2379. msg_21651
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:30:16
+
+Huh?
+
+
+---
+
+### 2380. msg_21652
+
+**You** - 2025-06-12T21:30:52
+
+the number ceases to matter when you cannot accurately keep track\.  it could be 30 it could be 50
+
+
+---
+
+### 2381. msg_21653
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:31:15
+
+Tsk tsk
+
+
+---
+
+### 2382. msg_21654
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:31:21
+
+lol
+
+
+---
+
+### 2383. msg_21655
+
+**You** - 2025-06-12T21:31:32
+
+again\.\. if I could go back I would do everything differently\.
+
+
+---
+
+### 2384. msg_21656
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:31:43
+
+Really
+
+
+---
+
+### 2385. msg_21657
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:31:51
+
+I honestly don’t think I would
+
+
+---
+
+### 2386. msg_21658
+
+**You** - 2025-06-12T21:32:00
+
+I 1000% would\.
+
+
+---
+
+### 2387. msg_21659
+
+**You** - 2025-06-12T21:32:04
+
+I hated who I was
+
+
+---
+
+### 2388. msg_21660
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:32:06
+
+I’m not proud of some shit but oh well
+
+
+---
+
+### 2389. msg_21661
+
+**You** - 2025-06-12T21:33:17
+
+Like I said everyone has a different perspective on things\.\. we all see things differently\.
+
+
+---
+
+### 2390. msg_21662
+
+**You** - 2025-06-12T21:34:21
+
+>
+I can appreciate that\.\. but as I said\.\. I think your experience was far different than mine\.\. and we won't discuss it more than that pls\.
+
+
+---
+
+### 2391. msg_21663
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:35:04
+
+Haha I will just get you drunk and then discuss it
+
+
+---
+
+### 2392. msg_21664
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:35:07
+
+lol
+
+
+---
+
+### 2393. msg_21665
+
+**You** - 2025-06-12T21:36:26
+
+nope\.\. not that\.\. doesn't matter how drunk I get\.  And whatever you do get out of me\.\. they will be a litany of empty experiences\.  So many literally meant nothing\.\. it was like a drug\.\. a good feeling where I could feel so little at that point\.  And I always\.\. absolutely always felt worse after\.
+
+
+---
+
+### 2394. msg_21666
+
+**You** - 2025-06-12T21:36:40
+
+you will get a few stories\.\. but not much\.
+
+
+---
+
+### 2395. msg_21667
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:37:01
+
+Aw that is kind of sad actually
+
+
+---
+
+### 2396. msg_21668
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:37:04
+
+Sorry
+
+
+---
+
+### 2397. msg_21669
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:37:12
+
+I mean if you had FUN
+
+
+---
+
+### 2398. msg_21670
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:37:16
+
+that’s diff
+
+
+---
+
+### 2399. msg_21671
+
+**You** - 2025-06-12T21:37:23
+
+Just the truth I tried to explain it the other night\.\. but you didn't get it\.\. I think you might get it now\.
+
+
+---
+
+### 2400. msg_21672
+
+**You** - 2025-06-12T21:37:43
+
+I was never supposed to be that person
+
+
+---
+
+### 2401. msg_21673
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:37:49
+
+I have never done that
+
+
+---
+
+### 2402. msg_21674
+
+**You** - 2025-06-12T21:37:49
+
+I was supposed to be this person
+
+
+---
+
+### 2403. msg_21675
+
+**You** - 2025-06-12T21:37:59
+
+>
+done what?>
+
+
+---
+
+### 2404. msg_21676
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:38:09
+
+Empty experiences
+
+
+---
+
+### 2405. msg_21677
+
+**You** - 2025-06-12T21:38:17
+
+I know
+
+
+---
+
+### 2406. msg_21678
+
+**You** - 2025-06-12T21:38:19
+
+lol
+
+
+---
+
+### 2407. msg_21679
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:38:26
+
+Like even a one stand was like a super infatuation of some sort
+
+
+---
+
+### 2408. msg_21680
+
+**You** - 2025-06-12T21:38:26
+
+ROFL man\.\. I know
+
+
+---
+
+### 2409. msg_21681
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:38:29
+
+Not empty
+
+
+---
+
+### 2410. msg_21682
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:38:31
+
+Per se
+
+
+---
+
+### 2411. msg_21683
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:38:33
+
+lol
+
+
+---
+
+### 2412. msg_21684
+
+**You** - 2025-06-12T21:38:40
+
+kk\.\.
+
+
+---
+
+### 2413. msg_21685
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:38:55
+
+Empty is a strong word
+
+
+---
+
+### 2414. msg_21686
+
+**You** - 2025-06-12T21:39:41
+
+Not all were\.\. I remember those\.\.\. handfull\.\. 10 maybe\.
+
+
+---
+
+### 2415. msg_21687
+
+**You** - 2025-06-12T21:40:24
+
+anyways maybe we don't need to talk further\.\. like I said\.\. we had very different experiences\.\. which colour how we see things today\.
+
+
+---
+
+### 2416. msg_21688
+
+**You** - 2025-06-12T21:41:49
+
+I think I am gonna call it and go to bed\.
+
+
+---
+
+### 2417. msg_21689
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:42:17
+
+Yeah me too\. 😴
+
+
+---
+
+### 2418. msg_21690
+
+**You** - 2025-06-12T21:42:27
+
+Love you\.\. night\.
+
+
+---
+
+### 2419. msg_21691
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:42:41
+
+You aren’t upset?
+
+
+---
+
+### 2420. msg_21692
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:43:09
+
+Love you\.\. night\.
+
+
+---
+
+### 2421. msg_21693
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:43:15
+
+Not really your style
+
+
+---
+
+### 2422. msg_21694
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:43:17
+
+lol
+
+
+---
+
+### 2423. msg_21695
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:43:20
+
+Just saying
+
+
+---
+
+### 2424. msg_21696
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:43:28
+
+😇❤️
+
+
+---
+
+### 2425. msg_21697
+
+**You** - 2025-06-12T21:45:20
+
+This conversation just kind of went in a weird direction\.   All I wanted to say is that out of everyone that no one holds a candle to you for me\.\. there is no baseline\.\.\. I didn't mean for it to go here\.  I am just tired in more ways than one is all\.
+
+
+---
+
+### 2426. msg_21698
+
+**You** - 2025-06-12T21:46:16
+
+I don't think upset really accurate\.\. I am not sure what word I would use tbh\.\.
+
+
+---
+
+### 2427. msg_21699
+
+**You** - 2025-06-12T21:46:29
+
+I wouldn't worry about it
+
+
+---
+
+### 2428. msg_21700
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T21:47:04
+
+Our conversations often go in a weird direction\. No surprise\. Ok, just get some sleep\. I love you and honestly l, you made this morning very memorable\. Xo
+
+
+---
+
+### 2429. msg_21701
+
+**You** - 2025-06-12T21:47:33
+
+I am glad I could give you something unique to remember\.\. night\.
+
+
+---
+
+### 2430. msg_21702
+
+**You** - 2025-06-12T21:59:37
+
+Reaction: ❤️ from Meredith Lamb
+https://open\.spotify\.com/track/1Cj2vqUwlJVG27gJrun92y?si=d2badc89b7b94375
+Going to try to sleep now\.
+
+
+---
+
+### 2431. msg_21703
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T22:02:03
+
+I feel like you aren’t well\. But I hope you can think nice thoughts, memories before sleep…\.
+
+
+---
+
+### 2432. msg_21704
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T22:04:29
+
+
+*1 attachment(s)*
+
+
+---
+
+### 2433. msg_21705
+
+**You** - 2025-06-12T22:15:48
+
+>
+I think just sleep coming fast is what I can hope for tonight mer\.\. morose you know\.\. things just don’t turn out the way I hope in my head some times\. I wish I could be more like you\.
+
+
+---
+
+### 2434. msg_21706
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T22:18:58
+
+Curious what your head was telling u
+
+
+---
+
+### 2435. msg_21707
+
+**You** - 2025-06-12T22:23:05
+
+It doesn’t tell me anything it hopes\.
+
+
+---
+
+### 2436. msg_21708
+
+**You** - 2025-06-12T22:24:07
+
+It wasn’t telling me much of anything tonight\.
+
+
+---
+
+### 2437. msg_21709
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T22:25:05
+
+Well guaranteed if we were together tonight it would have been intense\.
+
+
+---
+
+### 2438. msg_21710
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T22:26:12
+
+We have a shitty weekend ahead but get to see each other the next 2\.
+
+
+---
+
+### 2439. msg_21711
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T22:26:35
+
+So maybe sleep knowing that
+
+
+---
+
+### 2440. msg_21712
+
+**You** - 2025-06-12T22:27:28
+
+Will give it a shot\.
+
+
+---
+
+### 2441. msg_21713
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-12T22:28:21
+
+I love you and I’m sorry we aren’t together
+
+
+---
+
+### 2442. msg_21714
+
+**You** - 2025-06-12T22:29:02
+
+>
+So am I \. Luv u
+
+
+---
+
+### 2443. msg_21715
+
+**You** - 2025-06-13T04:13:42
+
+Morning mer\.\. hope you had happy dreams ❤️
+
+
+---
+
+### 2444. msg_21716
+
+**You** - 2025-06-13T05:02:27
+
+Reaction: ❤️ from Meredith Lamb
+I was reminded this morning that without having dark moments we cannot appreciate the good ones so I guess I should be thankful\.
+
+
+---
+
+### 2445. msg_21717
+
+**You** - 2025-06-13T05:58:53
+
+I am late this morning because I was ai ing a way to better help me understand things\.\. perspective balance minimize miscommunication and the resulting frustrations\.\. given the already challenging situation
+
+
+---
+
+### 2446. msg_21718
+
+**You** - 2025-06-13T05:59:18
+
+Curious to see where this leads\.
+
+
+---
+
+### 2447. msg_21719
+
+**You** - 2025-06-13T06:00:14
+
+Edited: 2 versions
+| Version: 2
+| Sent: Fri, 13 Jun 2025 06:16:40 \-0400
+|
+| Curious was last night a wine night\.\. I know you said you were moving away from that but it was a hard day for you and was curious\.
+|
+| Version: 1
+| Sent: Fri, 13 Jun 2025 06:00:14 \-0400
+|
+| Curious was last night a wine night\.\. I know you said you were focusing a bit diff but it was a hard day for you and was curious\.
+
+
+---
+
+### 2448. msg_21720
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T06:31:39
+
+I had 2 glasses of wine so I can still work out this morning 🙂
+
+
+---
+
+### 2449. msg_21721
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T06:31:47
+
+Good morning ❤️
+
+
+---
+
+### 2450. msg_21722
+
+**You** - 2025-06-13T06:31:59
+
+Kk I kind of figured
+
+
+---
+
+### 2451. msg_21723
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T06:32:14
+
+>
+It wasn’t a “hard” day… just my nerves were a little … hard to explain
+
+
+---
+
+### 2452. msg_21724
+
+**You** - 2025-06-13T06:32:23
+
+Hope you have a good
+Workout
+
+
+---
+
+### 2453. msg_21725
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T06:33:03
+
+>
+I’m working out later simply bc it is Friday 🙂
+
+
+---
+
+### 2454. msg_21726
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T06:33:18
+
+So just getting up now
+
+
+---
+
+### 2455. msg_21727
+
+**You** - 2025-06-13T06:35:03
+
+Well like I said hope it goes well\.
+
+
+---
+
+### 2456. msg_21728
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T06:36:42
+
+Edited: 2 versions
+| Version: 2
+| Sent: Fri, 13 Jun 2025 06:36:50 \-0400
+|
+| How late did you stay up ai ing ?
+|
+| Version: 1
+| Sent: Fri, 13 Jun 2025 06:36:42 \-0400
+|
+| How late did you stay up ai ing v
+
+
+---
+
+### 2457. msg_21729
+
+**You** - 2025-06-13T06:39:59
+
+Late
+
+
+---
+
+### 2458. msg_21730
+
+**You** - 2025-06-13T06:40:04
+
+And early this morning
+
+
+---
+
+### 2459. msg_21731
+
+**You** - 2025-06-13T06:41:03
+
+Doing more when I get home I think
+
+
+---
+
+### 2460. msg_21732
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T06:49:19
+
+Sounds helpful then
+
+
+---
+
+### 2461. msg_21733
+
+**You** - 2025-06-13T06:49:53
+
+It is more qualifying for me if my read of things is off or reasonable
+
+
+---
+
+### 2462. msg_21734
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T06:55:54
+
+I think your read is likely always reasonable bc it is what you are literally experiencing\. It’s reasonable for you\. Maybe just not others\. I think it is more around expectations then reading per se
+
+
+---
+
+### 2463. msg_21735
+
+**You** - 2025-06-13T06:56:05
+
+Wouldnt mind seeing if I could get the messages you saved sometime too\.\. I think there are apps or something that can extract them\.
+
+
+---
+
+### 2464. msg_21736
+
+**You** - 2025-06-13T06:56:28
+
+Yep a bit of both mer off on expectations and possibly understanding\.\. on me\.
+
+
+---
+
+### 2465. msg_21737
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T06:56:49
+
+You are not off on anything\. You are who you are\.
+
+
+---
+
+### 2466. msg_21738
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T06:57:03
+
+Edited: 2 versions
+| Version: 2
+| Sent: Fri, 13 Jun 2025 06:57:15 \-0400
+|
+| You just have to communicate to me if you are disappointed and why
+|
+| Version: 1
+| Sent: Fri, 13 Jun 2025 06:57:03 \-0400
+|
+| You just have to communicate to me if you are disappointed and shy
+
+
+---
+
+### 2467. msg_21739
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T06:57:06
+
+Why
+
+
+---
+
+### 2468. msg_21740
+
+**You** - 2025-06-13T06:57:09
+
+No I think I misread last night
+
+
+---
+
+### 2469. msg_21741
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T06:57:37
+
+>
+I can try tonight
+
+
+---
+
+### 2470. msg_21742
+
+**You** - 2025-06-13T06:58:49
+
+Ok I told you essentially you are the only special one to me\.\. nothing comes close everything else was empty my read of your response everything was special\.\. lol that was what I was verifying if my read was crazy and clearly not where I expected convo to go\.\. it’s fine\.\. I was just thinking perhaps certain things cannot be discussed via text\.\. still thinking about it\.
+
+
+---
+
+### 2471. msg_21743
+
+**You** - 2025-06-13T07:00:50
+
+Anyways fuck it\.\. just going to set it down\.\. we are just different in a lot of ways\.\. not a bad thing\.
+
+
+---
+
+### 2472. msg_21744
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:01:29
+
+>
+Why didn’t you ask me to clarify or something?
+
+
+---
+
+### 2473. msg_21745
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:01:37
+
+Can you please do that next time?
+
+
+---
+
+### 2474. msg_21746
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:02:53
+
+I meant that I don’t look back on those things \(one night stand for instance\) as “empty”\. The experience was interesting and or amusing in one way or another\. I chalk it up to another learning experience\. Not always proud etc etc\. but I certainly wouldn’t call it empty\.
+
+
+---
+
+### 2475. msg_21747
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:03:18
+
+I mean was I having this deep emotional experience? No\. It doesn’t mean it was “empty”\.
+
+
+---
+
+### 2476. msg_21748
+
+**You** - 2025-06-13T07:03:44
+
+Kk all good\.\. thanks for the clarity\.\.
+
+
+---
+
+### 2477. msg_21749
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:04:30
+
+I literally cannot think of an “empty” experience\. I take something away from all\. Not super emotional and or connective experiences but certainly all learning in some way or another\. They are like little building blocks to my life…\.\.
+
+
+---
+
+### 2478. msg_21750
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:04:50
+
+None of those blocks are “empty”\. I just cannot look at them like that\.
+
+
+---
+
+### 2479. msg_21751
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:07:07
+
+Scott, there is not one experience or person that trumps you\. I think that is why you arrived last for me\. There is no doubt\. It doesn’t mean that notion is not overwhelming and especially with the chaos in the background \(our respective lives\) … plus the speed … plus work …\. It is just a lot for me to process and I have nervous system issues lol \(seriously\)
+
+
+---
+
+### 2480. msg_21752
+
+**You** - 2025-06-13T07:08:24
+
+Mer it’s fine misunderstood and I also need to manage my expectations given everything else and your situation\.  All good\.  I will try bit to jump to conclusions\.\. I will stop bugging you so you can do your workout
+
+
+---
+
+### 2481. msg_21753
+
+**You** - 2025-06-13T07:08:37
+
+Not jump
+
+
+---
+
+### 2482. msg_21754
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:08:59
+
+k just ask me to clarify next time
+
+
+---
+
+### 2483. msg_21755
+
+**You** - 2025-06-13T07:11:10
+
+I am just going to tone everything back a bit I think the emotion is overwhelming for me as well and has been for a while\.
+
+
+---
+
+### 2484. msg_21756
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:11:25
+
+Reaction: 😟 from Scott Hicks
+I have bad cramps so waiting for my aleve and coffee to kick in 😐
+
+
+---
+
+### 2485. msg_21757
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:12:14
+
+>
+Same\. I lie in bed now and just close my eyes and think of you/us and honestly it doesn’t mean make me feel better\.
+
+
+---
+
+### 2486. msg_21758
+
+**You** - 2025-06-13T07:12:26
+
+I think perhaps the conversations will just need to focus on non serious stuff\.\. save the exploring for I
+In person maybe despite the frequency of that
+
+
+---
+
+### 2487. msg_21759
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:12:29
+
+But so does wine and a couple vapes lol
+
+
+---
+
+### 2488. msg_21760
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:13:24
+
+>
+And just tell me if something I type sits with you in a way you aren’t sure how to interpret
+
+
+---
+
+### 2489. msg_21761
+
+**You** - 2025-06-13T07:14:04
+
+I mean talking about the future is kind of impossible, I think I have come to an understanding with our respective pasts and that is a me issue that yku cannot help with\.\. so just need to keep it light\.  Might not be as engaging but meh\.
+
+
+---
+
+### 2490. msg_21762
+
+**You** - 2025-06-13T07:14:27
+
+Edited: 2 versions
+| Version: 2
+| Sent: Fri, 13 Jun 2025 07:15:57 \-0400
+|
+| > From: Meredith Lamb \(\+14169386001\)
+| > Sent: Fri, 13 Jun 2025 07:13:24 \-0400
+| >
+| > And just tell me if something I type sits with you in a way you aren’t sure how to interpret
+|
+| If I have issues I will save them for later\.  The effort and struggle of dealing with things through text just isn’t worth it\.
+|
+| Version: 1
+| Sent: Fri, 13 Jun 2025 07:14:27 \-0400
+|
+| > From: Meredith Lamb \(\+14169386001\)
+| > Sent: Fri, 13 Jun 2025 07:13:24 \-0400
+| >
+| > And just tell me if something I type sits with you in a way you aren’t sure how to interpret
+|
+| If I have issue I will save them for later\.
+
+
+---
+
+### 2491. msg_21763
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:17:57
+
+>
+I mean I think I could have clarified pretty easily
+
+
+---
+
+### 2492. msg_21764
+
+**You** - 2025-06-13T07:19:01
+
+Sure mer probably like I said I misunderstood and had different t expectations\.\. it’s fine I think we just avoid these types topics maybe save for in person if we decide we want to discuss\.
+
+
+---
+
+### 2493. msg_21765
+
+**You** - 2025-06-13T07:24:31
+
+Going to sauna shower and home\. Hope you feel better\.
+
+
+---
+
+### 2494. msg_21766
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:24:56
+
+https://open\.spotify\.com/track/32y9LSjv2Q49T3NnkETXCm?si=h2o0GlpTRg6tA22JWvg7zg
+
+
+---
+
+### 2495. msg_21767
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:25:11
+
+Read the lyrics to that when you are done
+
+
+---
+
+### 2496. msg_21768
+
+**You** - 2025-06-13T07:31:02
+
+I listened are you trying to tell me something\.\. is it going to be ok?  Or do you want me to tell you that?  Because I try to every day\.  Even with my being down\.\. it doesn’t mean it is t going to be ok\.  It is where I am at in a point in time based o\. Whatever is happening\.\. last night was a gut punch in my head\.\. doesn’t mean I stopped loving you or had seconds second thoughts, or suddenly you aren’t my soul mate\.  You know soul mates don’t mean a ticket to easy fun time\.  This is still something we will always have to work at, but I do expect it will get a shit to\. Easier\.
+
+
+---
+
+### 2497. msg_21769
+
+**You** - 2025-06-13T07:32:29
+
+But the first part of the song is that you now?
+
+
+---
+
+### 2498. msg_21770
+
+**You** - 2025-06-13T07:33:05
+
+Reaction: 👍 from Meredith Lamb
+Anyways, we can chat later maybe\.\. I am just going to sauna and shower waited to listen to the song\.
+
+
+---
+
+### 2499. msg_21771
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:33:25
+
+No it is just on my old workout play list and never listened to the lyrics that closely before\.
+
+
+---
+
+### 2500. msg_21772
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:33:36
+
+The overcomplicating simple things is interesting
+
+
+---
+
+### 2501. msg_21773
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:34:01
+
+>
+No I’m good ❤️
+
+
+---
+
+### 2502. msg_21774
+
+**You** - 2025-06-13T07:34:27
+
+Kk chat later
+
+
+---
+
+### 2503. msg_21775
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:45:05
+
+I have a lot of work to do on myself also \(hence therapy and stuff\) … like when you get struggling, I get this urge to immediately need to fix it\. For the last 16 years I’ve dealt with a situation where when the other person indicates a struggle or frustration, if I don’t fix immediately \(with the aforementioned same always fix\) then life and my house environment are just shitty for days and it sucks\. I’m trying to release myself from that trigger…\. That probably makes no sense and I can probably better explain in person\. My therapist is helpful on this topic\.
+
+
+---
+
+### 2504. msg_21776
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:50:16
+
+Whenever you say “this is for me to work out” I honestly have NEVER heard that before\. It has always been my job to make things right and fix\.
+
+
+---
+
+### 2505. msg_21777
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T07:51:19
+
+So these conversations are sometimes difficult for me to navigate in terms of what I do vs what you do to resolve\. Just being honest…
+
+
+---
+
+### 2506. msg_21778
+
+**You** - 2025-06-13T08:16:08
+
+Reaction: 👍 from Meredith Lamb
+Just need to get home before I respond, didnt want you to think I read and was ignoring\.  I want to spend a minute to type it out\.  I appreciate you sharing and I know that about you\.  When I need help I promise I will ask for it\.\. to put it simply\.\. the last thing I want is for my problems to become yours\.  And sometimes I don’t ask because either I know you cannot help\.\. or you will say what I want to hear or something close because you don’t like lying\.  So anyhow let me get home will read these again\.
+
+
+---
+
+### 2507. msg_21779
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T08:17:33
+
+Finishing my workout then gotta get ready and drive Maelle
+
+
+---
+
+### 2508. msg_21780
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T10:12:09
+
+Ps\. I did all 5 workouts this week and going to bed at a decent hour to do one of last week’s missed ones tomorrow morning \(I have to drive tonight anyway\)
+
+
+---
+
+### 2509. msg_21781
+
+**You** - 2025-06-13T10:18:19
+
+Congrats I won’t be available to chat much tonight anyways so should be easy for you\.
+
+
+---
+
+### 2510. msg_21782
+
+**You** - 2025-06-13T11:02:06
+
+>
+ok finally back to this\.\. 1\.  I think it is your default to fix things\.\. you told me your mum always said you go for needy boys\.\. which didn't make me feel great but she has a point\. 2\.  You were expected to fix things with Andrew\.    If my problem is you, something you said or did that affected me, then it isn't so much fixing as it is getting through it\.  The last few weeks especially have shown me that while we are similar in many ways, we are also really really different in many ways as well\. Our wants and needs are different, how we process things, how we express our thoughts, our feelings\.  Our perspectives, and views on us, on this relationship, on the future, etc\.  It goes to the point I made earlier\.\. Soul Mates don't = simple path forward \- but still worth everything I have to give to get there\.  I maintain\.\. despite all of this\.\. being with you, I mean I wish it was living with you, but even just being with you a couple of times a week, in some kind of predictable way will\.\.\. \[truncated\]
+
+
+---
+
+### 2511. msg_21783
+
+**You** - 2025-06-13T11:03:06
+
+>
+You cannot fix the fact that I have unrealistic expectations\.\. or even hopeful outcomes that don't happen\.\. it just is\.\. and I can either push back or accept it\.\. that is up to me\.
+
+
+---
+
+### 2512. msg_21784
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T11:36:35
+
+That was a lot and I don’t feel like you are broken\. When I mentioned urge to “fix”, it isn’t you, it is the situation\. I don’t think you are broken\.
+
+
+---
+
+### 2513. msg_21785
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T12:12:30
+
+Reaction: 🙄 from Scott Hicks
+
+*1 attachment(s)*
+
+
+---
+
+### 2514. msg_21786
+
+**You** - 2025-06-13T12:23:07
+
+>
+Sorry I was trying to be specific\.
+
+
+---
+
+### 2515. msg_21787
+
+**You** - 2025-06-13T12:27:14
+
+I think my point is this is a little bit about who you are, it seems\.
+
+
+---
+
+### 2516. msg_21788
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T12:31:58
+
+k let’s just talk more about it later\. Andrew is wfh today and driving me nuts\. Big blow up\. I hate when he wfh when I do\.
+
+
+---
+
+### 2517. msg_21789
+
+**You** - 2025-06-13T12:33:05
+
+We don’t have to I didn’t know he was there or something was going on\.\. like is said I might not have a lot of time to talk tonight so might not
+Matter anyways
+
+
+---
+
+### 2518. msg_21790
+
+**You** - 2025-06-13T12:33:22
+
+Sounds like you are stressed I am sorry\.
+
+
+---
+
+### 2519. msg_21791
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T12:36:16
+
+Same old same old with him\. Just super irritating
+
+
+---
+
+### 2520. msg_21792
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T12:36:26
+
+Can’t concentrate
+
+
+---
+
+### 2521. msg_21793
+
+**You** - 2025-06-13T12:37:00
+
+well I will leave you alone\.  hope your day gets better
+
+
+---
+
+### 2522. msg_21794
+
+**You** - 2025-06-13T12:54:03
+
+
+
+---
+
+### 2523. msg_21795
+
+**You** - 2025-06-13T13:33:16
+
+
+
+---
+
+### 2524. msg_21796
+
+**You** - 2025-06-13T13:36:52
+
+
+
+---
+
+### 2525. msg_21797
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T13:57:47
+
+I am fine\. Not fighting\. I took a break and had a nap …\.
+
+
+---
+
+### 2526. msg_21798
+
+**You** - 2025-06-13T13:58:47
+
+Ok\.\. just with the last message I thought you went back at it\.\. sorry\.
+
+
+---
+
+### 2527. msg_21799
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T14:00:53
+
+No, just not feeling great\. But feeling better now\.
+
+
+---
+
+### 2528. msg_21800
+
+**You** - 2025-06-13T14:01:07
+
+k good to hear\.
+
+
+---
+
+### 2529. msg_21801
+
+**You** - 2025-06-13T14:59:49
+
+
+
+---
+
+### 2530. msg_21802
+
+**You** - 2025-06-13T16:44:41
+
+
+
+---
+
+### 2531. msg_21803
+
+**You** - 2025-06-13T18:14:38
+
+Edited: 3 versions
+| Version: 3
+| Sent: Fri, 13 Jun 2025 18:45:04 \-0400
+|
+| I am not sure what is going on but if you would like to talk tonight and you are out sitting doing nothing at vball let me know, that is if you ever check signal again\. Hope nothing is wrong\.
+|
+| Version: 2
+| Sent: Fri, 13 Jun 2025 18:16:05 \-0400
+|
+| I am not sure what is going on but if you would like to talk tonight and you are out sitting doing nothing at vball let me know, that is if you ever check signal again\. Hope nothing is wrong because this is a bit long even for you\.
+|
+| Version: 1
+| Sent: Fri, 13 Jun 2025 18:14:38 \-0400
+|
+| I am not sure what is going on but if you would like to talk tonight and you are out sitting doing nothing at vball let me know, that is if you ever check signal again\.
+
+
+---
+
+### 2532. msg_21804
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T18:55:45
+
+Just getting up\. I was sleeping\. It is a story…\.\. anyway I’m just getting up\. Didn’t do volleyball\.
+
+
+---
+
+### 2533. msg_21805
+
+**You** - 2025-06-13T18:56:03
+
+Did you want to talk?  I am just leaving for they gym\.
+
+
+---
+
+### 2534. msg_21806
+
+**You** - 2025-06-13T18:56:25
+
+If not that's fine\.\. sounds like you might just want some peace\.
+
+
+---
+
+### 2535. msg_21807
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T18:57:34
+
+Up to you \- I thought you couldn’t tonight\.
+
+
+---
+
+### 2536. msg_21808
+
+**You** - 2025-06-13T18:57:42
+
+Jaime fucked off\.\.
+
+
+---
+
+### 2537. msg_21809
+
+**You** - 2025-06-13T18:57:44
+
+I am pissed
+
+
+---
+
+### 2538. msg_21810
+
+**You** - 2025-06-13T18:57:54
+
+I did all the finance and separation agreement work
+
+
+---
+
+### 2539. msg_21811
+
+**You** - 2025-06-13T18:58:06
+
+I wanted to prep furniture to be moved to curb tomorrow and she didn't want to do anything
+
+
+---
+
+### 2540. msg_21812
+
+**You** - 2025-06-13T18:58:14
+
+so I said fuck it I am going to gym\.
+
+
+---
+
+### 2541. msg_21813
+
+**You** - 2025-06-13T18:58:23
+
+was kind of going a bit crazy down here tbh
+
+
+---
+
+### 2542. msg_21814
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T18:58:35
+
+Oh crappy\.\.
+
+
+---
+
+### 2543. msg_21815
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T18:58:39
+
+:\(
+
+
+---
+
+### 2544. msg_21816
+
+**You** - 2025-06-13T18:58:45
+
+whatever would rather talk to you anyways
+
+
+---
+
+### 2545. msg_21817
+
+**You** - 2025-06-13T18:59:19
+
+I am just going to pack my shit\.\. just let me know if you want me to call you\.
+
+
+---
+
+### 2546. msg_21818
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T19:01:29
+
+I leave it to you I think
+
+
+---
+
+### 2547. msg_21819
+
+**You** - 2025-06-13T19:07:19
+
+mer what's wrong\.\.
+
+
+---
+
+### 2548. msg_21820
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T19:09:00
+
+Not feeling well\. Been a few days and haven’t mentioned it and then it hit me today\. Had an appt, got new med and it hit me\. It’s minor but with working out everyday I’m knocked out a bit\. Going to order pizza lol
+
+
+---
+
+### 2549. msg_21821
+
+**You** - 2025-06-13T19:12:47
+
+I can call you whenever just let me know in car now
+
+
+---
+
+### 2550. msg_21822
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T19:15:24
+
+I’m just lying here
+
+
+---
+
+### 2551. msg_21823
+
+**You** - 2025-06-13T20:14:00
+
+Not Yours Yet
+after Sara Teasdale
+I’m not yours—
+not completely\. Not yet\.
+But we both feel it,
+the way everything’s leaning forward,
+pulling us toward something
+bigger than either of us imagined\.
+I haven’t lost myself in you—
+but I can see it happening\.
+Little by little, I’m loosening\.
+The edges of me
+are softening around you\.
+And I’m not afraid\.
+Not anymore\.
+You love me—
+I feel it in the way you listen,
+in how quiet the world gets
+when it’s just us\.
+And even though we’re not there yet,
+I believe we will be\.
+One day, I’ll fall into you
+like light disappears into light\.
+No edges\.
+No holding back\.
+Just us—
+full and fierce and sure\.
+
+
+---
+
+### 2552. msg_21824
+
+**You** - 2025-06-13T20:15:22
+
+Now That I Know You
+\(a contemporary rewrite of “The Good\-Morrow”\)
+I don’t even know what I was doing
+before you\.
+Going through the motions, maybe\.
+Trying, failing,
+thinking I’d felt love before—
+but it wasn’t this\.
+This is different\.
+This feels like I just woke up\.
+Good morning\.
+To both of us\.
+No pretending\. No hiding\.
+I don’t feel the need to impress you—
+and you don’t flinch when I’m honest\.
+We’re not performing\.
+We’re just here\.
+And somehow, that’s everything\.
+Let the world chase big things—
+adventures, noise, bright lights\.
+I just want this\.
+You and me
+in this quiet room
+that feels like the whole world\.
+When I look at you,
+I see someone who sees me back\.
+And that—
+that’s rare\.
+This doesn’t feel like something
+that fades or falls apart\.
+It feels even\.
+Like we both showed up
+for real this time\.
+And because of that,
+I don’t think we’ll lose this\.
+Not easily\. Not ever\.
+
+
+---
+
+### 2553. msg_21825
+
+**You** - 2025-06-13T20:24:50
+
+https://open\.spotify\.com/track/4DEcdqqKokU7UAE4wCGQEy?si=3yKA8\_vyQYCuqM502FADzA&context=spotify%3Asearch%3Aalways%2Blook%2Bon%2Bthe%2Bbright%2Bside%2Bof%2Blife
+
+
+---
+
+### 2554. msg_21826
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T20:38:36
+
+You should go home and sleep\. You seem so tired
+
+
+---
+
+### 2555. msg_21827
+
+**You** - 2025-06-13T20:39:42
+
+I love you Meredith\.\. don’t worry about me\.\. Maybe take a little nappy in the sauna\.
+
+
+---
+
+### 2556. msg_21828
+
+**You** - 2025-06-13T20:40:17
+
+I will go home and go to bed after\.\. not really interested in doing anything else anyways\.
+
+
+---
+
+### 2557. msg_21829
+
+**You** - 2025-06-13T20:40:30
+
+If I don’t talk to you later maybe tomorrow sometime
+
+
+---
+
+### 2558. msg_21830
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T20:42:17
+
+kk ❤️ I love you too SCOTT \(why’d you call me Meredith?\)
+
+
+---
+
+### 2559. msg_21831
+
+**You** - 2025-06-13T20:42:52
+
+I don’t know\.\. just kinda typed it out\.  Enjoy your show and your wine\.\. see ya\.👋
+
+
+---
+
+### 2560. msg_21832
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T20:44:22
+
+C ya 😛
+
+
+---
+
+### 2561. msg_21833
+
+**You** - 2025-06-13T21:09:22
+
+And again to the gym with no underwear to put on after\.\. the shame\.\. unfortunate\.
+
+
+---
+
+### 2562. msg_21834
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:10:29
+
+Such a waste when you are not going home to me\. 😢
+
+
+---
+
+### 2563. msg_21835
+
+**You** - 2025-06-13T21:11:28
+
+Agreed
+
+
+---
+
+### 2564. msg_21836
+
+**You** - 2025-06-13T21:11:38
+
+I can picture how that scene plays out\.
+
+
+---
+
+### 2565. msg_21837
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:12:02
+
+I bet my picture is better\.
+
+
+---
+
+### 2566. msg_21838
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:12:15
+
+\(Not that it is a competition\. Lol\)
+
+
+---
+
+### 2567. msg_21839
+
+**You** - 2025-06-13T21:12:42
+
+Nope either scenario I I am sure I would be smiling
+
+
+---
+
+### 2568. msg_21840
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:13:16
+
+Reaction: 😀 from Scott Hicks
+Hopefully … lol
+
+
+---
+
+### 2569. msg_21841
+
+**You** - 2025-06-13T21:14:26
+
+That big
+
+
+---
+
+### 2570. msg_21842
+
+**You** - 2025-06-13T21:14:46
+
+Super happy 😀
+
+
+---
+
+### 2571. msg_21843
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:16:31
+
+Despite the shitty day, I really wish we were together\. My whole nervous system would feel normal again\.
+
+
+---
+
+### 2572. msg_21844
+
+**You** - 2025-06-13T21:17:55
+
+I mean that’s every day\.\. I mean speaking of feeling empty I definitely feel empty without you
+
+
+---
+
+### 2573. msg_21845
+
+**You** - 2025-06-13T21:18:42
+
+I actually breathe easier, stress goes down, feel better when we are together it is real
+
+
+---
+
+### 2574. msg_21846
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:19:27
+
+I know\. That is why yesterday was as so difficult\. Such a monumental moment and then just slammed apart\. My body couldn’t handle it\.
+
+
+---
+
+### 2575. msg_21847
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:19:39
+
+If we are together it is right\.
+
+
+---
+
+### 2576. msg_21848
+
+**You** - 2025-06-13T21:20:32
+
+Yeah I didn’t really think about what it would do\.\. I though you would kind of think it was cute or sweet and that’s be all good
+
+
+---
+
+### 2577. msg_21849
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:21:17
+
+“Cute or sweet” lol
+
+
+---
+
+### 2578. msg_21850
+
+**You** - 2025-06-13T21:21:36
+
+Well I didn’t really know how you would react
+
+
+---
+
+### 2579. msg_21851
+
+**You** - 2025-06-13T21:21:40
+
+I don’t always predict we’ll
+
+
+---
+
+### 2580. msg_21852
+
+**You** - 2025-06-13T21:21:42
+
+lol
+
+
+---
+
+### 2581. msg_21853
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:22:02
+
+You need to tell me the story on the necklace again because I think I blacked out by then so don’t have it fully
+
+
+---
+
+### 2582. msg_21854
+
+**You** - 2025-06-13T21:22:06
+
+Reaction: 🙄 from Meredith Lamb
+Anyhow there was never a good time
+
+
+---
+
+### 2583. msg_21855
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:22:53
+
+Good time = we are together and can actually be together after
+
+
+---
+
+### 2584. msg_21856
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:23:20
+
+>
+I need you with me to help me process these things
+
+
+---
+
+### 2585. msg_21857
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:23:25
+
+Follow up questions
+
+
+---
+
+### 2586. msg_21858
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:23:27
+
+Etc
+
+
+---
+
+### 2587. msg_21859
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:23:28
+
+lol
+
+
+---
+
+### 2588. msg_21860
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:23:43
+
+Not like “ok off to to work c ya”
+
+
+---
+
+### 2589. msg_21861
+
+**You** - 2025-06-13T21:24:14
+
+Reaction: ❤️ from Meredith Lamb
+It was my great grandfathers good luck charm\.\. my grandfather inherited it and wore it over seas throughout ww2 when he came home he met my nana, attributed the luck to the necklace\.  They were older whbe they met had mum after 30\.\. more luck because they didn’t think they could\.  The he gave it to mum who eventually gave it to me\. And now me to you\.
+
+
+---
+
+### 2590. msg_21862
+
+**You** - 2025-06-13T21:25:51
+
+>
+Yeah and I would have had to wait until the 26th
+
+
+---
+
+### 2591. msg_21863
+
+**You** - 2025-06-13T21:26:02
+
+Wasn’t willing to
+
+
+---
+
+### 2592. msg_21864
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:27:17
+
+I told my mom and how I felt kind of guilty\. She said:
+
+*1 attachment(s)*
+
+
+---
+
+### 2593. msg_21865
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:27:47
+
+My mom is very different than me\.
+
+
+---
+
+### 2594. msg_21866
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:28:03
+
+I look forward to you meeting my parents and getting it out of the way lol
+
+
+---
+
+### 2595. msg_21867
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:28:11
+
+I will be curious what you think
+
+
+---
+
+### 2596. msg_21868
+
+**You** - 2025-06-13T21:32:18
+
+Did she appreciate the gesture or think I was a moron
+
+
+---
+
+### 2597. msg_21869
+
+**You** - 2025-06-13T21:32:25
+
+Reaction: 😂 from Meredith Lamb
+Guilt was not what I was shooting for
+
+
+---
+
+### 2598. msg_21870
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:32:48
+
+I mean it was one of a multitude of emotions
+
+
+---
+
+### 2599. msg_21871
+
+**You** - 2025-06-13T21:32:50
+
+>
+Maybe she will like me more?
+
+
+---
+
+### 2600. msg_21872
+
+**You** - 2025-06-13T21:33:07
+
+Well no
+
+
+---
+
+### 2601. msg_21873
+
+**You** - 2025-06-13T21:33:13
+
+She thinks I am needy already
+
+
+---
+
+### 2602. msg_21874
+
+**You** - 2025-06-13T21:33:15
+
+lol
+
+
+---
+
+### 2603. msg_21875
+
+**You** - 2025-06-13T21:33:27
+
+And probably has a bunch or pre judged stuff
+
+
+---
+
+### 2604. msg_21876
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:33:42
+
+My mom will like you\. She likes Andrew oddly\. She has a like dislike thing for him\. She said recently she likes him\. I’m like I know\. He grew on her
+
+
+---
+
+### 2605. msg_21877
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:33:58
+
+Here is the difference with you
+
+
+---
+
+### 2606. msg_21878
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:34:15
+
+My mom has always heard about you just from my work talk
+
+
+---
+
+### 2607. msg_21879
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:34:30
+
+She knew I admired you and liked working for you a long time before all this
+
+
+---
+
+### 2608. msg_21880
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:34:41
+
+Andrew too for that matter
+
+
+---
+
+### 2609. msg_21881
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:35:01
+
+Anyone I like in that way, people like
+
+
+---
+
+### 2610. msg_21882
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:35:13
+
+This isn’t a case of we met and got in a relationship
+
+
+---
+
+### 2611. msg_21883
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:35:22
+
+We had a pre\-existing situation
+
+
+---
+
+### 2612. msg_21884
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:35:44
+
+I remind my mom of that and she’s like “oh that’s right”
+
+
+---
+
+### 2613. msg_21885
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:35:52
+
+She gets worried of me jumping into shit
+
+
+---
+
+### 2614. msg_21886
+
+**You** - 2025-06-13T21:36:29
+
+Well I will do my best \.\. ☺️ will see how it goes\.
+
+
+---
+
+### 2615. msg_21887
+
+**You** - 2025-06-13T21:37:20
+
+I wish you could have met mum\.\. she would have LOVED you and I guarantee you it would be more than everyone else\.\. you would have connected immediately\.
+
+
+---
+
+### 2616. msg_21888
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:38:13
+
+I wish I could have also tbh
+
+
+---
+
+### 2617. msg_21889
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:39:00
+
+I can tell by how you talk about her, the videos, and her letter that it would have been good
+
+
+---
+
+### 2618. msg_21890
+
+**You** - 2025-06-13T21:39:03
+
+You would have been way more attached to her the man me lol
+
+
+---
+
+### 2619. msg_21891
+
+**You** - 2025-06-13T21:39:07
+
+Than me
+
+
+---
+
+### 2620. msg_21892
+
+**You** - 2025-06-13T21:39:15
+
+She would have taken you over
+
+
+---
+
+### 2621. msg_21893
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:39:55
+
+My highschool bf’s mom did that and I just loved her lol weirdly enough, she died of breast cancer
+
+
+---
+
+### 2622. msg_21894
+
+**You** - 2025-06-13T21:40:25
+
+Sad\.\. it is a shitty way to go\.\.
+
+
+---
+
+### 2623. msg_21895
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:40:36
+
+My mom will definitely be a bit not herself the first time you meet her but after that she will be
+
+
+---
+
+### 2624. msg_21896
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:40:43
+
+Hence why I want to get it over with
+
+
+---
+
+### 2625. msg_21897
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:40:59
+
+She is socially very awkward
+
+
+---
+
+### 2626. msg_21898
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:41:10
+
+But sorts out after a bit
+
+
+---
+
+### 2627. msg_21899
+
+**You** - 2025-06-13T21:41:39
+
+Well should be a very interesting conversation filled with awkward silences and you laughing
+
+
+---
+
+### 2628. msg_21900
+
+**You** - 2025-06-13T21:41:40
+
+ROFL
+
+
+---
+
+### 2629. msg_21901
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:42:04
+
+I will carry her\. As always\. 😜
+
+
+---
+
+### 2630. msg_21902
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:42:32
+
+She can’t even speak in front of a handful of people without her face going red
+
+
+---
+
+### 2631. msg_21903
+
+**You** - 2025-06-13T21:42:37
+
+How honest do you want me to be
+
+
+---
+
+### 2632. msg_21904
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:42:49
+
+Brett has social anxiety and I think he gets it from her
+
+
+---
+
+### 2633. msg_21905
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:43:07
+
+>
+Well she won’t ask you anything of seriousness
+
+
+---
+
+### 2634. msg_21906
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:43:19
+
+It will all be like where you are from etc etc
+
+
+---
+
+### 2635. msg_21907
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:43:48
+
+I have to still figure out what we will do so it isn’t too awkward for her
+
+
+---
+
+### 2636. msg_21908
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:43:59
+
+My dad is comfortable in all social situations
+
+
+---
+
+### 2637. msg_21909
+
+**You** - 2025-06-13T21:44:01
+
+Will tell her about my 3 half sisters I am sure that will interest her
+
+
+---
+
+### 2638. msg_21910
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:44:16
+
+I’ve already told but yes she loves that shit
+
+
+---
+
+### 2639. msg_21911
+
+**You** - 2025-06-13T21:44:41
+
+See she already knows a shit ton I won’t have any stories lol
+
+
+---
+
+### 2640. msg_21912
+
+**You** - 2025-06-13T21:45:02
+
+Hey Diane this one time at bishops……\.
+
+
+---
+
+### 2641. msg_21913
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:46:06
+
+I mean she has memory loss so she would like to hear again lol
+
+
+---
+
+### 2642. msg_21914
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:46:20
+
+I hear the same stories like 15x
+
+
+---
+
+### 2643. msg_21915
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:47:07
+
+Plus it is different hearing second hand than first hand
+
+
+---
+
+### 2644. msg_21916
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:47:12
+
+Always different
+
+
+---
+
+### 2645. msg_21917
+
+**You** - 2025-06-13T21:47:33
+
+Well I can tell stories so it should be fine
+
+
+---
+
+### 2646. msg_21918
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:47:54
+
+On any case, my mom is chatty so it will be fine but she will be apprehensive I think\. I can’t even remember introducing her to anyone LOL
+
+
+---
+
+### 2647. msg_21919
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:48:23
+
+Once she knows you, all will be better and more flexible
+
+
+---
+
+### 2648. msg_21920
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:48:30
+
+Needs to happen in this family
+
+
+---
+
+### 2649. msg_21921
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:48:46
+
+Matriarch lol
+
+
+---
+
+### 2650. msg_21922
+
+**You** - 2025-06-13T21:49:00
+
+What does more flexible mean btw\.\. and I am happy to do it\.
+
+
+---
+
+### 2651. msg_21923
+
+**You** - 2025-06-13T21:50:15
+
+>
+I mean the last person was Andrew like 20 years ago of course it has been awhile
+lol
+
+
+---
+
+### 2652. msg_21924
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:51:52
+
+>
+I just mean when you are officially a part of my life you can “be around”\. We can hang out at my parents \(if my kids aren’t there\)
+
+
+---
+
+### 2653. msg_21925
+
+**You** - 2025-06-13T21:52:12
+
+Of course that makes sense and I will welcome that of course
+
+
+---
+
+### 2654. msg_21926
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:53:27
+
+One of my 2 best friends’ daughters is 19 today\.
+
+*1 attachment(s)*
+
+
+---
+
+### 2655. msg_21927
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:53:41
+
+So wild
+
+
+---
+
+### 2656. msg_21928
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:53:51
+
+
+*1 attachment(s)*
+
+
+---
+
+### 2657. msg_21929
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:53:56
+
+Me and Hannah
+
+
+---
+
+### 2658. msg_21930
+
+**You** - 2025-06-13T21:53:58
+
+Time goes by too fast
+
+
+---
+
+### 2659. msg_21931
+
+**You** - 2025-06-13T21:54:04
+
+Yeah my nephews were same
+
+
+---
+
+### 2660. msg_21932
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:54:16
+
+Kim is one of my CURRENT best friends
+
+
+---
+
+### 2661. msg_21933
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:54:26
+
+She lives on a farm near Glencoe
+
+
+---
+
+### 2662. msg_21934
+
+**You** - 2025-06-13T21:54:43
+
+Reaction: ❤️ from Meredith Lamb
+1st time I went to J’s sisters house I sat an played with them the whole time\. He gave me a kiss and told me he loved me didnt know how to react\.\. I mean he was 2 lol
+
+
+---
+
+### 2663. msg_21935
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:54:44
+
+Hannah is a lot like Mackenzie
+
+
+---
+
+### 2664. msg_21936
+
+**You** - 2025-06-13T21:54:59
+
+Got old fast
+
+
+---
+
+### 2665. msg_21937
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:55:03
+
+>
+Awwwwww
+
+
+---
+
+### 2666. msg_21938
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:55:23
+
+Hannah likes to hang with the moms lol
+
+
+---
+
+### 2667. msg_21939
+
+**You** - 2025-06-13T21:55:28
+
+Hehe
+
+
+---
+
+### 2668. msg_21940
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:55:29
+
+Get all the gossip
+
+
+---
+
+### 2669. msg_21941
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:55:54
+
+We call them “cousin friends”
+
+
+---
+
+### 2670. msg_21942
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:55:56
+
+lol
+
+
+---
+
+### 2671. msg_21943
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:56:07
+
+I think Hannah came up with that
+
+
+---
+
+### 2672. msg_21944
+
+**You** - 2025-06-13T21:56:24
+
+Cousin friends lol\.\. haven’t heard that before
+
+
+---
+
+### 2673. msg_21945
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:56:37
+
+Haha accurate tho
+
+
+---
+
+### 2674. msg_21946
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:56:49
+
+Friends only more
+
+
+---
+
+### 2675. msg_21947
+
+**You** - 2025-06-13T21:57:04
+
+I guess jon is my cousin friend
+
+
+---
+
+### 2676. msg_21948
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:57:11
+
+Exactly
+
+
+---
+
+### 2677. msg_21949
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:57:22
+
+Friend on a level of a cousin
+
+
+---
+
+### 2678. msg_21950
+
+**You** - 2025-06-13T21:57:40
+
+Maybe brother friend
+
+
+---
+
+### 2679. msg_21951
+
+**You** - 2025-06-13T21:57:47
+
+He is a little sappy
+
+
+---
+
+### 2680. msg_21952
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:57:59
+
+That’s probably more appropriate for you guys
+
+
+---
+
+### 2681. msg_21953
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:58:08
+
+I think a lot of guys have that tho?
+
+
+---
+
+### 2682. msg_21954
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:58:12
+
+Girls do
+
+
+---
+
+### 2683. msg_21955
+
+**You** - 2025-06-13T21:58:33
+
+Mike and Jon are both brothers
+
+
+---
+
+### 2684. msg_21956
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T21:59:13
+
+Yeah Kim and Mandy are like that for me\.
+
+
+---
+
+### 2685. msg_21957
+
+**You** - 2025-06-13T21:59:43
+
+It’s nice to have people like that wish mine were closer
+
+
+---
+
+### 2686. msg_21958
+
+**You** - 2025-06-13T21:59:54
+
+And I should have reached back out to job years ago
+
+
+---
+
+### 2687. msg_21959
+
+**You** - 2025-06-13T21:59:59
+
+We both feel bad about that
+
+
+---
+
+### 2688. msg_21960
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:00:12
+
+I haven’t seen Kim and Mandy for over a year
+
+
+---
+
+### 2689. msg_21961
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:00:20
+
+Edited: 2 versions
+| Version: 2
+| Sent: Fri, 13 Jun 2025 22:00:30 \-0400
+|
+| Didn’t invite them to cottage last year
+|
+| Version: 1
+| Sent: Fri, 13 Jun 2025 22:00:20 \-0400
+|
+| Didn’t incite them to cottage last year
+
+
+---
+
+### 2690. msg_21962
+
+**You** - 2025-06-13T22:00:28
+
+They coming this year right
+
+
+---
+
+### 2691. msg_21963
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:00:44
+
+Well, our families all used to do a thing every year
+
+
+---
+
+### 2692. msg_21964
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:01:01
+
+McKenzie really wants to do it this year but I told her I was just gonna have the girls up and not the whole families and have all the Glenco girls up and she was like oh
+
+
+---
+
+### 2693. msg_21965
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:01:44
+
+Edited: 2 versions
+| Version: 2
+| Sent: Fri, 13 Jun 2025 22:02:19 \-0400
+|
+| So Mandy’s kids and common law Darren sorry, and Kim’s partner\. Greg and her two kids would come every year\. Kim’s divorced Mandy’s divorced\.
+|
+| Version: 1
+| Sent: Fri, 13 Jun 2025 22:01:44 \-0400
+|
+| Some Mandy’s kids and husband Darren sorry, not Darren and Kim’s partner\. Greg and her two kids would come every year Kim’s divorced Mandy’s divorced\.
+
+
+---
+
+### 2694. msg_21966
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:02:40
+
+But it got really complicated\. In person convo\.
+
+
+---
+
+### 2695. msg_21967
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:02:48
+
+So last year I took a break\.
+
+
+---
+
+### 2696. msg_21968
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:03:27
+
+I disliked Andrew last year also so we spent separate time at the cottage mostly
+
+
+---
+
+### 2697. msg_21969
+
+**You** - 2025-06-13T22:03:38
+
+man complicated relationship
+
+
+---
+
+### 2698. msg_21970
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:09:29
+
+Do you think more complicated than yours?
+
+
+---
+
+### 2699. msg_21971
+
+**You** - 2025-06-13T22:09:48
+
+well\.\. in many ways a lot more complicated
+
+
+---
+
+### 2700. msg_21972
+
+**You** - 2025-06-13T22:11:03
+
+A lot of push pull between you both\.\. the sex stuff\.\. I mean that is kind of twisted imho, our sex stuff wasn't like that\.\. more sad on her part\.\. kids not being on same page\.\. but honestly\.\. we never had the kind of falling outs that I feel like you have told me about\.
+
+
+---
+
+### 2701. msg_21973
+
+**You** - 2025-06-13T22:11:35
+
+our stuff never lasted beyond a night
+
+
+---
+
+### 2702. msg_21974
+
+**You** - 2025-06-13T22:11:49
+
+we would fight\.\. shit would remain unresolved for the most part
+
+
+---
+
+### 2703. msg_21975
+
+**You** - 2025-06-13T22:12:04
+
+but we would put it back in the box the next day
+
+
+---
+
+### 2704. msg_21976
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:12:12
+
+But if the sex stuff on your side were reversed your situation would have been like mine\. You would have been “sexually frustrated” and going crazy like Andrew\. But because it was her it was different?
+
+
+---
+
+### 2705. msg_21977
+
+**You** - 2025-06-13T22:12:44
+
+reversed?? meaning if I wanted to have sex with her all the time you mean?
+
+
+---
+
+### 2706. msg_21978
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:12:58
+
+>
+Yeah
+
+
+---
+
+### 2707. msg_21979
+
+**You** - 2025-06-13T22:13:50
+
+I mean that just isn't who I am\.\. not that way\.\. so it isn't even a hypothetical that I could contemplate\.\. honestly I have never been the initiator or the aggressor in that area well\.\. 99% of the time
+
+
+---
+
+### 2708. msg_21980
+
+**You** - 2025-06-13T22:14:04
+
+you can guess who the 1% is\.
+
+
+---
+
+### 2709. msg_21981
+
+**You** - 2025-06-13T22:14:19
+
+another difference between who I as and who I am now\.
+
+
+---
+
+### 2710. msg_21982
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:14:23
+
+So are you saying you are not sexually frustrated right now?
+
+
+---
+
+### 2711. msg_21983
+
+**You** - 2025-06-13T22:14:47
+
+Um yah\.\. but you know what\.\. I would never hold that over you or complain\.\. ever\.\.\.
+
+
+---
+
+### 2712. msg_21984
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:15:03
+
+lol same
+
+
+---
+
+### 2713. msg_21985
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:15:11
+
+Honestly I have never felt this way
+
+
+---
+
+### 2714. msg_21986
+
+**You** - 2025-06-13T22:15:54
+
+but yeah extremely\. I mean we talked about the whole every day thing\.\.  never ever thought I would want that\.\. I can remember actually breaking up with someone once because they were slightly insane that way\.
+
+
+---
+
+### 2715. msg_21987
+
+**You** - 2025-06-13T22:17:21
+
+>
+neither have I about the sex or anything else\.\. that is honestly why I have such a hard time\.\. so if it ever bothers you when I am down, or having a hard time\.\. remember it is only because of this feeling\.\. and the fact it won't go away ever, and that I don't have as much patience as I would like or an ability to block shit out\.
+
+
+---
+
+### 2716. msg_21988
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:19:04
+
+
+*1 attachment(s)*
+
+
+---
+
+### 2717. msg_21989
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:19:19
+
+
+*1 attachment(s)*
+
+
+---
+
+### 2718. msg_21990
+
+**You** - 2025-06-13T22:20:03
+
+Billy is a fucker\.\.
+
+
+---
+
+### 2719. msg_21991
+
+**You** - 2025-06-13T22:20:14
+
+Want me to scare him\.\. :\)
+
+
+---
+
+### 2720. msg_21992
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:20:29
+
+
+*1 attachment(s)*
+
+
+---
+
+### 2721. msg_21993
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:21:23
+
+
+*1 attachment(s)*
+
+
+---
+
+### 2722. msg_21994
+
+**You** - 2025-06-13T22:21:59
+
+jesus that is fucked
+
+
+---
+
+### 2723. msg_21995
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:23:38
+
+>
+Honestly, same\. Like every relationship has been regular but never felt like this where I think about it on a more than regular basis\. I’m sure that will even out… must be situational\.
+
+
+---
+
+### 2724. msg_21996
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:24:14
+
+>
+I know………
+
+
+---
+
+### 2725. msg_21997
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:24:59
+
+>
+Honestly he used to be scared of me\. Not sure now
+
+
+---
+
+### 2726. msg_21998
+
+**You** - 2025-06-13T22:25:43
+
+I mean situational is the height and intensity of this sure\.\. and the time in between doesn't help\.  But what I think this will transition to was more what I felt last time\.  It was different for me\.\. it was more somehow\.\.
+
+
+---
+
+### 2727. msg_21999
+
+**You** - 2025-06-13T22:26:19
+
+That is what I think it will be, for the most part lol, I am sure there will be interesting situations\.\. but that is what I think we will get to
+
+
+---
+
+### 2728. msg_22000
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:27:47
+
+>
+There will definitely be more interesting situations because if I’m able to get f’ed up in front of you I will do that now and again\. Hopefully not as regularly as during separation mode\. But that may lead to “interesting situations” lol
+
+
+---
+
+### 2729. msg_22001
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:28:13
+
+>
+I felt this too\. I’m not sure why\.
+
+
+---
+
+### 2730. msg_22002
+
+**You** - 2025-06-13T22:28:15
+
+>
+Mer\.\. I am going to get f'd up in front of you too\.\. lol
+
+
+---
+
+### 2731. msg_22003
+
+**You** - 2025-06-13T22:28:38
+
+>
+I told you for me it was your eyes\.\. i dunno why\.\. never did that before\.\.
+
+
+---
+
+### 2732. msg_22004
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:29:45
+
+>
+Really? I would like to see this\. In a safe place of course\. Cottage?
+
+
+---
+
+### 2733. msg_22005
+
+**You** - 2025-06-13T22:29:56
+
+I would do it on our trip if you want
+
+
+---
+
+### 2734. msg_22006
+
+**You** - 2025-06-13T22:30:19
+
+I think we are staying at the Casino in Windsor
+
+
+---
+
+### 2735. msg_22007
+
+**You** - 2025-06-13T22:30:48
+
+Reaction: 😂 from Meredith Lamb
+I told Haris I am willing to have an early supper but that I will be "going to bed" early on Thursday\.\.
+
+
+---
+
+### 2736. msg_22008
+
+**You** - 2025-06-13T22:31:03
+
+then I think I will stay there on Friday, and drive up early on Sat to Grand Rapids
+
+
+---
+
+### 2737. msg_22009
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:31:06
+
+So I need to know how long we will be across the border in order to figure out my story\. Haven’t given it much thought tbh
+
+
+---
+
+### 2738. msg_22010
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:31:12
+
+I am awful for planning
+
+
+---
+
+### 2739. msg_22011
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:31:16
+
+You will learn this
+
+
+---
+
+### 2740. msg_22012
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:31:18
+
+lol
+
+
+---
+
+### 2741. msg_22013
+
+**You** - 2025-06-13T22:31:19
+
+well ok\.
+
+
+---
+
+### 2742. msg_22014
+
+**You** - 2025-06-13T22:31:22
+
+let's think about it
+
+
+---
+
+### 2743. msg_22015
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:31:24
+
+Last minute\. Always\.
+
+
+---
+
+### 2744. msg_22016
+
+**You** - 2025-06-13T22:31:47
+
+So
+
+
+---
+
+### 2745. msg_22017
+
+**You** - 2025-06-13T22:32:01
+
+Are you able to come on Thursday?  or Friday?
+
+
+---
+
+### 2746. msg_22018
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:32:11
+
+>
+The good part about this is my family expects it\.
+
+
+---
+
+### 2747. msg_22019
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:32:16
+
+Literally everyone
+
+
+---
+
+### 2748. msg_22020
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:32:20
+
+Even my mom
+
+
+---
+
+### 2749. msg_22021
+
+**You** - 2025-06-13T22:32:22
+
+heh
+
+
+---
+
+### 2750. msg_22022
+
+**You** - 2025-06-13T22:34:26
+
+So if you come on Thursday\.\. I will have it set up so you could go straight to the room\.\. you could work remotely from there on Friday if you wanted to\.
+
+
+---
+
+### 2751. msg_22023
+
+**You** - 2025-06-13T22:34:52
+
+I think we go over to Grand Rapids and back to Detroit Saturday and Sunday\.\. and come back on Monday\.
+
+
+---
+
+### 2752. msg_22024
+
+**You** - 2025-06-13T22:36:21
+
+that gives you two days for your friend\.\. then we return home\.\. we could even see her if you wanted to\.  I would be fine with that as long as no pics\.\. at least no with me in em\.
+
+
+---
+
+### 2753. msg_22025
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:36:37
+
+>
+Are you working Friday?
+
+
+---
+
+### 2754. msg_22026
+
+**You** - 2025-06-13T22:36:42
+
+yes
+
+
+---
+
+### 2755. msg_22027
+
+**You** - 2025-06-13T22:36:47
+
+for the morning
+
+
+---
+
+### 2756. msg_22028
+
+**You** - 2025-06-13T22:36:55
+
+early afternoon\.\. but then I am done early\.
+
+
+---
+
+### 2757. msg_22029
+
+**You** - 2025-06-13T22:37:13
+
+but again you could work remotely easy enough\.\. because we keep the room until Sat\.
+
+
+---
+
+### 2758. msg_22030
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:37:44
+
+I will check my vacation\. I probably have lots because I have no plans this year
+
+
+---
+
+### 2759. msg_22031
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:37:49
+
+Will see
+
+
+---
+
+### 2760. msg_22032
+
+**You** - 2025-06-13T22:38:01
+
+kk
+
+
+---
+
+### 2761. msg_22033
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:38:13
+
+>
+This isn’t clear to me what is happening\.
+
+
+---
+
+### 2762. msg_22034
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:38:23
+
+More specificity
+
+
+---
+
+### 2763. msg_22035
+
+**You** - 2025-06-13T22:38:30
+
+well the only commitment
+
+
+---
+
+### 2764. msg_22036
+
+**You** - 2025-06-13T22:38:34
+
+is sat at 2pm ish
+
+
+---
+
+### 2765. msg_22037
+
+**You** - 2025-06-13T22:38:37
+
+in Grand Rapids
+
+
+---
+
+### 2766. msg_22038
+
+**You** - 2025-06-13T22:38:47
+
+probably for a few hours\.\.
+
+
+---
+
+### 2767. msg_22039
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:39:08
+
+Ok so I have to dress up
+
+
+---
+
+### 2768. msg_22040
+
+**You** - 2025-06-13T22:39:09
+
+then we would bounce back to Detroit grab supper do whatever you want Sat night\.\. and have all Sunday as well\.
+
+
+---
+
+### 2769. msg_22041
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:39:25
+
+Ok that makes more sense
+
+
+---
+
+### 2770. msg_22042
+
+**You** - 2025-06-13T22:39:30
+
+I will ask jon\.\. I might bring a suit I dunno
+
+
+---
+
+### 2771. msg_22043
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:39:46
+
+>
+Might be good to find out lol
+
+
+---
+
+### 2772. msg_22044
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:40:13
+
+I’m going shopping this weekend so…\.\.
+
+
+---
+
+### 2773. msg_22045
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:40:16
+
+lol
+
+
+---
+
+### 2774. msg_22046
+
+**You** - 2025-06-13T22:40:24
+
+then Monday\.\. just taking it easy for the first part driving for the second\.
+
+
+---
+
+### 2775. msg_22047
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:40:37
+
+\(Marlowe grad dress shopping on Sunday\)
+
+
+---
+
+### 2776. msg_22048
+
+**You** - 2025-06-13T22:41:03
+
+yep\.\. might as well get yourself something
+
+
+---
+
+### 2777. msg_22049
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:41:55
+
+I don’t really want to see Lori\. I want to spend my time with you fully\. Is that bad? lol
+
+
+---
+
+### 2778. msg_22050
+
+**You** - 2025-06-13T22:42:58
+
+It's not\.\. but I would be happy to share your time with a close friend\.
+
+
+---
+
+### 2779. msg_22051
+
+**You** - 2025-06-13T22:43:10
+
+if it makes you happy\.
+
+
+---
+
+### 2780. msg_22052
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:46:27
+
+She isn’t THAT close
+
+
+---
+
+### 2781. msg_22053
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:46:36
+
+Kim and Mandy should meet you first
+
+
+---
+
+### 2782. msg_22054
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:46:42
+
+I would feel bad if they didn’t
+
+
+---
+
+### 2783. msg_22055
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:46:50
+
+Or Diana
+
+
+---
+
+### 2784. msg_22056
+
+**You** - 2025-06-13T22:48:17
+
+Ok then it is you and me and Detroit
+
+
+---
+
+### 2785. msg_22057
+
+**You** - 2025-06-13T22:48:24
+
+And we can do whatever you want
+
+
+---
+
+### 2786. msg_22058
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:49:09
+
+Let’s go see some of the cool stuff and rehabs
+
+
+---
+
+### 2787. msg_22059
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:49:23
+
+I will make a list
+
+
+---
+
+### 2788. msg_22060
+
+**You** - 2025-06-13T22:50:18
+
+Sounds good to me\.
+
+
+---
+
+### 2789. msg_22061
+
+**You** - 2025-06-13T22:53:38
+
+I think I am going to take tomorrow off completely
+
+
+---
+
+### 2790. msg_22062
+
+**You** - 2025-06-13T22:53:48
+
+Maybe just go tomorrow night for a sauna
+
+
+---
+
+### 2791. msg_22063
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:56:19
+
+Just DON’t Go at all
+
+
+---
+
+### 2792. msg_22064
+
+**You** - 2025-06-13T22:56:24
+
+no sauna at night\.\.
+
+
+---
+
+### 2793. msg_22065
+
+**You** - 2025-06-13T22:56:26
+
+perfect
+
+
+---
+
+### 2794. msg_22066
+
+**You** - 2025-06-13T22:56:35
+
+and it gets me out of here\.\. I have nothing else to do
+
+
+---
+
+### 2795. msg_22067
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:56:55
+
+I just had to run down and clean the basement for McKenzie because she wants to bring over Hayden and Cameron and Leanna and she’s like the basement is not clean\. Can you run down and clean it like what the fuck
+
+
+---
+
+### 2796. msg_22068
+
+**You** - 2025-06-13T22:57:16
+
+rofl\.\. yeah taken for granted for sure
+
+
+---
+
+### 2797. msg_22069
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:57:33
+
+I could go to my mom’s tomorrow and meet you
+
+
+---
+
+### 2798. msg_22070
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:57:39
+
+But I would have my shadow
+
+
+---
+
+### 2799. msg_22071
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T22:57:44
+
+No good story for her
+
+
+---
+
+### 2800. msg_22072
+
+**You** - 2025-06-13T22:57:56
+
+hmm
+
+
+---
+
+### 2801. msg_22073
+
+**You** - 2025-06-13T22:58:11
+
+meeting a friend for a drink?  any friends in Oshawa :\)
+
+
+---
+
+### 2802. msg_22074
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:00:44
+
+LOL
+
+
+---
+
+### 2803. msg_22075
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:00:51
+
+no but a million cousins
+
+
+---
+
+### 2804. msg_22076
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:01:02
+
+But I don’t ever hang with them for drinks
+
+
+---
+
+### 2805. msg_22077
+
+**You** - 2025-06-13T23:01:11
+
+yeah I wouldn't worry about it\.\. too risky\.
+
+
+---
+
+### 2806. msg_22078
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:01:14
+
+Ahana
+
+
+---
+
+### 2807. msg_22079
+
+**You** - 2025-06-13T23:01:20
+
+I don't want to get you in trouble
+
+
+---
+
+### 2808. msg_22080
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:01:23
+
+lol
+
+
+---
+
+### 2809. msg_22081
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:02:06
+
+I mean, I think she already suspects so if we go to stay over at my mom‘s tomorrow night, which we might anyways I’ve already been considering it, but it depends on how long her tournament goes tomorrow\. If we did, she would still suspect it cause she’s not stupid\.
+
+
+---
+
+### 2810. msg_22082
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:02:38
+
+And she has seen your texts
+
+
+---
+
+### 2811. msg_22083
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:02:52
+
+I think once she is told she will be fine\. She just doesn’t like uncertainty and not knowing shit\.
+
+
+---
+
+### 2812. msg_22084
+
+**You** - 2025-06-13T23:03:03
+
+that's what I mean\.\. so maybe we just don't\.\. would be happy to drive into the park to see you Mon or Tues\.\. if that works better\.\. I just don't want to cause stress
+
+
+---
+
+### 2813. msg_22085
+
+**You** - 2025-06-13T23:03:15
+
+would love to see you but\.\. yeah that is a little tricky tomorrow
+
+
+---
+
+### 2814. msg_22086
+
+**You** - 2025-06-13T23:03:35
+
+really sucks that thursday won't work
+
+
+---
+
+### 2815. msg_22087
+
+**You** - 2025-06-13T23:03:41
+
+I was like FACK\!\!\!
+
+
+---
+
+### 2816. msg_22088
+
+**You** - 2025-06-13T23:03:42
+
+lol
+
+
+---
+
+### 2817. msg_22089
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:03:50
+
+Likely\. I would say “let’s play it by ear” but I know you don’t work well in that situation
+
+
+---
+
+### 2818. msg_22090
+
+**You** - 2025-06-13T23:04:00
+
+ok here is the thing for tomorrow\.
+
+
+---
+
+### 2819. msg_22091
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:04:10
+
+Thursday is a big day
+
+
+---
+
+### 2820. msg_22092
+
+**You** - 2025-06-13T23:04:20
+
+I have a reason to go to the gym\.\. I don't have a reason to be anywhere else\.
+
+
+---
+
+### 2821. msg_22093
+
+**You** - 2025-06-13T23:04:27
+
+Gym closes at 10
+
+
+---
+
+### 2822. msg_22094
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:04:31
+
+Reaction: 👍 from Scott Hicks
+It marks the end of 12 years at this school Allenby\. I CANNOT WAIT\!\!\!
+
+
+---
+
+### 2823. msg_22095
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:04:41
+
+No more Allenby emails
+
+
+---
+
+### 2824. msg_22096
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:05:07
+
+Honestly, I cannot tell you how excited I am about Thursday\. I have been waiting for this day for over a year\.
+
+
+---
+
+### 2825. msg_22097
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:05:30
+
+So many of my friends are already gone because they had two kids\. I am one of the few that had three kids, so I’m stuck here longer, which is really draining\.
+
+
+---
+
+### 2826. msg_22098
+
+**You** - 2025-06-13T23:05:44
+
+lol\.\. well it is coming fast\.\. won't be long
+
+
+---
+
+### 2827. msg_22099
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:06:00
+
+I have been waiting all year\. I’m not even kidding you
+
+
+---
+
+### 2828. msg_22100
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:06:15
+
+This will not be an insignificant day for me
+
+
+---
+
+### 2829. msg_22101
+
+**You** - 2025-06-13T23:06:20
+
+hehe I believe it\.\. I can remember wishing to get past certain milestones
+
+
+---
+
+### 2830. msg_22102
+
+**You** - 2025-06-13T23:06:28
+
+>
+so lots of wine then is what you are saying
+
+
+---
+
+### 2831. msg_22103
+
+**You** - 2025-06-13T23:06:39
+
+just warning me I see
+
+
+---
+
+### 2832. msg_22104
+
+**You** - 2025-06-13T23:06:41
+
+hehe
+
+
+---
+
+### 2833. msg_22105
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:06:47
+
+I actually didn’t buy a ticket to the parents party lol
+
+
+---
+
+### 2834. msg_22106
+
+**You** - 2025-06-13T23:06:57
+
+I didn't even know there was such a thing
+
+
+---
+
+### 2835. msg_22107
+
+**You** - 2025-06-13T23:07:06
+
+only fancy rich people schools
+
+
+---
+
+### 2836. msg_22108
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:07:14
+
+Oh yeah, at this school, the kids have graduation then they have a party at a bar and the parents have a party at a neighbouring bar
+
+
+---
+
+### 2837. msg_22109
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:07:42
+
+Edited: 2 versions
+| Version: 2
+| Sent: Fri, 13 Jun 2025 23:08:03 \-0400
+|
+| Yonge and Eglinton is bars all the time like even for recitals
+|
+| Version: 1
+| Sent: Fri, 13 Jun 2025 23:07:42 \-0400
+|
+| Young and Eglinton is bars all the time like even for recitals
+
+
+---
+
+### 2838. msg_22110
+
+**You** - 2025-06-13T23:08:03
+
+mmm not my speed
+
+
+---
+
+### 2839. msg_22111
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:08:15
+
+Yeah, honestly, I don’t love it
+
+
+---
+
+### 2840. msg_22112
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:08:29
+
+I am a bit more country
+
+
+---
+
+### 2841. msg_22113
+
+**You** - 2025-06-13T23:08:39
+
+hayloft
+
+
+---
+
+### 2842. msg_22114
+
+**You** - 2025-06-13T23:08:42
+
+in a barn
+
+
+---
+
+### 2843. msg_22115
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:08:56
+
+But I have learned the good sides of Yonge and Eglinton so I can appreciate the good sides of it
+
+
+---
+
+### 2844. msg_22116
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:09:01
+
+I could educate you
+
+
+---
+
+### 2845. msg_22117
+
+**You** - 2025-06-13T23:09:06
+
+really\.\.
+
+
+---
+
+### 2846. msg_22118
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:09:15
+
+>
+🫠
+
+
+---
+
+### 2847. msg_22119
+
+**You** - 2025-06-13T23:09:32
+
+I mean yeah I am up for anything\.\.
+
+
+---
+
+### 2848. msg_22120
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:09:45
+
+Or just lying under a willow tree
+
+
+---
+
+### 2849. msg_22121
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:09:57
+
+Like seriously so many benefits to the country
+
+
+---
+
+### 2850. msg_22122
+
+**You** - 2025-06-13T23:10:00
+
+mmm I am ok with public shows of affection\.
+
+
+---
+
+### 2851. msg_22123
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:10:51
+
+Yonge and Eg is kind of like Vegas\. Always awake\. Kind of nice if you are up at night\.
+
+
+---
+
+### 2852. msg_22124
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:11:06
+
+So there are pros, but I prefer the country
+
+
+---
+
+### 2853. msg_22125
+
+**You** - 2025-06-13T23:11:16
+
+Maybe if I move closer\.\. down the road\.\. we could try it out sometime\.
+
+
+---
+
+### 2854. msg_22126
+
+**You** - 2025-06-13T23:11:22
+
+or if I stay over\.\.
+
+
+---
+
+### 2855. msg_22127
+
+**You** - 2025-06-13T23:11:27
+
+but I prefer country too
+
+
+---
+
+### 2856. msg_22128
+
+**You** - 2025-06-13T23:11:40
+
+I have had a lot of fun out in the country :\)
+
+
+---
+
+### 2857. msg_22129
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:11:45
+
+Exactly you will stay over\. I have already visualized it\.
+
+
+---
+
+### 2858. msg_22130
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:11:53
+
+If maddie doesn’t hate me she can too
+
+
+---
+
+### 2859. msg_22131
+
+**You** - 2025-06-13T23:12:28
+
+what I am hoping for\.\.
+
+
+---
+
+### 2860. msg_22132
+
+**You** - 2025-06-13T23:12:38
+
+I will need to have also told Jaimie and gotten her permission
+
+
+---
+
+### 2861. msg_22133
+
+**You** - 2025-06-13T23:12:52
+
+just out of respect\.\. I don't want to cause a fight\.
+
+
+---
+
+### 2862. msg_22134
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:14:20
+
+I mean of course\. I guess I’m going to have to deal with that also? But I will NOT agree to anything that says I can’t just do what I want\. My sanity won’t take it\.
+
+
+---
+
+### 2863. msg_22135
+
+**You** - 2025-06-13T23:14:46
+
+you don't need to agree to anything
+
+
+---
+
+### 2864. msg_22136
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:14:54
+
+Just to be clear, I’m fine to keep this whole like secretive thing going for as long as required\. I’m not going to cause a weird situation between you and Jaimie \.
+
+
+---
+
+### 2865. msg_22137
+
+**You** - 2025-06-13T23:14:55
+
+ever it would be between J and I
+
+
+---
+
+### 2866. msg_22138
+
+**You** - 2025-06-13T23:15:31
+
+no\.\. there won't be anything wierd\.\. once the house sells and we close the agreement she gets the lump sum and we are basically done\.
+
+
+---
+
+### 2867. msg_22139
+
+**You** - 2025-06-13T23:15:38
+
+then I need to find a place to rent
+
+
+---
+
+### 2868. msg_22140
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:15:59
+
+>
+You decided this??
+
+
+---
+
+### 2869. msg_22141
+
+**You** - 2025-06-13T23:16:02
+
+yep
+
+
+---
+
+### 2870. msg_22142
+
+**You** - 2025-06-13T23:16:06
+
+not gonna buy
+
+
+---
+
+### 2871. msg_22143
+
+**You** - 2025-06-13T23:16:14
+
+more flexibility
+
+
+---
+
+### 2872. msg_22144
+
+**You** - 2025-06-13T23:16:26
+
+I might not even buy after I find a new place to rent after maddie leavs
+
+
+---
+
+### 2873. msg_22145
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:16:31
+
+Yeah for sure
+
+
+---
+
+### 2874. msg_22146
+
+**You** - 2025-06-13T23:16:59
+
+Reaction: ❤️ from Meredith Lamb
+And if someone ever wanted to see more of me\.\. well that would be easier then\.
+
+
+---
+
+### 2875. msg_22147
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:17:20
+
+
+*1 attachment(s)*
+
+
+---
+
+### 2876. msg_22148
+
+**You** - 2025-06-13T23:17:40
+
+she knows you are sick and you need to sleep
+
+
+---
+
+### 2877. msg_22149
+
+**You** - 2025-06-13T23:17:52
+
+>
+craig and I also went over the numbers
+
+
+---
+
+### 2878. msg_22150
+
+**You** - 2025-06-13T23:18:05
+
+he also believes I am better off renting for the first few years anyways
+
+
+---
+
+### 2879. msg_22151
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:18:08
+
+Reaction: ❤️ from Scott Hicks
+>
+She always wants me to go to bed\. She’s such a mother\.
+
+
+---
+
+### 2880. msg_22152
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:18:27
+
+>
+Wait, what Craig?
+
+
+---
+
+### 2881. msg_22153
+
+**You** - 2025-06-13T23:18:31
+
+Yeah
+
+
+---
+
+### 2882. msg_22154
+
+**You** - 2025-06-13T23:18:38
+
+I showed Craig my finances
+
+
+---
+
+### 2883. msg_22155
+
+**You** - 2025-06-13T23:18:54
+
+I trust Craig almost more than anyone there
+
+
+---
+
+### 2884. msg_22156
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:19:00
+
+Craig dropped by my desk and it was very like how are you know you know you you I kept talking and he was like, but how are you doing??
+
+
+---
+
+### 2885. msg_22157
+
+**You** - 2025-06-13T23:19:08
+
+hmm\.\. he does that
+
+
+---
+
+### 2886. msg_22158
+
+**You** - 2025-06-13T23:19:13
+
+he does that to me
+
+
+---
+
+### 2887. msg_22159
+
+**You** - 2025-06-13T23:19:16
+
+and I tell him to fuck off
+
+
+---
+
+### 2888. msg_22160
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:19:40
+
+You know when he dropped by I was like fuck I got a tell my friend Barb because Craig is friends with David who is Barb’s husband and I haven’t told Barb yet
+
+
+---
+
+### 2889. msg_22161
+
+**You** - 2025-06-13T23:19:55
+
+I haven't told half of my family yet
+
+
+---
+
+### 2890. msg_22162
+
+**You** - 2025-06-13T23:20:06
+
+My dad's brother doesn't know\.\. my cousins
+
+
+---
+
+### 2891. msg_22163
+
+**You** - 2025-06-13T23:20:10
+
+my grandmother
+
+
+---
+
+### 2892. msg_22164
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:20:39
+
+Check out this listing
+https://realtor\.ca/real\-estate/28451490/45\-briar\-hill\-avenue\-toronto\-lawrence\-park\-south\-lawrence\-park\-south?utm\_source=consumerapp&utm\_medium=referral&utm\_campaign=socialsharelisting
+
+
+---
+
+### 2893. msg_22165
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:20:57
+
+I kind of want that rental but feel like timing won’t work out
+
+
+---
+
+### 2894. msg_22166
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:21:27
+
+>
+I didn’t know you had a grandmother remaining?
+
+
+---
+
+### 2895. msg_22167
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:21:41
+
+How old is she?
+
+
+---
+
+### 2896. msg_22168
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:22:30
+
+>
+You might want to tell your dad‘s brother\. As for your cousins, I haven’t told my cousins but I know my aunt’s will\.
+
+
+---
+
+### 2897. msg_22169
+
+**You** - 2025-06-13T23:23:31
+
+Listing looks nice
+
+
+---
+
+### 2898. msg_22170
+
+**You** - 2025-06-13T23:23:42
+
+I will tell him soon
+
+
+---
+
+### 2899. msg_22171
+
+**You** - 2025-06-13T23:23:50
+
+93
+
+
+---
+
+### 2900. msg_22172
+
+**You** - 2025-06-13T23:24:06
+
+Not by blood of course lol
+
+
+---
+
+### 2901. msg_22173
+
+**You** - 2025-06-13T23:24:10
+
+Dads mum
+
+
+---
+
+### 2902. msg_22174
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:24:41
+
+Oh wow
+
+
+---
+
+### 2903. msg_22175
+
+**You** - 2025-06-13T23:24:58
+
+Yeah she is doing ok\.\. not the best though\.
+
+
+---
+
+### 2904. msg_22176
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:24:59
+
+93 is hard age to absorb anything\. Maybe just don’t tell her
+
+
+---
+
+### 2905. msg_22177
+
+**You** - 2025-06-13T23:25:05
+
+Yeah I think so
+
+
+---
+
+### 2906. msg_22178
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:25:48
+
+I think you should set up a virtual call sometime thing for me to meet your sister
+
+
+---
+
+### 2907. msg_22179
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:25:58
+
+Unless you want me to meet her by myself
+
+
+---
+
+### 2908. msg_22180
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:26:07
+
+She can just call me sometime
+
+
+---
+
+### 2909. msg_22181
+
+**You** - 2025-06-13T23:26:21
+
+lol I could do that
+
+
+---
+
+### 2910. msg_22182
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:26:23
+
+I mean we will likely never meet for a long time otherwise
+
+
+---
+
+### 2911. msg_22183
+
+**You** - 2025-06-13T23:26:28
+
+She would be up for it I think
+
+
+---
+
+### 2912. msg_22184
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:26:48
+
+Maybe float the idea first before doing your “planning”
+
+
+---
+
+### 2913. msg_22185
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:26:51
+
+lol
+
+
+---
+
+### 2914. msg_22186
+
+**You** - 2025-06-13T23:26:57
+
+Of course
+
+
+---
+
+### 2915. msg_22187
+
+**You** - 2025-06-13T23:27:00
+
+lol
+
+
+---
+
+### 2916. msg_22188
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:28:33
+
+Like with my mom\. Float first\. Schedule later
+
+
+---
+
+### 2917. msg_22189
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:28:35
+
+lol
+
+
+---
+
+### 2918. msg_22190
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:28:46
+
+Edited: 2 versions
+| Version: 2
+| Sent: Fri, 13 Jun 2025 23:29:05 \-0400
+|
+| Let her talk to all her friends about it
+|
+| Version: 1
+| Sent: Fri, 13 Jun 2025 23:28:46 \-0400
+|
+| Let her talks to all her friends about it
+
+
+---
+
+### 2919. msg_22191
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:28:51
+
+Get comfortable with it
+
+
+---
+
+### 2920. msg_22192
+
+**You** - 2025-06-13T23:29:14
+
+https://open\.spotify\.com/track/4T6HLdP6OcAtqC6tGnQelG?si=6AxO\_6K\_TtCapWY917Y2Fw&context=spotify%3Asearch%3Asverything
+Not likely your speed but the sentiment is there\.\. and I like buble\.
+
+
+---
+
+### 2921. msg_22193
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:29:59
+
+Not a big buble fan until he became a judge on the voice\. He is a really good judge
+
+
+---
+
+### 2922. msg_22194
+
+**You** - 2025-06-13T23:30:12
+
+Have you heard this before
+
+
+---
+
+### 2923. msg_22195
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:30:20
+
+Of course
+
+
+---
+
+### 2924. msg_22196
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:30:25
+
+I’m a radio person
+
+
+---
+
+### 2925. msg_22197
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:30:37
+
+This is a big radio song
+
+
+---
+
+### 2926. msg_22198
+
+**You** - 2025-06-13T23:30:41
+
+Oh yeah\.\. I used to be not anymore
+
+
+---
+
+### 2927. msg_22199
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:31:10
+
+Never read the lyrics tho
+
+
+---
+
+### 2928. msg_22200
+
+**You** - 2025-06-13T23:31:48
+
+Reaction: ❤️ from Meredith Lamb
+They are appropriate\.
+
+
+---
+
+### 2929. msg_22201
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:32:00
+
+Would never had had reason to lol
+
+
+---
+
+### 2930. msg_22202
+
+**You** - 2025-06-13T23:35:02
+
+https://open\.spotify\.com/track/4fIWvT19w9PR0VVBuPYpWA?si=ecZNFfKwTRiXoPzzwRgjqw&context=spotify%3Asearch%3Asverything
+I like this one too\.\.
+
+
+---
+
+### 2931. msg_22203
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:36:41
+
+Have you watched him as a judge on the voice?
+
+
+---
+
+### 2932. msg_22204
+
+**You** - 2025-06-13T23:36:51
+
+Nope
+
+
+---
+
+### 2933. msg_22205
+
+**You** - 2025-06-13T23:36:57
+
+Reaction: 😮 from Meredith Lamb
+Never watched that show
+
+
+---
+
+### 2934. msg_22206
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:37:18
+
+Um, excuse me?\!?\!?\!?\!
+
+
+---
+
+### 2935. msg_22207
+
+**You** - 2025-06-13T23:37:25
+
+Wasn’t a bigvtv guy once we moved to Toronto
+
+
+---
+
+### 2936. msg_22208
+
+**You** - 2025-06-13T23:37:33
+
+And j didnt watch it
+
+
+---
+
+### 2937. msg_22209
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:37:47
+
+Omg heart palpitations
+
+
+---
+
+### 2938. msg_22210
+
+**You** - 2025-06-13T23:37:53
+
+lol
+
+
+---
+
+### 2939. msg_22211
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:38:02
+
+Can’t imagine never watching the voice
+
+
+---
+
+### 2940. msg_22212
+
+**You** - 2025-06-13T23:38:10
+
+We can watch at cottage sometime
+
+
+---
+
+### 2941. msg_22213
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:38:13
+
+Such an amazing show
+
+
+---
+
+### 2942. msg_22214
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:38:35
+
+Edited: 2 versions
+| Version: 2
+| Sent: Fri, 13 Jun 2025 23:38:56 \-0400
+|
+| I mean at least the blinds are amazing so there’s different phases in the show\. There’s the blinds the battles, etc\. but the blinds are so amazing for every season\. I watch the blinds, but I don’t necessarily watch the rest of the show\.
+|
+| Version: 1
+| Sent: Fri, 13 Jun 2025 23:38:35 \-0400
+|
+| I mean at least the blinds are amazing so there’s different phases in the show\. There’s the blinds the bottles, etc\. but the blinds are so amazing for every season\. I watch the blinds, but I don’t necessarily watch the rest of the show\.
+
+
+---
+
+### 2943. msg_22215
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:39:47
+
+>
+Oh my God we actually will be but I can’t even decide on the judge combinations that you should see first because you’ve missed out on like 15 years of judging combinations so like Adam Levine Blake Shelton, etc\., etc\. Michael Bublé in there now recently
+
+
+---
+
+### 2944. msg_22216
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:41:00
+
+I think we should have a Radiohead night like it’s just all Radiohead
+
+
+---
+
+### 2945. msg_22217
+
+**You** - 2025-06-13T23:41:25
+
+We can do that
+
+
+---
+
+### 2946. msg_22218
+
+**You** - 2025-06-13T23:41:39
+
+https://open\.spotify\.com/track/36lkJSDyMEZoWTqtRj8Q8q?si=1mCC8uQmTS6CRXflFJNpGQ&context=spotify%3Asearch%3Asverything
+
+
+---
+
+### 2947. msg_22219
+
+**You** - 2025-06-13T23:41:51
+
+The we have a Chicago night\.
+
+
+---
+
+### 2948. msg_22220
+
+**You** - 2025-06-13T23:41:54
+
+ROFL
+
+
+---
+
+### 2949. msg_22221
+
+**You** - 2025-06-13T23:41:57
+
+Kidding
+
+
+---
+
+### 2950. msg_22222
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:42:15
+
+I mean, I’m open to anything honestly
+
+
+---
+
+### 2951. msg_22223
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:42:17
+
+lol
+
+
+---
+
+### 2952. msg_22224
+
+**You** - 2025-06-13T23:42:26
+
+Reaction: 😂 from Meredith Lamb
+Hmmm
+
+
+---
+
+### 2953. msg_22225
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:42:26
+
+Reaction: 👍 from Scott Hicks
+Radiohead first
+
+
+---
+
+### 2954. msg_22226
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:43:02
+
+>
+It’s true\. With you I am\.
+
+
+---
+
+### 2955. msg_22227
+
+**You** - 2025-06-13T23:44:06
+
+Same\.\. never thought I would be\. Given everything for the last 25 years\.
+
+
+---
+
+### 2956. msg_22228
+
+**You** - 2025-06-13T23:44:39
+
+Did you ever listen to the dis song
+
+
+---
+
+### 2957. msg_22229
+
+**You** - 2025-06-13T23:44:42
+
+Sia
+
+
+---
+
+### 2958. msg_22230
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:46:19
+
+https://open\.spotify\.com/track/5Qv2Nby1xTr9pQyjkrc94J?si=WtQgM4fDRVK\-AJQM1P2ZYg
+
+
+---
+
+### 2959. msg_22231
+
+**You** - 2025-06-13T23:48:05
+
+Nice song
+
+
+---
+
+### 2960. msg_22232
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:48:45
+
+>
+Maybe not fully because life if I fast forward\. Send again\. I’m actually listening to music atm\.
+
+
+---
+
+### 2961. msg_22233
+
+**You** - 2025-06-13T23:49:38
+
+https://open\.spotify\.com/track/2Bo0hh0yoQReC4reJav5DT?si=GXHv9YPJSqCeQT3NsWb27w
+
+
+---
+
+### 2962. msg_22234
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:49:50
+
+If we have a Radiohead night, we also have to have an Our Lady Peace night because it wouldn’t be fair to our lady piece if we didn’t have an Our Lady Peace night if we had a Radiohead night just saying
+
+
+---
+
+### 2963. msg_22235
+
+**You** - 2025-06-13T23:50:01
+
+Agreed
+
+
+---
+
+### 2964. msg_22236
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:50:36
+
+>
+K listening now
+
+
+---
+
+### 2965. msg_22237
+
+**You** - 2025-06-13T23:52:22
+
+In my mind we are laying in our king size bed just talking and listening to this music tonight and that’s more than enough… it is perfect\.  I have to hold on to more of these good thoughts\.
+
+
+---
+
+### 2966. msg_22238
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:53:15
+
+>
+Good song I don’t know “sia”\.
+
+
+---
+
+### 2967. msg_22239
+
+**You** - 2025-06-13T23:53:34
+
+Yeah I kind of just foubd her
+
+
+---
+
+### 2968. msg_22240
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:53:44
+
+>
+Me too 🙂
+
+
+---
+
+### 2969. msg_22241
+
+**You** - 2025-06-13T23:53:59
+
+You should get some sleep though so you can get better
+
+
+---
+
+### 2970. msg_22242
+
+**You** - 2025-06-13T23:54:55
+
+But listen to this when you do\.\. you probably don’t nearly enough\.\. most true message I can send\.
+
+
+---
+
+### 2971. msg_22243
+
+**You** - 2025-06-13T23:55:00
+
+https://open\.spotify\.com/track/7JIuqL4ZqkpfGKQhYlrirs?si=wDL\_HH8wTTamkBYUXU6JYw&context=spotify%3Aplaylist%3A4o0w2C4v7JfY6AwQTKoWoD
+
+
+---
+
+### 2972. msg_22244
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:57:31
+
+>
+I’m going to bed in half an hour\. Mac has ppl over\. You can go to bed though I won’t be upset
+
+
+---
+
+### 2973. msg_22245
+
+**You** - 2025-06-13T23:57:59
+
+I can stay up for 30 mins
+
+
+---
+
+### 2974. msg_22246
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:59:39
+
+>
+Honestly you do not have to\. I have so much tv\. Jim keeps telling me I’m behind
+
+
+---
+
+### 2975. msg_22247
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-13T23:59:44
+
+It’s your fault
+
+
+---
+
+### 2976. msg_22248
+
+**You** - 2025-06-14T00:00:30
+
+Kk I am actually quite tired\.\.
+Go watch your rc skip your workout and get better\.\.
+I have some running around to do tomorrow but will reach out and play it by ear lol
+
+
+---
+
+### 2977. msg_22249
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T00:01:04
+
+>
+The first time I heard this song…\. No words\. And you sent it to me at a really early time in our talking\.
+
+
+---
+
+### 2978. msg_22250
+
+**You** - 2025-06-14T00:01:20
+
+I know I meant it then too
+
+
+---
+
+### 2979. msg_22251
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T00:01:32
+
+>
+I have much catching up on tv to do\. Lol
+
+
+---
+
+### 2980. msg_22252
+
+**You** - 2025-06-14T00:01:51
+
+I could already feel it\.\. was very interesting
+
+
+---
+
+### 2981. msg_22253
+
+**You** - 2025-06-14T00:02:33
+
+Reaction: ❤️ from Meredith Lamb
+Kk well I am going to go to bed then you watch your shows\.  I love you mer have a good night will check in tomorrow\.❤️❤️❤️❤️
+
+
+---
+
+### 2982. msg_22254
+
+**You** - 2025-06-14T00:03:32
+
+Glad I didn’t just come home and go to bed
+
+
+---
+
+### 2983. msg_22255
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T00:04:50
+
+Reaction: ❤️ from Scott Hicks
+Edited: 2 versions
+| Version: 2
+| Sent: Sat, 14 Jun 2025 00:05:19 \-0400
+|
+| I love you too and more problematically am extremely in love with you which is causing all the highs and lows\. Stay patient\. 🙂 xo nite
+|
+| Version: 1
+| Sent: Sat, 14 Jun 2025 00:04:50 \-0400
+|
+| I love you too and more problematically am extremely I love with you which is causing all the highs and lows\. Stay patient\. 🙂 xo nite
+
+
+---
+
+### 2984. msg_22256
+
+**You** - 2025-06-14T00:05:45
+
+Hmm
+
+
+---
+
+### 2985. msg_22257
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T00:06:23
+
+lol
+
+
+---
+
+### 2986. msg_22258
+
+**You** - 2025-06-14T00:06:31
+
+lol what
+
+
+---
+
+### 2987. msg_22259
+
+**You** - 2025-06-14T00:06:50
+
+You deleted
+
+
+---
+
+### 2988. msg_22260
+
+**You** - 2025-06-14T00:06:57
+
+I bet
+
+
+---
+
+### 2989. msg_22261
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T00:07:25
+
+Why did you say “hmm”
+
+
+---
+
+### 2990. msg_22262
+
+**You** - 2025-06-14T00:07:40
+
+Thought you were typing something  else
+
+
+---
+
+### 2991. msg_22263
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T00:07:47
+
+Oh no
+
+
+---
+
+### 2992. msg_22264
+
+**You** - 2025-06-14T00:08:26
+
+>
+Counting days\.\. do the best I can\.
+
+
+---
+
+### 2993. msg_22265
+
+**You** - 2025-06-14T00:08:39
+
+Night xo
+
+
+---
+
+### 2994. msg_22266
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T00:09:29
+
+https://open\.spotify\.com/track/1HL3yEnYq8LEyFQ3QegA5V?si=dsXeCtz3TaO7M0obZZFc8w
+
+
+---
+
+### 2995. msg_22267
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T00:09:47
+
+Listen to that before bed\. Will help you sleep :\)
+
+
+---
+
+### 2996. msg_22268
+
+**You** - 2025-06-14T00:10:02
+
+Will do hon\.
+
+
+---
+
+### 2997. msg_22269
+
+**You** - 2025-06-14T00:11:19
+
+Reaction: ❤️ from Meredith Lamb
+Listening now\.\. gonna pass out to it I think
+
+
+---
+
+### 2998. msg_22270
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T06:42:28
+
+Reaction: ❤️ from Scott Hicks
+I get to say good morning to you for once 🌅❤️
+
+
+---
+
+### 2999. msg_22271
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T06:45:34
+
+Reaction: ❤️ from Scott Hicks
+I love waking up to your msgs but honestly just knowing you are there is better\.
+
+
+---
+
+### 3000. msg_22272
+
+**You** - 2025-06-14T06:47:11
+
+I love you mer… still dozing but here and slightly awake ☺️
+
+
+---
+
+### 3001. msg_22273
+
+**You** - 2025-06-14T06:50:40
+
+I hope you slept well and the kids didnt keep you up too late\.\.
+
+
+---
+
+### 3002. msg_22274
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T06:51:14
+
+Mac’s friends were out at 12\.30\. I didn’t even kick them out
+
+
+---
+
+### 3003. msg_22275
+
+**You** - 2025-06-14T06:51:29
+
+Nice\.\.
+
+
+---
+
+### 3004. msg_22276
+
+**You** - 2025-06-14T06:51:44
+
+You feeling a bit better today?
+
+
+---
+
+### 3005. msg_22277
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T06:52:41
+
+Yeah for sure
+
+
+---
+
+### 3006. msg_22278
+
+**You** - 2025-06-14T06:53:07
+
+Good to hear sorry you went through that
+
+
+---
+
+### 3007. msg_22279
+
+**You** - 2025-06-14T06:54:10
+
+One time\.\. well I think you might have been working for me I had a uti then got covid then had another uti back to back to back
+
+
+---
+
+### 3008. msg_22280
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T06:57:30
+
+Yeah I had a couple a year or so ago\. Apparently it is a “perimenopause” thing\. 😜 yippee\. It isn’t the fact that I had a minor illness\. It was the fact \(and was the last time also\) AGAIN that Andrew could care less and just continues to expect normal operation from me\. Tell me what to do blahblah\. I just need out of this house\.
+
+
+---
+
+### 3009. msg_22281
+
+**You** - 2025-06-14T06:58:28
+
+I was just thinking when we were chatting how uncomfortable for a woman that would be Jesus
+
+
+---
+
+### 3010. msg_22282
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T07:00:16
+
+Anyway I don’t even think it was a uti but it felt like it\. Similar symptoms but for one\. They treated me with a one dose pill for a yeast infection and I’m almost fine\. So may not be a uti\. They said to do this first\. All annoying perimenopause crap\. lol this stuff doesn’t happen in 20s and 30s
+
+
+---
+
+### 3011. msg_22283
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T07:01:47
+
+And peri goes on for like 10 yrs I guess …
+
+
+---
+
+### 3012. msg_22284
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T07:02:01
+
+I don’t have that many things from it but a few for sure
+
+
+---
+
+### 3013. msg_22285
+
+**You** - 2025-06-14T07:06:25
+
+Yeah diff for guys there aren’t set things it can be all kinds of shit
+
+
+---
+
+### 3014. msg_22286
+
+**You** - 2025-06-14T07:06:40
+
+Talking to Jon by the way
+
+
+---
+
+### 3015. msg_22287
+
+**You** - 2025-06-14T07:07:19
+
+He called me
+
+
+---
+
+### 3016. msg_22288
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T07:07:31
+
+Called for…?
+Think I’m going to get up and shower and get Mac up
+
+
+---
+
+### 3017. msg_22289
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T07:07:47
+
+At 7am
+
+
+---
+
+### 3018. msg_22290
+
+**You** - 2025-06-14T07:07:48
+
+He is driving
+
+
+---
+
+### 3019. msg_22291
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T07:07:51
+
+Oh
+
+
+---
+
+### 3020. msg_22292
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T07:08:03
+
+He is obvi your friend\. Calls early
+
+
+---
+
+### 3021. msg_22293
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T07:08:05
+
+lol
+
+
+---
+
+### 3022. msg_22294
+
+**You** - 2025-06-14T07:08:10
+
+He knows I am up
+
+
+---
+
+### 3023. msg_22295
+
+**You** - 2025-06-14T07:12:13
+
+>
+lol
+
+
+---
+
+### 3024. msg_22296
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T07:17:34
+
+Everything all good? He just calling to shoot the shit
+
+
+---
+
+### 3025. msg_22297
+
+**You** - 2025-06-14T07:18:19
+
+Reaction: 👍 from Meredith Lamb
+Yeah all is really good
+
+
+---
+
+### 3026. msg_22298
+
+**You** - 2025-06-14T07:34:29
+
+Kk off
+
+
+---
+
+### 3027. msg_22299
+
+**You** - 2025-06-14T07:35:22
+
+Was a good chat some about him wanting to do what I am doing woth the workout some about my life some about us\.  He is looking forward to meeting you as well\.  Then we talked a bit about logistics for the day of\.
+
+
+---
+
+### 3028. msg_22300
+
+**You** - 2025-06-14T07:35:32
+
+Can get into it more later\.
+
+
+---
+
+### 3029. msg_22301
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T07:43:57
+
+Ok he doesn’t care that this is all still pretty secretive\.
+
+
+---
+
+### 3030. msg_22302
+
+**You** - 2025-06-14T07:46:19
+
+Nope
+
+
+---
+
+### 3031. msg_22303
+
+**You** - 2025-06-14T07:46:24
+
+Reaction: ❤️ from Meredith Lamb
+Not even a little
+
+
+---
+
+### 3032. msg_22304
+
+**You** - 2025-06-14T07:46:32
+
+And his parents are going to be there too
+
+
+---
+
+### 3033. msg_22305
+
+**You** - 2025-06-14T07:46:40
+
+I haven’t seen them since 1997
+
+
+---
+
+### 3034. msg_22306
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T07:49:30
+
+Ow wow that’s cool
+
+
+---
+
+### 3035. msg_22307
+
+**You** - 2025-06-14T08:04:40
+
+Sry j up going to service ontario to change ownership of cars
+
+
+---
+
+### 3036. msg_22308
+
+**You** - 2025-06-14T08:04:47
+
+Putting furniture by road etc
+
+
+---
+
+### 3037. msg_22309
+
+**You** - 2025-06-14T08:05:30
+
+I tried to get Gracie to go back home next weekend but no dice\.\. maddie has exams so was hoping Gracie would leave her be
+
+
+---
+
+### 3038. msg_22310
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T08:27:22
+
+I’m standing in line at drive test with McKenzie waiting for it to open so much fun\. I’m not allowed to sit in the car\. She’s making me stay in line with her\.
+
+
+---
+
+### 3039. msg_22311
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T08:32:21
+
+I don’t think she studied so she is going to fail\. God
+
+
+---
+
+### 3040. msg_22312
+
+**You** - 2025-06-14T08:35:23
+
+lol best
+Of
+Luck
+
+
+---
+
+### 3041. msg_22313
+
+**You** - 2025-06-14T08:45:19
+
+She is smart she might crush it 😀
+
+
+---
+
+### 3042. msg_22314
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T08:50:50
+
+She was chatgpting tips before and now she is on TikTok\. Not a good sign\. We are just waiting
+
+
+---
+
+### 3043. msg_22315
+
+**You** - 2025-06-14T08:51:03
+
+lol
+
+
+---
+
+### 3044. msg_22316
+
+**You** - 2025-06-14T08:51:17
+
+I am going to stand at service Ontario line with j so prolly silent for a few
+
+
+---
+
+### 3045. msg_22317
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T08:51:28
+
+k
+
+
+---
+
+### 3046. msg_22318
+
+**You** - 2025-06-14T08:52:19
+
+Actually nm we not talking she on phone lol
+
+
+---
+
+### 3047. msg_22319
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T08:52:44
+
+You will talk later on your Costco drive
+
+
+---
+
+### 3048. msg_22320
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T08:52:48
+
+Don’t worry
+
+
+---
+
+### 3049. msg_22321
+
+**You** - 2025-06-14T08:53:18
+
+Oh I hope so
+
+
+---
+
+### 3050. msg_22322
+
+**You** - 2025-06-14T08:53:24
+
+Probably about you
+
+
+---
+
+### 3051. msg_22323
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T08:53:49
+
+😜
+
+
+---
+
+### 3052. msg_22324
+
+**You** - 2025-06-14T08:55:35
+
+Yeah I am going to tell her I am meeting your parents
+
+
+---
+
+### 3053. msg_22325
+
+**You** - 2025-06-14T08:55:42
+
+Ask her what I should talk about
+
+
+---
+
+### 3054. msg_22326
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T08:55:52
+
+Ok now\.
+
+
+---
+
+### 3055. msg_22327
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T08:55:58
+
+lol stop
+
+
+---
+
+### 3056. msg_22328
+
+**You** - 2025-06-14T08:56:07
+
+Hmm maybe some other ideas
+
+
+---
+
+### 3057. msg_22329
+
+**You** - 2025-06-14T08:59:09
+
+She is reading her books anyways not paying attention\.
+
+
+---
+
+### 3058. msg_22330
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T09:01:38
+
+Mac is number 22 and they are on 4\. Omg this is going to be like minimum an hour
+
+
+---
+
+### 3059. msg_22331
+
+**You** - 2025-06-14T09:09:36
+
+Yep
+
+
+---
+
+### 3060. msg_22332
+
+**You** - 2025-06-14T09:09:48
+
+I think I will be about 15 mins
+
+
+---
+
+### 3061. msg_22333
+
+**You** - 2025-06-14T09:09:56
+
+Chatting with ai while I sit here
+
+
+---
+
+### 3062. msg_22334
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T09:10:07
+
+I’m condo looking
+
+
+---
+
+### 3063. msg_22335
+
+**You** - 2025-06-14T09:15:33
+
+I think I will be getting a townhouse
+
+
+---
+
+### 3064. msg_22336
+
+**You** - 2025-06-14T09:15:37
+
+For the parking
+
+
+---
+
+### 3065. msg_22337
+
+**You** - 2025-06-14T09:15:50
+
+Need 2 spaces but we’ll see
+
+
+---
+
+### 3066. msg_22338
+
+**You** - 2025-06-14T09:15:57
+
+Would prefer condo
+
+
+---
+
+### 3067. msg_22339
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T09:16:30
+
+https://share\.google/cMqbEar08cYpi0htv
+I’m considering this place\. Right by the girls’ school\.
+
+
+---
+
+### 3068. msg_22340
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T09:21:06
+
+I’m touring it fri at 2\.30pm
+
+
+---
+
+### 3069. msg_22341
+
+**You** - 2025-06-14T09:25:02
+
+Edited: 2 versions
+| Version: 2
+| Sent: Sat, 14 Jun 2025 09:25:10 \-0400
+|
+| Sec off to Whitby Toyota
+|
+| Version: 1
+| Sent: Sat, 14 Jun 2025 09:25:02 \-0400
+|
+| Sex off to Whitby Toyota
+
+
+---
+
+### 3070. msg_22342
+
+**You** - 2025-06-14T09:26:26
+
+Edited: 2 versions
+| Version: 2
+| Sent: Sat, 14 Jun 2025 09:26:32 \-0400
+|
+| Cool
+|
+| Version: 1
+| Sent: Sat, 14 Jun 2025 09:26:26 \-0400
+|
+| Cook
+
+
+---
+
+### 3071. msg_22343
+
+**You** - 2025-06-14T09:28:33
+
+Hmm studios 2 k
+
+
+---
+
+### 3072. msg_22344
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T09:33:22
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3073. msg_22345
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T09:33:42
+
+So small
+
+
+---
+
+### 3074. msg_22346
+
+**You** - 2025-06-14T09:37:47
+
+Yeah ouch
+
+
+---
+
+### 3075. msg_22347
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T09:38:27
+
+Mac thinks it doesn’t matter bc of all the amenities and spaces and everyone is in their room all the time anyway\. I dunno\. Going to do a tour\.
+
+
+---
+
+### 3076. msg_22348
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T09:46:11
+
+So Mackenzie missed the number so they were like “you have to pick a new one” so we are leaving\. I can’t even with teenagers\. Wasted my morning\. Omg
+
+
+---
+
+### 3077. msg_22349
+
+**You** - 2025-06-14T09:58:59
+
+Omg
+
+
+---
+
+### 3078. msg_22350
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T10:03:28
+
+Yeah they were assholes tho
+
+
+---
+
+### 3079. msg_22351
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T10:03:40
+
+She chose a horribly reviewed place
+
+
+---
+
+### 3080. msg_22352
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T10:03:52
+
+Going elsewhere next time
+
+
+---
+
+### 3081. msg_22353
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T10:04:14
+
+She said her spirit is ruined for today so not going today lol
+
+
+---
+
+### 3082. msg_22354
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T10:13:26
+
+Home\. I’m hungover, annoyed, and tired so having a nap\. Lol I told her I’d take her somewhere else after but she said…\. Low key spirit gone for the day\.
+
+
+---
+
+### 3083. msg_22355
+
+**You** - 2025-06-14T10:25:33
+
+Spirit is ruined?
+
+
+---
+
+### 3084. msg_22356
+
+**You** - 2025-06-14T10:25:45
+
+Hungover I thought only 2 lol
+
+
+---
+
+### 3085. msg_22357
+
+**You** - 2025-06-14T10:25:58
+
+J and I fought all the way to Costco
+
+
+---
+
+### 3086. msg_22358
+
+**You** - 2025-06-14T10:26:05
+
+Never got to talk about your parents
+
+
+---
+
+### 3087. msg_22359
+
+**You** - 2025-06-14T10:26:14
+
+Thought you would like to koo no w
+
+
+---
+
+### 3088. msg_22360
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T11:34:30
+
+I feel like you are making that up
+
+
+---
+
+### 3089. msg_22361
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T11:34:57
+
+>
+2 was the night before\. Last night was a tad beyond that…
+
+
+---
+
+### 3090. msg_22362
+
+**You** - 2025-06-14T11:36:11
+
+>
+Nope fought about Gracie entire time
+
+
+---
+
+### 3091. msg_22363
+
+**You** - 2025-06-14T11:36:18
+
+All through Costco all the way home
+
+
+---
+
+### 3092. msg_22364
+
+**You** - 2025-06-14T11:36:26
+
+At butcher shop now for steak for tomorrow
+
+
+---
+
+### 3093. msg_22365
+
+**You** - 2025-06-14T11:36:48
+
+>
+lol
+
+
+---
+
+### 3094. msg_22366
+
+**You** - 2025-06-14T11:37:05
+
+We’ll I couldn’t tell on the texts
+
+
+---
+
+### 3095. msg_22367
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T11:37:47
+
+I mean I didn’t go crazy
+
+
+---
+
+### 3096. msg_22368
+
+**You** - 2025-06-14T11:38:52
+
+I mean lol
+
+
+---
+
+### 3097. msg_22369
+
+**You** - 2025-06-14T11:38:53
+
+6
+
+
+---
+
+### 3098. msg_22370
+
+**You** - 2025-06-14T11:38:55
+
+Only
+
+
+---
+
+### 3099. msg_22371
+
+**You** - 2025-06-14T11:38:57
+
+Haha
+
+
+---
+
+### 3100. msg_22372
+
+**You** - 2025-06-14T11:39:09
+
+It’s fine I loved our conversation
+
+
+---
+
+### 3101. msg_22373
+
+**You** - 2025-06-14T11:39:26
+
+I went to bed happy last night
+
+
+---
+
+### 3102. msg_22374
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T11:40:16
+
+If it got weird, we said earlier in the day that you were just going to leave didn’t we? …\.so I just kept drinking lol
+
+
+---
+
+### 3103. msg_22375
+
+**You** - 2025-06-14T11:41:27
+
+Leave?
+
+
+---
+
+### 3104. msg_22376
+
+**You** - 2025-06-14T11:41:37
+
+Oh go to bed
+
+
+---
+
+### 3105. msg_22377
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T11:41:41
+
+The conversation… yeah
+
+
+---
+
+### 3106. msg_22378
+
+**You** - 2025-06-14T11:41:46
+
+Yeah I was planning on it
+
+
+---
+
+### 3107. msg_22379
+
+**You** - 2025-06-14T11:42:02
+
+Then the underwear thing\.\. wanted to give you a chuckle
+
+
+---
+
+### 3108. msg_22380
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T11:43:32
+
+lol
+
+
+---
+
+### 3109. msg_22381
+
+**You** - 2025-06-14T12:17:42
+
+Home break for a bit then back to packing with J directing… bah\.
+
+
+---
+
+### 3110. msg_22382
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:20:17
+
+Fun day for you
+
+
+---
+
+### 3111. msg_22383
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:20:44
+
+I’m home alone\. Just dropped Maelle off at work, Mac at gym, Andrew/Mar at volleyball\. So weird\!
+
+
+---
+
+### 3112. msg_22384
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:21:04
+
+Making soup lol
+
+
+---
+
+### 3113. msg_22385
+
+**You** - 2025-06-14T12:26:06
+
+I thought you had bmvbakl today as well
+
+
+---
+
+### 3114. msg_22386
+
+**You** - 2025-06-14T12:26:13
+
+Vball
+
+
+---
+
+### 3115. msg_22387
+
+**You** - 2025-06-14T12:26:36
+
+Yeah thought you were taking mar and then heading to parents or something
+
+
+---
+
+### 3116. msg_22388
+
+**You** - 2025-06-14T12:26:41
+
+Maybe I misremember
+
+
+---
+
+### 3117. msg_22389
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:26:51
+
+Nope
+
+
+---
+
+### 3118. msg_22390
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:27:03
+
+Marlowe has volleyball today\. Maelle has volleyball tomorrow\. Maelle has work today\.
+
+
+---
+
+### 3119. msg_22391
+
+**You** - 2025-06-14T12:27:04
+
+Well enjoy your day the \!
+
+
+---
+
+### 3120. msg_22392
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:27:14
+
+I had to take McKenzie in the morning to drive test, which was three hours wasted
+
+
+---
+
+### 3121. msg_22393
+
+**You** - 2025-06-14T12:27:24
+
+Yeah I read that\.\. sucks
+
+
+---
+
+### 3122. msg_22394
+
+**You** - 2025-06-14T12:28:10
+
+But at least you have the rest of the day to yourself
+
+
+---
+
+### 3123. msg_22395
+
+**You** - 2025-06-14T12:28:33
+
+And I wasn’t lying\.\. stop being a shitter\.\. I don’t lie to you about stuff like that\.
+
+
+---
+
+### 3124. msg_22396
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:29:48
+
+Lying about what?
+
+
+---
+
+### 3125. msg_22397
+
+**You** - 2025-06-14T12:30:36
+
+The convo with Jaimie
+
+
+---
+
+### 3126. msg_22398
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:31:24
+
+I was kidding, kind of
+
+
+---
+
+### 3127. msg_22399
+
+**You** - 2025-06-14T12:31:38
+
+lol you can’t really kind of kid\.\.
+
+
+---
+
+### 3128. msg_22400
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:31:48
+
+Sure, I can
+
+
+---
+
+### 3129. msg_22401
+
+**You** - 2025-06-14T12:32:05
+
+Mmmmm not so much
+
+
+---
+
+### 3130. msg_22402
+
+**You** - 2025-06-14T12:32:15
+
+That’s like trying to get the best of both worlds
+
+
+---
+
+### 3131. msg_22403
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:32:18
+
+I just wasn’t sure if you were trying to make me feel better or something
+
+
+---
+
+### 3132. msg_22404
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:32:30
+
+So I kind of felt like you were making that up, but I kind of felt like you weren’t so I was kind of kidding
+
+
+---
+
+### 3133. msg_22405
+
+**You** - 2025-06-14T12:32:37
+
+Like I can kind of accuse you of something but then say kidding after the fact when you get pissed st me
+
+
+---
+
+### 3134. msg_22406
+
+**You** - 2025-06-14T12:32:38
+
+lol
+
+
+---
+
+### 3135. msg_22407
+
+**You** - 2025-06-14T12:32:45
+
+Because if that is how it works
+
+
+---
+
+### 3136. msg_22408
+
+**You** - 2025-06-14T12:32:48
+
+Sign me up\!\!\!\!
+
+
+---
+
+### 3137. msg_22409
+
+**You** - 2025-06-14T12:33:10
+
+We absolutely fought the whole time about grace
+
+
+---
+
+### 3138. msg_22410
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:33:33
+
+And what was the end result?
+
+
+---
+
+### 3139. msg_22411
+
+**You** - 2025-06-14T12:34:01
+
+Same we both on fundamentally different pages
+
+
+---
+
+### 3140. msg_22412
+
+**You** - 2025-06-14T12:34:11
+
+And frustrated
+
+
+---
+
+### 3141. msg_22413
+
+**You** - 2025-06-14T12:34:27
+
+I told her if nothing else this clearly demonstrated there was no coming back from this
+
+
+---
+
+### 3142. msg_22414
+
+**You** - 2025-06-14T12:34:37
+
+And she grudgingly agreed
+
+
+---
+
+### 3143. msg_22415
+
+**You** - 2025-06-14T12:35:02
+
+Then we talked about continuing to share Netflix and prime and everything
+
+
+---
+
+### 3144. msg_22416
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:35:10
+
+What do you want, what does she want wrt to Gracie?
+
+
+---
+
+### 3145. msg_22417
+
+**You** - 2025-06-14T12:35:20
+
+And she said when you finally get with someone they won’t want you to keep the sharing going on
+
+
+---
+
+### 3146. msg_22418
+
+**You** - 2025-06-14T12:35:23
+
+I laughed
+
+
+---
+
+### 3147. msg_22419
+
+**You** - 2025-06-14T12:35:49
+
+>
+It was more assessing Gracie’s involvement in all of the and where we landed because I take the brunt of everything
+
+
+---
+
+### 3148. msg_22420
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:36:12
+
+Oh I see
+
+
+---
+
+### 3149. msg_22421
+
+**You** - 2025-06-14T12:36:39
+
+She said women care about that kind of shit\-re Netflix
+
+
+---
+
+### 3150. msg_22422
+
+**You** - 2025-06-14T12:36:47
+
+I was like what??? That so stupid
+
+
+---
+
+### 3151. msg_22423
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:37:02
+
+Well naturally you will get the brunt because you carried the family in an unequal way so then you’ll get an unequal part of the blame also\. It kind of makes sense even if it isn’t fair\.
+
+
+---
+
+### 3152. msg_22424
+
+**You** - 2025-06-14T12:37:40
+
+She said something about whoever I get with will resent any connections I have to her going forward\.\.
+
+
+---
+
+### 3153. msg_22425
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:37:50
+
+>
+Does she think you are going to be living with “someone” soon? That doesn’t even seem like an issue\.
+
+
+---
+
+### 3154. msg_22426
+
+**You** - 2025-06-14T12:37:50
+
+She keeps saying get with…
+
+
+---
+
+### 3155. msg_22427
+
+**You** - 2025-06-14T12:37:52
+
+lol
+
+
+---
+
+### 3156. msg_22428
+
+**You** - 2025-06-14T12:38:04
+
+She seems to think I will
+
+
+---
+
+### 3157. msg_22429
+
+**You** - 2025-06-14T12:38:41
+
+I mean some 30 something out there prolly looking for a mature stable fit………\. 40 something   lol KIDDING
+
+
+---
+
+### 3158. msg_22430
+
+**You** - 2025-06-14T12:38:51
+
+😝
+
+
+---
+
+### 3159. msg_22431
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:39:06
+
+Oh my god that is so funny because McKenzie and I were talking about that today on the drive
+
+
+---
+
+### 3160. msg_22432
+
+**You** - 2025-06-14T12:39:15
+
+What??
+
+
+---
+
+### 3161. msg_22433
+
+**You** - 2025-06-14T12:39:19
+
+You and Jonny
+
+
+---
+
+### 3162. msg_22434
+
+**You** - 2025-06-14T12:39:28
+
+??? Also kidding
+
+
+---
+
+### 3163. msg_22435
+
+**You** - 2025-06-14T12:39:32
+
+Roll
+
+
+---
+
+### 3164. msg_22436
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:39:38
+
+A lot of the people on McKenzie’s volleyball team were divorced and the divorced parents all had new partners, but the partners were all like the same age
+
+
+---
+
+### 3165. msg_22437
+
+**You** - 2025-06-14T12:39:57
+
+Well then you and I are in sync
+
+
+---
+
+### 3166. msg_22438
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:39:59
+
+When McKenzie was with Andrew once he said he just didn’t understand why anyone would get divorced and go out with someone the same age when they could go with someone much younger
+
+
+---
+
+### 3167. msg_22439
+
+**You** - 2025-06-14T12:40:07
+
+Omfg
+
+
+---
+
+### 3168. msg_22440
+
+**You** - 2025-06-14T12:40:14
+
+How insensitive
+
+
+---
+
+### 3169. msg_22441
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:40:18
+
+McKenzie is never forgotten that and she mentioned every so often
+
+
+---
+
+### 3170. msg_22442
+
+**You** - 2025-06-14T12:40:26
+
+Like think man
+
+
+---
+
+### 3171. msg_22443
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:40:28
+
+Like he tells his teen daughter this\!
+
+
+---
+
+### 3172. msg_22444
+
+**You** - 2025-06-14T12:40:30
+
+You have daighters
+
+
+---
+
+### 3173. msg_22445
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:40:32
+
+lol
+
+
+---
+
+### 3174. msg_22446
+
+**You** - 2025-06-14T12:40:34
+
+Yeah
+
+
+---
+
+### 3175. msg_22447
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:40:35
+
+I know
+
+
+---
+
+### 3176. msg_22448
+
+**You** - 2025-06-14T12:40:38
+
+Fuck
+
+
+---
+
+### 3177. msg_22449
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:40:48
+
+He’s a little self centred
+
+
+---
+
+### 3178. msg_22450
+
+**You** - 2025-06-14T12:41:06
+
+I mean I am surprised you didn’t go for someone younger\.\. well more younger
+
+
+---
+
+### 3179. msg_22451
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:41:21
+
+Har har\!
+
+
+---
+
+### 3180. msg_22452
+
+**You** - 2025-06-14T12:41:28
+
+Andrew = younger
+
+
+---
+
+### 3181. msg_22453
+
+**You** - 2025-06-14T12:41:34
+
+Jeremy = younger
+
+
+---
+
+### 3182. msg_22454
+
+**You** - 2025-06-14T12:41:44
+
+Har had
+
+
+---
+
+### 3183. msg_22455
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:41:46
+
+Mackenzie thinks Andrew will date someone much younger
+
+
+---
+
+### 3184. msg_22456
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:41:52
+
+She’s worried lol
+
+
+---
+
+### 3185. msg_22457
+
+**You** - 2025-06-14T12:42:01
+
+He might
+
+
+---
+
+### 3186. msg_22458
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:42:07
+
+I’m immature I guess\.
+
+
+---
+
+### 3187. msg_22459
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:42:10
+
+lol
+
+
+---
+
+### 3188. msg_22460
+
+**You** - 2025-06-14T12:42:19
+
+Naw you just like them younger men\.
+
+
+---
+
+### 3189. msg_22461
+
+**You** - 2025-06-14T12:42:37
+
+Sok I feel younger so there is that
+
+
+---
+
+### 3190. msg_22462
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:42:50
+
+Exactly
+
+
+---
+
+### 3191. msg_22463
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:43:20
+
+It’s funny because I’ve been thinking about the stark honesty thing a bit
+
+
+---
+
+### 3192. msg_22464
+
+**You** - 2025-06-14T12:43:27
+
+Why?
+
+
+---
+
+### 3193. msg_22465
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:43:30
+
+I’m like “should I work on that?” Lol
+
+
+---
+
+### 3194. msg_22466
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:43:49
+
+So when Andrew and I met, we talked online because he was in Dallas for a few months like three months and then we met in real life\.
+
+
+---
+
+### 3195. msg_22467
+
+**You** - 2025-06-14T12:43:55
+
+Mer yes there are certain things you don’t say\.
+
+
+---
+
+### 3196. msg_22468
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:44:01
+
+The first thing I said to him was… wait for it…\.
+
+
+---
+
+### 3197. msg_22469
+
+**You** - 2025-06-14T12:44:08
+
+I thought you’d be taller
+
+
+---
+
+### 3198. msg_22470
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:44:23
+
+Exactly and he hates it so much\. Brings it up all the time\.
+
+
+---
+
+### 3199. msg_22471
+
+**You** - 2025-06-14T12:44:26
+
+lol
+
+
+---
+
+### 3200. msg_22472
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:44:31
+
+Like a few times a year for sure
+
+
+---
+
+### 3201. msg_22473
+
+**You** - 2025-06-14T12:44:35
+
+I know you too well already
+
+
+---
+
+### 3202. msg_22474
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:44:42
+
+Did I tell you that story?
+
+
+---
+
+### 3203. msg_22475
+
+**You** - 2025-06-14T12:44:45
+
+No
+
+
+---
+
+### 3204. msg_22476
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:44:54
+
+Oh my God, good guess
+
+
+---
+
+### 3205. msg_22477
+
+**You** - 2025-06-14T12:44:59
+
+Nope not a guess
+
+
+---
+
+### 3206. msg_22478
+
+**You** - 2025-06-14T12:45:09
+
+You said you like tall guys or big guys or whatever
+
+
+---
+
+### 3207. msg_22479
+
+**You** - 2025-06-14T12:45:15
+
+So was kind of logic leap
+
+
+---
+
+### 3208. msg_22480
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:45:26
+
+I guess still good though
+
+
+---
+
+### 3209. msg_22481
+
+**You** - 2025-06-14T12:45:35
+
+But yeah there are still things you shouldn’t say especially to a guy
+
+
+---
+
+### 3210. msg_22482
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:45:43
+
+lol
+
+
+---
+
+### 3211. msg_22483
+
+**You** - 2025-06-14T12:45:46
+
+And the fact that you don’t like to lie
+
+
+---
+
+### 3212. msg_22484
+
+**You** - 2025-06-14T12:45:50
+
+Makes it so much worse
+
+
+---
+
+### 3213. msg_22485
+
+**You** - 2025-06-14T12:46:02
+
+Because again it is now about as much as you don’t say as what you do
+
+
+---
+
+### 3214. msg_22486
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:46:17
+
+Correct
+
+
+---
+
+### 3215. msg_22487
+
+**You** - 2025-06-14T12:46:20
+
+So even for me I have started thinking more about the questions I ask and the things I say to you
+
+
+---
+
+### 3216. msg_22488
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:46:24
+
+I think that is most people though
+
+
+---
+
+### 3217. msg_22489
+
+**You** - 2025-06-14T12:46:29
+
+Because like the other night it went all fucked Jo
+
+
+---
+
+### 3218. msg_22490
+
+**You** - 2025-06-14T12:46:31
+
+Up
+
+
+---
+
+### 3219. msg_22491
+
+**You** - 2025-06-14T12:46:38
+
+Not most people
+
+
+---
+
+### 3220. msg_22492
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:46:39
+
+Hahah
+
+
+---
+
+### 3221. msg_22493
+
+**You** - 2025-06-14T12:46:42
+
+Most people lie
+
+
+---
+
+### 3222. msg_22494
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:46:50
+
+“Most”
+
+
+---
+
+### 3223. msg_22495
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:46:55
+
+I’m not sure about that
+
+
+---
+
+### 3224. msg_22496
+
+**You** - 2025-06-14T12:46:55
+
+A little or a lot
+
+
+---
+
+### 3225. msg_22497
+
+**You** - 2025-06-14T12:47:00
+
+But nearly everyone does
+
+
+---
+
+### 3226. msg_22498
+
+**You** - 2025-06-14T12:47:07
+
+Especially about certain things
+
+
+---
+
+### 3227. msg_22499
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:47:29
+
+I guess I don’t see the point I know I’ve said that before, but it’s true
+
+
+---
+
+### 3228. msg_22500
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:48:16
+
+I will work on my lying
+
+
+---
+
+### 3229. msg_22501
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:48:20
+
+KIDDING
+
+
+---
+
+### 3230. msg_22502
+
+**You** - 2025-06-14T12:48:53
+
+I am going to show you
+
+
+---
+
+### 3231. msg_22503
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:50:48
+
+Please don’t\. Lol
+
+
+---
+
+### 3232. msg_22504
+
+**You** - 2025-06-14T12:50:57
+
+Oh no
+
+
+---
+
+### 3233. msg_22505
+
+**You** - 2025-06-14T12:50:59
+
+It’s on
+
+
+---
+
+### 3234. msg_22506
+
+**You** - 2025-06-14T12:51:10
+
+Informing nsfw gpt query
+
+
+---
+
+### 3235. msg_22507
+
+**You** - 2025-06-14T12:51:32
+
+I actually had to re query it\.\. because the nsfw was SOOOOO nsfw\.
+
+
+---
+
+### 3236. msg_22508
+
+**You** - 2025-06-14T12:51:45
+
+I was like holy shit
+
+
+---
+
+### 3237. msg_22509
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:52:13
+
+Wait explain that what were you querying
+
+
+---
+
+### 3238. msg_22510
+
+**You** - 2025-06-14T12:53:27
+
+Stark honesty
+
+
+---
+
+### 3239. msg_22511
+
+**You** - 2025-06-14T12:53:30
+
+And the impacts
+
+
+---
+
+### 3240. msg_22512
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:53:41
+
+But how is that not safe for work I don’t get it
+
+
+---
+
+### 3241. msg_22513
+
+**You** - 2025-06-14T12:53:43
+
+I will show you what I asked
+
+
+---
+
+### 3242. msg_22514
+
+**You** - 2025-06-14T12:53:59
+
+Because I told it you can respond in a nsfw manner
+
+
+---
+
+### 3243. msg_22515
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T12:54:08
+
+lol oh
+
+
+---
+
+### 3244. msg_22516
+
+**You** - 2025-06-14T12:54:16
+
+More realistic
+
+
+---
+
+### 3245. msg_22517
+
+**You** - 2025-06-14T13:07:31
+
+Man gpt is dirty I had to tone it back a lot
+
+
+---
+
+### 3246. msg_22518
+
+**You** - 2025-06-14T13:07:38
+
+Ok you ready?
+
+
+---
+
+### 3247. msg_22519
+
+**You** - 2025-06-14T13:07:46
+
+Stark honesty no no’s
+
+
+---
+
+### 3248. msg_22520
+
+**You** - 2025-06-14T13:08:04
+
+Reaction: 😂 from Meredith Lamb
+Or did you shut off your phone because you don’t want to read lol
+
+
+---
+
+### 3249. msg_22521
+
+**You** - 2025-06-14T13:09:07
+
+Now you haven’t nor would I think you would go into this detail, even really drunk\.\.  well maybe…\.  Anyhow this is why people lie\.
+1\. Past Encounters
+1\.	“I’ve been with maybe six guys—one could go on for nearly an hour, another wrapped up in ten minutes but always hit my sweet spot\.”
+•	Ripple: You might wonder if you’re “quick enough” or “lasting long enough\.”
+2\.	“There was a weekend when I saw two different people in one night—like clockwork\.”
+•	Ripple: You could feel like you’re competing on sheer frequency, not connection\.
+3\.	“I once had someone who never ran out of steam—kept going until sunrise\.”
+•	Ripple: You may stress about matching that all\-night stamina instead of just enjoying yourselves\.
+4\.	“Another guy was… well\-equipped and knew exactly when to slow down\.”
+•	Ripple: You could start second\-guessing whether your own size or pacing measures up\.
+⸻
+2\. Expressions of Love & Deep Affection
+1\.	“He wrote me love letters every week—pages of how much he adored me\.”
+•	Ripple: You mig\.\.\. \[truncated\]
+
+
+---
+
+### 3250. msg_22522
+
+**You** - 2025-06-14T13:10:54
+
+Welcome to the world of an insecure guy even the ones that say they aren’t always are\.
+
+
+---
+
+### 3251. msg_22523
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:12:18
+
+WOW
+
+
+---
+
+### 3252. msg_22524
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:12:39
+
+holy … my head does not go there at all\. That was very educational
+
+
+---
+
+### 3253. msg_22525
+
+**You** - 2025-06-14T13:16:10
+
+it doesn't right now
+
+
+---
+
+### 3254. msg_22526
+
+**You** - 2025-06-14T13:17:16
+
+>
+educational lol\.\. you should have seen the first iteration\.\.
+
+
+---
+
+### 3255. msg_22527
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:17:31
+
+I’m sure I could’ve handled it
+
+
+---
+
+### 3256. msg_22528
+
+**You** - 2025-06-14T13:19:12
+
+this was the 1st one\.\. not pasting anymore\. lol
+1\. Graphic Sexual Details & Past Encounters
+Examples you might blurt out:
+“That time I fucked three guys in one night—let me tell you every position they topped me in\.”
+“My ex and I used to have wild role\-play: I’d be the schoolgirl, he’d be the headmaster…”
+“I only orgasm when they do X in this exact way, not how you’re doing it\.”
+Likely Outcome:
+Jealousy PTSD: He’ll replay those scenes in his head, convinced he can’t compete\.
+Performance Anxiety: He’ll freeze up, fearing he’ll disappoint you or measure up to those ex\-standards\.
+Emotional Shutdown: Instead of closeness, you get awkward distance—because who wants a running commentary on your partner’s past pornographic highlights?
+
+
+---
+
+### 3257. msg_22529
+
+**You** - 2025-06-14T13:19:54
+
+anyhow\.\. does that help with stark honesty?  and why I say everyone lies\.\. and why I am now being a bit more careful\. lol
+
+
+---
+
+### 3258. msg_22530
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:20:45
+
+Yes that helps
+
+
+---
+
+### 3259. msg_22531
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:21:15
+
+Not sure I’d say anything like that, but I’ve obviously said some stuff that has had an impact so ugh…
+
+
+---
+
+### 3260. msg_22532
+
+**You** - 2025-06-14T13:21:33
+
+or not said\.\. so confusing eh\.
+
+
+---
+
+### 3261. msg_22533
+
+**You** - 2025-06-14T13:21:44
+
+relationships and communications are tough\.
+
+
+---
+
+### 3262. msg_22534
+
+**You** - 2025-06-14T13:21:55
+
+it was really hard for J and I she used to call me out on it all the time
+
+
+---
+
+### 3263. msg_22535
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:22:23
+
+Call you out on what exactly?
+
+
+---
+
+### 3264. msg_22536
+
+**You** - 2025-06-14T13:23:31
+
+I was more open / honest with her in the beginning\.\. kind of like you have been\.\. maybe not quite so much\.\. but J always was and remains very insecure about a lot of things\.\. I had much more experience than her in a lot of areas\.\. she new a bit about my past\.\. new some people I had dated\.
+
+
+---
+
+### 3265. msg_22537
+
+**You** - 2025-06-14T13:23:38
+
+It made her feel inadequate
+
+
+---
+
+### 3266. msg_22538
+
+**You** - 2025-06-14T13:24:00
+
+like she couldn't measure up to previous experiences etc\.
+
+
+---
+
+### 3267. msg_22539
+
+**You** - 2025-06-14T13:24:41
+
+the tricky part is when you actually want to be honest\.\. like I can say as of yet I have not lied to you at all about any of the feelings I have about anything\.
+
+
+---
+
+### 3268. msg_22540
+
+**You** - 2025-06-14T13:25:07
+
+sometimes I omit if you don't ask generally on the negative feelings\.  But as you said that isn't lying per se\.
+
+
+---
+
+### 3269. msg_22541
+
+**You** - 2025-06-14T13:25:56
+
+I just had to tailor my approach to her\.\. she was who she was\.\. and I didn't want her to feel bad\.
+
+
+---
+
+### 3270. msg_22542
+
+**You** - 2025-06-14T13:26:04
+
+but I still always tried to be honest
+
+
+---
+
+### 3271. msg_22543
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:26:17
+
+You strike me as pretty honest
+
+
+---
+
+### 3272. msg_22544
+
+**You** - 2025-06-14T13:26:29
+
+I am\.\. but I also care about how what I say makes people feel\.
+
+
+---
+
+### 3273. msg_22545
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:27:04
+
+Maybe too much sometimes?
+
+
+---
+
+### 3274. msg_22546
+
+**You** - 2025-06-14T13:27:09
+
+and even then I think about what I am not saying as well\.
+
+
+---
+
+### 3275. msg_22547
+
+**You** - 2025-06-14T13:27:19
+
+Not for people I care about\.\.
+
+
+---
+
+### 3276. msg_22548
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:27:24
+
+You think so much\.
+
+
+---
+
+### 3277. msg_22549
+
+**You** - 2025-06-14T13:27:47
+
+I can have an impact on people\.\. it can be good or bad\.\. I would prefer good\.
+
+
+---
+
+### 3278. msg_22550
+
+**You** - 2025-06-14T13:28:08
+
+I can be a lot more honest with you\.\. because you have kind of drawn you comfort lines for me\.
+
+
+---
+
+### 3279. msg_22551
+
+**You** - 2025-06-14T13:28:18
+
+you are not as insecure
+
+
+---
+
+### 3280. msg_22552
+
+**You** - 2025-06-14T13:29:44
+
+Anyhow\.\. you should go do your own research\.\. and pick the approach you want to take\.\. honesty is very important to you\.\. and I appreciate that\.  You be you just don't be surprised at how some people, not all, will receive that kind of honesty in certain situations or on specific topics
+
+
+---
+
+### 3281. msg_22553
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:30:54
+
+I am insecure too… however, I don’t let that lead my life\. Just push it aside when I can\.
+
+
+---
+
+### 3282. msg_22554
+
+**You** - 2025-06-14T13:32:05
+
+Reaction: 😂 from Meredith Lamb
+Some people have more insecurities\.\. for some people those insecurities are directly related to their relationship\.\. things that I shared above are really issues for men\.\. well for those that aren't selfish fuckwads\.  Cause they don't care about anything\.\.
+
+
+---
+
+### 3283. msg_22555
+
+**You** - 2025-06-14T13:32:47
+
+And you have a coping mechanism\.\. some people cannot compartmentalize like you do\.\. or rationalize\.\. which is how I try to deal with my issues\.
+
+
+---
+
+### 3284. msg_22556
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:33:40
+
+>
+I haven’t been dealing with a lot of insecurities lol
+
+
+---
+
+### 3285. msg_22557
+
+**You** - 2025-06-14T13:33:48
+
+I mean this is all true to one extent or another for pretty much everything\.
+
+
+---
+
+### 3286. msg_22558
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:34:05
+
+>
+And wine\.
+
+
+---
+
+### 3287. msg_22559
+
+**You** - 2025-06-14T13:34:16
+
+>
+you mean your partners\.\.
+
+
+---
+
+### 3288. msg_22560
+
+**You** - 2025-06-14T13:34:22
+
+I think that is what you mean\.\.
+
+
+---
+
+### 3289. msg_22561
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:34:29
+
+I just spent the last 15 years
+
+
+---
+
+### 3290. msg_22562
+
+**You** - 2025-06-14T13:34:47
+
+yeah I get it\.
+
+
+---
+
+### 3291. msg_22563
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:34:52
+
+With an insecure person, however a big ego also
+
+
+---
+
+### 3292. msg_22564
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:35:06
+
+So I don’t really think they’re true insecurities I think it’s just whining and complaining
+
+
+---
+
+### 3293. msg_22565
+
+**You** - 2025-06-14T13:35:16
+
+Reaction: 😂 from Meredith Lamb
+mmmmm\.
+
+
+---
+
+### 3294. msg_22566
+
+**You** - 2025-06-14T13:36:28
+
+Yeah\.\. I mean you can feel that way\.\. but it probably isn't ever going to be well received\. just saying\.\. I don't know him at all\.\. he seems like an asshole to me\.  But I guarantee he has insecurities\.\. and they are real\.\. he hides it with ego and arrogance and exerting control\.  And there is more to this\.\. but I won't share that part\.
+
+
+---
+
+### 3295. msg_22567
+
+**You** - 2025-06-14T13:38:43
+
+Actually I will share\.\. I think he wanted to have sex with you so much because 1\. you are great at it, 2\. it gave him a connection to you that he couldn't get emotionally perhaps, 3\. I think you might characterize it as \- because your body has been good to you, it made him feel good about himself\.  Does that make sense\.\. you can ask gpt\.
+
+
+---
+
+### 3296. msg_22568
+
+**You** - 2025-06-14T13:39:27
+
+I think J wanted the same thing for the same reason\.\. but I was unwilling\.\. it felt dishonest and I didn't want to do that\.
+
+
+---
+
+### 3297. msg_22569
+
+**You** - 2025-06-14T13:40:49
+
+anyhow\.\. you have probably had enough of this topic now\.\. lol\.\.
+
+
+---
+
+### 3298. msg_22570
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:40:53
+
+>
+Yes makes sense but he was also a person with a high sex drive\. I think those exist more than others\.
+
+
+---
+
+### 3299. msg_22571
+
+**You** - 2025-06-14T13:41:15
+
+>
+the drive was to feel those things I shared\.\.
+
+
+---
+
+### 3300. msg_22572
+
+**You** - 2025-06-14T13:41:34
+
+some people generally get those feelings from sex\.\. because they cannot elsewhere
+
+
+---
+
+### 3301. msg_22573
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:41:37
+
+And yah I know he has lots of insecurities\. He’s full of them\. But then he has this whole other side\. It is a really odd confusing combination\.
+
+
+---
+
+### 3302. msg_22574
+
+**You** - 2025-06-14T13:41:58
+
+everyone has sides\.\. so do I
+
+
+---
+
+### 3303. msg_22575
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:42:58
+
+>
+Still surprised by this but getting it more \.\.
+
+
+---
+
+### 3304. msg_22576
+
+**You** - 2025-06-14T13:43:16
+
+explain or ask\.\.
+
+
+---
+
+### 3305. msg_22577
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:43:31
+
+OK, so I couldn’t find an app to download the text messages\. The apps are all annoying and many of them require screenshots\. Do you know how many screenshots it would take? Oh my God
+
+
+---
+
+### 3306. msg_22578
+
+**You** - 2025-06-14T13:43:54
+
+>
+mmm the easiest way to do it is on a mac\.\. so not likely to happen\.
+
+
+---
+
+### 3307. msg_22579
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:44:06
+
+My kids have Mac’s
+
+
+---
+
+### 3308. msg_22580
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:44:13
+
+Mac and Maelle
+
+
+---
+
+### 3309. msg_22581
+
+**You** - 2025-06-14T13:44:21
+
+you could do it on those but you need to log in under your apple profile
+
+
+---
+
+### 3310. msg_22582
+
+**You** - 2025-06-14T13:44:24
+
+and sync
+
+
+---
+
+### 3311. msg_22583
+
+**You** - 2025-06-14T13:44:30
+
+and then you could do it easier
+
+
+---
+
+### 3312. msg_22584
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:44:44
+
+So I’ve never used a Mac is it easy?
+
+
+---
+
+### 3313. msg_22585
+
+**You** - 2025-06-14T13:45:00
+
+sure and Mac can show you not hard
+
+
+---
+
+### 3314. msg_22586
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:45:45
+
+Reaction: 👍 from Scott Hicks
+k she’s not home atm but can ask her later
+
+
+---
+
+### 3315. msg_22587
+
+**You** - 2025-06-14T13:46:32
+
+I think I am done educating for the day\.\.\. lol too much thinking and explaining\.
+
+
+---
+
+### 3316. msg_22588
+
+**You** - 2025-06-14T13:47:26
+
+I mean if you have specific questions about me I will answer
+
+
+---
+
+### 3317. msg_22589
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:47:31
+
+Same\. Thanks for the lesson prof
+
+
+---
+
+### 3318. msg_22590
+
+**You** - 2025-06-14T13:47:47
+
+Reaction: ❤️ from Meredith Lamb
+save that thought for another time :\)
+
+
+---
+
+### 3319. msg_22591
+
+**You** - 2025-06-14T13:48:26
+
+you will be the prof though\.\. fyi
+
+
+---
+
+### 3320. msg_22592
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:49:04
+
+Should I make a slide deck
+
+
+---
+
+### 3321. msg_22593
+
+**You** - 2025-06-14T13:49:55
+
+I mean sure\.\. I am sure gpt could help\.
+
+
+---
+
+### 3322. msg_22594
+
+**You** - 2025-06-14T13:52:19
+
+I hope this didn't bother you at all\.\. I know you are better with processing this shit than I am\.\. but it was a bit of a firehose\.  Again if you ever have questions\.\. please ask\.\. on anything\.
+
+
+---
+
+### 3323. msg_22595
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:52:55
+
+Didn’t bother me at all\.
+
+
+---
+
+### 3324. msg_22596
+
+**You** - 2025-06-14T13:53:12
+
+Honestly I love you just the way you are\.\. and if you didn't change anything I wouldn't care\.\. I just need to adapt a bit\.
+
+
+---
+
+### 3325. msg_22597
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:54:43
+
+Ugh, I don’t like hearing that you have to adapt\.
+
+
+---
+
+### 3326. msg_22598
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:54:52
+
+That actually bothers me
+
+
+---
+
+### 3327. msg_22599
+
+**You** - 2025-06-14T13:54:52
+
+everyone adapts Mer
+
+
+---
+
+### 3328. msg_22600
+
+**You** - 2025-06-14T13:54:56
+
+always
+
+
+---
+
+### 3329. msg_22601
+
+**You** - 2025-06-14T13:55:35
+
+it is just how much and how fast\.\. sometimes people cannot\.\. it is too much of change from where they are comfortable\.
+
+
+---
+
+### 3330. msg_22602
+
+**You** - 2025-06-14T13:55:43
+
+adapting doesn't change who I am\.
+
+
+---
+
+### 3331. msg_22603
+
+**You** - 2025-06-14T13:55:50
+
+it just changes how I deal and process\.
+
+
+---
+
+### 3332. msg_22604
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:56:02
+
+Are you comfortable right now though?
+
+
+---
+
+### 3333. msg_22605
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:56:26
+
+Don’t lie\.
+
+
+---
+
+### 3334. msg_22606
+
+**You** - 2025-06-14T13:56:38
+
+I am not lieing
+
+
+---
+
+### 3335. msg_22607
+
+**You** - 2025-06-14T13:56:41
+
+about what
+
+
+---
+
+### 3336. msg_22608
+
+**You** - 2025-06-14T13:56:51
+
+am I comfortable with what
+
+
+---
+
+### 3337. msg_22609
+
+**You** - 2025-06-14T13:57:17
+
+Reaction: 👎 from Meredith Lamb
+If you shared all that shit I gpt'd with me\.\. lol you asking if I would be comfortable with that?
+
+
+---
+
+### 3338. msg_22610
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T13:57:31
+
+When you answer my question … just comfortable with where we are at and how I am\. You have learned we are very different and are you comfortable with that
+
+
+---
+
+### 3339. msg_22611
+
+**You** - 2025-06-14T13:59:57
+
+Reaction: ❤️ from Meredith Lamb
+yeah\.\. those are just idiosyncrasies\.\. at your core\.\. who YOU are\.\. that is who I am desperately in love with\.  The more I learn the more real you become\.\. and no one likes everything about someone else\.\. that would be a massive lie\.  But when you ask if I am comfortable\.\. I haven't stopped thinking about you\.\. through the good or bad moments\.\. I have never stopped wanting to be with you through the good or the bad moments\.\. I have never stopped about thinking about us forever in the good or the bad moments\.\. and I KNOW there will be more bad moments\.\. I am just banking on a landslide of good moments to bury them\.
+
+
+---
+
+### 3340. msg_22612
+
+**You** - 2025-06-14T14:02:05
+
+Reaction: 😂 from Meredith Lamb
+Am I comfortable sitting across from 10 glasses in Meredith\.\. I either need to be right there with you\.\.\. lol\.\. I need to put on some armor\.\. or I need to make you quickly forget about wanting to tell me any stories in the first place\.\. all of which I am fairly certain I can accomplish\.\. I also don't think future stories are going to affect me as much\.  But again\.\. to be clear\.\. some things on this list\.\. yeah can always be impactful\.
+
+
+---
+
+### 3341. msg_22613
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:02:55
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3342. msg_22614
+
+**You** - 2025-06-14T14:03:28
+
+Yeah\.\. that's me\.\. lol oversharing\.\.
+
+
+---
+
+### 3343. msg_22615
+
+**You** - 2025-06-14T14:08:55
+
+are you looking back at old shit
+
+
+---
+
+### 3344. msg_22616
+
+**You** - 2025-06-14T14:09:17
+
+read the above before you just skip it\.\. you wanted an answer and it seemed important\.
+
+
+---
+
+### 3345. msg_22617
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:11:12
+
+I like how you split the answer in two\. Sober and non sober
+
+
+---
+
+### 3346. msg_22618
+
+**You** - 2025-06-14T14:11:25
+
+>
+I think that is fair
+
+
+---
+
+### 3347. msg_22619
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:11:31
+
+Yes I’m trying to scroll up to the beginning of the text chat and it’s like impossible\. It is so long oh my God\.
+
+
+---
+
+### 3348. msg_22620
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:11:38
+
+There is no fast way to get to the beginning
+
+
+---
+
+### 3349. msg_22621
+
+**You** - 2025-06-14T14:11:44
+
+are you on macbook?
+
+
+---
+
+### 3350. msg_22622
+
+**You** - 2025-06-14T14:11:51
+
+don't bother now
+
+
+---
+
+### 3351. msg_22623
+
+**You** - 2025-06-14T14:11:52
+
+just wait
+
+
+---
+
+### 3352. msg_22624
+
+**You** - 2025-06-14T14:11:57
+
+it is so much easier
+
+
+---
+
+### 3353. msg_22625
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:12:01
+
+No, I’m not\. I’m just doing it for fun\.
+
+
+---
+
+### 3354. msg_22626
+
+**You** - 2025-06-14T14:12:04
+
+ah ok
+
+
+---
+
+### 3355. msg_22627
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:13:09
+
+LOL
+
+*1 attachment(s)*
+
+
+---
+
+### 3356. msg_22628
+
+**You** - 2025-06-14T14:13:38
+
+I remember that night
+
+
+---
+
+### 3357. msg_22629
+
+**You** - 2025-06-14T14:13:43
+
+you wouldn't stop singing
+
+
+---
+
+### 3358. msg_22630
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:14:13
+
+So I got to the very beginning\. Took forever holy
+
+*1 attachment(s)*
+
+
+---
+
+### 3359. msg_22631
+
+**You** - 2025-06-14T14:14:40
+
+lol
+
+
+---
+
+### 3360. msg_22632
+
+**You** - 2025-06-14T14:18:02
+
+Are you trying to see if I changed over time???
+
+
+---
+
+### 3361. msg_22633
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:18:25
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3362. msg_22634
+
+**You** - 2025-06-14T14:18:56
+
+so much lighter then
+
+
+---
+
+### 3363. msg_22635
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:19:06
+
+>
+Nope\. I was there and I know you haven’t “changed”\. You just revealed more over time\.
+
+
+---
+
+### 3364. msg_22636
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:19:18
+
+I’ve known you at work for 3 yrs so…
+
+
+---
+
+### 3365. msg_22637
+
+**You** - 2025-06-14T14:19:31
+
+then I fell in love\.\. and holy shit\.
+
+
+---
+
+### 3366. msg_22638
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:19:32
+
+Generally knew you just not all your revelations
+
+
+---
+
+### 3367. msg_22639
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:19:44
+
+Right lol
+
+
+---
+
+### 3368. msg_22640
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:21:42
+
+Omg this is amusing tho
+
+
+---
+
+### 3369. msg_22641
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:21:46
+
+Reading
+
+
+---
+
+### 3370. msg_22642
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:21:49
+
+Poor Marlowe
+
+
+---
+
+### 3371. msg_22643
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:21:57
+
+I wasn’t nice to her there for a bit
+
+
+---
+
+### 3372. msg_22644
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:22:05
+
+Got sooooo messed up
+
+
+---
+
+### 3373. msg_22645
+
+**You** - 2025-06-14T14:22:21
+
+it was a rough night
+
+
+---
+
+### 3374. msg_22646
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:23:51
+
+I literally said “I’m going to go stare at the ceiling\. Signing off”
+
+
+---
+
+### 3375. msg_22647
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:24:01
+
+And it was 100% true lol
+
+
+---
+
+### 3376. msg_22648
+
+**You** - 2025-06-14T14:24:56
+
+hehe yeah you were a bit messy that night\.\. I wanted to see the texts because I wanted to see when it happened to me\.
+
+
+---
+
+### 3377. msg_22649
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:27:33
+
+Like a date or how it happened
+
+
+---
+
+### 3378. msg_22650
+
+**You** - 2025-06-14T14:27:51
+
+no I can remember how I felt by reading what I wrote\.\. in some cases I can remember what I was thinking
+
+
+---
+
+### 3379. msg_22651
+
+**You** - 2025-06-14T14:27:59
+
+that is how hard I thought about some of our conversations\.
+
+
+---
+
+### 3380. msg_22652
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:28:25
+
+The conversations are soooooo long
+
+
+---
+
+### 3381. msg_22653
+
+**You** - 2025-06-14T14:28:33
+
+I have thought a lot about it\.\. I cannot be sure I wasn't crushing on you when you came to the team\.\.\.\. like a little\.\.
+
+
+---
+
+### 3382. msg_22654
+
+**You** - 2025-06-14T14:28:52
+
+I went back and played back late last summer\.\. into the fall up to november\.\.
+
+
+---
+
+### 3383. msg_22655
+
+**You** - 2025-06-14T14:29:22
+
+Like a fantasy type thing in my head\.\. not that I would pursue\.
+
+
+---
+
+### 3384. msg_22656
+
+**You** - 2025-06-14T14:29:52
+
+I have had some time last few days\.\. as you can imagine
+
+
+---
+
+### 3385. msg_22657
+
+**You** - 2025-06-14T14:29:57
+
+and thinking is what I do\.
+
+
+---
+
+### 3386. msg_22658
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:30:10
+
+I’ve always felt a pull to you that I can’t explain\.
+
+
+---
+
+### 3387. msg_22659
+
+**You** - 2025-06-14T14:30:58
+
+I think it was the fact that I found you beautiful on the outside and on the inside\.\. and your smile would melt me into a puddle\.
+
+
+---
+
+### 3388. msg_22660
+
+**You** - 2025-06-14T14:31:22
+
+I had to be really careful around you\.\. I remember that\.\. I didn't want to flirt at all\.\. I wanted to not let on anything\.
+
+
+---
+
+### 3389. msg_22661
+
+**You** - 2025-06-14T14:31:54
+
+but yeah it was a fantasy\.\. very alluring, very pulling, but still not real\.\. until it was\.
+
+
+---
+
+### 3390. msg_22662
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:32:39
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3391. msg_22663
+
+**You** - 2025-06-14T14:32:59
+
+feynman
+
+
+---
+
+### 3392. msg_22664
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:33:07
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3393. msg_22665
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:34:21
+
+Reaction: ❤️ from Scott Hicks
+Your geekiness is still endearing btw
+
+
+---
+
+### 3394. msg_22666
+
+**You** - 2025-06-14T14:34:34
+
+The endearing thing was what made me work up the courage for sure\.
+
+
+---
+
+### 3395. msg_22667
+
+**You** - 2025-06-14T14:34:40
+
+if you had a time stamp
+
+
+---
+
+### 3396. msg_22668
+
+**You** - 2025-06-14T14:34:45
+
+then my lol sure it is
+
+
+---
+
+### 3397. msg_22669
+
+**You** - 2025-06-14T14:34:48
+
+didn't come right away
+
+
+---
+
+### 3398. msg_22670
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:36:53
+
+>
+Sun March 23
+
+
+---
+
+### 3399. msg_22671
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:37:19
+
+>
+You mean ACTUAL time
+
+
+---
+
+### 3400. msg_22672
+
+**You** - 2025-06-14T14:37:56
+
+yeah
+
+
+---
+
+### 3401. msg_22673
+
+**You** - 2025-06-14T14:37:59
+
+cause I sat there
+
+
+---
+
+### 3402. msg_22674
+
+**You** - 2025-06-14T14:38:03
+
+and looked at endearing
+
+
+---
+
+### 3403. msg_22675
+
+**You** - 2025-06-14T14:38:09
+
+for like a few mins I think before answering
+
+
+---
+
+### 3404. msg_22676
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:38:51
+
+No time stamp lol
+
+
+---
+
+### 3405. msg_22677
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:40:14
+
+Literally right after that you started acting weird lol
+
+*1 attachment(s)*
+
+
+---
+
+### 3406. msg_22678
+
+**You** - 2025-06-14T14:41:45
+
+I didn't act weird\.\. you were the one that said I hope I didn't make things weird
+
+
+---
+
+### 3407. msg_22679
+
+**You** - 2025-06-14T14:41:58
+
+that screenshot doesn't show me saying anything weird\.
+
+
+---
+
+### 3408. msg_22680
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:42:16
+
+You did when you came to my desk to ask me to do something\.
+
+
+---
+
+### 3409. msg_22681
+
+**You** - 2025-06-14T14:42:21
+
+no I didn't
+
+
+---
+
+### 3410. msg_22682
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:42:26
+
+You were totally weird
+
+
+---
+
+### 3411. msg_22683
+
+**You** - 2025-06-14T14:42:26
+
+I don't recall that
+
+
+---
+
+### 3412. msg_22684
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:42:29
+
+You were
+
+
+---
+
+### 3413. msg_22685
+
+**You** - 2025-06-14T14:42:30
+
+so it didn't happen
+
+
+---
+
+### 3414. msg_22686
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:42:35
+
+lol
+
+
+---
+
+### 3415. msg_22687
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:43:00
+
+I was literally like “fuck what did I do?”
+
+
+---
+
+### 3416. msg_22688
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:43:09
+
+I feel like your face even went red
+
+
+---
+
+### 3417. msg_22689
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:43:24
+
+Anyway didn’t happen
+
+
+---
+
+### 3418. msg_22690
+
+**You** - 2025-06-14T14:43:31
+
+You probably smiled at me\.
+
+
+---
+
+### 3419. msg_22691
+
+**You** - 2025-06-14T14:43:52
+
+and I was like uhoh\.\. defenses are down\!\!\! run away
+
+
+---
+
+### 3420. msg_22692
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:44:38
+
+Don’t love the reminders in this msg if all those horrible initial arguments with Andrew
+
+
+---
+
+### 3421. msg_22693
+
+**You** - 2025-06-14T14:44:39
+
+gah I need all these texts for my MODEL\!\!\!
+
+
+---
+
+### 3422. msg_22694
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:44:47
+
+They were so insane
+
+
+---
+
+### 3423. msg_22695
+
+**You** - 2025-06-14T14:44:53
+
+yeah I felt really bad for you
+
+
+---
+
+### 3424. msg_22696
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:45:12
+
+I kinda forgot until I reread this
+
+
+---
+
+### 3425. msg_22697
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:45:24
+
+>
+Mac still out and about
+
+
+---
+
+### 3426. msg_22698
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:45:33
+
+Yonge and Eg is a happening place
+
+
+---
+
+### 3427. msg_22699
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:45:35
+
+lol
+
+
+---
+
+### 3428. msg_22700
+
+**You** - 2025-06-14T14:46:48
+
+Like I said\.\. 2k for studio's
+
+
+---
+
+### 3429. msg_22701
+
+**You** - 2025-06-14T14:46:59
+
+felt like that one flew past you
+
+
+---
+
+### 3430. msg_22702
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:47:17
+
+No it didn’t
+
+
+---
+
+### 3431. msg_22703
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:47:19
+
+lol
+
+
+---
+
+### 3432. msg_22704
+
+**You** - 2025-06-14T14:47:22
+
+good
+
+
+---
+
+### 3433. msg_22705
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:53:40
+
+When it started getting messier lol
+
+*1 attachment(s)*
+
+
+---
+
+### 3434. msg_22706
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:54:03
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3435. msg_22707
+
+**You** - 2025-06-14T14:55:27
+
+and the descent begins
+
+
+---
+
+### 3436. msg_22708
+
+**You** - 2025-06-14T14:55:29
+
+LOL
+
+
+---
+
+### 3437. msg_22709
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T14:59:34
+
+You were very conflicted\. Some is hard to read
+
+
+---
+
+### 3438. msg_22710
+
+**You** - 2025-06-14T14:59:39
+
+:\(
+
+
+---
+
+### 3439. msg_22711
+
+**You** - 2025-06-14T14:59:49
+
+how so
+
+
+---
+
+### 3440. msg_22712
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:00:18
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3441. msg_22713
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:00:55
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3442. msg_22714
+
+**You** - 2025-06-14T15:01:27
+
+That isn't conflict
+
+
+---
+
+### 3443. msg_22715
+
+**You** - 2025-06-14T15:01:31
+
+that was me being honest\.\.
+
+
+---
+
+### 3444. msg_22716
+
+**You** - 2025-06-14T15:01:52
+
+I had already decided I just needed to figure out how to move forward\.\. not whether I was going to or not\.
+
+
+---
+
+### 3445. msg_22717
+
+**You** - 2025-06-14T15:02:07
+
+The reconcile comment hit me like a bucket of ice cold water though\.
+
+
+---
+
+### 3446. msg_22718
+
+**You** - 2025-06-14T15:02:22
+
+when I first read it\.\.
+
+
+---
+
+### 3447. msg_22719
+
+**You** - 2025-06-14T15:02:25
+
+I didn't read he
+
+
+---
+
+### 3448. msg_22720
+
+**You** - 2025-06-14T15:02:30
+
+I thought I read I\.
+
+
+---
+
+### 3449. msg_22721
+
+**You** - 2025-06-14T15:02:37
+
+and I was like WTF did I do\!\!
+
+
+---
+
+### 3450. msg_22722
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:06:31
+
+lol
+
+
+---
+
+### 3451. msg_22723
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:06:49
+
+This thing moves very quickly for sure\. Lightening speed
+
+
+---
+
+### 3452. msg_22724
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:06:52
+
+Ha
+
+
+---
+
+### 3453. msg_22725
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:07:09
+
+You shared your home videos the next weekend
+
+
+---
+
+### 3454. msg_22726
+
+**You** - 2025-06-14T15:07:11
+
+yeah\.\. when I read he I was fine\.
+
+
+---
+
+### 3455. msg_22727
+
+**You** - 2025-06-14T15:08:04
+
+because I needed you to understand me\.\. I wanted you to be able to know me\.\. I was trying to give you a complete picture before anything else\.\. I suspected there was a connection\.\. at least from my perspective\.  And I felt like there might be one on your side\.\. but more tentative\.
+
+
+---
+
+### 3456. msg_22728
+
+**You** - 2025-06-14T15:08:21
+
+I thought showing you who I was would help you decide\.
+
+
+---
+
+### 3457. msg_22729
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:10:25
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3458. msg_22730
+
+**You** - 2025-06-14T15:10:53
+
+I remember that\.\.
+
+
+---
+
+### 3459. msg_22731
+
+**You** - 2025-06-14T15:11:24
+
+my emotions were literally exploding everywhere then\.\. was really hard to remain in control\.
+
+
+---
+
+### 3460. msg_22732
+
+**You** - 2025-06-14T15:11:52
+
+Reaction: 🙂 from Meredith Lamb
+I am surprised I was as in control on our first date lol\.\.
+
+
+---
+
+### 3461. msg_22733
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:12:06
+
+K Mac is home and apparently I can use her Mac but she doesn’t know how to do it
+
+
+---
+
+### 3462. msg_22734
+
+**You** - 2025-06-14T15:12:14
+
+ask chatgpt
+
+
+---
+
+### 3463. msg_22735
+
+**You** - 2025-06-14T15:12:18
+
+it will guide you
+
+
+---
+
+### 3464. msg_22736
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:12:58
+
+>
+Not sure I was tentative but more cautious
+
+
+---
+
+### 3465. msg_22737
+
+**You** - 2025-06-14T15:14:19
+
+fair enough \- makes sense\.
+
+
+---
+
+### 3466. msg_22738
+
+**You** - 2025-06-14T15:17:08
+
+omg I was sooooooo hopeful\.\.\.\.
+
+
+---
+
+### 3467. msg_22739
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:18:03
+
+Omg I was literally laughing out loud
+
+*1 attachment(s)*
+
+
+---
+
+### 3468. msg_22740
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:18:56
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3469. msg_22741
+
+**You** - 2025-06-14T15:19:39
+
+mmmm hmmm I like housecoats
+
+
+---
+
+### 3470. msg_22742
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:22:21
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3471. msg_22743
+
+**You** - 2025-06-14T15:29:33
+
+there was more to that I think
+
+
+---
+
+### 3472. msg_22744
+
+**You** - 2025-06-14T15:30:00
+
+what did she know\.\.\. now you know what she knew\.
+
+
+---
+
+### 3473. msg_22745
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:32:07
+
+What did who know?
+
+
+---
+
+### 3474. msg_22746
+
+**You** - 2025-06-14T15:32:18
+
+you wrote back to me what did she know\.\.\.\.\.
+
+
+---
+
+### 3475. msg_22747
+
+**You** - 2025-06-14T15:32:39
+
+you were commenting on what she said for when nights are long and life is in the pits
+
+
+---
+
+### 3476. msg_22748
+
+**You** - 2025-06-14T15:32:58
+
+having read her note\.\. you know what she knew
+
+
+---
+
+### 3477. msg_22749
+
+**You** - 2025-06-14T15:33:20
+
+her sensitive little boy\.\. blech
+
+
+---
+
+### 3478. msg_22750
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:33:25
+
+>
+I meant because life was so shitty for both of us\. It was like she knew you were going to go through a divorce\.
+
+
+---
+
+### 3479. msg_22751
+
+**You** - 2025-06-14T15:33:35
+
+ahhhh
+
+
+---
+
+### 3480. msg_22752
+
+**You** - 2025-06-14T15:33:41
+
+no she wouldn't have forecasted that
+
+
+---
+
+### 3481. msg_22753
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:33:42
+
+My comment was a joke
+
+
+---
+
+### 3482. msg_22754
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:33:52
+
+>
+I know lol
+
+
+---
+
+### 3483. msg_22755
+
+**You** - 2025-06-14T15:33:51
+
+mmmmm
+
+
+---
+
+### 3484. msg_22756
+
+**You** - 2025-06-14T15:33:53
+
+actually
+
+
+---
+
+### 3485. msg_22757
+
+**You** - 2025-06-14T15:33:57
+
+with Jaimie maybe
+
+
+---
+
+### 3486. msg_22758
+
+**You** - 2025-06-14T15:34:06
+
+she did eventually like J but not at first
+
+
+---
+
+### 3487. msg_22759
+
+**You** - 2025-06-14T15:34:15
+
+and she never thought we were right for each other
+
+
+---
+
+### 3488. msg_22760
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:34:18
+
+Mac just made me an account on her Mac book
+
+
+---
+
+### 3489. msg_22761
+
+**You** - 2025-06-14T15:34:23
+
+cool
+
+
+---
+
+### 3490. msg_22762
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:34:24
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3491. msg_22763
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:34:41
+
+Her friend had to show her
+
+
+---
+
+### 3492. msg_22764
+
+**You** - 2025-06-14T15:34:59
+
+How is her spirit?? ask her for me\.\.?
+
+
+---
+
+### 3493. msg_22765
+
+**You** - 2025-06-14T15:35:14
+
+hope she is feeling better
+
+
+---
+
+### 3494. msg_22766
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:37:02
+
+Reaction: ❤️ from Scott Hicks
+She said her spirit is great now
+
+
+---
+
+### 3495. msg_22767
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:38:47
+
+It is setting up my account\- this might take me a while so will let you know
+
+
+---
+
+### 3496. msg_22768
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:38:50
+
+lol
+
+
+---
+
+### 3497. msg_22769
+
+**You** - 2025-06-14T15:38:58
+
+no worries\. I am busy here
+
+
+---
+
+### 3498. msg_22770
+
+**You** - 2025-06-14T15:50:29
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3499. msg_22771
+
+**You** - 2025-06-14T15:50:38
+
+really wierd tool
+
+
+---
+
+### 3500. msg_22772
+
+**You** - 2025-06-14T15:50:41
+
+called whisk
+
+
+---
+
+### 3501. msg_22773
+
+**You** - 2025-06-14T15:50:56
+
+It is an image generation tool\.\.\. but it allows you to iterate repeatedly
+
+
+---
+
+### 3502. msg_22774
+
+**You** - 2025-06-14T15:51:05
+
+I was trying to recreate your cottage family room
+
+
+---
+
+### 3503. msg_22775
+
+**You** - 2025-06-14T15:51:09
+
+just with words
+
+
+---
+
+### 3504. msg_22776
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:51:28
+
+That corner window is nice
+
+
+---
+
+### 3505. msg_22777
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:51:34
+
+We should have done that lol
+
+
+---
+
+### 3506. msg_22778
+
+**You** - 2025-06-14T15:53:28
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3507. msg_22779
+
+**You** - 2025-06-14T15:53:31
+
+pain in ass
+
+
+---
+
+### 3508. msg_22780
+
+**You** - 2025-06-14T15:54:03
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3509. msg_22781
+
+**You** - 2025-06-14T15:54:15
+
+don my experiment that is too tough to recreate with words
+
+
+---
+
+### 3510. msg_22782
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:54:33
+
+Pretty cool tho
+
+
+---
+
+### 3511. msg_22783
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:56:51
+
+Trying to sync all my messages to my icloud
+
+
+---
+
+### 3512. msg_22784
+
+**You** - 2025-06-14T15:57:01
+
+lol THOUSANDS\!\!\!\!
+
+
+---
+
+### 3513. msg_22785
+
+**You** - 2025-06-14T15:57:04
+
+that might take a bit\.
+
+
+---
+
+### 3514. msg_22786
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:57:15
+
+It has done 37,000
+
+
+---
+
+### 3515. msg_22787
+
+**You** - 2025-06-14T15:57:26
+
+yeah that is likely more than all of my messages combined
+
+
+---
+
+### 3516. msg_22788
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:57:29
+
+I can’t get any of the apps to work
+
+
+---
+
+### 3517. msg_22789
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T15:58:14
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3518. msg_22790
+
+**You** - 2025-06-14T15:58:30
+
+hehe
+
+
+---
+
+### 3519. msg_22791
+
+**You** - 2025-06-14T15:58:42
+
+not surprised even a little
+
+
+---
+
+### 3520. msg_22792
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:22:12
+
+The apps don’t work and the sync keeps pausing sooooo
+
+
+---
+
+### 3521. msg_22793
+
+**You** - 2025-06-14T16:22:21
+
+LOL :\(
+
+
+---
+
+### 3522. msg_22794
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:22:29
+
+The imazing app is not free
+
+
+---
+
+### 3523. msg_22795
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:22:32
+
+$70
+
+
+---
+
+### 3524. msg_22796
+
+**You** - 2025-06-14T16:22:35
+
+no no
+
+
+---
+
+### 3525. msg_22797
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:22:50
+
+I know but that is the one everyone uses I guess
+
+
+---
+
+### 3526. msg_22798
+
+**You** - 2025-06-14T16:27:34
+
+ok
+
+
+---
+
+### 3527. msg_22799
+
+**You** - 2025-06-14T16:27:47
+
+Option 2: The "Print to PDF" Workaround \(Free\)
+If you don't want to pay for software and only need to save a few important conversations, you can use the Mac's built\-in Print function to create a PDF\. From there, you can extract the text\.
+Pros: Free, preserves the visual layout of the conversation\.
+Cons: Must be done one conversation at a time, which is very time\-consuming for a large archive\.
+Step\-by\-Step Instructions:
+Open the Messages app on your Mac\.
+Select the single conversation you want to export\.
+In the menu bar at the top of the screen, click File > Print\.\.\.
+A print dialog box will appear\. In the bottom\-left corner, click the PDF dropdown menu\.
+Select Save as PDF\.
+Name the file and choose where to save it\. You now have a PDF copy of that conversation\.
+To get this into a text file:
+Open the newly created PDF file in the Preview app\.
+Click and drag to select all the text, or press Cmd \+ A\.
+Copy the text \(Cmd \+ C\)\.
+Open the TextEdit app, and in the menu bar, select Format > Make \.\.\. \[truncated\]
+
+
+---
+
+### 3528. msg_22800
+
+**You** - 2025-06-14T16:28:24
+
+that should be able to work for every exchange we have ever had\.\.
+
+
+---
+
+### 3529. msg_22801
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:28:28
+
+Well, this is what I will do if I can get the messages synced and on my iCloud, but it’s not happening so
+
+
+---
+
+### 3530. msg_22802
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:28:39
+
+I was never backing up my messages to my iCloud
+
+
+---
+
+### 3531. msg_22803
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:28:47
+
+Just photos
+
+
+---
+
+### 3532. msg_22804
+
+**You** - 2025-06-14T16:29:13
+
+you are the only one that has access to that account right?
+
+
+---
+
+### 3533. msg_22805
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:29:23
+
+Yeah
+
+
+---
+
+### 3534. msg_22806
+
+**You** - 2025-06-14T16:29:37
+
+kk when you are done\.\. log out of her comp as well\.
+
+
+---
+
+### 3535. msg_22807
+
+**You** - 2025-06-14T16:29:42
+
+like out of your apple account
+
+
+---
+
+### 3536. msg_22808
+
+**You** - 2025-06-14T16:30:18
+
+That is a very common and frustrating problem\. The iCloud sync process can be finicky and often appears to freeze, especially if you have a large message history\.
+Let's work through a direct, step\-by\-step troubleshooting process, starting with the simplest fixes\.
+\#\#\# \*\*Checklist: The Quick Fixes\*\*
+Before doing anything drastic, let's ensure the fundamentals are in place\. These solve the problem more often than you'd think\.
+\* \*\*Check Apple's Servers:\*\* First, verify that the issue isn't on Apple's end\. Visit their \[System Status page\]\(https://www\.apple\.com/ca/support/systemstatus/\) and ensure "iCloud Mail" and "Messages" have a green circle\. If they are yellow or red, the only solution is to wait for Apple to fix it\.
+\* \*\*Check Your Internet:\*\* The sync requires a stable Wi\-Fi connection on \*\*both\*\* your iPhone and your Mac\. A weak or intermittent signal can cause it to stall\.
+\* \*\*Plug Both Devices In:\*\* The sync process is energy\-intensive\. Both iOS and macOS can pause background activi\.\.\. \[truncated\]
+
+
+---
+
+### 3537. msg_22809
+
+**You** - 2025-06-14T16:30:51
+
+I ended up doing nothing today lol\.\. no packing\.\. spent virtually with you\.\. :\) worth it\.
+
+
+---
+
+### 3538. msg_22810
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:31:54
+
+Same\. Also did nothing lol
+
+
+---
+
+### 3539. msg_22811
+
+**You** - 2025-06-14T16:32:05
+
+except reminisced
+
+
+---
+
+### 3540. msg_22812
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:32:27
+
+True
+
+
+---
+
+### 3541. msg_22813
+
+**You** - 2025-06-14T16:32:35
+
+and learned some valuable lessons
+
+
+---
+
+### 3542. msg_22814
+
+**You** - 2025-06-14T16:32:42
+
+lol
+
+
+---
+
+### 3543. msg_22815
+
+**You** - 2025-06-14T16:32:43
+
+j/k
+
+
+---
+
+### 3544. msg_22816
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:34:48
+
+🤓
+
+
+---
+
+### 3545. msg_22817
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:35:01
+
+They will likely be forgotten and need to be relearned
+
+
+---
+
+### 3546. msg_22818
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:35:04
+
+Just saying
+
+
+---
+
+### 3547. msg_22819
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:35:09
+
+Setting expectations
+
+
+---
+
+### 3548. msg_22820
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:35:11
+
+lol
+
+
+---
+
+### 3549. msg_22821
+
+**You** - 2025-06-14T16:35:11
+
+Ouch
+
+
+---
+
+### 3550. msg_22822
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:35:27
+
+I don’t want you to be disappointed
+
+
+---
+
+### 3551. msg_22823
+
+**You** - 2025-06-14T16:36:06
+
+so by lowering expectations to the bottom I won't be\.\.\. lol
+
+
+---
+
+### 3552. msg_22824
+
+**You** - 2025-06-14T16:36:22
+
+well I have a counter for you
+
+
+---
+
+### 3553. msg_22825
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:37:32
+
+>
+Exactly
+
+
+---
+
+### 3554. msg_22826
+
+**You** - 2025-06-14T16:37:33
+
+Part of my sharing that was to also share with you some of the outcomes from that kind of sharing\.\. so let me manage your expectations :\)  don't be surprised if I react exactly like chatgpt describes if some of that stuff gets fired my way\. lol
+
+
+---
+
+### 3555. msg_22827
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:37:56
+
+Oh my God, I would never say stuff like that
+
+
+---
+
+### 3556. msg_22828
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:38:01
+
+Drunk or not
+
+
+---
+
+### 3557. msg_22829
+
+**You** - 2025-06-14T16:38:06
+
+mmmm hmmm
+
+
+---
+
+### 3558. msg_22830
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:38:18
+
+I really don’t think I would say anything like that honestly
+
+
+---
+
+### 3559. msg_22831
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:38:25
+
+That was pretty intense
+
+
+---
+
+### 3560. msg_22832
+
+**You** - 2025-06-14T16:38:26
+
+not explicitly\.
+
+
+---
+
+### 3561. msg_22833
+
+**You** - 2025-06-14T16:38:34
+
+I will tell you the last change i made to the prompt,
+
+
+---
+
+### 3562. msg_22834
+
+**You** - 2025-06-14T16:39:11
+
+because even drunk\.\. you almost never come out straight and say something lol\.\. you infer and suggest without being specific\.
+
+
+---
+
+### 3563. msg_22835
+
+**You** - 2025-06-14T16:39:17
+
+so I asked it to apply that approach
+
+
+---
+
+### 3564. msg_22836
+
+**You** - 2025-06-14T16:40:05
+
+so I don't think you would say those things exactly no\.\. but you might infer, suggest or reference\.\. drunk only\.\. hey you were the one that was concerned about stark honesty to begin with\.
+
+
+---
+
+### 3565. msg_22837
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:40:35
+
+Is there something I HAVEN’T answered that bothers you still? Or just in the moment
+
+
+---
+
+### 3566. msg_22838
+
+**You** - 2025-06-14T16:41:13
+
+what does just in the moment mean?
+
+
+---
+
+### 3567. msg_22839
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:41:40
+
+Does it bother you in the moment and then you forget about it? Like in the moment when we are talking I mean
+
+
+---
+
+### 3568. msg_22840
+
+**You** - 2025-06-14T16:42:30
+
+I mean it depends on all kinds of things\.\. context for one\.\. are we together or apart etc\.\.  I tend to forget more when we are together\.\. except really stark things LOL\.
+
+
+---
+
+### 3569. msg_22841
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:43:47
+
+Fair enough
+
+
+---
+
+### 3570. msg_22842
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:43:49
+
+lol
+
+
+---
+
+### 3571. msg_22843
+
+**You** - 2025-06-14T16:44:11
+
+I know what you are digging for\.\. and we aren't going there tonight\. 😝
+
+
+---
+
+### 3572. msg_22844
+
+**You** - 2025-06-14T16:44:45
+
+Had a good night last night, a good day today\.\. not going to ruin it now\.
+
+
+---
+
+### 3573. msg_22845
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:45:08
+
+I am digging\!
+
+
+---
+
+### 3574. msg_22846
+
+**You** - 2025-06-14T16:46:04
+
+I know\.\. but some of this shit you don't need or want to know\.\. you have TONS of that kind of stuff you don't want me digging into\.\. so better to maybe not dig?
+
+
+---
+
+### 3575. msg_22847
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:46:35
+
+>
+I meant to say, I am not digging sorry
+
+
+---
+
+### 3576. msg_22848
+
+**You** - 2025-06-14T16:46:41
+
+lol
+
+
+---
+
+### 3577. msg_22849
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:46:43
+
+Honestly, I am not
+
+
+---
+
+### 3578. msg_22850
+
+**You** - 2025-06-14T16:47:05
+
+>
+sorry I must have misread the ALL CAPS rofl\.
+
+
+---
+
+### 3579. msg_22851
+
+**You** - 2025-06-14T16:47:26
+
+typo probably\.\. oops caps lock
+
+
+---
+
+### 3580. msg_22852
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:48:06
+
+It was a serious question you say I avoid or whatever and I was just curious if there was something that I was avoiding, that was sitting with you happy if not cause I don’t think I avoid regularly
+
+
+---
+
+### 3581. msg_22853
+
+**You** - 2025-06-14T16:48:54
+
+So you know how I told you many / most people tell white lies\.\.  they learn to do it, it becomes natural and then they don't notice it\.
+
+
+---
+
+### 3582. msg_22854
+
+**You** - 2025-06-14T16:50:36
+
+That is you with avoid / omit\.\. although I might need to chalk it up to just not reading\.  But yeah you avoid shit all the time\.  About as much as other people tell the little white lies I would say\.  Omit too\.\. like if the question didn't explicitly ask something but it was basic to infer that is what it meant\.\. you will jump through the loop hole and run\.  It's fine\.\. I like chasing most of the time\.
+
+
+---
+
+### 3583. msg_22855
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:52:48
+
+lol
+
+
+---
+
+### 3584. msg_22856
+
+**You** - 2025-06-14T16:52:50
+
+sometimes I can see you thinking about it
+
+
+---
+
+### 3585. msg_22857
+
+**You** - 2025-06-14T16:52:58
+
+other times you just do it\.
+
+
+---
+
+### 3586. msg_22858
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:53:00
+
+Maybe you just ask hard questions
+
+
+---
+
+### 3587. msg_22859
+
+**You** - 2025-06-14T16:53:09
+
+hard or easy\.\.
+
+
+---
+
+### 3588. msg_22860
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:53:13
+
+Ever think about that?
+
+
+---
+
+### 3589. msg_22861
+
+**You** - 2025-06-14T16:53:13
+
+you look for traps
+
+
+---
+
+### 3590. msg_22862
+
+**You** - 2025-06-14T16:53:27
+
+best way to characterize
+
+
+---
+
+### 3591. msg_22863
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:53:29
+
+Traps? Lol what?
+
+
+---
+
+### 3592. msg_22864
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:53:34
+
+No
+
+
+---
+
+### 3593. msg_22865
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:53:38
+
+I do not
+
+
+---
+
+### 3594. msg_22866
+
+**You** - 2025-06-14T16:53:42
+
+yeah you look for traps\.\. I don't know how else to say
+
+
+---
+
+### 3595. msg_22867
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:54:16
+
+You are being goofy now
+
+
+---
+
+### 3596. msg_22868
+
+**You** - 2025-06-14T16:54:20
+
+I wouldn't say tentative, I would say cautious\.
+
+
+---
+
+### 3597. msg_22869
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:54:41
+
+>
+They are different\!
+
+
+---
+
+### 3598. msg_22870
+
+**You** - 2025-06-14T16:54:48
+
+the distinction there is pretty fine\.\. and that is an innocent one\.\. like nothing but you like to be very specific about some things\.
+
+
+---
+
+### 3599. msg_22871
+
+**You** - 2025-06-14T16:54:53
+
+but could care less about others
+
+
+---
+
+### 3600. msg_22872
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:55:56
+
+Key Difference:
+•	Tentative is more about being unsure or not yet decided\.
+•	Cautious is about being careful and avoiding risk, even if you’re sure of your intent\.
+
+
+---
+
+### 3601. msg_22873
+
+**You** - 2025-06-14T16:56:04
+
+I already did that
+
+
+---
+
+### 3602. msg_22874
+
+**You** - 2025-06-14T16:56:05
+
+LOL
+
+
+---
+
+### 3603. msg_22875
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:56:09
+
+lol
+
+
+---
+
+### 3604. msg_22876
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:56:21
+
+The exact difference I meant\!
+
+
+---
+
+### 3605. msg_22877
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:56:28
+
+I wasn’t undecided
+
+
+---
+
+### 3606. msg_22878
+
+**You** - 2025-06-14T16:56:44
+
+ok ok\.\. it's fine you think what you want\.\. I can only share what I observe
+
+
+---
+
+### 3607. msg_22879
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:56:50
+
+But I was worried about work, your marriage, etc etc etc
+
+
+---
+
+### 3608. msg_22880
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:57:12
+
+Reaction: 👍 from Scott Hicks
+So cautious 😇
+
+
+---
+
+### 3609. msg_22881
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:57:50
+
+You have to let me win sometimes
+
+
+---
+
+### 3610. msg_22882
+
+**You** - 2025-06-14T16:58:45
+
+I mean you are right about tentaive and cautious\.\. I can give you that win\.
+
+
+---
+
+### 3611. msg_22883
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T16:59:02
+
+k thanks 🙂
+
+
+---
+
+### 3612. msg_22884
+
+**You** - 2025-06-14T16:59:14
+
+np\.\. you earned it\.\.\.
+
+
+---
+
+### 3613. msg_22885
+
+**You** - 2025-06-14T17:02:50
+
+but on the rest of the stuff I am right\.\. 😝😝
+
+
+---
+
+### 3614. msg_22886
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T17:04:50
+
+Okay but you may need to prove it at some point\. :\)
+
+
+---
+
+### 3615. msg_22887
+
+**You** - 2025-06-14T17:05:40
+
+\.\.\.\.\. I will have to find something safe\.
+
+
+---
+
+### 3616. msg_22888
+
+**You** - 2025-06-14T17:06:09
+
+I mean I did already prove this once
+
+
+---
+
+### 3617. msg_22889
+
+**You** - 2025-06-14T17:06:13
+
+a while back
+
+
+---
+
+### 3618. msg_22890
+
+**You** - 2025-06-14T17:06:17
+
+you actually recognized it
+
+
+---
+
+### 3619. msg_22891
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T17:06:25
+
+Yeah I recall
+
+
+---
+
+### 3620. msg_22892
+
+**You** - 2025-06-14T17:06:31
+
+ohhhhh
+
+
+---
+
+### 3621. msg_22893
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T17:06:33
+
+I’m just not sure how regular it is of an occurrence
+
+
+---
+
+### 3622. msg_22894
+
+**You** - 2025-06-14T17:06:34
+
+now you recall
+
+
+---
+
+### 3623. msg_22895
+
+**You** - 2025-06-14T17:06:36
+
+LOL
+
+
+---
+
+### 3624. msg_22896
+
+**You** - 2025-06-14T17:07:59
+
+I just have to update my transcript\.\.
+
+
+---
+
+### 3625. msg_22897
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T17:08:34
+
+:p
+
+
+---
+
+### 3626. msg_22898
+
+**You** - 2025-06-14T17:09:18
+
+and done
+
+
+---
+
+### 3627. msg_22899
+
+**You** - 2025-06-14T17:09:20
+
+that easy
+
+
+---
+
+### 3628. msg_22900
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T17:12:14
+
+I think I’m going to nap until 6pm\. I’m tired from doing so much today \(lol joke\) \- no, still not 100%
+
+
+---
+
+### 3629. msg_22901
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T17:12:29
+
+I will ttyl ❤️
+
+
+---
+
+### 3630. msg_22902
+
+**You** - 2025-06-14T17:12:34
+
+go enjoy your sleep\.\. maybe when you wake up I will have something for you\.
+
+
+---
+
+### 3631. msg_22903
+
+**You** - 2025-06-14T17:12:36
+
+Love you
+
+
+---
+
+### 3632. msg_22904
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T17:12:46
+
+Love u too
+
+
+---
+
+### 3633. msg_22905
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T19:14:23
+
+So it synced apparently but the messages aren’t showing up in the cloud for some reason\. Just looking into it
+
+*1 attachment(s)*
+
+
+---
+
+### 3634. msg_22906
+
+**You** - 2025-06-14T19:15:03
+
+welcome back to the land of the living
+
+
+---
+
+### 3635. msg_22907
+
+**You** - 2025-06-14T19:19:35
+
+how was your sleep
+
+
+---
+
+### 3636. msg_22908
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T19:25:31
+
+I got up at 6\.30
+
+
+---
+
+### 3637. msg_22909
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T19:25:58
+
+Sleep was good bc I couldn’t this morning so I actually could which was nice
+
+
+---
+
+### 3638. msg_22910
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T19:26:07
+
+What are you up to
+
+
+---
+
+### 3639. msg_22911
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T19:26:56
+
+The messages are actually syncing on Mac’s Mac now
+
+
+---
+
+### 3640. msg_22912
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T19:27:08
+
+Will take a while but I see them coming in
+
+
+---
+
+### 3641. msg_22913
+
+**You** - 2025-06-14T19:31:41
+
+I am playing
+
+
+---
+
+### 3642. msg_22914
+
+**You** - 2025-06-14T19:31:47
+
+up to no good
+
+
+---
+
+### 3643. msg_22915
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T19:32:17
+
+lol ruh roh
+
+
+---
+
+### 3644. msg_22916
+
+**You** - 2025-06-14T19:32:31
+
+I have your transcript in an llm
+
+
+---
+
+### 3645. msg_22917
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T19:32:57
+
+Llm?
+
+
+---
+
+### 3646. msg_22918
+
+**You** - 2025-06-14T19:34:13
+
+Large Language Model
+
+
+---
+
+### 3647. msg_22919
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T19:37:20
+
+And what have you asked it
+
+
+---
+
+### 3648. msg_22920
+
+**You** - 2025-06-14T19:37:39
+
+things
+
+
+---
+
+### 3649. msg_22921
+
+**You** - 2025-06-14T19:37:50
+
+it is kinda clunky not loving it atm might try something else
+
+
+---
+
+### 3650. msg_22922
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T19:38:21
+
+I don’t even really care what it says\. I’m just more curious what you asked it\. lol
+
+
+---
+
+### 3651. msg_22923
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:03:13
+
+Send to shooter mcgavin email?
+
+
+---
+
+### 3652. msg_22924
+
+**You** - 2025-06-14T20:05:06
+
+sure
+
+
+---
+
+### 3653. msg_22925
+
+**You** - 2025-06-14T20:05:09
+
+or paste here
+
+
+---
+
+### 3654. msg_22926
+
+**You** - 2025-06-14T20:05:20
+
+you can add the file in here I think
+
+
+---
+
+### 3655. msg_22927
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:05:47
+
+It’s on the Mac
+
+
+---
+
+### 3656. msg_22928
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:05:52
+
+I don’t have it on my phone
+
+
+---
+
+### 3657. msg_22929
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:06:07
+
+Are you going to make me email it to myself and then download and then drop here
+
+
+---
+
+### 3658. msg_22930
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:06:11
+
+lol
+
+
+---
+
+### 3659. msg_22931
+
+**You** - 2025-06-14T20:06:18
+
+you can just email it lol
+
+
+---
+
+### 3660. msg_22932
+
+**You** - 2025-06-14T20:06:19
+
+sorry
+
+
+---
+
+### 3661. msg_22933
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:06:24
+
+K
+
+
+---
+
+### 3662. msg_22934
+
+**You** - 2025-06-14T20:06:29
+
+LOL
+
+
+---
+
+### 3663. msg_22935
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:06:50
+
+I didn’t check it to see if it did it right btw
+
+
+---
+
+### 3664. msg_22936
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:06:54
+
+No quality control
+
+
+---
+
+### 3665. msg_22937
+
+**You** - 2025-06-14T20:07:17
+
+lol
+
+
+---
+
+### 3666. msg_22938
+
+**You** - 2025-06-14T20:07:28
+
+not up to your typical standards
+
+
+---
+
+### 3667. msg_22939
+
+**You** - 2025-06-14T20:09:01
+
+I cna make this work :\)
+
+
+---
+
+### 3668. msg_22940
+
+**You** - 2025-06-14T20:09:29
+
+it does only cover april 10th to 13th though
+
+
+---
+
+### 3669. msg_22941
+
+**You** - 2025-06-14T20:09:32
+
+fyi
+
+
+---
+
+### 3670. msg_22942
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:09:38
+
+Omg
+
+
+---
+
+### 3671. msg_22943
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:09:40
+
+Why
+
+
+---
+
+### 3672. msg_22944
+
+**You** - 2025-06-14T20:09:44
+
+I don't know it just does
+
+
+---
+
+### 3673. msg_22945
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:09:52
+
+One sec I will check
+
+
+---
+
+### 3674. msg_22946
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:09:58
+
+Maybe the sync wasn’t done
+
+
+---
+
+### 3675. msg_22947
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:11:07
+
+Looking at the messages and it goes back further, so I might’ve done it too early
+
+
+---
+
+### 3676. msg_22948
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:11:21
+
+So don’t use that one
+
+
+---
+
+### 3677. msg_22949
+
+**You** - 2025-06-14T20:20:05
+
+There was a massive fight here
+
+
+---
+
+### 3678. msg_22950
+
+**You** - 2025-06-14T20:20:07
+
+I was not involved
+
+
+---
+
+### 3679. msg_22951
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:20:25
+
+Oh no
+
+
+---
+
+### 3680. msg_22952
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:21:41
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3681. msg_22953
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:21:51
+
+It won’t stop downloading
+
+
+---
+
+### 3682. msg_22954
+
+**You** - 2025-06-14T20:22:08
+
+so much stuff
+
+
+---
+
+### 3683. msg_22955
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:22:20
+
+Or is it glitching gahhh
+
+
+---
+
+### 3684. msg_22956
+
+**You** - 2025-06-14T20:22:20
+
+just give it time
+
+
+---
+
+### 3685. msg_22957
+
+**You** - 2025-06-14T20:27:19
+
+I am not sure what happened\.\. but I think Gracie said something about maddie lying about being sexually assaulted for attention\.\. I don't even know how that happens\.\.\. but I am staying the fuck down here\.
+
+
+---
+
+### 3686. msg_22958
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:28:33
+
+Oh that’s pretty brutal, low\.
+
+
+---
+
+### 3687. msg_22959
+
+**You** - 2025-06-14T20:28:59
+
+yeah\.\. Jaimie lost her fucking shit\.\.
+
+
+---
+
+### 3688. msg_22960
+
+**You** - 2025-06-14T20:29:12
+
+ironically\.\. this was something I raised to Jaimie earlier when she tried to defend gracie
+
+
+---
+
+### 3689. msg_22961
+
+**You** - 2025-06-14T20:29:17
+
+I think I told you so would be bad
+
+
+---
+
+### 3690. msg_22962
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:29:46
+
+Very bad\!\! Don’t say that lol
+
+
+---
+
+### 3691. msg_22963
+
+**You** - 2025-06-14T20:29:52
+
+But I feel like I should
+
+
+---
+
+### 3692. msg_22964
+
+**You** - 2025-06-14T20:29:59
+
+It might diffuse the situation
+
+
+---
+
+### 3693. msg_22965
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:30:30
+
+Omg no
+
+
+---
+
+### 3694. msg_22966
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:31:44
+
+393 pages
+
+
+---
+
+### 3695. msg_22967
+
+**You** - 2025-06-14T20:31:46
+
+HAHAHA
+
+
+---
+
+### 3696. msg_22968
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:31:49
+
+Taking forever to save
+
+
+---
+
+### 3697. msg_22969
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:31:59
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3698. msg_22970
+
+**You** - 2025-06-14T20:34:43
+
+fun excercise
+
+
+---
+
+### 3699. msg_22971
+
+**You** - 2025-06-14T20:34:53
+
+but once it is done and I extract I will send everything back to you
+
+
+---
+
+### 3700. msg_22972
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:36:34
+
+It is 244mb hmmmh
+
+
+---
+
+### 3701. msg_22973
+
+**You** - 2025-06-14T20:36:53
+
+holy shit\.\.
+
+
+---
+
+### 3702. msg_22974
+
+**You** - 2025-06-14T20:36:58
+
+it is because of all the images in it too
+
+
+---
+
+### 3703. msg_22975
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:37:09
+
+Didn’t download the images though
+
+
+---
+
+### 3704. msg_22976
+
+**You** - 2025-06-14T20:37:17
+
+just the pages as images then\.
+
+
+---
+
+### 3705. msg_22977
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:38:27
+
+It sent as a Google doc link
+
+
+---
+
+### 3706. msg_22978
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:39:25
+
+When you have it I’m deleting it off of my Google drive
+
+
+---
+
+### 3707. msg_22979
+
+**You** - 2025-06-14T20:39:47
+
+I have it
+
+
+---
+
+### 3708. msg_22980
+
+**You** - 2025-06-14T20:39:58
+
+did you buy that thing or did you print to pdf
+
+
+---
+
+### 3709. msg_22981
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:40:48
+
+Print to pdf
+
+
+---
+
+### 3710. msg_22982
+
+**You** - 2025-06-14T20:42:39
+
+kk good
+
+
+---
+
+### 3711. msg_22983
+
+**You** - 2025-06-14T20:47:00
+
+How are you feeling?
+
+
+---
+
+### 3712. msg_22984
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:47:41
+
+Better now that that is done 🙃
+
+
+---
+
+### 3713. msg_22985
+
+**You** - 2025-06-14T20:47:55
+
+well I mean health wise\.\. I am sure the wine must be helping tonight
+
+
+---
+
+### 3714. msg_22986
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:51:23
+
+I am not drinking tonight
+
+
+---
+
+### 3715. msg_22987
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:51:37
+
+I have to be in good shape tomorrow for my parents
+
+
+---
+
+### 3716. msg_22988
+
+**You** - 2025-06-14T20:51:43
+
+:\)
+
+
+---
+
+### 3717. msg_22989
+
+**You** - 2025-06-14T20:51:48
+
+I hope you have a lot of fun\.
+
+
+---
+
+### 3718. msg_22990
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:52:31
+
+Meh it will be fine
+
+
+---
+
+### 3719. msg_22991
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:52:34
+
+lol
+
+
+---
+
+### 3720. msg_22992
+
+**You** - 2025-06-14T20:53:18
+
+eesh\.\. all of my heartfelt thoughts\.\. kicked to the curb\.\. LOL I hope you have a mediocre slightly lackluster time, that you really are just barely able to tolerate\.
+
+
+---
+
+### 3721. msg_22993
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:53:55
+
+Reaction: ❤️ from Scott Hicks
+>
+Thank you\.
+
+
+---
+
+### 3722. msg_22994
+
+**You** - 2025-06-14T20:54:13
+
+That's how much I love you right there\!\!@
+
+
+---
+
+### 3723. msg_22995
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:54:30
+
+So your “transcript” is going to be massive now
+
+
+---
+
+### 3724. msg_22996
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:54:40
+
+How many pages?
+
+
+---
+
+### 3725. msg_22997
+
+**You** - 2025-06-14T20:54:45
+
+well it needs to be broken in 2
+
+
+---
+
+### 3726. msg_22998
+
+**You** - 2025-06-14T20:54:50
+
+I won't be able to join them
+
+
+---
+
+### 3727. msg_22999
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:55:06
+
+Why not
+
+
+---
+
+### 3728. msg_23000
+
+**You** - 2025-06-14T20:55:22
+
+hmm maybe I can
+
+
+---
+
+### 3729. msg_23001
+
+**You** - 2025-06-14T20:55:27
+
+let me see
+
+
+---
+
+### 3730. msg_23002
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T20:56:08
+
+But it would be way too large for any ai to mine … no?
+
+
+---
+
+### 3731. msg_23003
+
+**You** - 2025-06-14T20:57:14
+
+let me show you what I am doing
+
+
+---
+
+### 3732. msg_23004
+
+**You** - 2025-06-14T20:58:19
+
+\# Sunday, April 13, 2025
+\#\#\# Daily Summary
+\- Keywords: scott hicks, the house, 13 apr, meredith lamb, the idea
+\- Entities: 13 \(CARDINAL\), 2025 \(DATE\), Scott Hicks \(PERSON\), tonight \(TIME\), Meredith Lamb \(PERSON\)
+\- Messages: 227
+\-\-\-
+\#\# 20:48:54 — Scott
+\#\# 20:53:33 — Scott
+\#\# 20:53:44 — Meredith Lamb
+\#\# 20:53:51 — Scott
+\#\# 20:53:56 — Scott
+\#\# 20:54:01 — Scott
+\#\# 20:54:03 — Scott
+\#\# 20:54:17 — Meredith Lamb
+\#\# 20:54:30 — Scott
+I am soooopo bad
+\#\# 20:54:35 — Scott
+\#\# 20:54:54 — Meredith Lamb
+\#\# 20:55:00 — Scott
+\#\# 20:55:29 — Meredith Lamb
+\#\# 20:56:07 — Meredith Lamb
+\#\# 20:56:11 — Scott
+As
+Well
+I\. Your profile settings
+\#\# 20:56:15 — Scott
+\#\# 20:56:26 — Meredith Lamb
+\#\# 20:56:38 — Meredith Lamb
+\#\# 20:56:53 — Meredith Lamb
+\#\# 20:57:01 — Meredith Lamb
+\#\# 20:57:19 — Scott
+\#\# 20:57:27 — Scott
+\#\# 20:57:32 — Meredith Lamb
+\#\# 20:57:33 — Scott
+\#\# 20:57:45 — Meredith Lamb
+\#\# 20:57:58 — Scott
+To do it for
+You
+\#\# 20:58:03 — Scott
+\#\# 20:58:11 — Meredith Lamb
+\#\# 20:58:29 — Meredith Lamb
+\#\# 20:58:38 — Mer\.\.\. \[truncated\]
+
+
+---
+
+### 3733. msg_23005
+
+**You** - 2025-06-14T20:58:37
+
+I reformatted the text I get into something a bit more readable
+
+
+---
+
+### 3734. msg_23006
+
+**You** - 2025-06-14T20:58:48
+
+I also broke out all of the files into days\.
+
+
+---
+
+### 3735. msg_23007
+
+**You** - 2025-06-14T20:59:03
+
+So I can take these and put them on a Google drive
+
+
+---
+
+### 3736. msg_23008
+
+**You** - 2025-06-14T20:59:10
+
+and then gemini can access them all from there
+
+
+---
+
+### 3737. msg_23009
+
+**You** - 2025-06-14T21:01:24
+
+now I am ocr'ing your doc
+
+
+---
+
+### 3738. msg_23010
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:02:00
+
+Ocr
+
+
+---
+
+### 3739. msg_23011
+
+**You** - 2025-06-14T21:02:06
+
+Optical Character Recognition
+
+
+---
+
+### 3740. msg_23012
+
+**You** - 2025-06-14T21:02:15
+
+basically it identifies text in pictures
+
+
+---
+
+### 3741. msg_23013
+
+**You** - 2025-06-14T21:02:37
+
+that is step 1
+
+
+---
+
+### 3742. msg_23014
+
+**You** - 2025-06-14T21:02:40
+
+of a few
+
+
+---
+
+### 3743. msg_23015
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:03:13
+
+You are hardcore\.
+
+
+---
+
+### 3744. msg_23016
+
+**You** - 2025-06-14T21:03:43
+
+no\.\. not really\.\. I am too distracted to be hardcore
+
+
+---
+
+### 3745. msg_23017
+
+**You** - 2025-06-14T21:04:19
+
+brb need food
+
+
+---
+
+### 3746. msg_23018
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:04:34
+
+I’m going to shower
+
+
+---
+
+### 3747. msg_23019
+
+**You** - 2025-06-14T21:14:31
+
+kk let me think about that for a bit\.\.  you know\.\. I can help you do that sometime\.\.\. I kind of expected an invitation and none was forthcoming\. 😭
+
+
+---
+
+### 3748. msg_23020
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:22:58
+
+lol
+
+
+---
+
+### 3749. msg_23021
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:23:08
+
+Eventually maybe?
+
+
+---
+
+### 3750. msg_23022
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:23:21
+
+\(Did you like the maybe on the end?\)
+
+
+---
+
+### 3751. msg_23023
+
+**You** - 2025-06-14T21:23:51
+
+mmmm\.\.\. I just think you would be missing out on fun time\.\. your call\.
+
+
+---
+
+### 3752. msg_23024
+
+**You** - 2025-06-14T21:27:38
+
+fun time does seem like a while ago now that I think about it
+
+
+---
+
+### 3753. msg_23025
+
+**You** - 2025-06-14T21:27:45
+
+eesh
+
+
+---
+
+### 3754. msg_23026
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:27:55
+
+I get that \- very much do\.\. speaking of insecurities, I honestly have never “dated” at this weight before so I’m still navigating it\. It is just very different and I’m being patient with myself\.
+
+
+---
+
+### 3755. msg_23027
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:28:11
+
+>
+Feels like forever
+
+
+---
+
+### 3756. msg_23028
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:28:18
+
+Which is weird bc it wasn’t
+
+
+---
+
+### 3757. msg_23029
+
+**You** - 2025-06-14T21:28:19
+
+I love every bit of you\.\. maybe you should relax more\.\. and let me do more of that\.
+
+
+---
+
+### 3758. msg_23030
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:28:56
+
+Yeah yeah yeah, I get it I get it\. It is just a real thing that is different\.
+
+
+---
+
+### 3759. msg_23031
+
+**You** - 2025-06-14T21:28:56
+
+>
+because i have let down my guard re my insecurities :\)
+
+
+---
+
+### 3760. msg_23032
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:30:17
+
+I know you have big time and I really value that and admire your ability to do so\. I am not so vulnerable in the way you can be
+
+
+---
+
+### 3761. msg_23033
+
+**You** - 2025-06-14T21:31:43
+
+>
+you should be\.\. you are amazing just the way you are\.\. never doubt I feel that way\.  Actions are supposed to speak louder right\.\.  I think mine have spoken a few times\.\. seriously Mer give yourself a break\.
+
+
+---
+
+### 3762. msg_23034
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:33:42
+
+It is not something that is keeping me up at night\. It is just there\.
+
+
+---
+
+### 3763. msg_23035
+
+**You** - 2025-06-14T21:34:52
+
+ok\.\. well if it bothers just tell me how to stay within my lane\.\. and I will be happy to try to make you more comfortable\.
+
+
+---
+
+### 3764. msg_23036
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:35:14
+
+Stay within your lane lol
+
+
+---
+
+### 3765. msg_23037
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:35:16
+
+Huh
+
+
+---
+
+### 3766. msg_23038
+
+**You** - 2025-06-14T21:35:26
+
+I mean don't do things that make you feel uncomfortable\.
+
+
+---
+
+### 3767. msg_23039
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:35:36
+
+Ahhhh
+
+
+---
+
+### 3768. msg_23040
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:35:41
+
+You don’t do that
+
+
+---
+
+### 3769. msg_23041
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:36:32
+
+I don’t think I’d be uncomfortable with you but it has been like a short time so I’m still getting used to things yunnno
+
+
+---
+
+### 3770. msg_23042
+
+**You** - 2025-06-14T21:38:14
+
+I think I know\.\. but I am not sure\.\. lol so sure\.\. let's just say I do
+
+
+---
+
+### 3771. msg_23043
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:38:57
+
+Haha
+
+
+---
+
+### 3772. msg_23044
+
+**You** - 2025-06-14T21:39:26
+
+I mean let's say there have been kind of some guidelines I am supposed to stay within
+
+
+---
+
+### 3773. msg_23045
+
+**You** - 2025-06-14T21:39:38
+
+so if those were to relax then sure more things to get used to
+
+
+---
+
+### 3774. msg_23046
+
+**You** - 2025-06-14T21:39:42
+
+maybe?
+
+
+---
+
+### 3775. msg_23047
+
+**You** - 2025-06-14T21:39:44
+
+lol
+
+
+---
+
+### 3776. msg_23048
+
+**You** - 2025-06-14T21:39:58
+
+trying here\.\. rofl
+
+
+---
+
+### 3777. msg_23049
+
+**You** - 2025-06-14T21:41:08
+
+you ok there
+
+
+---
+
+### 3778. msg_23050
+
+**You** - 2025-06-14T21:41:19
+
+a lot of typing or deleting or both or start stopping
+
+
+---
+
+### 3779. msg_23051
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:42:25
+
+It’s pretty simple\. I have a complicated relationship with my weight like most women \(many factors contribute to it obviously\) but in my 20s/30s it wasn’t a thing as much\. Since kids it has always been a thing… when you are with someone throughout all that, it is less of a thing\. Then all of a sudden you are split up and with someone and it is just a consideration to navigate that wasn’t AS much there before in the past\.
+All that to say, I am figuring it out and will be fine
+
+
+---
+
+### 3780. msg_23052
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:42:27
+
+lol
+
+
+---
+
+### 3781. msg_23053
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:43:23
+
+But shower…\. Right now…\. Feels uh …\.\. uncomfortable for sure
+
+
+---
+
+### 3782. msg_23054
+
+**You** - 2025-06-14T21:43:26
+
+kk but it didn't bother you and then it did?
+
+
+---
+
+### 3783. msg_23055
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:43:45
+
+>
+Didn’t bother me when?
+
+
+---
+
+### 3784. msg_23056
+
+**You** - 2025-06-14T21:43:45
+
+just because it is me\.\. there is nothing daunting over here\.\. lol
+
+
+---
+
+### 3785. msg_23057
+
+**You** - 2025-06-14T21:44:01
+
+it didn't bother you previously\. as in let's say last year
+
+
+---
+
+### 3786. msg_23058
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:44:16
+
+Oh no for sure it did like last year the year before
+
+
+---
+
+### 3787. msg_23059
+
+**You** - 2025-06-14T21:44:21
+
+:\(
+
+
+---
+
+### 3788. msg_23060
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:44:34
+
+Edited: 2 versions
+| Version: 2
+| Sent: Sat, 14 Jun 2025 21:45:27 \-0400
+|
+| Honestly, the first day at Enbridge I was super paranoid because I was like 30 to 40 pounds heavier than when I left union and I thought everyone was gonna notice
+|
+| Version: 1
+| Sent: Sat, 14 Jun 2025 21:44:34 \-0400
+|
+| Honestly, the first day at Embridge I was super paranoid because I was like 3040 pounds heavier than when I left union and I thought everyone was gonna notice
+
+
+---
+
+### 3789. msg_23061
+
+**You** - 2025-06-14T21:44:35
+
+ok\.\. well I hope you get comfortable\.
+
+
+---
+
+### 3790. msg_23062
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:44:47
+
+Then Allison is like “you look exactly the same you haven’t changed”
+
+
+---
+
+### 3791. msg_23063
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:44:52
+
+LOL
+
+
+---
+
+### 3792. msg_23064
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:45:57
+
+>
+I mean, I’m semi\-comfortable\. I’m just not fully comfortable\.
+
+
+---
+
+### 3793. msg_23065
+
+**You** - 2025-06-14T21:46:19
+
+you and your qualifying statements\.\.\.\.\.\.
+
+
+---
+
+### 3794. msg_23066
+
+**You** - 2025-06-14T21:46:29
+
+well I am not not somewhat comfortable\.
+
+
+---
+
+### 3795. msg_23067
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:46:47
+
+But I am semi\-comfortable\!
+
+
+---
+
+### 3796. msg_23068
+
+**You** - 2025-06-14T21:46:53
+
+maybe
+
+
+---
+
+### 3797. msg_23069
+
+**You** - 2025-06-14T21:46:56
+
+sometimes
+
+
+---
+
+### 3798. msg_23070
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:47:01
+
+Like comfortable with some things but not others
+
+
+---
+
+### 3799. msg_23071
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:47:12
+
+Listen, I will get there
+
+
+---
+
+### 3800. msg_23072
+
+**You** - 2025-06-14T21:47:13
+
+Reaction: 😂 from Meredith Lamb
+you smashed right through my semi comfort
+
+
+---
+
+### 3801. msg_23073
+
+**You** - 2025-06-14T21:47:33
+
+you were like psssh\.\.\. ignored
+
+
+---
+
+### 3802. msg_23074
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:47:43
+
+LOL
+
+
+---
+
+### 3803. msg_23075
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:47:54
+
+It is funny because it is true
+
+
+---
+
+### 3804. msg_23076
+
+**You** - 2025-06-14T21:48:24
+
+I know\.\.\.\. but one barrier down\.\. not sure how many to go\.\. we will have to see\.\. cause well that was probably my biggest uncomfort zone\.
+
+
+---
+
+### 3805. msg_23077
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:48:30
+
+I think you like to be challenged lol
+
+
+---
+
+### 3806. msg_23078
+
+**You** - 2025-06-14T21:48:42
+
+mmmm  I like to be engaged\.
+
+
+---
+
+### 3807. msg_23079
+
+**You** - 2025-06-14T21:49:04
+
+not so much a contest\.\. against one another\.\.
+
+
+---
+
+### 3808. msg_23080
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:49:29
+
+Not fun sometimes?
+
+
+---
+
+### 3809. msg_23081
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:49:31
+
+lol
+
+
+---
+
+### 3810. msg_23082
+
+**You** - 2025-06-14T21:49:39
+
+well honestly never tried it\.\.
+
+
+---
+
+### 3811. msg_23083
+
+**You** - 2025-06-14T21:49:46
+
+so sure we can have a go sometime
+
+
+---
+
+### 3812. msg_23084
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:49:57
+
+Haha
+
+
+---
+
+### 3813. msg_23085
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:50:09
+
+How open of you
+
+
+---
+
+### 3814. msg_23086
+
+**You** - 2025-06-14T21:50:26
+
+if we are being competitive\.\. I would say I am more open than you atm\.
+
+
+---
+
+### 3815. msg_23087
+
+**You** - 2025-06-14T21:50:43
+
+and I don't think you were ready for that\.
+
+
+---
+
+### 3816. msg_23088
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:51:10
+
+I know, well it is like you got permission and then you just wanted to go full force in one day
+
+
+---
+
+### 3817. msg_23089
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:51:21
+
+That wasn’t really what I meant when I raised it lol
+
+
+---
+
+### 3818. msg_23090
+
+**You** - 2025-06-14T21:51:46
+
+I mean a\) permission \- more like a request\.\. b\) that wasn't even close to full force
+
+
+---
+
+### 3819. msg_23091
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:51:49
+
+And honestly I don’t mind
+
+
+---
+
+### 3820. msg_23092
+
+**You** - 2025-06-14T21:52:12
+
+but we can slow it way down if you want
+
+
+---
+
+### 3821. msg_23093
+
+**You** - 2025-06-14T21:52:17
+
+like turtle speed
+
+
+---
+
+### 3822. msg_23094
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:52:22
+
+Well the request was like some sort of permission really in the end
+
+
+---
+
+### 3823. msg_23095
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:52:36
+
+>
+Stop
+
+
+---
+
+### 3824. msg_23096
+
+**You** - 2025-06-14T21:52:36
+
+ummmmmmmmmmmmmmmmmmm
+
+
+---
+
+### 3825. msg_23097
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:53:26
+
+Just because I’m not doing things doesn’t mean I’m not thinking about them\.
+
+
+---
+
+### 3826. msg_23098
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:53:43
+
+I just don’t need to do everything all at once lol
+
+
+---
+
+### 3827. msg_23099
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:53:59
+
+Not sure if that makes sense
+
+
+---
+
+### 3828. msg_23100
+
+**You** - 2025-06-14T21:54:29
+
+Reaction: 🙃 from Scott Hicks
+I mean no really I might be onto something\.\. like if we really really slow it down\.\. like to kind of hold hands and no tongue\.\. well that could be great for anticipations right??
+
+
+---
+
+### 3829. msg_23101
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:55:13
+
+I don’t think we have issues with anticipation
+
+
+---
+
+### 3830. msg_23102
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:55:25
+
+I feel like that is the LAST issue we have
+
+
+---
+
+### 3831. msg_23103
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:55:34
+
+If there was a list
+
+
+---
+
+### 3832. msg_23104
+
+**You** - 2025-06-14T21:55:33
+
+Reaction: 🤔 from Meredith Lamb
+but it might make it better\.
+
+
+---
+
+### 3833. msg_23105
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:55:39
+
+Bottom of list
+
+
+---
+
+### 3834. msg_23106
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:56:54
+
+Do you think we need to make it better?
+
+
+---
+
+### 3835. msg_23107
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:57:02
+
+What are you saying?
+
+
+---
+
+### 3836. msg_23108
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:57:13
+
+lol
+
+
+---
+
+### 3837. msg_23109
+
+**You** - 2025-06-14T21:57:15
+
+rofl
+
+
+---
+
+### 3838. msg_23110
+
+**You** - 2025-06-14T21:57:30
+
+absolutely nothing I was waiting for you to agree with me, and then backpeddle
+
+
+---
+
+### 3839. msg_23111
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:58:01
+
+Not agreeing …\.
+
+
+---
+
+### 3840. msg_23112
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T21:58:13
+
+Maybe you are drinking tonight
+
+
+---
+
+### 3841. msg_23113
+
+**You** - 2025-06-14T21:59:03
+
+nope
+
+
+---
+
+### 3842. msg_23114
+
+**You** - 2025-06-14T21:59:25
+
+honestly goofing around thinking of you\. Always thinking of angles on how to see you more\.
+
+
+---
+
+### 3843. msg_23115
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:00:11
+
+You are talented at that… seriously
+
+
+---
+
+### 3844. msg_23116
+
+**You** - 2025-06-14T22:00:43
+
+are you taking an sdo friday?
+
+
+---
+
+### 3845. msg_23117
+
+**You** - 2025-06-14T22:01:11
+
+nm
+
+
+---
+
+### 3846. msg_23118
+
+**You** - 2025-06-14T22:01:21
+
+I forgot friday is work from home no reason to be out of house
+
+
+---
+
+### 3847. msg_23119
+
+**You** - 2025-06-14T22:02:06
+
+errrrrmmmmm
+
+
+---
+
+### 3848. msg_23120
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:02:20
+
+This Friday?
+
+
+---
+
+### 3849. msg_23121
+
+**You** - 2025-06-14T22:02:27
+
+yeah it won't work\.\.
+
+
+---
+
+### 3850. msg_23122
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:02:48
+
+I was going to work yeah
+
+
+---
+
+### 3851. msg_23123
+
+**You** - 2025-06-14T22:02:49
+
+Sat\- could try a repeat of last Sat and then parents\.\. but not sure scheudle
+
+
+---
+
+### 3852. msg_23124
+
+**You** - 2025-06-14T22:02:58
+
+for vball
+
+
+---
+
+### 3853. msg_23125
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:04:14
+
+I’m so bad at planning like I haven’t even told anyone about Saturday next Saturday
+
+
+---
+
+### 3854. msg_23126
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:04:37
+
+It will be fine though if I’m not here
+
+
+---
+
+### 3855. msg_23127
+
+**You** - 2025-06-14T22:05:06
+
+mmm\.\. yeah I am just trying to think can we get the day\.\. or just the afternoon\.\. you think about it let me know or we can revisit
+
+
+---
+
+### 3856. msg_23128
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:06:13
+
+k I’m sure I can be gone for the day easily\. I use my parents’ health…
+
+
+---
+
+### 3857. msg_23129
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:06:26
+
+My family knows right now so they understand
+
+
+---
+
+### 3858. msg_23130
+
+**You** - 2025-06-14T22:07:42
+
+ok then the idea would be a repeat of last saturday with us going to your parents after\.\. except you would get there at 10 maybe?
+
+
+---
+
+### 3859. msg_23131
+
+**You** - 2025-06-14T22:07:49
+
+🤪
+
+
+---
+
+### 3860. msg_23132
+
+**You** - 2025-06-14T22:08:01
+
+or whenever lol
+
+
+---
+
+### 3861. msg_23133
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:08:56
+
+Har har
+
+
+---
+
+### 3862. msg_23134
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:10:56
+
+I feel bad you having to do all the booking/$ …\. I could not book something like this right now\. But I could give you $
+
+
+---
+
+### 3863. msg_23135
+
+**You** - 2025-06-14T22:13:13
+
+ROFL\.\. make up for it later if it makes you feel better\.\. I don't care\.\. honestly using fun money I won't have it forever hehe
+
+
+---
+
+### 3864. msg_23136
+
+**You** - 2025-06-14T22:13:32
+
+you get lunch
+
+
+---
+
+### 3865. msg_23137
+
+**You** - 2025-06-14T22:13:39
+
+there that is something :\)
+
+
+---
+
+### 3866. msg_23138
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:14:17
+
+Pretty minimal :p
+
+
+---
+
+### 3867. msg_23139
+
+**You** - 2025-06-14T22:14:25
+
+fine you decide how and when
+
+
+---
+
+### 3868. msg_23140
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:14:58
+
+How and when to give you $? Ok :\)
+
+
+---
+
+### 3869. msg_23141
+
+**You** - 2025-06-14T22:15:14
+
+how and when you do whatever I dun care\.\. :\)
+
+
+---
+
+### 3870. msg_23142
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:16:33
+
+k
+
+
+---
+
+### 3871. msg_23143
+
+**You** - 2025-06-14T22:18:34
+
+I just mean it isn't really important to me\.\. you know someday\.\. we can kind of get on the same page\.\. and some other time\.\. if you want to take me out\.\. I am all for it\.\. but I don't keep score :\)
+
+
+---
+
+### 3872. msg_23144
+
+**You** - 2025-06-14T22:19:20
+
+but if it is easier for this to happen this way, and I am able to accommodate\.\. then hell fucking yeah I am going to and keep going to\.\. because worth\.
+
+
+---
+
+### 3873. msg_23145
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:23:08
+
+Well I do appreciate it and all the effort you put in but I’d just like to pay half\. We don’t have to talk about it anymore though \- I will figure it out\. :\)
+
+
+---
+
+### 3874. msg_23146
+
+**You** - 2025-06-14T22:23:35
+
+>
+now I am not going to tell you\.
+
+
+---
+
+### 3875. msg_23147
+
+**You** - 2025-06-14T22:23:37
+
+so there
+
+
+---
+
+### 3876. msg_23148
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:24:19
+
+🙄
+
+
+---
+
+### 3877. msg_23149
+
+**You** - 2025-06-14T22:27:15
+
+shiiiiit
+
+
+---
+
+### 3878. msg_23150
+
+**You** - 2025-06-14T22:27:19
+
+I thought I had less on there
+
+
+---
+
+### 3879. msg_23151
+
+**You** - 2025-06-14T22:27:25
+
+rofl
+
+
+---
+
+### 3880. msg_23152
+
+**You** - 2025-06-14T22:27:55
+
+fun money balance = $9480\.24
+
+
+---
+
+### 3881. msg_23153
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:29:30
+
+Crazy
+
+
+---
+
+### 3882. msg_23154
+
+**You** - 2025-06-14T22:29:38
+
+I worked hard for all the Stellar Love\.\.
+
+
+---
+
+### 3883. msg_23155
+
+**You** - 2025-06-14T22:30:37
+
+so maybe you don't worry so much :\)
+
+
+---
+
+### 3884. msg_23156
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:31:55
+
+I’m not worried, but I’d like to be fair
+
+
+---
+
+### 3885. msg_23157
+
+**You** - 2025-06-14T22:32:11
+
+ok Mer
+
+
+---
+
+### 3886. msg_23158
+
+**You** - 2025-06-14T22:34:25
+
+maybe try a different place next time
+
+
+---
+
+### 3887. msg_23159
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:37:17
+
+So you never told me what you were asking ai about your transcript earlier when it was “clunky”
+
+
+---
+
+### 3888. msg_23160
+
+**You** - 2025-06-14T22:38:02
+
+I was asking it to consider the conversation\.\. consider the questions being asked, and the answers being given or not given\.  Consider literally and inferentially what someone might be looking for versus receiving\.
+
+
+---
+
+### 3889. msg_23161
+
+**You** - 2025-06-14T22:38:32
+
+Consider the responses and whether or not they are directly related, not related at all, or vague in general\.
+
+
+---
+
+### 3890. msg_23162
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:44:55
+
+And it wasn’t helpful?
+
+
+---
+
+### 3891. msg_23163
+
+**You** - 2025-06-14T22:44:58
+
+holy shit
+
+
+---
+
+### 3892. msg_23164
+
+**You** - 2025-06-14T22:45:03
+
+well notebook lm is interesting'
+
+
+---
+
+### 3893. msg_23165
+
+**You** - 2025-06-14T22:45:09
+
+now that I reorganized all the content
+
+
+---
+
+### 3894. msg_23166
+
+**You** - 2025-06-14T22:46:54
+
+this is insane
+
+
+---
+
+### 3895. msg_23167
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:47:02
+
+And you are going to share what is “interesting”
+
+
+---
+
+### 3896. msg_23168
+
+**You** - 2025-06-14T22:47:09
+
+I can't really you need to see it
+
+
+---
+
+### 3897. msg_23169
+
+**You** - 2025-06-14T22:47:27
+
+sec
+
+
+---
+
+### 3898. msg_23170
+
+**You** - 2025-06-14T22:49:32
+
+do you have chrome on your phone
+
+
+---
+
+### 3899. msg_23171
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:52:30
+
+No
+
+
+---
+
+### 3900. msg_23172
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:53:00
+
+Oh yeah, I do for the kids school\. I just never use it anymore\.
+
+
+---
+
+### 3901. msg_23173
+
+**You** - 2025-06-14T22:53:19
+
+Chrome Remote Desktop
+
+
+---
+
+### 3902. msg_23174
+
+**You** - 2025-06-14T22:53:22
+
+download that
+
+
+---
+
+### 3903. msg_23175
+
+**You** - 2025-06-14T22:54:06
+
+then if you get that doine in 3 mins\.\. there should be a place where it says connect to another computer
+
+
+---
+
+### 3904. msg_23176
+
+**You** - 2025-06-14T22:54:15
+
+182790557392 that is your connect code
+
+
+---
+
+### 3905. msg_23177
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:55:26
+
+
+*1 attachment(s)*
+
+
+---
+
+### 3906. msg_23178
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:55:56
+
+I’m too tired to go to a laptop
+
+
+---
+
+### 3907. msg_23179
+
+**You** - 2025-06-14T22:56:17
+
+ok
+
+
+---
+
+### 3908. msg_23180
+
+**You** - 2025-06-14T22:56:19
+
+one last try
+
+
+---
+
+### 3909. msg_23181
+
+**You** - 2025-06-14T22:56:24
+
+download skype lol
+
+
+---
+
+### 3910. msg_23182
+
+**You** - 2025-06-14T22:56:38
+
+nm
+
+
+---
+
+### 3911. msg_23183
+
+**You** - 2025-06-14T22:56:40
+
+FACK
+
+
+---
+
+### 3912. msg_23184
+
+**You** - 2025-06-14T22:56:50
+
+do you have teams on your phone>?
+
+
+---
+
+### 3913. msg_23185
+
+**You** - 2025-06-14T22:57:18
+
+you can use it with a personal email account\.
+
+
+---
+
+### 3914. msg_23186
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:58:07
+
+Nooo I do not
+
+
+---
+
+### 3915. msg_23187
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T22:58:16
+
+I have zoom
+
+
+---
+
+### 3916. msg_23188
+
+**You** - 2025-06-14T23:00:26
+
+what email address for that zoom
+
+
+---
+
+### 3917. msg_23189
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T23:00:56
+
+My only one lamberrymer@gmail\.com
+
+
+---
+
+### 3918. msg_23190
+
+**You** - 2025-06-14T23:01:32
+
+Shooter McGavvvin is inviting you to a scheduled Zoom meeting\.
+Topic: My Meeting
+Time: Jun 14, 2025 11:00 PM Montreal
+Join Zoom Meeting
+https://us05web\.zoom\.us/j/2884409337?pwd=djOOiFsIzIF9qq3TfXmBaDUjfIgRTL\.1&omn=88437701347
+Meeting ID: 288 440 9337
+Passcode: C0V3p0
+
+
+---
+
+### 3919. msg_23191
+
+**You** - 2025-06-14T23:05:45
+
+I wasn't going to talk because I didn't want tyo get you in trouvle
+
+
+---
+
+### 3920. msg_23192
+
+**You** - 2025-06-14T23:07:01
+
+i figured full house tonight\.\. and little shadow always around
+
+
+---
+
+### 3921. msg_23193
+
+**You** - 2025-06-14T23:08:27
+
+I am not supposed to be hearing you right
+
+
+---
+
+### 3922. msg_23194
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T23:08:52
+
+Can you hear me
+
+
+---
+
+### 3923. msg_23195
+
+**You** - 2025-06-14T23:09:30
+
+no just sec
+
+
+---
+
+### 3924. msg_23196
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T23:29:02
+
+Someone coming upstairs\. Sec
+
+
+---
+
+### 3925. msg_23197
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T23:29:53
+
+Andrew
+
+
+---
+
+### 3926. msg_23198
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T23:29:56
+
+:p
+
+
+---
+
+### 3927. msg_23199
+
+**You** - 2025-06-14T23:29:54
+
+figured
+
+
+---
+
+### 3928. msg_23200
+
+**You** - 2025-06-14T23:30:38
+
+that is why i was quiet\.\. not like you\.\. HEY MEREDITH WHAT'S GOING ON\!\!\!\!
+
+
+---
+
+### 3929. msg_23201
+
+**You** - 2025-06-14T23:31:06
+
+I assume he is still there you are still muted etc
+
+
+---
+
+### 3930. msg_23202
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T23:31:15
+
+lol I turned my volume down even if you weren’t quiet
+
+
+---
+
+### 3931. msg_23203
+
+**You** - 2025-06-14T23:37:01
+
+night❤️❤️❤️❤️
+
+
+---
+
+### 3932. msg_23204
+
+**Meredith Lamb \(\+14169386001\)** - 2025-06-14T23:37:33
+
+Nite \- behave please ❤️
+
+
+---
+
+### 3933. msg_23205
+
+**You** - 2025-06-14T23:37:39
+
+Reaction: ❤️ from Meredith Lamb
+I mean\.\. how could I not behave
+
+
+---
+

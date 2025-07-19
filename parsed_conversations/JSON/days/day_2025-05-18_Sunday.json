@@ -1,0 +1,105 @@
+{
+ "metadata":{
+  "format_version":"2.0",
+  "generated_at":"2025-07-18T21:27:05.796217",
+  "day_date":"2025-05-18",
+  "day_name":"Sunday",
+  "global_week_number":6,
+  "total_messages":1,
+  "conversation_title":"Meredith Lamb (+14169386001)",
+  "rag_optimization":{
+   "content_types":{
+    "text_only":0,
+    "with_attachments":1,
+    "with_quotes":0,
+    "with_reactions":0,
+    "edited_messages":0
+   },
+   "semantic_tags":[],
+   "temporal_patterns":{
+    "hourly_distribution":{
+     "11":1
+    },
+    "conversation_peaks":[
+     [
+      11,
+      1
+     ]
+    ],
+    "gaps_between_messages":[]
+   }
+  }
+ },
+ "messages":[
+  {
+   "id":"msg_11647",
+   "seq":1,
+   "sender":"Meredith Lamb (+14169386001)",
+   "type":"incoming",
+   "timestamp":"2025-05-18T11:41:50-04:00",
+   "content":"Thankful to everyone except me because I made things harder. :p",
+   "attachments":1,
+   "has_quote":false
+  }
+ ],
+ "analytics":{
+  "total_messages":1,
+  "by_sender":{
+   "Meredith Lamb (+14169386001)":1
+  },
+  "by_type":{
+   "incoming":1
+  },
+  "timespan":{
+   "start":"2025-05-18T11:41:50-04:00",
+   "end":"2025-05-18T11:41:50-04:00"
+  }
+ },
+ "content_index":{
+  "by_sender":{
+   "Meredith Lamb (+14169386001)":[
+    0
+   ]
+  },
+  "by_content_length":{
+   "short":[],
+   "medium":[
+    0
+   ],
+   "long":[]
+  },
+  "with_keywords":{
+   "thankful":[
+    0
+   ],
+   "everyone":[
+    0
+   ],
+   "except":[
+    0
+   ],
+   "because":[
+    0
+   ],
+   "things":[
+    0
+   ]
+  },
+  "conversation_starters":[]
+ },
+ "daily_summary":{
+  "message_count":1,
+  "participants":[
+   "Meredith Lamb (+14169386001)"
+  ],
+  "first_message_time":"2025-05-18T11:41",
+  "last_message_time":"2025-05-18T11:41",
+  "content_highlights":[
+   {
+    "sender":"Meredith Lamb (+14169386001)",
+    "preview":"Thankful to everyone except me because I made things harder. :p",
+    "length":63
+   }
+  ]
+ }
+}
